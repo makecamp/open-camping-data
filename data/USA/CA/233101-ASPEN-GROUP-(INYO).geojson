@@ -1,0 +1,89 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.71194444444444,
+      37.52361111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.71194444444444,
+    "FacilityDescription": "<h2>Overview</h2>Aspen Group Campground is a secluded, creek side camp in Inyo National Forest between Mammoth Lakes and Bishop, California. The group camping area is primitive and provides spectacular scenery, as well as fishing, hiking, photography and wildlife viewing.<br /><br />The campground has plenty of wide-open spaces and group picnic areas, making it ideal for large parties and family functions.<h4>Natural Features:</h4>The campground sits in a stand of rustling aspen trees that shimmer golden in fall. Situated at an elevation of 8,100 feet, Aspen offers views of massive peaks to the west and surrounding steep canyons. <br /><br />The group site is adjacent to the clear, cold and cascading Rock Creek, which originates in the John Muir Wilderness and runs for 22 miles through the bottom of Rock Creek Canyon.<br /><br />The area is home to abundant wildlife, including black bear, mountain lions, mule deer, pine martin, marmot and many species of fish and birds.<h4>Recreation:</h4>Rock Creek and other waterways in the eastern Sierra Nevada Mountains are known for their exceptional trout fishing. A catch from the creek may include brook, brown, rainbow and stocked Alpers trout, while anglers may be treated to golden trout in the backcountry.<br /><br />Hikers can explore the area&rsquo;s majestic scenery on trails that meander around high-elevation alpine lakes. Several non-wilderness trails that range from easy to challenging, are a draw for mountain bikers in and around Rock Creek Canyon.<h4>Facilities:</h4>The group camping area can be reserved for up to 25 guests. It provides flush toilets and drinking water, as well as ample space for RVs and tents. <h4>Nearby Attractions:</h4>A commercial pack station is within close proximity for horse enthusiasts looking for an outdoor adventure. Several general stores, restaurants, and pay showers are available at nearby resorts.",
+    "FacilityLatitude": 37.52361111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "760-935-4321",
+    "FacilityDirections": "From Bishop, California, take Highway 395 northwest for 25 miles. Turn south at Toms Place, and continue driving south for 4 miles onto Rock Creek Road, following signs to the campground.",
+    "FacilityName": "ASPEN GROUP (INYO)",
+    "LastUpdatedDate": "2015-03-12 02:20:23",
+    "LegacyFacilityID": 71938,
+    "OrgFacilityID": "AN371938",
+    "FacilityID": 233101,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 89366,
+        "CampsiteName": 1,
+        "Loop": "AREA ASPEN GROUP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233101,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031112,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "INYO",
+      "FacilityID": 233101,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

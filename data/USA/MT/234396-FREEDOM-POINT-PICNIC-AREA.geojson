@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.46666666666667,
+      46.14833333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.46666666666667,
+    "FacilityDescription": "<h2>Overview</h2>Freedom Point is part of Sheepshead Mountain Recreation Area within Montanas Beaverhead-Deerlodge National Forest. It provides a picturesque location for weddings, receptions, large family gatherings and group picnics.<h4>Natural Features:</h4>The area is situated in an expanse of grassy meadows and sagebrush, with several streams and a small lake, all surrounded by a dense lodgepole pine forest. <h4>Recreation:</h4>Freedom Point is known for its pleasant picnicking amenities for large groups. Hiking, fishing and simply enjoying nature are the most popular activities. A walkable wildlife trail provides access to Maney Lake, a small lake open to fishing. Motorized boats are not allowed on the lake. A variety of play areas, including volleyball courts, softball and baseball fields and a playground, are also available.<h4>Facilities:</h4>Freedom Point can accommodate up to 75 people. The accessible picnic shelter is equipped with picnic tables, grills and a large fireplace. Additional tables and grills are scattered outside the shelter. Accessible vault toilets and drinking water are provided.<h4>Nearby Attractions:</h4>The city of Butte is about 19 miles from the picnic area, with a variety of services.",
+    "FacilityLatitude": 46.14833333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-494-0246",
+    "FacilityDirections": "From Butte, take I-15 north about 13 miles to the Elk Park Exit. Turn right off the ramp and go under the overpass to Forest Road 442 and continue driving for 6 miles. The Sheepshead Recreation Area is on your right. Freedom Point is the first entrance on your right.",
+    "FacilityName": "FREEDOM POINT PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75261,
+    "OrgFacilityID": "AN375261",
+    "FacilityID": 234396,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:41:14",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 64816,
+        "CampsiteName": 1,
+        "Loop": "AREA FREEDOM POINT PICNIC AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234396,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032425,
+      "PostalCode": 59701,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "1820 Meadowlark Lane",
+      "City": "BUTTE",
+      "FacilityID": 234396,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

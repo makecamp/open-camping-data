@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.42277777777778,
+      35.21416666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.42277777777778,
+    "FacilityDescription": "<h2>Overview</h2>Nine Mile Picnic Area is one of several picnic areas in the scenic Sandia Range within close proximity to Albuquerque, making it a popular place for visitors to enjoy a getaway in nature. The surrounding forest and mountains provide a beautiful location for sightseeing and outdoor recreation.<h4>Natural Features:</h4>The picnic area is located just above the base of Sandia Peak Ski Area, about 25 miles from Albuquerque at an altitude of 9,200 feet. Aspen and fir trees tower over the picnic site, providing shade and habitat for birds.<br /><br />The Sandias are home to Rocky Mountain bighorn sheep, mule deer, black bear and many other species of wildlife and birds, including golden eagles often seen soaring at the crest.<h4>Recreation:</h4>The picnic area lies along the Sandia Crest Scenic Byway, which travels 13.6 miles into the Sandia Mountains. It is a popular path for motorcyclists, with its miles of winding road to the summit.<br /><br />Day hikes are available along many trails in the surrounding area, including to La Madera Canyon Overlook, which offers views of South Mountain.<br /><br />Sandia Peak Ski Area offers a tram to 10,678 Sandia Crest, which gives visitors a different vantage point from which to view the surrounding range and valleys. It provides a panoramic view of Albuquerque and the Rio Grande Valley below. Sunsets are spectacular, as are night views of the city lights and starry skies.<h4>Facilities:</h4>The accessible picnic area can accommodate up to 50 people and is equipped with multiple picnic tables. Accessible vault toilets are provided. Water is not available at the site, is firewood or charcoal. <h4>Nearby Attractions:</h4>The rock walls and pinnacles on the west side of the Sandia Range provide abundant rock climbing opportunities. The terrain also provides numerous launching spots for hang gliding, which is popular during summer months.",
+    "FacilityLatitude": 35.21416666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Albuquerque, drive east approximately 7 miles on I-40 to Exit 175. Continue north on Highway 14 for another 7 miles to Highway 536. Go west on Highway 536 for approximately 11 miles to the picnic area.",
+    "FacilityName": "NINE MILE PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75376,
+    "OrgFacilityID": "AN375376",
+    "FacilityID": 234492,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:12:27",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:48:17",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 40417,
+        "CampsiteName": 1,
+        "Loop": "NINE MILE",
+        "CampsiteAccessible": true,
+        "FacilityID": 234492,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032520,
+      "PostalCode": 87059,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "11776 HWY 337",
+      "City": "TIJERAS",
+      "FacilityID": 234492,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

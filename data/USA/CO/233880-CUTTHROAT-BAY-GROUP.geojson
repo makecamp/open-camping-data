@@ -1,0 +1,149 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.87362222222221,
+      40.19139722222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.87362222222221,
+    "FacilityDescription": "<h2>Overview</h2>Cutthroat Bay Group Campground is located on Lake Granby, six miles southeast of Grand Lake in north central Colorado. Visitors enjoy the area for its great boating, fishing and hiking opportunities.<h4>Natural Features:</h4>The campground is situated on the northern shore of Lake Granby, at an elevation of 8,300 feet. Afternoon thunderstorms should be expected during the summer months.<br /><br />Due to the mountain pine beetle infestation and consequent removal of hazardous trees, the campground provides no natural shade. <h4>Recreation:</h4>Lake Granby is part of the Arapaho National Recreation Area. It offers boating, sailing, swimming and fishing. Anglers cast for kokanee salmon and rainbow, brown, mackinaw and cutthroat trout. A boat ramp and dock are located nearby. National Fishing Week is held annually the first week of June. <br /><br />Numerous hiking, biking and horseback riding trails are located within the Arapaho National Recreation Area, including the East Shore Trail (which is part of the Continental Divide National Scenic Trail), AA Barn Loop Trail, Roaring Fork Trail and Monarch Lake Trail.<h4>Facilities:</h4>The campground offers two accessible group campsites that accommodate up to 30 people each. Each site is equipped with a picnic shelter, tables, a campfire circle and 12 tent pads. <br /><br />Vault toilets and drinking water are provided. A volleyball court and horseshoe pits are also available at the campground.<h4>Nearby Attractions:</h4>Rocky Mountain National Parks west entrance is located north of Grand Lake. With lush valleys and craggy peaks reaching elevations higher than 14,000 feet, visitors are provided opportunities for countless breathtaking experiences and adventures. Scenic driving, hiking, backpacking, fishing, horseback riding and wildlife viewing are popular activities enjoyed at the park.",
+    "FacilityLatitude": 40.19139722222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "970-887-4100",
+    "FacilityDirections": "From the intersection of U.S. Highways 40 and 34 in Granby, head north on Highway 34 for approximately 9 miles. Campground is on east side of the highway.",
+    "FacilityName": "CUTTHROAT BAY GROUP",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73805,
+    "OrgFacilityID": "AN373805",
+    "FacilityID": 233880,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 59605,
+        "CampsiteName": "B01",
+        "Loop": "B",
+        "CampsiteAccessible": true,
+        "FacilityID": 233880,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 59828,
+        "CampsiteName": "A01",
+        "Loop": "A",
+        "CampsiteAccessible": true,
+        "FacilityID": 233880,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031901,
+      "PostalCode": 80446,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "COUNTY ROAD 64",
+      "City": "GRANBY",
+      "FacilityID": 233880,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

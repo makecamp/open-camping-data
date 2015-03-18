@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.85027777777778,
+      40.85138888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.85027777777778,
+    "FacilityDescription": "<h2>Overview</h2>Stoney Group Campground is nestled on the banks of Stoney Creek on the Stuart Fork Arm of Trinity Lake. This group camp can accommodate up to 60 people with tents. The sites are given some shade from tall trees, and two popular recreation areas on Trinity Lake are located nearby.  <h4>Natural Features:</h4>Trinity Lake sits at an elevation of 2,370 feet and is surrounded by the Trinity Alps. Black bears are frequently spotted in the area, as well as bobcats, mountain lions and a variety of bird species. <br /><br />Shasta-Trinity is the largest national forest in California with a diverse landscape encompassing five wilderness areas, hundreds of mountain lakes and 6,278 miles of streams and rivers.<h4>Recreation:</h4>The campground is adjacent to the popular Stoney Creek Swim Area, which offers a beach and picnic tables. A boat ramp and marina are located less than a mile away.<br /><br />  Popular activities in the area include power and non-motorized boating, fishing and water skiing. Anglers can cast for catfish, as well as a variety of bass, trout and salmon.<h4>Facilities:</h4>The sites have no spurs for trailer camping, but the parking lot can accommodate up to 3 RVs. There are flush toilets, drinking water, group pedestal grill, fire ring, several tables and bear-proof food lockers.<h4>Nearby Attractions:</h4>The nearby town of Weaverville is listed on the National Register of Historic Places. The former mining town offers restaurants, shopping and self-guided walking tours.",
+    "FacilityLatitude": 40.85138888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-275-8113",
+    "FacilityDirections": "From I-5 in Redding, California, take 299 west to Weaverville.  Go north on State Highway 3 for 14 miles. The campground is on the left.",
+    "FacilityName": "STONEY GROUP SHASTA-TRINITY",
+    "LastUpdatedDate": "2015-03-12 02:08:37",
+    "LegacyFacilityID": 70753,
+    "OrgFacilityID": "AN370753",
+    "FacilityID": 232362,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:50",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 86882,
+        "CampsiteName": 1,
+        "Loop": "STON",
+        "CampsiteAccessible": false,
+        "FacilityID": 232362,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030380,
+      "PostalCode": 96019,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "14538 Wonderland Blvd",
+      "City": "Redding",
+      "FacilityID": 232362,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

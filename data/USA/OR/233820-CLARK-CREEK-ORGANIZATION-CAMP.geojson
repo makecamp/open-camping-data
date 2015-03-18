@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.58222222222221,
+      43.97361111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.58222222222221,
+    "FacilityDescription": "<h2>Overview</h2>Clark Creek, located 12 miles northeast of Lowell, Oregon, is a fantastic group campground built by the Civilian Conservation Corps. It features five sleeping structures with platform sleeping bunks, plus a large field to pitch tents, play baseball and volleyball or throw a Frisbee.<br /><br />Several hiking and biking trails, swimming areas and open fields offer fun opportunities for large groups with varied interests.<h4>Natural Features:</h4>Clark Creek runs through the campground and connects with Big Fall Creek in the Willamette Valley. Willamette National Forest spans 1.6 million acres on the western slopes of the Cascade Mountains.<h4>Recreation:</h4>The campground offers a baseball field, volleyball court and horseshoe pits. A few footpaths meander through the recreation area. One connects the sleeping shelters to Big Falls Creek and another links to the Ta-Wa-Si Chapel.<br /><br />The Fall Creek Trail Area is worth exploring, including the Clark Creek Nature Trail, a loop with interpretive signs that help hikers identify plants.<h4>Facilities:</h4>The day-use area and sleeping shelters, which have eight bunks each, are separated by Clark Creek. Access is over a foot bridge. Up to 125 guests can make use of the group area during the day time, but only 80 guests are allowed to camp overnight.<br /><br />Five sleeping shelters, vault toilets, drinking water, a picnic shelter, campfire circles and an amphitheater are included. Campers can pitch tents in the field as well.",
+    "FacilityLatitude": 43.97361111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-226-3564",
+    "FacilityDirections": "From I-5 south of Eugene, take State Highway 58, east exit. Travel on Highway 58 for 25 miles to the town of Lowell. Take Big Fall Creek Road east 10 miles to the campground.",
+    "FacilityName": "CLARK CREEK ORGANIZATION CAMP",
+    "LastUpdatedDate": "2015-03-12 02:31:17",
+    "LegacyFacilityID": 73723,
+    "OrgFacilityID": "AN373723",
+    "FacilityID": 233820,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:27:47",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 79782,
+        "CampsiteName": "CLAROR",
+        "Loop": "AREA CLARK CREEK ORGANIZATION CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233820,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 80,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031841,
+      "AddressStateCode": "OR",
+      "FacilityID": 233820,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

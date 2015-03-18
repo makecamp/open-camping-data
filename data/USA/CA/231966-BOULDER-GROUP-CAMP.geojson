@@ -1,0 +1,109 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.37805555555555,
+      41.32638888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.37805555555555,
+    "FacilityDescription": "<h2>Overview</h2>Boulder Group Campground is a great place to bring an extended family or large group for a relaxing camping excursion. Its convenient location provides access to all of the areas greatest recreation opportunities and lets campers relax and enjoy nature in the pine-covered mountains of Southern California.<h4>Natural Features:</h4>The group campground is located in the San Bernardino National Forest, south of Big Bear Lake. It is accessed via a dirt road, just off the main highway through the area. The campground is situated in a somewhat secluded stand of mature conifers, which provide much shade.<h4>Recreation:</h4>The campground provides access to a variety of hiking and mountain biking trails, including the Seven Oaks Trail, which is west of Big Bear Lake Village. The 30-year-old trail is overgrown in some areas, but leads to spectacular views of San Gorgonio Peak, the highest point in Southern California.<br /><br />Fishing, boating and swimming at Big Bear Lake are popular activities. Anglers can look forward to trout, bluegill, crappie, catfish and largemouth bass, among other fish.<h4>Facilities:</h4>The campground offers one large group site for tent and RV camping. It can accommodate up to 40 people and eight vehicles. The site is equipped with picnic tables, grills and a campfire circle. Vault toilets are provided, but drinking water is not available and there are no trash collection services at the campground.<h4>Nearby Attractions:</h4>The Big Bear Discovery Center is located about 10 miles from the campground. It provides a variety information about the area, a gift shop, accessible educational programs and restroom facilities. An interpretive trail is available near the center.",
+    "FacilityLatitude": 41.32638888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "909-866-8550",
+    "FacilityDirections": "From San Bernardino, take I-10 east to Running Springs. Continue on Highway 18 to Big Bear Lake Dam, but do not cross the dam. Go 3 miles and turn right on Tulip Lane. Turn right on Mill Creek Road (Forest Road 2N10) and continue about 2 miles. Turn on Forest Road 2N10B and travel a short distance to the campground.",
+    "FacilityName": "BOULDER GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70170,
+    "OrgFacilityID": "AN370170",
+    "FacilityID": 231966,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 67300,
+        "CampsiteName": 1,
+        "Loop": "BOUL",
+        "CampsiteAccessible": false,
+        "FacilityID": 231966,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029984,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "SAN BERNARDINO",
+      "FacilityID": 231966,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

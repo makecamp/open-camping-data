@@ -1,0 +1,99 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.27444444444444,
+      38.733333333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -89.27444444444444,
+    "FacilityDescription": "<h2>Overview</h2>Keyesport Recreation Area is situated on the western shore of Carlyle Lake, a prime getaway for city-dwellers and families. Located 50 miles east of St. Louis, the area offers the peaceful retreat of small towns combined with the grandeur of Illinois largest man-made lake.<h4>Natural Features:</h4>Created in 1967, the 26,000-acre lake is recognized as one of the nations top ten inland sailing lakes and hosts several annual races and regattas. <br /><br />Carlyle Lake is home to an array of wildlife that can be seen throughout the year. Its waters and shores are a resting spot for migratory waterfowl and other birds. There are six established Watchable Wildlife Sites with viewing towers open to the public around the lake.<h4>Recreation:</h4>The area provides fun both on the water and on shore. Boat ramps and courtesy docks are provided, and the vast lake allows for plenty of water sports.<br /><br />Fishing is a popular pastime, and white bass, bluegill, crappie, channel catfish, largemouth bass, freshwater drum, carp, flathead catfish and walleye can be found in abundance. <br /><br />There is an on-site playground and plenty of open space for children to play in, as well as an amphitheater for educational programs. A multi-use biking and walking trail is located a short drive away at the dam.<h4>Facilities:</h4>Keyesport provides one reservable group picnic shelter that can accommodate up to 75 people. Boaters have the convenience of a marina, boat ramp and fish cleaning station. Families can enjoy a nice swimming beach and playground.<h4>Nearby Attractions:</h4>Carlyle Lake Visitor Center, located in the Dam West Recreation Area, has information, a gift shop and nature exhibits, including a 215-gallon aquarium with native fish and a display featuring a live massasauga rattlesnake.",
+    "FacilityLatitude": 38.733333333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "618-594-5253",
+    "FacilityDirections": "From I-70, take State Route 127 south for 10 miles. Turn east on Clinton Road, continue east for four miles to the town of Keyesport, then follow signs to the recreation area.",
+    "FacilityName": "KEYESPORT REC. AREA",
+    "LastUpdatedDate": "2015-03-12 02:27:23",
+    "LegacyFacilityID": 73235,
+    "OrgFacilityID": "AN373235",
+    "FacilityID": 233528,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 43352,
+        "CampsiteName": 1,
+        "Loop": "KEYESPORT DAY USE",
+        "CampsiteAccessible": false,
+        "FacilityID": 233528,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031551,
+      "PostalCode": "62231-9703",
+      "AddressStateCode": "IL",
+      "FacilityStreetAddress1": "801 LAKE ROAD",
+      "City": "CARLYLE",
+      "FacilityID": 233528,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

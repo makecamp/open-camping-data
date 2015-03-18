@@ -1,0 +1,957 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.53999999999999,
+      45.29
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.53999999999999,
+    "FacilityDescription": "<h2>Overview</h2>Snowbank Campground is located on the banks of Mill Creek, approximately 29 miles south of Livingston, in southwestern Montana. Visitors enjoy the area for its scenic natural beauty, and fishing and trail opportunities.<h4>Natural Features:</h4>The campground is situated along Mill Creek near the western edge of the Absaroka-Beartooth Wilderness, where a scenic forest of mature spruce and fir trees covers the area. Thimbleberry and raspberry bushes dot the forest floor. <h4>Recreation:</h4>Mill Creek offers anglers the opportunity to fish for whitefish, rainbow, brown and cutthroat trout. <br><br>A number of hiking trailheads near the campground offer wilderness access, climbing into the Absaroka Range. The 6.3-mile Wicked Ridge Trail begins just outside the campground entrance. Off-road vehicle and bike trails also crisscross the area around Snowbank.<h4>Facilities:</h4>The campground offers one group campsite that can accommodate up to 40 people. Single-family sites are also available. Picnic tables and campfire rings are provided, as are vault toilets, drinking water and trash collection.",
+    "FacilityLatitude": 45.29,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "877-646-1012",
+    "FacilityDirections": "From Livingston, travel south on Highway 89 for 16 miles to the Mill Creek Road/Forest Road 486 (Pray turnoff). Turn left (east) onto Mill Creek Road, cross the East River Road (Highway 540) and continue east for 11 miles to the campground.<br><br>From Gardiner, take Highway 89 north for 36 miles to the Mill Creek Road/Forest Road 486 (Pray turnoff). Turn right (west) onto Mill Creek Road, cross the East River Road (Highway 540) and continue east for 11 miles to the campground.",
+    "FacilityName": "SNOWBANK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:33:37",
+    "LegacyFacilityID": 73863,
+    "OrgFacilityID": "AN373863",
+    "FacilityID": 233930,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83050,
+        "CampsiteName": 7,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 21,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83140,
+        "CampsiteName": 3,
+        "Loop": "A",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 83181,
+        "CampsiteName": 12,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": 32,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83233,
+        "CampsiteName": 4,
+        "Loop": "A",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83240,
+        "CampsiteName": 9,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83291,
+        "CampsiteName": 10,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83373,
+        "CampsiteName": 6,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83389,
+        "CampsiteName": 8,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 21,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83587,
+        "CampsiteName": 5,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83600,
+        "CampsiteName": 11,
+        "Loop": "B",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 27,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 83874,
+        "CampsiteName": 2,
+        "Loop": "A",
+        "CampsiteAccessible": false,
+        "FacilityID": 233930,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:01 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 27,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031951,
+      "PostalCode": 59047,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "1166 MILL CREEK ROAD",
+      "City": "LIVINGSTON",
+      "FacilityID": 233930,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

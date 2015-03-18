@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.17361111111111,
+      44.33222222222223
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.17361111111111,
+    "FacilityDescription": "<h2>Overview</h2>Eastside Campground is located on the shores of scenic Sagehen Reservoir at an elevation of 4,800 feet. Visitors enjoy boating, fishing and exploring the Sagehen Reservoir Trail.<br /><p><iframe width=385 height=242 src=http://www.youtube.com/embed/mql-QSswlvU?feature=player_embedded scrolling=no frameborder=0  style=border: 0px none transparent;> </iframe> </p><h4>Natural Features:</h4>The campground is situated in a forest of towering Ponderosa pine, Engelmann spruce, Douglas fir and grand fir. Most sites have plentiful shade. Summer temperatures range from 80 to 90-degree days to cooler nights. <br /><br />A variety of berries and mushrooms can be found throughout the area. Local wildlife includes deer, elk, black bear, goshawk, woodpeckers and boreal owls.<h4>Recreation:</h4>Sagehen Reservoir offers great boating, canoeing and rainbow trout fishing.  Boat ramps and docks are located nearby at both Antelope and Sagehen Creek Campgrounds.<br /><br />Hiking, biking, horse and ATV trails are abundant in the area. The Sagehen Reservoir Trail, a 4-mile loop around the lake, offers great fishing spots, beautiful viewpoints and wildlife watching opportunities for hikers, mountain bikers and horseback riders.<br /><br />The Sagehen and KYAOTT ATV Trail Systems can be accessed near the reservoir, offering more than 35 miles of trails for ATVs and motorcycles, but hikers, mountain bikers and horseback riders can enjoy these trails as well.<h4>Facilities:</h4>The campground is made up of several single sites and one reservable, accessible group site that can accommodate up to 50 people and 10 vehicles. <br /><br />Most of the campsites afford partial lake views. Picnic tables, campfire rings, a vault toilet and hand-pumped drinking water are provided.<br /><br />A campground host is located at nearby Antelope Campground, where firewood can be purchased.",
+    "FacilityLatitude": 44.33222222222223,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-365-7004",
+    "FacilityDirections": "From Horseshoe Bend, Idaho, take Highway 52 for 9 miles west to the junction with the Sweet/Ola Highway. Turn north and travel 16 miles to Ola, Idaho. Travel north through Ola and follow the signs another 18 miles to Sagehen Reservoir. The paved road turns to gravel a few miles north of Ola.",
+    "FacilityName": "EASTSIDE",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70262,
+    "OrgFacilityID": "AN370262",
+    "FacilityID": 232041,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:16:19",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:25:06",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 12424,
+        "CampsiteName": 1,
+        "Loop": "EAST",
+        "CampsiteAccessible": true,
+        "FacilityID": 232041,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Triple",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030059,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "BOISE",
+      "City": "BOISE",
+      "FacilityID": 232041,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

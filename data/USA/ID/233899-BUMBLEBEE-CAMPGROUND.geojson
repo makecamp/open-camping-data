@@ -1,0 +1,810 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.27944444444444,
+      47.63333333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.27944444444444,
+    "FacilityDescription": "<h2>Overview</h2>Bumblebee Campground is nestled in a dense forest near the Little North Fork Coeur DAlene River, making it a perfect fishing and seasonal hunting base camp. Swimming and floating the river are popular activities as well. <h4>Natural Features:</h4>The campground sits next to Bumblebee Creek near the Little North Fork Coeur DAlene River at an elevation of 2,200 feet.<br /><br />Coeur dAlene National Forest spans 726,819 acres and is one of three forests comprising the Idaho Panhandle National Forests. The majority of Idahos waters are located in this northern region.<h4>Recreation:</h4>Bumblebees creekside location creates easy access for floating, swimming and wading. Trout fishing is available about a half-mile from the campground in the Little North Fork of Coeur dAlene River. Rainbow and cutthroat trout are the most common catches.<br /><br />About 15 miles from the campground is the 803 Motorized Trail System, which provides dedicated off-road trails and open roads in the Steamboat Creek area.<h4>Facilities:</h4>Bumblebee is comprised of two loops, each with vault toilets and hand-pumped drinking water. Roads are paved and campsite parking spurs are sealed gravel.<br /><br />Several single-family campsites are available. A group site can accommodate up to 100 people.<h4>Nearby Attractions:</h4>The town of Coeur dAlene is a delightful place to explore. Visitors can go paddle boating or parasailing on Lake Coeur dAlene, or even take a trip around the lake on a seaplane. A variety of shops and restaurants are available.",
+    "FacilityLatitude": 47.63333333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-664-2318",
+    "FacilityDirections": "Take the Kingston Exit off Interstate 90 and take Forest Road 9 North for 5.4 miles. Turn left onto Bumblebee cutoff and head 3 miles to the campground sign at the junction with Forest Road 796. Turn right onto Forest Road 796 and go 0.1 miles to the campground. Single sites are on the loop to the right and the group site is the loop on the left.",
+    "FacilityName": "BUMBLEBEE CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "LegacyFacilityID": 73828,
+    "OrgFacilityID": "AN373828",
+    "FacilityID": 233899,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84033,
+        "CampsiteName": 19,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84076,
+        "CampsiteName": 9,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84078,
+        "CampsiteName": 24,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84080,
+        "CampsiteName": 20,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84120,
+        "CampsiteName": 10,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84191,
+        "CampsiteName": 16,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84210,
+        "CampsiteName": 4,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84212,
+        "CampsiteName": 21,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84245,
+        "CampsiteName": 25,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84250,
+        "CampsiteName": 2,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84273,
+        "CampsiteName": 22,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84414,
+        "CampsiteName": 11,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84538,
+        "CampsiteName": 5,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84546,
+        "CampsiteName": 14,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84551,
+        "CampsiteName": 7,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84597,
+        "CampsiteName": 13,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84662,
+        "CampsiteName": 17,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84737,
+        "CampsiteName": 6,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84808,
+        "CampsiteName": 8,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84823,
+        "CampsiteName": 15,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84845,
+        "CampsiteName": 3,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 84870,
+        "CampsiteName": 1,
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84919,
+        "CampsiteName": 18,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 84981,
+        "CampsiteName": 23,
+        "Loop": "SOUTH LOOP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233899,
+        "attributes": [
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031920,
+      "PostalCode": 83873,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "26290 CDA RIVER ROAD",
+      "City": "WALLACE",
+      "FacilityID": 233899,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

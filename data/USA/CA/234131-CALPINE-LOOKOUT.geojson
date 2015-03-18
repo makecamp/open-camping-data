@@ -1,0 +1,78 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.46222222222222,
+      39.678888888888885
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.46222222222222,
+    "FacilityDescription": "<h2>Overview</h2>Calpine is a forest fire lookout tower that was constructed in 1934 by the Civilian Conservation Corps, and is one of three remaining examples of the enclosed windmill-style lookout in California. The lookout was actively used every summer until 1975. It is a three-story structure with external stairs. The top room or observation cab is the only rented space at this time. <br /><br />Calpine sits at an elevation of 5,980 feet in the Sierra Nevada Mountains of Tahoe National Forest, approximately 40 miles from Truckee, California. The lookout is ideally suited for over-the-snow ski or snowmobile access.<br /><br />The lookout does not have electricity or water. It contains propane-powered appliances. <h4>Natural Features:</h4>The lookout tower sits on a hill in the western foothills of the Sierra Nevada, within 15 miles of Sand Pond and Gold Lake. Wildlife is abundant in the area.<h4>Recreation:</h4>Hiking and mountain biking trails are within 15 miles of the lookout. The Pacific Crest Trail can be accessed approximately 20 miles away.<br /><br />For outings on the water, Gold Lake is northwest of the lookout, and Sand Pond is west of Calpine.<h4>Facilities:</h4>The interior of the cab measures 14 by 14 and currently has two single beds, a dry sink, a table and four chairs, three propane lights, a propane heater, a propane stove/oven and a fire finder. A limited assortment of cooking utensils, pots and pans is provided.<br /><br />An accessible pit toilet and a picnic table and fire ring are located outside the lookout. Firewood is not provided.<br /><br />Visitors must bring their own bedding, toilet paper and other personal items.",
+    "FacilityLatitude": 39.678888888888885,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Sierraville, head north on State Highway 89 for 9 miles to thetown of Calpine. Look for a sign on the left side of the road, 1.5 milespast Calpine. Once past the gate, continue another 1.5 miles to the lookout.",
+    "FacilityName": "CALPINE LOOKOUT",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "LegacyFacilityID": 74158,
+    "OrgFacilityID": "AN374158",
+    "FacilityID": 234131,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 61117,
+        "CampsiteName": 1,
+        "Loop": "AREA CALPINE C.O.",
+        "CampsiteAccessible": false,
+        "FacilityID": 234131,
+        "attributes": [
+          {
+            "AttributeValue": "4:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Cabin Heating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032150,
+      "PostalCode": 96126,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "317 S. LINCOLN",
+      "City": "SIERRAVILLE",
+      "FacilityID": 234131,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.65055555555556,
+      29.098055555555554
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -81.65055555555556,
+    "FacilityDescription": "<h2>Overview</h2>Buck Lake is a group camping facility in the heart of Ocala National Forest in Florida. Great for family reunions and social gatherings, the campground can host a group of up to 50 guests along the shores of Buck Lake. <br /><br />Activities include fishing, boating, picnicking, hiking and simply relaxing and enjoying the breeze.<h4>Natural Features:</h4>Located in north central Florida, the Ocala National Forest spans four counties and 383,000 acres. It is the southernmost and oldest national forest east of the Mississippi River and protects the worlds largest contiguous sand pine scrub forest.<br /><br />The forest is also rich in water resources with more than 600 lakes, rivers and springs, several of which are near Buck Lake. <h4>Recreation:</h4>The sandy swimming beach provides a great place to relax and picnic. Campers have access to Buck Lake to enjoy fishing for panfish, bass and crappie, as well as boating. <br /><br />Hikers can access a segment of the 1,400-mile Florida Trail via a scenic trail that loops around the lake for 1.7 miles.<h4>Facilities:</h4>This campground provides primitive camping for groups. Amenities include a vault toilet, a hand pump for drinking water, six picnic tables and a group campfire ring. Group get exclusive use of the facility during the reservation.<h4>Nearby Attractions:</h4>Buck Lake is near the beautiful, turquoise waters of Alexander Springs Recreation Area, where visitors can swim, dive and snorkel in a warm, spring-fed lake and canoe on a 7-mile run.",
+    "FacilityLatitude": 29.098055555555554,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "352-625-2520",
+    "FacilityDirections": "From I-75 in Ocala, Florida, travel east on State Route 40. Turn onto State Route 19 south, then turn right onto Forest Road 595-2 and travel for approximately 4 miles. Buck Lake Group Camp will be on the left.",
+    "FacilityName": "BUCK LAKE GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:20:23",
+    "LegacyFacilityID": 72005,
+    "OrgFacilityID": "AN372005",
+    "FacilityID": 233122,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:17:43",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 76289,
+        "CampsiteName": 1,
+        "Loop": "BUCK LAKE GROUP CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233122,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031133,
+      "PostalCode": 34488,
+      "AddressStateCode": "FL",
+      "City": "Umatilla",
+      "FacilityID": 233122,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

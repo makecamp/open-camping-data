@@ -1,0 +1,92 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.3625,
+      38.87916666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.3625,
+    "FacilityDescription": "<h2>Overview</h2>Big Silver Group Campground offers tent and RV camping for up to 50 guests. The campground is located 23 miles east of Placerville on Highway 50 and 16 miles north on Ice House Road, east of nearby Union Valley Reservoir.<h4>Natural Features:</h4>Big Silver Group Campground is situated alongside Big Silver Creek where it pours into Union Valley Reservoir. Much of the campground is flat and shaded by a Ponderosa pine forest. Gentle to moderate slopes lead to the creek and walk-in campsites. Union Valley Reservoir is a 5-minute bike ride from the campground.<h4>Recreation:</h4>Visitors may enjoy forest-lined scenic views and recreation opportunities, such as, hiking, fishing, biking, wildlife viewing and migratory bird spotting. The campground has immediate access to the Union Valley Bike Trail; an easy 5.8 mile, two-lane bikeway with a few short, steep grades.<h4>Facilities:</h4><p>The campground consists of three easy access tent camp units; four easy access tent, trailer or RV units; and three walk-in camp units. A group kitchen area includes multiple tables and grills, as well as a campfire circle. Accessible vault toilets and trash collection are provided.</p><p>There is no piped water or electricity available at the campground. Campers must bring water from home, or be prepared to sterilize stream water. Stream water is available close by, but should be boiled or chemically treated before using.</p> <p>A convenience store with a restaurant, gas and phone is within 10 miles, south on Ice House Road. The nearest town is Pollock Pines, approximately 25 miles away.</p>",
+    "FacilityLatitude": 38.87916666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-647-5415",
+    "FacilityDirections": "From Highway 50, turn north onto the Ice House Riverton Road and continue 18 miles. After crossing Big Silver bridge turn left into campground entrance.",
+    "FacilityName": "BIG SILVER GROUP",
+    "LastUpdatedDate": "2015-03-12 02:30:29",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73627,
+    "OrgFacilityID": "AN373627",
+    "FacilityID": 233768,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:10:01",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 67987,
+        "CampsiteName": 1,
+        "Loop": "AREA BIG SILVER GROUP",
+        "CampsiteAccessible": true,
+        "FacilityID": 233768,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031789,
+      "PostalCode": 95726,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "7887 HWY 50",
+      "City": "POLLOCK PINES",
+      "FacilityID": 233768,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

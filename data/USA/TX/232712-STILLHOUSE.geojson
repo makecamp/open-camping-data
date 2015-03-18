@@ -1,0 +1,220 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.53444444444445,
+      31.03666666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -97.53444444444445,
+    "FacilityDescription": "<h2>Overview</h2>Stillhouse Park is a day use area that has two reservable group pavilions along the shore of Stillhouse Hollow Lake in central Texas. With activities such as picnicking, swimming, basketball and fishing, the park is popular for family gatherings and other large group events.<br /><br />Stillhouse Hollow Lake was created by the U.S. Army Corps of Engineers with the construction of Stillhouse Hollow Dam in 1968. The 6,430-acre lake is located 16 miles upstream of the confluence of the Lampasas and Leon Rivers, which flow into the Little River. <h4>Natural Features:</h4>Aside from the park and two nearby campgrounds, very little of the lakeshore is developed. It has rocky beaches and sandy bluffs along the edges, and much of it is forested. <br /><br />Stillhouse Park has grassy, open areas interspersed with trees. The lake has noticeably clear and deep water inhabited by largemouth bass, smallmouth bass and channel catfish. <br /><br />A man-made wetland was constructed on the south shore of the lake, providing an additional 10 acres of wildlife habitat in the lake area.<h4>Recreation:</h4>With 58 miles of shoreline, Stillhouse Hollow Lake is an often uncrowded haven for boaters and fishermen. Those who do not have motor boats, canoes or kayaks can rent them nearby. <br /><br />A variety of land-based activities are also offered, such as volleyball, basketball and horseshoes. Birding is a favorite pastime for many visitors. Hawks, great blue herons, ducks, geese, many species of songbirds, bobwhite quail, Rio Grande turkey and even an occasional bald eagle visit the lake area, yielding year-round opportunities for bird sightings.<h4>Facilities:</h4>The lakes only marina and fuel dock are located within the park. There are two reservable group pavilions, Island View and Tear Drop, which can each hold up to 120 visitors. <br /><br />There are also nearly 40 individual picnic sites around the beach area, as well as a swimming beach and playground popular with families. <h4>Nearby Attractions:</h4>The nearby Village of Salado offers golf, art galleries and shopping, among other activities. <br /><br />Chalk Ridge Falls Environmental Learning Center is below the Stillhouse Hollow Lake Dam. The center has about five miles of hiking trails, including a one-mile nature trail along the Lampasas River, a spring-fed creek, a waterfall, bridges and several wildlife viewing points. <br /><br />Stillhouse Hollow Lake is located near the Fort Hood Army Base, which has several points of interest for the military buff.",
+    "FacilityLatitude": 31.03666666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "254-939-6741",
+    "FacilityDirections": "From Interstate 35 in Belton, Texas take State Highway 190 west to the Simmons Road exit. Exit and turn left under 190 onto Simmons Road. Proceed about three miles to the park.",
+    "FacilityName": "STILLHOUSE",
+    "LastUpdatedDate": "2015-03-12 02:14:05",
+    "LegacyFacilityID": 71435,
+    "OrgFacilityID": "AN371435",
+    "FacilityID": 232712,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:24:41",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:31:38",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 20707,
+        "CampsiteName": "ISLAND",
+        "Loop": "STILLHOUSE ",
+        "CampsiteAccessible": false,
+        "FacilityID": 232712,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 54,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:24:41",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:31:38",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 20708,
+        "CampsiteName": "TDP",
+        "Loop": "STILLHOUSE ",
+        "CampsiteAccessible": true,
+        "FacilityID": 232712,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 49,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 52,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030724,
+      "PostalCode": 76513,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "4050 Simmons Rd",
+      "City": "BELTON",
+      "FacilityID": 232712,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.80611111111111,
+      34.223333333333336
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.80611111111111,
+    "FacilityDescription": "<h2>Overview</h2>Green Spot Equestrian Group Campground provides access to a number of recreational activities in the area, namely horseback riding trails. The large campground gives campers and horses ample space to move around and enjoy the scenic surroundings.<h4>Natural Features:</h4>The campground is located in the San Bernardino Mountains at an elevation of 7,224 feet. It is situated in a pinyon pine and juniper forest carpeted with grassy meadows. The road to the campground is rough and rocky, suitable for four-wheel drive vehicles.<h4>Recreation:</h4>Visitors enjoy a variety of recreational opportunities, including fishing, boating and swimming at the nearby Big Bear Lake. Access to the Sugarloaf National Recreation Trail is also available near the campground. It is a fairly difficult trek to the highest point in Big Bear Valley, and a climb to an altitude of 9,952 feet.<h4>Facilities:</h4>The campground offers just one large group campsite that can accommodate up to 25 people and eight vehicles. The site is equipped with tables and campfire rings with grills. Vault toilets are provided, but drinking water and trash collection are not available. The campground offers five horse corrals that can hold up to 10 horses. Non-potable water is available for livestock. <h4>Nearby Attractions:</h4>The campground is approximately 45 minutes from San Bernardino.",
+    "FacilityLatitude": 34.223333333333336,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "909-866-8550",
+    "FacilityDirections": "From the Big Bear Ranger Station, turn left on Highway 38 and proceed 3 miles east to Greenway. Turn right and continue past the airport to the signal at Big Bear Boulevard. Turn right and continue on Highway 38 for almost 4 miles to Forest Route 2N93. Turn right on Forest Route 2N93 and continue a half-mile to the second dirt road on the left (not marked). Proceed up the road about 50 yards to the campground.",
+    "FacilityName": "GREEN SPOT EQUESTRIAN GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:08:37",
+    "LegacyFacilityID": 70697,
+    "OrgFacilityID": "AN370697",
+    "FacilityID": 232351,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:18:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 66922,
+        "CampsiteName": 1,
+        "Loop": "GREE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232351,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030369,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "SAN BERNARDINO",
+      "FacilityID": 232351,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

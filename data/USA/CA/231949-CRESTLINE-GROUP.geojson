@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.86472222222221,
+      33.312777777777775
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.86472222222221,
+    "FacilityDescription": "<h2>Overview</h2>Crestline Group Campground is a convenient place for large families, church groups and other social gatherings of up to 50 people. The facility is a popular recreation site for visitors going to the Palomar Observatory, a world-class center of astronomical research by the California Institute of Technology in north San Diego County. Hiking, biking and picnicking are available nearby.<h4>Natural Features:</h4>The campground sits at an elevation of 2,800 feet in the Palomar Mountains of Southern California. The site is forested but has plenty of open space for star gazing and playing. <h4>Recreation:</h4>The campground makes a good base camp for visiting the Palomar Observatory Visitor Center and Palomar Mountain State Park or exploring the surrounding forest. Day hiking, backpacking, biking, picnicking and scenic driving are available in the area.<h4>Facilities:</h4>The accessible site is equipped with several picnic tables in the campground and cooking area, as well as an accessible vault toilet. RVs with a maximum length of 27 feet can be accommodated.<h4>Nearby Attractions:</h4>The campground is adjacent to Palomar Mountain State Park and less than a two-hour drive from San Diego, California.",
+    "FacilityLatitude": 33.312777777777775,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From San Diego, California, follow U.S. Highway 15 north to State Highway 76. Proceed east to County Road S6. Take S6 north to the top of Palomar Mountain. Group campground is at the junction of County Roads S6 and S7.",
+    "FacilityName": "CRESTLINE GROUP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70147,
+    "OrgFacilityID": "AN370147",
+    "FacilityID": 231949,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 67236,
+        "CampsiteName": 1,
+        "Loop": "CRES",
+        "CampsiteAccessible": false,
+        "FacilityID": 231949,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029967,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "RAMONA",
+      "FacilityID": 231949,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

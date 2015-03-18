@@ -1,0 +1,131 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.05527777777777,
+      44.30611111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.05527777777777,
+    "FacilityDescription": "<h2>Overview</h2>Sheep Trail Campground is located at an elevation of 6,670 feet in a beautiful valley at the foot of the Sawtooth Mountain Range in central Idaho.<h4>Natural Features:</h4>Summer wildflowers are plentiful and a mixed stand of pines provides partial shade. A small creek runs next to the campground. Temperatures are cool, with an average summer high of 78 degrees and a low of 40 degrees.<h4>Recreation:</h4>Sheep Trail is situated in the Sawtooth National Recreation Area. A myriad of excellent hiking and biking opportunities are available, with an estimated 750 miles of trails crisscrossing the valley and surrounding mountains, including the nearby Idaho Centennial Trail.<br /><br />Expansive and scenic Elk Meadow is near the campground, providing a great location for bird and wildlife watching. <h4>Facilities:</h4>This small campground offers one group site that consists of four smaller sites. If the group site is not reserved, the individual sites are available on a first-come, first-served basis.<br /><br />Vault toilets area provided. The road to the site and the parking spur within are paved.<h4>Nearby Attractions:</h4>Numerous sparkling lakes and streams, including the Salmon River, dot the area, making for great rainbow and native Westslope cutthroat trout fishing. Stanley and Redfish Lakes are nearby, offering excellent boating, water skiing, canoeing, kayaking and fishing.<br /><br />Popular area events include an Arts and Crafts Fair in July, and Wagon Days, Salmon Festival, Quilt Fair and Firemans Ball in September.",
+    "FacilityLatitude": 44.30611111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-774-3000",
+    "FacilityDirections": "From Stanley, Idaho, take State Highway 21 west for approximately 10 miles. Turn south between mileposts 121 and 122. Take Forest Road 613 to Sheep Trail Campground, located adjacent to State Highway 21.",
+    "FacilityName": "SHEEP TRAIL CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:04:40",
+    "LegacyFacilityID": 70324,
+    "OrgFacilityID": "AN370324",
+    "FacilityID": 232097,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 59064,
+        "CampsiteName": "XXX2",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232097
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 59502,
+        "CampsiteName": 1,
+        "Loop": "SHEE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232097,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 59657,
+        "CampsiteName": "XXX1",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232097
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 59968,
+        "CampsiteName": "XXX3",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232097
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030115,
+      "PostalCode": 83278,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "STANLEY, IDAHO",
+      "FacilityID": 232097,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

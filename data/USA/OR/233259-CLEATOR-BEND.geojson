@@ -1,0 +1,62 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.99941944444444,
+      44.77798611111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -121.99941944444444,
+    "FacilityDescription": "<h2>Overview</h2>Cleator Bend Group Campground, located on a bend of the Breitenbush River, is a popular destination for river runners and camping lovers alike. The group area provides an ideal base camp for fishing, hiking, biking and more.<h4>Natural Features:</h4>The Breitenbush River is a tributary of the North Santiam River. The clean waters flow from short forks of snow melt in the Mount Jefferson Wilderness. The campground lies in the Willamette National Forest, which stretches 110 miles along the western slopes of the Cascade Range.<h4>Recreation:</h4>The river is a popular spot for wading, swimming and rainbow trout fishing.<h4>Facilities:</h4>Cleator Bend is a group campground on the northern banks of the river. A vault toilet is located in the middle of the camping loop and two water spigots are provided. Trash collection, campfire circles and picnic tables are provided. Additionally, firewood is sold on-site. The capacity for the group site is 45 guests.<h4>Nearby Attractions:</h4>The South Breitenbush Gorge Trail is three miles from the campground. Here, hikers can view the river passing through basalt narrows. During the hike, look for a log footbridge that crosses Roaring Creeks cascading waters.",
+    "FacilityLatitude": 44.77798611111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-226-3564",
+    "FacilityDirections": "From Highway 22 at Detroit, turn onto Breitenbush Road #46. The campground is 9.8 miles ahead on the right.",
+    "FacilityName": "CLEATOR BEND",
+    "LastUpdatedDate": "2015-03-12 02:22:46",
+    "LegacyFacilityID": 72187,
+    "OrgFacilityID": "AN372187",
+    "FacilityID": 233259,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:18:32",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 77219,
+        "CampsiteName": 1,
+        "Loop": "CLEATOR BEND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233259,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031269,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "44125 N. Santiam Hwy SE",
+      "City": "Detroit",
+      "FacilityID": 233259,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

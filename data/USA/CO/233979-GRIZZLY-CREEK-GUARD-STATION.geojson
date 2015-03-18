@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.58722222222222,
+      40.55694444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.58722222222222,
+    "FacilityDescription": "<h2>Overview</h2>At an elevation of 8,500 feet, Grizzly Creek Guard Station is located between Walden and Steamboat Springs, Colorado, offering guests an unique lodging opportunity in the Routt National Forest. The area around the guard station offers a chance to view abundant wildlife and experience a variety of recreational opportunities year-round.<br /><br /> The guard station is accessible by passenger vehicle when there is no snow; however, high clearance vehicles are recommended in the spring and fall.Access to the cabin in winter is only available by snowmobile, cross-country skis or snowshoes. The cabin offers some creature comforts, but guests should be prepared to bring some of their own supplies and gear.<h4>Natural Features:</h4>The cabin sits in an open area among grassland and sagebrush, with nearby aspen groves and lodgepole pine forests.<br /><br />The Mount Zirkel Wilderness lies east of the guard station. The wilderness was one of the original areas protected under the 1964 Wilderness Act and has since been expanded twice to its present size of 160,648 acres. The area boasts ecosystems ranging from sagebrush meadows in the lower areas, through pine and spruce/fir forests, to alpine tundra at high elevations.<br /><br />Elk, deer, moose and other wildlife are often seen in meadows adjacent to the cabin, and cattle frequently pass by the area as well.<h4>Recreation:</h4>In summer, hiking and fishing can be found within the vicinity. Trailheads leading to hiking and horseback riding trails are an easy drive from the guard station. Designated areas for off-road vehicles are also near the cabin.<br /><br /> In winter, the area is blanketed by snow for wintertime play. Cross-country skiers and snowmobile traffic often pass by the guard station during daylight hours.   <h4>Facilities:</h4>The historic two-room cabin sleeps five on bunkbeds with mattresses. The cabin has a heater, range and refrigerator powered by propane. The kitchen is equipped with a table and chairs, cooking utensils, pots and pans. An accessible outhouse with pit toilet is also on-site.<br /><br /> Water, electricity, indoor plumbing and trash collection are not available. Water must be hauled from a campground approximately three miles away during the summer. In the winter, guests must provide their own supply of water for cooking, cleaning and washing.<br /><br /> Guests must bring their own food, sleeping bags, lanterns or flashlights, pillows, towels, dish soap, matches, first aid kit, toilet paper and garbage bags. All trashand food should be packed out, and guests are expected to clean the cabin before leaving.",
+    "FacilityLatitude": 40.55694444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "970-723-2700",
+    "FacilityDirections": "From Walden, take Highway 14 west for approximately 11 miles to Hebron. Turn right on County Road 24, driving west. Follow County Road 24 as it forks left and then right at intersections with County Roads 1 and 5. After approximately 10 miles, the road becomes Forest Service Road 60 and you arrive at the Grizzly Creek Guard Station.",
+    "FacilityName": "GRIZZLY CREEK GUARD STATION",
+    "LastUpdatedDate": "2015-03-12 02:34:24",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73933,
+    "OrgFacilityID": "AN373933",
+    "FacilityID": 233979,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 75818,
+        "CampsiteName": 1,
+        "Loop": "GRIZZLY CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 233979,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Gas",
+            "AttributeName": "Cabin Heating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032000,
+      "PostalCode": 80480,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "PO BOX 158",
+      "City": "WALDEN",
+      "FacilityID": 233979,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

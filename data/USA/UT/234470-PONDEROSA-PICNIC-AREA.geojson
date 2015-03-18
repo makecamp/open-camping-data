@@ -1,0 +1,169 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.50138888888888,
+      38.25888888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.50138888888888,
+    "FacilityDescription": "<h2>Overview</h2>Ponderosa Picnic Area is located along the Beaver Canyon Scenic Byway. It is next to the Beaver River, at an elevation of 7,000 feet. Visitors enjoy fishing and relaxing along the river.<h4>Natural Features:</h4>Towering ponderosa pines, cottonwoods, aspens and maples provide partial shade in the grassy, gently sloping picnicking site. Between the trees are scenic views of the canyon.<h4>Recreation:</h4>The Beaver River offers great rainbow and brook trout fishing. Hiking and biking trails begin a short drive east. Horseshoe pits and a volleyball court are available, but picnickers must bring their own equipment (horseshoes, net and a ball).<h4>Facilities:</h4>The picnic area is a day-use site for large groups, making it a perfect place for family reunions and church outings. Site 1, called East, can accommodate up to 120 people, while site 2, called West, can accommodate up to 80 people. Reservations can be made for either individual sites or the whole area at once.<br /><br />Each site contains tables, grills, campfire circles, electric lights and asphalt site pads. Vault toilets and drinking water are provided. An amphitheater with bench seating is also located on-site. <h4>Nearby Attractions:</h4>Beaver Canyon Scenic Byway curves past the picnic area, offering 17 miles of scenic driving through the beautiful Tushar Mountains. Numerous lakes and streams throughout the area provide fishing, boating and canoeing opportunities.",
+    "FacilityLatitude": 38.25888888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-438-2436",
+    "FacilityDirections": "From Beaver, Utah, travel east on paved State Route 153, the Beaver Canyon Scenic Byway, for approximately 9 miles, to the picnic area.",
+    "FacilityName": "PONDEROSA PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:41:32",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75350,
+    "OrgFacilityID": "AN375350",
+    "FacilityID": 234470,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:24:41",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:31:38",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 20759,
+        "CampsiteName": 1,
+        "Loop": "EAST",
+        "CampsiteAccessible": true,
+        "FacilityID": 234470,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Platform"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:24:41",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:31:38",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 20760,
+        "CampsiteName": 2,
+        "Loop": "WEST",
+        "CampsiteAccessible": true,
+        "FacilityID": 234470,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 80,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032498,
+      "PostalCode": 84713,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "PO BOX E",
+      "City": "BEAVER",
+      "FacilityID": 234470,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -96.44166666666668,
+      33.10416666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -96.44166666666668,
+    "FacilityDescription": "<h2>Overview</h2>Lakeland Pavilion is a pleasant picnic pavilion and large group campground accommodating up to 500 visitors for picnicking, boating and fishing on Lavon Lake. <h4>Natural Features:</h4>The pavilion is in Lakeland Park on the eastern shores of Lavon Lake. <br /><br />Lavon Lake, in northern Texas, flows from the East Fork tributary of the Trinity River. Its surface area is 21,400 acres and the maximum lake depth is around 59 ft.. <h4>Recreation:</h4>Lavon Lakes most common catches include largemouth bass, white bass, blue catfish and crappie. <br /><br />Equestrian and hiking on nearby Trinity Trail is a great way to explore the area.  <h4>Facilities:</h4>The shelter has 12 picnic tables, four cookers, a campfire ring and electric and water hookups.  A flat, open area is available for sports like Frisbee and soccer.  <h4>Nearby Attractions:</h4>The Heard Natural Science Museum and Wildlife Sanctuary in nearby McKinney, features natural history exhibits and nature trails.",
+    "FacilityLatitude": 33.10416666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "972-442-3141",
+    "FacilityDirections": "From US Highway 380, turn right on 78 South at Farmersville. Go southabout 4 miles to CR 550. Turn right on CR 550 and continueabout 2 miles to the entrance of the park. The pavilion is inside Lakeland Park.",
+    "FacilityName": "LAKELAND PAVILION",
+    "LastUpdatedDate": "2015-03-12 02:43:06",
+    "LegacyFacilityID": 75423,
+    "OrgFacilityID": "AN375423",
+    "FacilityID": 234533,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "GROUP STANDARD ELECTRIC",
+        "CampsiteID": 43300,
+        "CampsiteName": 1,
+        "Loop": "LAKELAND PAVILION ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234533,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032561,
+      "PostalCode": 75442,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "13560 CR 550",
+      "City": "FARMSVILLE",
+      "FacilityID": 234533,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

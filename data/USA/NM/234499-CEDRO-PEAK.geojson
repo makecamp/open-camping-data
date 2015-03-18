@@ -1,0 +1,124 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.34972222222221,
+      35.033055555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.34972222222221,
+    "FacilityDescription": "<h2>Overview</h2>Cedro Peak Campground is a popular place for large groups to access one of the greatest locales for mountain biking in the Cibola National Forest. A variety of hiking, mountain biking, horseback riding and off-road vehicle trails are available nearby.<h4>Natural Features:</h4>The group campground is located in the Manzanita Mountains just 14 miles from Albuquerque at an elevation of about 7,400 feet. The campground is nestled in a pinion pine and juniper forest, amid the arid, hilly landscape.<h4>Recreation:</h4>The region features more than 80 miles of single-track and equestrian trails. Mountain biking trails in the area can accommodate intermediate to advanced riders. The trails offer expansive views of the Sandia Mountains to the north, the Manzanos and the Cedro Peak. Limited off-road vehicle trails are available as well.<h4>Facilities:</h4>The campground offers two large, fully accessible group campsites: Jay and Robin. Jay can accommodate up to 100 people and 27 vehicles; Robin can accommodate up to 150 people and 41 vehicles. The gate key, with a refundable $10 deposit, must be picked up at the Sandia Ranger District Office.<br /><br />Each site is equipped with grills and tables, some of which are covered by picnic shelters. Large campfire circles are also available. Accessible vault toilets are provided. Drinking water is not available at the campground.",
+    "FacilityLatitude": 35.033055555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Albuquerque, travel east on I-40 to Tijeras, Exit 175. Continue south about a half-mile on Highway 337 to the District Office to pick up the key to the picnic area. From the office, continue south on Highway 337 about five miles to Juan Tomas Road. Turn east and continue about a mile to the junction with Forest Road 252. Turn onto FR-252 and continue about a mile to the campground.",
+    "FacilityName": "CEDRO PEAK",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75384,
+    "OrgFacilityID": "AN375384",
+    "FacilityID": 234499,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 43022,
+        "CampsiteName": "001ROB",
+        "Loop": "ROBI",
+        "CampsiteAccessible": true,
+        "FacilityID": 234499,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 41,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 43104,
+        "CampsiteName": "001JAY",
+        "Loop": "JAYA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234499,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 27,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032527,
+      "PostalCode": 87059,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "11776 HWY 337",
+      "City": "TIJERAS",
+      "FacilityID": 234499,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.9094,
+      44.55265555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.9094,
+    "FacilityDescription": "<h2>Overview</h2>Magone Lake Campground is situated along its namesake lake in the northern reaches of Malheur National Forest in the Blue Mountains of eastern Oregon. Visitors enjoy fishing, canoeing, swimming and hiking.<h4>Natural Features:</h4>The campground is set in a forest of Engelmann spruce and ponderosa pine. Magone Lake covers about 50 acres and features both deep holes of up to 100 feet and shoals on the north side. Geologists believe Magone Lake was created by a landslide in the early 1800s. It is located in the southern reaches of the Malheur National Forest.<h4>Recreation:</h4>The Magone Lake area offers swimming, fishing, hiking and mountain biking opportunities. The lake contains eastern brook and rainbow trout. A boat ramp is available on-site. Visitors also enjoy viewing wildflowers and interesting geology throughout the region.<h4>Facilities:</h4>The campground offers both a picnic shelter and overnight campsite for groups to reserve. These sites can accommodate up to 75 people each. Individual family sites are available on a first-come, first-served basis. <br /><br />Picnic tables and campfire rings with grills are provided, as are vault toilets and drinking water.",
+    "FacilityLatitude": 44.55265555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-820-3800",
+    "FacilityDirections": "From John Day, Oregon, take U.S. Highway 26 east for approximately 9 miles. At the junction of County Road 18, travel north approximately 10 miles. At Forest Road 3620, turn west and drive approximately 1 mile to Forest Road 3618. The campground is about 1 mile from the turnoff.  <br /><br />From Prairie City, Oregon, take U.S. Highway 26 approximately 3 miles west. At the junction of County Road 18, travel north approximately 10 miles. Turn west on Forest Road 3620 and travel approximately 1 mile to Forest Road 3618. The campground is about 1 mile from the turnoff.",
+    "FacilityName": "MAGONE LAKE",
+    "LastUpdatedDate": "2015-03-12 02:39:10",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75128,
+    "OrgFacilityID": "AN375128",
+    "FacilityID": 234274,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:19:49",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:19:21",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 78386,
+        "CampsiteName": 1,
+        "Loop": "GCG",
+        "CampsiteAccessible": true,
+        "FacilityID": 234274,
+        "attributes": [
+          {
+            "AttributeValue": "4:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:19:49",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:19:21",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 78881,
+        "CampsiteName": "SHEL",
+        "Loop": "GPS",
+        "CampsiteAccessible": true,
+        "FacilityID": 234274,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032304,
+      "PostalCode": 97869,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "FOREST SERVICE ROAD 3618",
+      "City": "PRAIRIE CITY",
+      "FacilityID": 234274,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

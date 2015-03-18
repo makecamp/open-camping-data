@@ -1,0 +1,67 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.15972222222223,
+      36.062130555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -93.15972222222223,
+    "FacilityDescription": "<h2>Overview</h2>The Ozark Pavilion sits in the middle of the Ozark Campground near the impressive bluffs of the Buffalo River. Bring a picnic lunch or pack up your grill for a day of fresh air and outdoor activities.<br /><br />The big river isnt just a picturesque backdrop for your picnic - it also offers an array of river sports like canoeing, kayaking, tubing, swimming and fishing.<h4>Natural Features:</h4>The pavilion is located along the Buffalo National River with views of lush forests and high, riverside limestone bluffs. It is one of the few free-flowing rivers remaining in the contiguous U.S., with 135 miles of undammed waters. It cuts through the Arkansas Ozarks to reach its final destination at the White River.<h4>Recreation:</h4>The Buffalo River Trailhead is next to the pavilion. The scenic trail spans a massive 36.5 miles of the Buffalo River from Boxely to Pruitt, and is ideal for hiking or backpacking.<br /><br />Peak season for canoeing, kayaking and tubing is spring to early summer.<h4>Facilities:</h4>The covered picnic area seats up to 25 people. Electricity is available but its recommended you bring your own grill. Flush toilets and drinking water are provided.<h4>Nearby Attractions:</h4>The nearby town of Jasper offers restaurants, gas stations and groceries. The Hilary Jones Wildlife Museum and Elk Center is just north of Jasper. It features displays of elk, white-tailed deer and ducks, as well as freshwater aquariums, wildlife paintings and a gift shop.",
+    "FacilityLatitude": 36.062130555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Harrison, head south on Highway 7 for approximately 13 miles. After driving over a bridge over the Buffalo River, look for a brown sign for the Ozark Campground. Turn right onto the gravel road and follow it for about one mile to the campground and pavilion.",
+    "FacilityName": "OZARK PAVILION",
+    "LastUpdatedDate": "2015-03-12 02:20:23",
+    "LegacyFacilityID": 72002,
+    "OrgFacilityID": "AN372002",
+    "FacilityID": 233120,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 91639,
+        "CampsiteName": "Pavilion",
+        "Loop": "OZARK PAVILION",
+        "CampsiteAccessible": false,
+        "FacilityID": 233120,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031131,
+      "AddressStateCode": "AR",
+      "FacilityID": 233120,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

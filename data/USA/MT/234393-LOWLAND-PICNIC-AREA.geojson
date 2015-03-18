@@ -1,0 +1,140 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.50527777777778,
+      46.13916666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.50527777777778,
+    "FacilityDescription": "<h2>Overview</h2>Lowland Picnic Area is a perfect gathering spot for outdoor enthusiasts. It is adjacent to the Lowland Campground and not far from Butte, Montana. The day-use area provides ample space for outdoor games and other activities.<h4>Natural Features:</h4>The picnic area is near a large meadow that is nestled in a forest of mature pine trees at an elevation of 6,240 feet. It is a peaceful location that provides scenic views of the Deerlodge National Forest.<h4>Recreation:</h4>A popular site for birding, the area is home to many large birds and wildlife. Access to the Continental Divide National Scenic Trail is one mile west of the facility and provides over 15 miles of non-motorized recreation opportunities. The Sheepshead Recreation Area and Maney Lake, along with several nearby streams, provide ample fishing opportunities for visitors to the area.<h4>Facilities:</h4>One large picnic area can be reserved. It is equipped with tables and a campfire circle with grill. Vault toilets and drinking water are provided.<br /><br />No overnight camping is allowed at the picnic area; however, the adjacent campground provides campsites on a first-come, first-served basis.<h4>Nearby Attractions:</h4>The city of Butte is about 16 miles from the picnic area and is a full service community.",
+    "FacilityLatitude": 46.13916666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-494-2147",
+    "FacilityDirections": "From Butte, take I-15 north about 13 miles to the Elk Park Exit. Turn left off the ramp and continue under the overpass to Forest Road 442 and continue for 5 miles. Turn left onto Forest Road 9485 and drive 2 miles. Turn left at the junction and continue for less than a mile to the campground entrance on the right.",
+    "FacilityName": "LOWLAND PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "LegacyFacilityID": 75258,
+    "OrgFacilityID": "AN375258",
+    "FacilityID": 234393,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 66450,
+        "CampsiteName": 1,
+        "Loop": "AREA LOWLAND PICNIC AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234393,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 66951,
+        "CampsiteName": 2,
+        "Loop": "AREA LOWLAND PICNIC AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234393,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032422,
+      "PostalCode": 59701,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "1820 Meadowlark Lane",
+      "City": "BUTTE",
+      "FacilityID": 234393,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.37722222222222,
+      38.890277777777776
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.37722222222222,
+    "FacilityDescription": "<h2>Overview</h2>Wench Creek Campground is located in a beautiful ponderosa pine forest on the east shore of Union Valley Reservoir. The campground has 2 group campsites and several single family campsites. Plenty of water activities await at this reservoir in the Sierra Nevada foothills.<br /><br />The Union Valley Bike Trail and Bassi Falls Hiking Trail are worth exploring. The Union Valley Trail runs right through Wench Creek.<h4>Natural Features:</h4>Union Valley Reservoir sits in the Crystal Basin at an elevation of 4,900 feet. The area is part of the Eldorado National Forest.<br /><br /> Eldorado includes the famed gold mining territory of the 1800s. Protected remnants of the days of the California Gold Rush are all around the region.<br /><br />An abundance of wildlife can be found within the Sierra Nevada Range, including black bears, mule deer, bobcat, gray fox, bighorn sheep, pikas, martens and a variety of squirrels. Several species of reptiles, amphibians and birds also inhabit the area.  <h4>Recreation:</h4>The Union Valley Bike Trail spans 4.8 miles with an easy climb of 300 feet. The trail connects campgrounds on the east side of the lake, starting from Wench Creek on to the Jones Fork Campground. Interpretive signs along the trail tell the story of the use and development of water resources in Union Valley. This trail can be used by both hikers and bikers.<br /><br />Anglers delight in seeking kokanee salmon, rainbow, brown, small mouth bass and mackinaw trout. The reservoir also offers opportunities for swimming, water skiing and boating. Boat ramps are located near Sunset and Yellowjacket Campgrounds. <h4>Facilities:</h4>Firewood is available for a fee and it is possible to moor boats on the shoreline. Amenities include grills, fire rings, drinking water, picnic tables and both vault and flush toilets. Electric hook-ups are not available. <br /><br />Single family sites are available on a first-come, first-served basis. One group site is tent-only, and the other is a standard site for tents, RVs or trailers. Each group site can accommodate up to 50 people (<a href=http://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev7_018805.pdf>more campground details</a>). <h4>Nearby Attractions:</h4>The Desolation Wilderness is nearby, offering the opportunity to get away from the crowds and enjoy the serenity of nature.",
+    "FacilityLatitude": 38.890277777777776,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-293-0827",
+    "FacilityDirections": "On Highway 50, go 21 miles east of Placerville to Riverton. Turn left onIcehouse Riverton Road. Go 19 miles north to Wench Creek turnoff, then turnleft to campground.",
+    "FacilityName": "WENCH CREEK",
+    "LastUpdatedDate": "2015-03-12 02:04:40",
+    "LegacyFacilityID": 70355,
+    "OrgFacilityID": "AN370355",
+    "FacilityID": 232121,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:50",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 86427,
+        "CampsiteName": 1,
+        "Loop": "WENC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232121,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:50",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 86655,
+        "CampsiteName": 2,
+        "Loop": "WENC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232121,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030139,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "ELDORADO",
+      "FacilityID": 232121,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

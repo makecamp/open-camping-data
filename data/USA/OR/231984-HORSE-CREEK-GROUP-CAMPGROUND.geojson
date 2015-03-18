@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.15333333333334,
+      44.16222222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.15333333333334,
+    "FacilityDescription": "<h2>Overview</h2>Horse Creek Group Campground is located on the banks of Horse Creek. The rushing water and tall Douglas fir trees offer a cool, shady spot to enjoy the outdoors. <br /><br />An open field on the west side of the campground allows guests to play sports like Frisbee or kickball, and a picnic area offers a great spot for grilling and group gatherings.<h4>Natural Features:</h4>The campground sits along Horse Creek among Douglas fir and Western Red Cedar. The creek flows into the McKenzie River, a 90-mile tributary that transports snowmelt from the Cascade Range to the Willamette Valley.<br /><br />Set along the western slopes of the Cascade Mountains, gorgeous, lush mountain landscapes are found in every direction. <h4>Recreation:</h4>Fishing for steelhead in Horse Creek is enjoyable pastime. The McKenzie River National Recreation Trailhead is nearby, offering fun-filled hiking and biking opportunities. The 26-mile trail boasts wonderful scenery along the river, and is an easy hike for all ages.<h4>Facilities:</h4>Horse Creek accommodates 60 campers and 23 vehicles. The campground comes with drinking water, picnic tables, vault toilets and campfire rings. Visitors need to bring their own firewood. <h4>Nearby Attractions:</h4>Cougar Reservoir is about 10 miles southwest and boasts excellent boating opportunities.",
+    "FacilityLatitude": 44.16222222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-822-3381",
+    "FacilityDirections": "From Eugene, Oregon: Take I-105 East McKenzie River to highway 126E.  Go 55 miles on Hwy 126 to McKenzie Bridge.  Turn right onto Horse Creek Road #2638. Follow Horse Creek Road for 2 miles to Horse Creek Group Site. Entry is through a locked gate with a combination. Call (541) 822-3381 prior to arrival to receive combination.",
+    "FacilityName": "HORSE CREEK GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:03:03",
+    "LegacyFacilityID": 70191,
+    "OrgFacilityID": "AN370191",
+    "FacilityID": 231984,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:19:49",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:19:21",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 78042,
+        "CampsiteName": 1,
+        "Loop": "HORS",
+        "CampsiteAccessible": false,
+        "FacilityID": 231984,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 23,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030002,
+      "PostalCode": 97413,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "57600 McKenzie Hwy.",
+      "City": "MCKENZIE BRIDGE",
+      "FacilityID": 231984,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

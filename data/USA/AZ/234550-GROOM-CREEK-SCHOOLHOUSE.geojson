@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.43527777777778,
+      34.47083333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.43527777777778,
+    "FacilityDescription": "<h2>Overview</h2>Built in 1902, this historic schoolhouse and adjacent picnic area in Arizonas Prescott National Forest may be reserved for day use for groups of up to 60 people. The facility offers a picturesque, quiet setting with indoor and outdoor areas for weddings, reunions, luncheons and group meetings. Upper Wolf Creek Campground is just down the road for groups wishing to camp overnight, and the town of Prescott offers several cultural attractions and conveniences.<br><br>The schoolhouse served about 10 to 15 children in the early 1900s. The building was an active school until 1952. It is now listed on the National Register of Historic Places and is used for administrative and training purposes.<h4>Natural Features:</h4>The group area is set in a ponderosa pine ecosystem, an area dominated by pines and mixed with juniper trees, Gambel oaks and native grasses. A multitude of colorful wildflowers bloom in the spring and during the summer monsoon season. Afternoon thunderstorms are possible from late June through mid-September.<br><br>The forest is home to a wide variety of wildlife. Visitors may spot deer, mountain lions, bobcats, coyotes, foxes, rabbits, lizards, snakes and birds.<h4>Recreation:</h4>Groups enjoy gathering in the outdoor picnic area during nice weather or heading indoors into the the two-room schoolhouse if the weather turns. A leisurely walk through the forest on the accessible, paved Groom Creek Nature Trail provides a nice afternoon respite, and visitors can camp nearby if desired. Prescott National Forest has miles of hiking, mountain biking and horseback riding trails for visitors wishing to explore the area.<h4>Facilities:</h4>The schoolhouse building has two rooms with numerous folding tables and chairs for indoor use. The outdoor picnic area is accessible and equipped with 10 picnic tables, vault toilets, an amphitheater (limited access) and parking for 12 vehicles or two buses.<br><br>No drinking water is available at this site; guests must bring their own.<h4>Nearby Attractions:</h4>Restaurants, shopping, historic sites and many amenities are nearby in the historic town of Prescott.",
+    "FacilityLatitude": 34.47083333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "928-443-8000",
+    "FacilityDirections": "From Phoenix, Arizona, take I-17 north for 61.8 miles. Take exit 262 toward Cordes Junction/Prescott. Merge onto State Route 69 west and follow for 33.8 miles. At the split, take the ramp for Route 89 south. Turn slight left onto East Gurley Street/89 and follow for about 0.8-mile. Turn left at Mt. Vernon Street and continue for 6.1 miles. The turnoff for the schoolhouse and parking is on the left.",
+    "FacilityName": "GROOM CREEK SCHOOLHOUSE",
+    "LastUpdatedDate": "2015-03-12 02:43:06",
+    "LegacyFacilityID": 75440,
+    "OrgFacilityID": "AN375440",
+    "FacilityID": 234550,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:39:00",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:38:18",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 28795,
+        "CampsiteName": 1,
+        "Loop": "GROOM CREEK",
+        "CampsiteAccessible": false,
+        "FacilityID": 234550,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032578,
+      "PostalCode": 86301,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "64 SENATOR HIGHWAY",
+      "City": "PRESCOTT",
+      "FacilityID": 234550,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

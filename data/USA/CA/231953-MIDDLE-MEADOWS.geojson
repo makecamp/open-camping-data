@@ -1,0 +1,140 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.46611111111112,
+      39.051111111111105
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.46611111111112,
+    "FacilityDescription": "<h2>Overview</h2>Middle Meadows Campground offers a quiet place to camp, far from the hustle and bustle of city life. The campground is isolated from other campgrounds and offers a variety of recreational activities in its vicinity. Its scenic location also provides for beautiful sightseeing, birding and wildlife viewing.<h4>Natural Features:</h4>Middle Meadows is located in a quiet, grassy meadow with a heavily wooded surrounding. Forests include large cedar, pine and fir trees, with a mixed grass and fern understory. Although the campground has a primitive, undiscovered feel to it, the serene mountain landscape is well worth the long drive from civilization.<h4>Recreation:</h4>Campers at Middle Meadows enjoy the large, open grove for sports, games and other activities, making it an ideal spot for family trips.<br> <br>Hell Hole Reservoir, located less than 5 miles from the campground, offers a variety of water-related recreation opportunities, including swimming, boating and fishing.  <h4>Facilities:</h4>The campground offers two walk-in group campsites. The sites can accommodate up to 25 and 50 guests respectively. Each site is equipped with tables, campfire circles and grills. Vault and flush toilets, as well as drinking water, are provided.<h4>Nearby Attractions:</h4>Middle Meadows is located adjacent to Long Canyon Creek for fishing and wading. Hell Hole Reservoir is a short drive north. Boat ramps are available at the reservoir.",
+    "FacilityLatitude": 39.051111111111105,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-333-4312",
+    "FacilityDirections": "From Sacramento, California, take Interstate 80 east to Auburn. Take the Elm Street exit and turn left at the stoplight. Follow Highway 49 down the canyon, across the American River, to Cool. Turn onto Highway 193 towards Georgetown. Turn left at the stop sign, then continue 22 miles to 11 Pines Road. Make a left and stay on this road (Forest Highway 2) for about 25 miles to the campground.",
+    "FacilityName": "MIDDLE MEADOWS",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70151,
+    "OrgFacilityID": "AN370151",
+    "FacilityID": 231953,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:51:59",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:13:33",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 71630,
+        "CampsiteName": 2,
+        "Loop": 1,
+        "CampsiteAccessible": false,
+        "FacilityID": 231953,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Preferred",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:51:59",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:13:33",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 71911,
+        "CampsiteName": 1,
+        "Loop": 1,
+        "CampsiteAccessible": false,
+        "FacilityID": 231953,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 11,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029971,
+      "PostalCode": 95634,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "7600 WENTWORTH SPRINGS ROAD",
+      "City": "GEORGETOWN",
+      "FacilityID": 231953,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

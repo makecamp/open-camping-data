@@ -1,0 +1,225 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.38722222222223,
+      34.51027777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.38722222222223,
+    "FacilityDescription": "<h2>Overview</h2>Eagle Ridge Group Campground sits within a tall ponderosa pine forest of Prescott National Forest. The site lies in the Bradshaw Mountains along Lynx Lake and is convenient to the historic town of Prescott, Arizona. Summer visitors seeking relief from the hot weather in Phoenix frequent the recreation area to camp, fish, picnic, hike and mountain bike. <h4>Natural Features:</h4>At an elevation of 5,700 feet, Eagle Ridge offers visitors pleasant summer temperatures and cool breezes. It is surrounded by a dense ponderosa pine forest mixed with juniper and oak. Lynx Lake covers 55 acres and is just 0.25 mile. The areas animal residents include the osprey, coyote, deer, javelina, squirrel, fox, badger and mountain lion.<br /><br />Temperatures are pleasant during the camping season, though the area experiences a monsoon season from late June through mid-September that may result in afternoon thunderstorms.<h4>Recreation:</h4>The Lynx Lake Recreation Area is a popular fishing spot, with crappie, trout, bluegill, bass and catfish available, and anglers have the convenience of a boat ramp (motor boats less than 10 horsepower allowed). Swimming and wading are not allowed, though campers can rent canoes, kayaks, paddle boats and electric row boats at the campground concessionaire. <br /><br />Trails in the area allow for a variety of uses, including hiking and mountain biking. An easy, family-friendly, two-mile trail loops around the lake.<br /><br />The Bradshaw Mountains are known for their history of mineral mining. Visitors can still pan for gold in Lynx Creek, and many historic mining sites lie in the area.<h4>Facilities:</h4>Two group campsites, Osprey and Peregrine, are located adjacent to each other and provide plenty of space for church groups, family reunions and other social gatherings. Osprey holds 26 to 75 people, while Peregrine can accommodate 15 to 25. Access to Peregrine is via Osprey and one group may reserve both sites. The sites are equipped with campfire rings and picnic tables.<br /><br />Group facilities are accessible, and the lake recreation area can be easily access by car or foot. An on-site host is available to assist campers with visitor information and gates. A small store at the north end of the lake offers boat rentals, firewood and a restaurant.",
+    "FacilityLatitude": 34.51027777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "928-443-8000",
+    "FacilityDirections": "From Arizona Highway 69 in Prescott, turn south on Walker Road (by Costco, PetSmart and the gas station). Go approximately 3.5 miles to the Lynx Lake Southshore Day Use Area turn-off and turn left (east). Entry to Eagle Ridge Group Campground is about 230 feet from Walker Road on the left (north) side of the road.",
+    "FacilityName": "EAGLE RIDGE GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:23:32",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 72316,
+    "OrgFacilityID": "AN372316",
+    "FacilityID": 233306,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:18:32",
+        "CampsiteType": "GROUP STANDARD ELECTRIC",
+        "CampsiteID": 77128,
+        "CampsiteName": "Peregrine",
+        "Loop": "EAGLE RIDGE GROUP CAMPGROUND",
+        "CampsiteAccessible": true,
+        "FacilityID": 233306,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Platform"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 32,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:18:32",
+        "CampsiteType": "GROUP STANDARD ELECTRIC",
+        "CampsiteID": 77771,
+        "CampsiteName": "Osprey",
+        "Loop": "EAGLE RIDGE GROUP CAMPGROUND",
+        "CampsiteAccessible": true,
+        "FacilityID": 233306,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 26,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Platform"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031316,
+      "PostalCode": "86303-4398",
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "344 S. Cortez St.",
+      "City": "Prescott",
+      "FacilityID": 233306,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

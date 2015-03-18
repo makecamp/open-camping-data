@@ -1,0 +1,1629 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.88,
+      33.345
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.88,
+    "FacilityDescription": "<h2>Overview</h2>Fry Creek Campground is situated in the heart of Cleveland National Forest, uniquely located down the road from the world-famous Palomar Observatory. The fresh, clean air of the campground provides a refreshing getaway for visitors from San Diego and Los Angeles. <p>The observatory, atop Palomar Mountain, boasts five high-tech telescopes, among them, the massive 200-inch Hale Telescope, was the worlds largest effective telescope for about 45 years. The observatory is owned by the California Institute of Technology and astronomical research includes near-Earth asteroids and the study of distant galaxies.  </p><h4>Natural Features:</h4>Fry Creek is at a 4,900 ft. elevation on Palomar Mountain. The area rises above the Pauma Valley and is dense with evergreen and oak.  <h4>Recreation:</h4>At Observatory Campground, the site across from Fry Creek, theres a popular astronomy event called Explore the Stars. <br /><br />Amateur astronomers gather here with their telescopes and share views of planets and constellations with visitors. The event takes place one weekend each month, April through October. <h4>Facilities:</h4>A loop hike, great for exploring local flora and fauna, surrounds Fry Creek. <br /><br />The campground sits beneath a dense pine canopy, which is not ideal for stargazing, but Observatory Campground across the road has level cement platforms for telescopes and an amphitheater thats open to campers. <h4>Nearby Attractions:</h4>The visitor center at Palomar Observatory is 2.2 miles away and can be accessed by road or by hiking trail. A restaurant and gift shop are onsite.",
+    "FacilityLatitude": 33.345,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": 7607880250,
+    "FacilityDirections": "From Los Angeles, CA: head south on I-15 Fwy, go east on Hwy 76 for approximatley 20 miles, turn left onto South Grade Rd. (S6), follow South Grade up to the top of Palomar Mountain. Once at the top, turn left to continue on South Grade Rd/ Canfield Rd. Continue for approximately 2.5 miles and turn left into Fry Creek Campground, approximatley 0.25 miles past Observatory Campground.<br /><br />From San Diego, CA: Head north on I-15 Fwy, go east on Hwy 76 for approximatley 20 miles, turn left onto South Grade Rd. (S6), follow South Grade up to the top of Palomar Mountain.  Once at the top, turn left to continue on South Grade Rd/ Canfield Rd. Continue for approximately 2.5 miles and turn left into Fry Creek Campground, approximatley 0.25 miles past Observatory Campground.",
+    "FacilityName": "FRY CREEK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:23:32",
+    "LegacyFacilityID": 72313,
+    "OrgFacilityID": "AN372313",
+    "FacilityID": 233303,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92005,
+        "CampsiteName": 6,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92006,
+        "CampsiteName": 10,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92163,
+        "CampsiteName": 7,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92267,
+        "CampsiteName": 1,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92269,
+        "CampsiteName": 2,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92330,
+        "CampsiteName": 9,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92335,
+        "CampsiteName": 15,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92437,
+        "CampsiteName": 17,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92538,
+        "CampsiteName": 18,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92708,
+        "CampsiteName": 11,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92816,
+        "CampsiteName": 19,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 92947,
+        "CampsiteName": 5,
+        "Loop": "FRY CREEK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233303,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031313,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "S6",
+      "City": "Palomar Mountain",
+      "FacilityID": 233303,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

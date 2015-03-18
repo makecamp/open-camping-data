@@ -1,0 +1,144 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.85194444444444,
+      34.38194444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -82.85194444444444,
+    "FacilityDescription": "<h2>Overview</h2>Long Point is a summer day-use area located on the Georgia side of Hartwell Lake, one of the southeasts largest and most popular public recreation areas.  Sweeping views of the 56,000-acre lake offer an ideal setting for a party, barbeque or simply a day of water activities with the family. <h4>Natural Features:</h4>Hartwell Lake is a man-made lake bordering Georgia and South Carolina on the Savannah, Tugaloo and Seneca Rivers. The dam and lake area boasts nine campgrounds and 15 day-use facilities that are operated by the US Army Corps of Engineers. <br/><br/>Surrounding vegetation allows for plenty of shade, and the 962 miles of shoreline provide numerous swimming beaches, picnic areas and boat ramps. <h4>Recreation:</h4>Boating and water sports top the list of popular activities. A two-lane boat ramp is available for visitors convenience, and two natural beaches are located around the peninsula. <br><br>The islands on Hartwell Lake are open for hunting in accordance with state hunting regulations and seasons. However, in the interest of safety, big game hunters are encouraged to use archery equipment while hunting on the islands.<h4>Facilities:</h4>Long Point offers multiple picnic areas, complete with shelters, flush toilets and playgrounds. Parking is available on-site and one picnic shelter offers electric hook-ups.<h4>Nearby Attractions:</h4>A hiking and biking trail is located nearby at Paynes Creek Campground.",
+    "FacilityLatitude": 34.38194444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "888-893-0678",
+    "FacilityDirections": "From Hartwell, Georgia, travel a half-mile on US Highway 29. Turn right onto Old Highway 29 and follow nearly two miles to the end.",
+    "FacilityName": "LONG POINT (GA)",
+    "LastUpdatedDate": "2015-03-12 02:12:31",
+    "LegacyFacilityID": 71274,
+    "OrgFacilityID": "AN371274",
+    "FacilityID": 232632,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:14:30",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 11715,
+        "CampsiteName": 1,
+        "Loop": "LPOI",
+        "CampsiteAccessible": false,
+        "FacilityID": 232632,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 64,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:14:30",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 11716,
+        "CampsiteName": 2,
+        "Loop": "LPOI",
+        "CampsiteAccessible": false,
+        "FacilityID": 232632,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 48,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030647,
+      "PostalCode": 30643,
+      "AddressStateCode": "GA",
+      "FacilityStreetAddress1": "3986 OLD 29 HWY",
+      "City": "HARTWELL",
+      "FacilityID": 232632,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

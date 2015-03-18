@@ -1,0 +1,144 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.7325,
+      47.4675
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.7325,
+    "FacilityDescription": "<h2>Overview</h2>Shoshone Park is a pristine forested park with a stream running through the area. It features two reservable kitchen shelters suitable for groups of all types. Perks of the family-friendly site include a baseball field and the Hale Fish Hatchery on the east end of the park.<br /><br />A point of particular interest is the Captain John Mullan historic cabin. Mullan was a 19th Century military commander who built a wagon road, which is used today as a hiking trail and snowmobiling route. <h4>Natural Features:</h4>At 3,600 feet, Shoshone Park sits in a valley at the base of Runt Mountain, a peak in the Bitterroot Mountains. The park is part of Idaho Panhandle National Forests, located near the border of Montana. <h4>Recreation:</h4>Groups enjoy playing baseball on the open field, pitching horseshoes and barbecuing. Bird watching is a rewarding pastime here, and a visit to the fish hatchery always fun.<h4>Facilities:</h4>The park includes 21 first-come first-served picnic tables in addition to the group kitchen facilities. Both kitchen shelters come with large grills and piped drinking water. The West Kitchen Shelter has electric hookups. <h4>Nearby Attractions:</h4>A few miles west is the historic mining town of Mullan, Idaho.",
+    "FacilityLatitude": 47.4675,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-783-2363",
+    "FacilityDirections": "From Mullan, drive east on Friday Ave, which turns into Larson Road. Total trip is about 3 miles. Look for signs to Shoshone Park. The West Kitchen is the first shelter when entering the park.",
+    "FacilityName": "SHOSHONE PARK KITCHEN",
+    "LastUpdatedDate": "2015-03-12 02:41:32",
+    "LegacyFacilityID": 75304,
+    "OrgFacilityID": "AN375304",
+    "FacilityID": 234437,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 89143,
+        "CampsiteName": "001 - West Kitchen",
+        "Loop": "AREA SHOSHONE PARK KITCHEN",
+        "CampsiteAccessible": false,
+        "FacilityID": 234437,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 89993,
+        "CampsiteName": "002 - East Kitchen",
+        "Loop": "AREA SHOSHONE PARK KITCHEN",
+        "CampsiteAccessible": false,
+        "FacilityID": 234437,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032466,
+      "PostalCode": 83868,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "173 COMMERCE DR. PO BOX 159",
+      "City": "SMELTERVILL",
+      "FacilityID": 234437,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

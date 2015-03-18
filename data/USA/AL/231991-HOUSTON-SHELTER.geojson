@@ -1,0 +1,98 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.29805555555555,
+      34.12444444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -87.29805555555555,
+    "FacilityDescription": "<h2>Overview</h2>Houston Shelter is a group picnic site nestled on the shore of Lake Lewis Smith in Bankhead National Forest. This is a popular recreation area offering a variety of activities.<h4>Natural Features:</h4>Bankhead National Forest is located in northwestern Alabama. The prominent feature of the area is the Sipsey Wilderness. <br /><br />Known as &quot;The Land of a Thousand Waterfalls,&quot; the Sipsey Wilderness encompasses an area of abundant streams, old-growth forests, limestone bluffs and lush canyons.<br /><br />  Lake Lewis Smith boasts more than 500 miles of shoreline marked by high rock bluffs. The water is clear and deep and provides excellent fishing. <h4>Recreation:</h4>Day users can enjoy a beautiful sand swimming beach. Other activities include motorized and non-motorized boating and water skiing.<br /><br /> Anglers can fish for Kentucky Spotted Bass and Hybrid Striped Bass. There are also hiking trails in the area, including the 1.4 mile High Rock Loop and the nearly 2 mile Fox Run Loop. <h4>Facilities:</h4>The picnic facility offers tables, flush toilets, grills and drinking water. A boat ramp and showers are nearby.",
+    "FacilityLatitude": 34.12444444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "About 50 miles southwest of Decatur, take Highway 278 east from Double Springs for 8 miles. Turn south on County Road 63 and continue for 4 miles. Turn right onto Forest Service Road 118  and travel a mile to the campground.",
+    "FacilityName": "HOUSTON SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:03:03",
+    "LegacyFacilityID": 70199,
+    "OrgFacilityID": "AN370199",
+    "FacilityID": 231991,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:16:19",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:25:06",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 12356,
+        "CampsiteName": 1,
+        "Loop": "HOUS",
+        "CampsiteAccessible": false,
+        "FacilityID": 231991,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030009,
+      "PostalCode": 35553,
+      "AddressStateCode": "AL",
+      "FacilityStreetAddress1": "PO BOX 278",
+      "City": "DOUBLE SPRINGS",
+      "FacilityID": 231991,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

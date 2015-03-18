@@ -1,0 +1,104 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.02111111111111,
+      44.46555555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.02111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Steel Creek Group Campground is located 35 miles northeast of the town of Dubois, Idaho, and 9 miles northwest of Kilgore. Visitors come to the area to enjoy the abundance of trails, wildlife viewing opportunities and scenic beauty. <h4>Natural Features:</h4>The campground offers picturesque views of the surrounding mountains and is situated among willow and pine trees adjacent to a small stream. A variety of wildlife makes its home around the campground.<h4>Recreation:</h4>Hiking, hunting, fishing, mountain biking and ATV riding are popular activities in area.<h4>Facilities:</h4>The campground contains one large accessible group site that can accommodate up to 200 people. A common parking area is adjacent to the dining area. Picnic and serving tables, a grill and campfire circle are provided, as are vault toilets and drinking water. <h4>Nearby Attractions:</h4>Phone, gas, and groceries are available in Dubois, Idaho. Minimal services are available in Kilgore, Idaho at the quaint Kilgore Store.",
+    "FacilityLatitude": 44.46555555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-374-5422",
+    "FacilityDirections": "From Dubois, Idaho: Travel north on I-15 to the Stoddard Creek Exit (Exit 184). Go east on West Camas-Miners Creek Road (FR 006) for approximately 14 miles to Steel Creek Road (FR 478), turn right and continue 0.75 miles to the campground entrance.<br /><br />From the Kilgore Store: Travel west/northwest approximately 8.25 miles on the West Camas-Miners Creek Road (FR 006) to Steel Creek Road (FR 478), turn left and continue 0.75 miles to the campground entrance.",
+    "FacilityName": "STEEL CREEK GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75245,
+    "OrgFacilityID": "AN375245",
+    "FacilityID": 234380,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:43:29",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:15:10",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 73392,
+        "CampsiteName": 1,
+        "Loop": "STCGC",
+        "CampsiteAccessible": true,
+        "FacilityID": 234380,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Food Locker"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032409,
+      "PostalCode": 83423,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "127 West Main Street",
+      "City": "DUBOIS",
+      "FacilityID": 234380,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

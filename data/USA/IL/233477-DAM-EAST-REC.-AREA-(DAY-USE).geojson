@@ -1,0 +1,103 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.30833333333334,
+      38.608333333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -89.30833333333334,
+    "FacilityDescription": "<h2>Overview</h2>Dam East Recreation Area is situated on the southern shore of Carlyle Lake, a prime getaway for city-dwellers and families. Located 50 miles east of St. Louis, the area offers the peaceful retreat of a small town combined with the grandeur of Illinois largest man-made lake. <h4>Natural Features:</h4>Created in 1967, the 26,000-acre lake is recognized as one of the nations top ten inland sailing lakes and hosts several annual races and regattas. <br /><br />Carlyle Lake is home to an array of wildlife that can be seen throughout the year. Its waters and shores are a resting spot for migratory waterfowl and other birds. There are six established Watchable Wildlife Sites with viewing towers open to the public around the lake.<h4>Recreation:</h4>The area provides fun both on the water and on shore. Boat ramps and courtesy docks are provided, and the vast lake allows for plenty of water sports.<br /><br />Fishing is a popular pastime, and white bass, bluegill, crappie, channel catfish, largemouth bass, freshwater drum, carp, flathead catfish and walleye can be found in abundance. <br /><br />There is an on-site playground and plenty of open space for children to play in, as well as an amphitheater for educational programs. A multi-use biking and walking trail is located a short walk away.<h4>Facilities:</h4>Dam East features a reservable picnic shelter that can accommodate up to 75 people, as well as a boat ramp and courtesy docks. Visitors can walk or bike across the dam to the Dam West facilities and McNair Group Area. <h4>Nearby Attractions:</h4>Carlyle Lake Visitor Center, located in the Dam West Recreation Area, has information, a gift shop and nature exhibits, including a 215-gallon aquarium with native fish and a display featuring a live massasauga rattlesnake.",
+    "FacilityLatitude": 38.608333333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "618-594-5253",
+    "FacilityDirections": "From I-57, take Old U.S. Route 50 west for 37 miles to the Dam East entrance road and turn north. Turn east at the next intersection and continue for 1.2 miles to Dam East Day Use Area.",
+    "FacilityName": "DAM EAST REC. AREA (DAY USE)",
+    "LastUpdatedDate": "2015-03-12 02:26:37",
+    "LegacyFacilityID": 73151,
+    "OrgFacilityID": "AN373151",
+    "FacilityID": 233477,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:40:01",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 57025,
+        "CampsiteName": 1,
+        "Loop": "DAM EAST DAY USE",
+        "CampsiteAccessible": false,
+        "FacilityID": 233477,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031500,
+      "PostalCode": "62231-9703",
+      "AddressStateCode": "IL",
+      "FacilityStreetAddress1": "801 LAKE ROAD",
+      "City": "CARLYLE",
+      "FacilityID": 233477,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.97194444444445,
+      45.83027777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.97194444444445,
+    "FacilityDescription": "<h2>Overview</h2>South Fork Campground is nestled along the South Fork of Clearwater River. All standard sites are first-come, first-served, but a group site that can accommodate up to 25 people is available for reservations.<br /><br />South Fork Campground is well-suited to moderately-sized RVs. An abundance of recreational activities and scenic attractions are in the area.<h4>Natural Features:</h4>In the heart of north central Idaho, rugged peaks, deep canyons, dense forests and remote wilderness comprise the Nez Perce National Forest. Due in large part to dramatic elevational differences, the forest supports a wide variety of vegetation, from cedar groves to desert ecosystems.<br /><br />South Fork Campground is located in the Highway 14 Corridor. This area features forested canyons with sections of rugged granite outcroppings, as well as gently sloping lodgepole pine-covered uplands and lush wildflower meadows.<h4>Recreation:</h4>Anglers can fish for trout, steelhead and salmon in the Clearwater River. Berry picking is popular in season.<h4>Facilities:</h4>Each campsite has a picnic table, grill, tent pad and paved parking spur. Vault toilets are provided. Drinking water and trash collection are available during the peak season only. A camp host may be on-site during the summer. <h4>Nearby Attractions:</h4>The campgrounds proximity to Highway 14 makes it easy to do a scenic drive. This picturesque route winds through changing landscapes and historic areas.",
+    "FacilityLatitude": 45.83027777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-983-1963",
+    "FacilityDirections": "From the Forest Service offices in Grangeville, head south on Grangeville-Salmon Road. Turn left at the drive-in theater toward the small town Mt. Idaho. Continue on the Mt. Idaho Grade toward Elk City on Highway 14. South Fork Campground is located at milepost 14 on Highway 14.",
+    "FacilityName": "SOUTH FORK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:41:32",
+    "LegacyFacilityID": 75314,
+    "OrgFacilityID": "AN375314",
+    "FacilityID": 234446,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:09",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 63696,
+        "CampsiteName": 5,
+        "Loop": "AREA SOUTH FORK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 234446,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032475,
+      "PostalCode": 83530,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "1005 HWY 13",
+      "City": "GRANGEVILLE",
+      "FacilityID": 234446,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.24027777777778,
+      34.28611111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.24027777777778,
+    "FacilityDescription": "<h2>Overview</h2>Lewis Canyon is a group campsite located in the scenic White Mountains region of eastern Arizona. With several amenities and activities, including hiking and horseshoes, the facility is great for family gatherings and other large groups.<h4>Natural Features:</h4>Lewis Canyon Campground is located in a beautiful ponderosa pine setting with a large open field nearby. It sits at an elevation of 6,600-feet in the Apache National Forest. Wild turkeys, elk and deer are often seen nearby. <br /><br />Summer temperatures can be very pleasant because of the elevation. However, the rainy season often brings afternoon thunderstorms from late June through August. Visitors should come prepared for rain and cool nighttime temperatures.<h4>Recreation:</h4>A variety of recreation opportunities are available from the campground, including hiking, a horseshoe pit, a baseball field and access to the beautiful and extensive White Mountain Trail System for hiking and mountain biking.<h4>Facilities:</h4>Lewis Canyon can accommodate up to 150 guests. The camping area is private and spaced around a large loop for the group to spread out. Vault toilets and a picnic area are provided.<h4>Nearby Attractions:</h4>Visitors can explore endless vistas and take part in many outdoor activities in the surrounding Apache-Sitgreaves National Forest, which encompasses 2 million acres of magnificent mountain country in east-central Arizona and New Mexico.",
+    "FacilityLatitude": 34.28611111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "928-368-2100",
+    "FacilityDirections": "Drive to Pinedale, Arizona, on State Highway 260, approximately 14 miles northwest of Show Low. Turn south on Forest Road 130 and continue approximately 2.3 miles to Junction 130A. Turn right to the group site.",
+    "FacilityName": "LEWIS CANYON",
+    "LastUpdatedDate": "2015-03-12 02:01:15",
+    "LegacyFacilityID": 70063,
+    "OrgFacilityID": "AN370063",
+    "FacilityID": 231885,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:33:19",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 59189,
+        "CampsiteName": 1,
+        "Loop": "LEWI",
+        "CampsiteAccessible": false,
+        "FacilityID": 231885,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029903,
+      "PostalCode": 85929,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "2022 W. WHITE MOUNTAIN BLVD",
+      "City": "LAKESIDE",
+      "FacilityID": 231885,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

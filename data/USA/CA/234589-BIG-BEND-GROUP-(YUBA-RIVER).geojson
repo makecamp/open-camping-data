@@ -1,0 +1,149 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.51944444444445,
+      39.30638888888888
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.51944444444445,
+    "FacilityDescription": "<h2>Overview</h2>Big Bend Group Campground is located 19 miles west of Truckee, California in the Tahoe National Forest at an elevation of 5,700 feet.<br /><br />Visitors enjoy the area for its fishing and hiking opportunities, as well as its historic significance along the California Emigrant Trail.<h4>Natural Features:</h4>The campground lies along the gentle South Yuba River just beyond the Big Bend Visitor Center. A forest of pine and fir covers the area, offering pleasant shade in many sites.<h4>Recreation:</h4>The South Yuba River offers swimming and rainbow trout fishing. The historic California Emigrant Trail and Loch Leven Trail pass nearby. The surrounding area offers many additional hiking, biking and off-road vehicle trails.<h4>Facilities:</h4>The campground offers two accessible group sites, Lincoln and Victory, which can accommodate up to 25 people and five vehicles each. Picnic tables and campfire rings are provided, as are vault toilets and drinking water.<br /><br />Big Bend Visitor Center is within walking distance and offers a museum and interpretive displays. <h4>Nearby Attractions:</h4>Donner Lake is located 15 miles east via historic Route 40/Lincoln Highway, the nations first transcontinental highway. Many points of interest lie along Route 40, including China Wall, Rainbow Bridge, Sugar Bowl, Lake Van Norden and Ice Lakes.",
+    "FacilityLatitude": 39.30638888888888,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-478-6150",
+    "FacilityDirections": "From Truckee, take I-80 19 miles west to the Rainbow Road Exit. Travel west about 1.5 miles to the Big Bend Ranger Station and Visitor Center. Turn right past the Visitor Center and cross bridge. The campground is on the right. Victory is the first campsite and Lincoln is the second one at the end.",
+    "FacilityName": "BIG BEND GROUP (YUBA RIVER)",
+    "LastUpdatedDate": "2015-03-12 02:43:53",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75483,
+    "OrgFacilityID": "AN375483",
+    "FacilityID": 234589,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 67262,
+        "CampsiteName": "Victory",
+        "Loop": "BIG BEND GROUP (YUBA RIVER)",
+        "CampsiteAccessible": true,
+        "FacilityID": 234589,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 67901,
+        "CampsiteName": "Lincoln",
+        "Loop": "AREA BIG BEND GROUP (YUBA RIVER)",
+        "CampsiteAccessible": true,
+        "FacilityID": 234589,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032617,
+      "PostalCode": 95959,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "631 Coyote Street",
+      "City": "Nevada City",
+      "FacilityID": 234589,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

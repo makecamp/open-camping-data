@@ -1,0 +1,858 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.25138333333334,
+      34.230447222222224
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -94.25138333333334,
+    "FacilityDescription": "<h2>Overview</h2>Little Coon Creek Campground is located on Gillham Lake in southwestern Arkansas on the Cossatot River. The rugged terrain around the lake creates stunning views and provides for many opportunities for boating, fishing, hunting, and swimming.<h4>Natural Features:</h4>Gillham Lake spans 1,370 surface acres and boasts 36 miles of shoreline. The Dam was completed in 1975 and stems from the Cossatot River, which has been designated as a National Wild and Scenic River.<h4>Recreation:</h4>Visitors enjoy the lake for its vast boating opportunities, and a boat ramp is provided for easy water access.                                                                                               <p>                                                                                                                                                                                                                                                                                                                 Anglers will find smallmouth, largemouth, and spotted bass, saugeye, crappie, channel and flathead catfish and various species of sunfish in the river. Fly fishing is also a popular pastime.Hunting is allowed north of Little Coon Creek Park and on the eastern shore of the lake. Check with the Arkansas Game and Fish for Season Dates and Regulations. Lake maps are also available from any Park Attendant at the lake.</p><h4>Facilities:</h4>Little Coon Creek provides 10 campsites and a group picnic shelter; each site has water and 50-amp electric hookups available. Additional amenities include hot showers with restrooms, a boat ramp with a handicap accessible fishing pier, a playground and a dump station nearby.<h4>Nearby Attractions:</h4>The Cossatot River State Park-Natural Area and the Queen Wilhelmina State Park are both within driving distance just north of Gillham Lake. Both of these attractions offer great scenery, hiking, and interpretive programs that are fun for all ages.",
+    "FacilityLatitude": 34.230447222222224,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "870-584-4161",
+    "FacilityDirections": "From US-59/71 at Grannis, Arkansas, turn east onto County Rd 3/Frachiseur Rd and stay on this road for 5 miles and then follow the signs on into the park.",
+    "FacilityName": "LITTLE COON CREEK PARK",
+    "LastUpdatedDate": "2015-03-12 02:47:02",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 111239,
+    "OrgFacilityID": "AN411239",
+    "FacilityID": 234767,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89394,
+        "CampsiteName": 5,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89404,
+        "CampsiteName": 7,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 89452,
+        "CampsiteName": "GS1",
+        "Loop": "Group Shelter",
+        "CampsiteAccessible": true,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89469,
+        "CampsiteName": 3,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89563,
+        "CampsiteName": 6,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89593,
+        "CampsiteName": 2,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89606,
+        "CampsiteName": 9,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89684,
+        "CampsiteName": 1,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89803,
+        "CampsiteName": 8,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89865,
+        "CampsiteName": 10,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "STANDARD ELECTRIC",
+        "CampsiteID": 89949,
+        "CampsiteName": 4,
+        "Loop": "Little Coon",
+        "CampsiteAccessible": false,
+        "FacilityID": 234767,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 70,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032813,
+      "PostalCode": 71832,
+      "AddressStateCode": "AR",
+      "FacilityStreetAddress1": "706 De Queen Lake Road",
+      "City": "De Queen",
+      "FacilityID": 234767,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

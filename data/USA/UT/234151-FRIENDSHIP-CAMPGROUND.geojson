@@ -1,0 +1,99 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.66527777777779,
+      41.66083333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.66527777777779,
+    "FacilityDescription": "<h2>Overview</h2>Friendship Campground is located about 15 miles from Hyrum, Utah, in the mountains of Blacksmith Fork Canyon at an elevation of 5,600 feet. Visitors enjoy hiking, fishing and exploring off-road trails.<h4>Natural Features:</h4>Shady maples forest the campground, offering an escape from the summer heat. Grasses and wildflowers dot the landscape, providing pretty color in the summer months.<h4>Recreation:</h4>Friendship offers many recreational activities. Richards Hollow Trail, for hiking and mountain biking, begins just outside the campground. Left Hand Fork provides great fishing for wild brown, cutthroat and rainbow trout. The Shoshone ATV Trail System is nearby.<h4>Facilities:</h4>The campground offers one group site that can accommodate up to 25 people. Accessible pit toilets are provided.",
+    "FacilityLatitude": 41.66083333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-226-3564",
+    "FacilityDirections": "From Hyrum, Utah, travel approximately 9 miles east up paved Blacksmith Fork Canyon, then turn left at Left Hand Fork and travel 4.5 miles on a rough dirt road to the campground. The group area is the first site on the left as you enter the campground.",
+    "FacilityName": "FRIENDSHIP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "LegacyFacilityID": 74180,
+    "OrgFacilityID": "AN374180",
+    "FacilityID": 234151,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 59408,
+        "CampsiteName": 1,
+        "Loop": "FRIENDSHIP CAMPGROUND ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234151,
+        "attributes": [
+          {
+            "AttributeValue": "Quad",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032170,
+      "PostalCode": 84319,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "L.H FORK OF BLACKSMITH FORK C.",
+      "City": "HYRUM",
+      "FacilityID": 234151,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

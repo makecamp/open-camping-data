@@ -1,0 +1,189 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.22788888888888,
+      42.968333333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -72.22788888888888,
+    "FacilityDescription": "<h2>Overview</h2>Otter Brook Lake Beach is a U.S. Army Corps of Engineers day use facility offering many outdoor recreation opportunities everyone can enjoy. The park is located in Keene and Roxbury, New Hampshire. <h4>Natural Features:</h4>Otter Brook Lake Beach offers a large sandy beach, open grassy areas as well as shady sites along the river. <h4>Recreation:</h4>Swimming, sunbathing, picnicking, canoeing, wildlife viewing and fishing are just a few of the summertime favorite activities enjoyed at Otter Brook Lake Beach. If sports are your idea of fun, there are plenty of large areas for volleyball, baseball and other team sports. There are also horseshoe pits available throughout the park. If you are planning a family reunion, company party, wedding reception or any group function, the shelters at Otter Brook Lake Beach are a great place to hold your event. <h4>Facilities:</h4>Otter Brook Lake Beach has restrooms with flush toilets, a large sandy beach with a swim area and a boat ramp. Picnic tables and grills are located throughout the park. Three shelters are available for group events. The largest shelter, the Pine, accommodates up to 80 people. It has electricity and is located along the gravel road near the river. The medium size shelter, the Elm, accommodates up to 60 people. It also has electricity. It is located on the entrance road, and is the closest shelter to the restroom. The Alder shelter, is the smallest shelter, it can accommodate up to 16 people. It does not have electricity but it is the closest shelter to the beach.",
+    "FacilityLatitude": 42.968333333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "603-352-4130",
+    "FacilityDirections": "Otter Brook Lake Beach is located off of Route 9 East in Keene, NH.",
+    "FacilityName": "OTTER BROOK LAKE BEACH",
+    "LastUpdatedDate": "2015-03-12 02:25:04",
+    "LegacyFacilityID": 73057,
+    "OrgFacilityID": "AN373057",
+    "FacilityID": 249980,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:17:43",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 76108,
+        "CampsiteName": "Alder",
+        "Loop": "OTTER BROOK LAKE BEACH",
+        "CampsiteAccessible": false,
+        "FacilityID": 249980,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:17:43",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 76137,
+        "CampsiteName": "Elm",
+        "Loop": "OTTER BROOK LAKE BEACH",
+        "CampsiteAccessible": true,
+        "FacilityID": 249980,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:17:43",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 76838,
+        "CampsiteName": "Pine",
+        "Loop": "OTTER BROOK LAKE BEACH",
+        "CampsiteAccessible": true,
+        "FacilityID": 249980,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 80,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031435,
+      "PostalCode": 3431,
+      "AddressStateCode": "NH",
+      "FacilityStreetAddress1": "480 Branch Road",
+      "City": "Keene",
+      "FacilityID": 249980,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

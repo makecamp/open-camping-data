@@ -1,0 +1,119 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.40277777777779,
+      44.41972222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.40277777777779,
+    "FacilityDescription": "<h2>Overview</h2>Elk Creek Cabins are open from November through April, offering a rustic retreat for winter sports enthusiasts. Guests must be prepared to snowmobile, snowshoe or ski at least 15 miles from the parking area to the cabin, and they are responsible for their own travel arrangements and safety.<br /><br />These cabins offer a few amenities, but guests will need to bring some of their own equipment and supplies to make their stay comfortable.<h4>Natural Features:</h4>Elk Creek Cabins are located in beautiful but remote Bear Valley at an elevation of 6,400 feet. They are adjacent to the Frank Church - River of No Return Wilderness andscenic Elk Creek. The cabins are situated in a high mountain meadow dotted with Douglas fir and lodgepole pine amid the peaks of the Sawtooth Range.<br /><br /> Winter highs are typically in the 20-30 degree range, with lows averaging -15 to +5 degrees. Deep snow blankets the landscape during the winter months.<br /><br />Wildlife enthusiasts can watch carefully for snowshoe hares or ermine with their white winter coats. Deer, elk, moose, red squirrels, coyote and lynx are all activein the winter.<h4>Recreation:</h4>Thirty miles of groomed trails surround the cabins, offering excellent snowmobiling, cross-country skiing and snowshoeing. Skiers and snowshoers can enjoy a backcountry adventure in the Frank Church - River of No Return Wilderness, but snowmobiles are not allowed. <h4>Facilities:</h4>Cabin 1 can accommodate up to 10 people on three double beds and four cots with mattresses. The kitchen is equipped with a dry sink, propane stove and refrigerator. A fireplace, couch, chairs and dining table with chairs are in the front room. A wood stove is located off the kitchen for heating.<br /><br /> Cabin 2 has two bedrooms that can accommodate a total of eight people. One single bed with mattress, three cots and two additional mattresses are provided. The kitchen is equipped with a dry sink, propane stove, table and chairs, a couch and wood stove.<br /><br /> A picnic area and an outhouse with a vault toilet are located outside. Both cabins come equipped with some cookware and utensils for cooking and eating. Firewood for both cabins is provided in a woodshed, but may need to be split. An axe and splitting maul are provided.<br /><br /> Neither cabin has electricity or water. Guests must bring their own water as well as garbage bags for packing out trash. Bedding, lighting and emergency suppliesare not provided.",
+    "FacilityLatitude": 44.41972222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Lowman, ttake State Highway 21 east approximately 40 miles to Cape Horn. Park in the plowed parking lot and snowmobile/ski/snowshoe on the Stanley-Landmark Road (FS579) for approximately 15 miles to Elk Creek.<br /><br />Alternate access from the Boise area if Highway 21 is closed between Grandjean and Banner Summit: from Lowman, snowmobile north on the Clear Creek Road (FS582) for approximately 34 miles. Go west on the Stanley-Landmark Road for approximately 3 miles to the cabin.<br /><br /> Depending on grooming conditions, alternate routes may be available. Take a map and check local conditions.",
+    "FacilityName": "ELK CREEK CABINS",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "LegacyFacilityID": 70809,
+    "OrgFacilityID": "AN370809",
+    "FacilityID": 232401,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 75332,
+        "CampsiteName": 1,
+        "Loop": "ELK1",
+        "CampsiteAccessible": false,
+        "FacilityID": 232401,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 75758,
+        "CampsiteName": 2,
+        "Loop": "ELK2",
+        "CampsiteAccessible": false,
+        "FacilityID": 232401,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Cabin Heating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030419,
+      "PostalCode": 83637,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "C/O 7359 HWY 21",
+      "City": "LOWMAN",
+      "FacilityID": 232401,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

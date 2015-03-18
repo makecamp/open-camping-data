@@ -1,0 +1,90 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.51388888888889,
+      36.34722222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -86.51388888888889,
+    "FacilityDescription": "<h2>Overview</h2>Nat Caldwell Park, located on the shores of Old Hickory Lake, is just a short drive from Nashville, Tennessee. The park is an ideal place for a day of picnicking and boating with a convenient boat ramp for easy lake access and group picnic shelter for entertaining. <h4>Natural Features:</h4>Old Hickory Lake is a 22,500 acre reservoir created by the Old Hickory Lock and Dam on the Cumberland River.  The lake is named after former president Andrew Jackson, a Tennessee-native nicknamed &quot;Old Hickory&quot; for his tough and aggressive personality. <br /><br />The lake features 440 miles of scenic shoreline, surrounded by wooded flatlands and plenty of access points. <h4>Recreation:</h4>Nat Caldwell is quieter than some of its neighboring picnic areas, making it a wonderful place to fish, view wildlife or simply get away from it all.<h4>Facilities:</h4>The group picnic shelter holds 50 guests and the parking area fits 45 vehicles. Facilities include flush toilets and a boat ramp.<h4>Nearby Attractions:</h4>Hikers can explore the 1.1-mile Old Hickory Lake Nature Trail with three loops that range in terrain: the Woodland Loop, Willow Swamp Loop and the Wildlife Loop. <br /><br />The lake is also near The Hermitage, a National Historic Landmark and plantation where former president, Andrew Jackson lived in the early 19th century.",
+    "FacilityLatitude": 36.34722222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "(615)822-4846",
+    "FacilityDirections": "Go north of Nashville, TN,  on I-65; exit onto Vietnam Veterans Blvd East and followuntil it rejoins Gallatin Road (Highway 31E), recreation area is 4 miles down onthe left and right side of Gallatin Rd.",
+    "FacilityName": "NAT CALDWELL PARK",
+    "LastUpdatedDate": "2015-03-12 02:13:17",
+    "LegacyFacilityID": 71306,
+    "OrgFacilityID": "AN371306",
+    "FacilityID": 232650,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 74338,
+        "CampsiteName": 1,
+        "Loop": "GROUP SITE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232650,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030663,
+      "PostalCode": 37066,
+      "AddressStateCode": "TN",
+      "City": "GALLATIN",
+      "FacilityID": 232650,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

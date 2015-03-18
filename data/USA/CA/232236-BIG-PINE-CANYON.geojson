@@ -1,0 +1,138 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.42222222222223,
+      37.12833333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.42222222222223,
+    "FacilityDescription": "<h2>Overview</h2>Big Pine Canyon Recreation Area includes two group campground sites. Named for glaciers that can be seen at the end of the valley, Clyde Glacier Group Site and Palisade Glacier Group Site sit along Big Pine Creek.<h4>Natural Features:</h4>Big Pine Canyon is heralded for having both the largest and southern most glaciers in the Sierra Nevada mountains. Palisade Glacier, the largest, sits above Big Pine Lakes. These impressive glacial lakes at around 10,000 feet elevation are the source of the North Fork of Big Pine Creek. The South Fork is bordered by the Palisade Crest with peaks over 14,000 feet and Middle Palisade Glacier, the southernmost glacier.<h4>Recreation:</h4>Fishing is a popular activity in the creek and nearby lakes. Climbers make use of the steep, glacier-carved canyon walls for excellent climbing opportunities.<br /><br />The North Fork Trail climbs past waterfalls and zigzags through Jeffrey pine, manzanita and sage before it reaches Big Pine Lakes with views of Palisade Glacier, the largest glacier.<br /><br />The South Fork Trail climbs to small lakes fed by glacial waters from Norman Clyde and Middle Palisade Glaciers, the southernmost glaciers. <h4>Facilities:</h4>The Clyde Glacier standard campsite fits up to 25 guests. Parking includes two 35-foot and six 20-foot paved spaces. Palisades Glacier campsite is also paved and can accommodate 20 people for tent camping only.<br /><br />Campfire rings and grills are provided.<h4>Nearby Attractions:</h4>The glaciers in the nearby John Muir Wilderness provide an exciting hiking destination. A commercial pack station is within close proximity for horse enthusiasts looking for an outdoor adventure. A general store, pay showers and pond fishing can be found at a nearby resort.",
+    "FacilityLatitude": 37.12833333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "760-935-4339",
+    "FacilityDirections": "From Highway 395 in Big Pine, California, turn west at flashing yellow traffic light and continue on Crocker Street/Big Pine Road for 9 miles. The group campground is just above Upper Sage Flat Campground on the left.",
+    "FacilityName": "BIG PINE CANYON",
+    "LastUpdatedDate": "2015-03-12 02:07:00",
+    "LegacyFacilityID": 70518,
+    "OrgFacilityID": "AN370518",
+    "FacilityID": 232236,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:18:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 64141,
+        "CampsiteName": "CLY",
+        "Loop": "CGLC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232236,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:18:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 64897,
+        "CampsiteName": "PAL",
+        "Loop": "GLAC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232236,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030254,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "INYO",
+      "FacilityID": 232236,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

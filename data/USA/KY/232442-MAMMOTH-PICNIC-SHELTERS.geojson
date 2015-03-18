@@ -1,0 +1,168 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.15,
+      37.18333333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -86.15,
+    "FacilityDescription": "<h2>Overview</h2>Mammoth is a large picnic shelter equipped with grills and plenty of seating, conveniently located near the starting point of Mammoth Caves park tours. Visitors can take a hike, join a cave tour, and still have time to fire up the grill for a picnic.<p>The shelters are within Mammoth Cave National Park, which is best known for its caves that extend for 390 miles. Their formation began millions of years ago when mildly acidic groundwater dissolved on beds of limestone, creating subterranean passages. Native inhabitants of the cave include bats, spiders, and blindfish. </p><h4>Natural Features:</h4>The picnic shelters are surrounded by oak, elm, and maple trees in the Green River Valley. The park sits above the labyrinth of underground caves and extends out over rolling hill country.<h4>Recreation:</h4>Picnicking, enjoying the outdoors, and exploring the caves are of primary interest to visitors. The site has trailheads to the Green River Bluffs Trail and the Dixon Cave Trail. Both hiking trails are about a mile long. <h4>Facilities:</h4>The picnic shelters are across the road from the visitor center parking lot. Both shelters fit 60 people. Choose from the enclosed shelter or the open shelter, and enjoy the grassy surrounding area as well.<h4>Nearby Attractions:</h4>The Green River is where anglers can fish for perch, bass and bluegills, and where kayakers can paddle past lush, tree-lined banks. Any part of Mammoth Cave National Parks 52,800 acres is worth exploring through trails or scenic drives.",
+    "FacilityLatitude": 37.18333333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From the North: Take Interstate 65 to Exit 53 (Cave City Exit). Turn right <br />From the South: Take Interstate 65 to Exit 48 (Park City Exit). Turn left  <br />Follow signs to the visitors center picnic area located on the right of the parking lot.",
+    "FacilityName": "MAMMOTH PICNIC SHELTERS",
+    "LastUpdatedDate": "2015-03-12 02:10:10",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70920,
+    "OrgFacilityID": "AN370920",
+    "FacilityID": 232442,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "PICNIC",
+        "CampsiteID": 9335,
+        "CampsiteName": "G002",
+        "Loop": "Picnic Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 232442,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Quad",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "PICNIC",
+        "CampsiteID": 9336,
+        "CampsiteName": "G001",
+        "Loop": "Picnic Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 232442,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Quad",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030461,
+      "PostalCode": 42259,
+      "AddressStateCode": "KY",
+      "FacilityStreetAddress1": "PO Box 7",
+      "City": "Mammoth Cave",
+      "FacilityID": 232442,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

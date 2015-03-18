@@ -1,0 +1,156 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.93944444444445,
+      34.26916666666666
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -91.93944444444445,
+    "FacilityDescription": "<h2>Overview</h2>Sainte Marie Park sits on the banks of Lake Langhofer and the Arkansas River by Pool 3 Lock and Dam. <br /><br />Whether boating, fishing, hiking, picnicking or hosting a group event, Sainte Marie has facilities to accommodate a range of activities.<h4>Natural Features:</h4>The park is in a forested area along the riverfront, close to the rolling fields of cotton farms. It is 193 feet above sea level; winters are generally mild and summer temperatures reach the upper 90s with high humidity. <br /><br />Red fox are frequently seen in the park, and numerous species of waterfowl live in the water and along the shores. <h4>Recreation:</h4>The campground is popular among fishermen. There is excellent catfish fishing in the tail-waters of Joe Hardin Lock and Dam as well as Emmitt Sanders Lock and Dam at the upstream end of Pool 3. Anglers often catch bass, crappie and bream. <br /><br />Hunting is available in nearby forests, and there is duck hunting on the waterways. <br /><br />On shore, families enjoy picnicking and using the playground.<h4>Facilities:</h4>Sainte Marie offers two reservable group picnic shelters that can each accommodate up to 75 people.<br /><br /> There are no electric hookups, but drinking water is provided. Additional amenities include grills, a courtesy dock and fishing dock.<h4>Nearby Attractions:</h4>The City of Pine Bluff is the home for the Arkansas Railroad Museum, Pine Bluff Regional Park, the Martha Mitchell Home and other points of interest, as well as shopping and groceries.",
+    "FacilityLatitude": 34.26916666666666,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "870-534-0451",
+    "FacilityDirections": "From Pine Bluff, follow the Martha Mitchell Expressway onto U.S. Highway 63N/79N. Turn left onto Louis L. Ramsay Road. Continue on St. Marie Park Road into the facility.",
+    "FacilityName": "STE MARIE PARK",
+    "LastUpdatedDate": "2015-03-12 02:38:23",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75092,
+    "OrgFacilityID": "AN375092",
+    "FacilityID": 234242,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:54:18",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:39:59",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 30061,
+        "CampsiteName": "G01",
+        "Loop": "STE MARIE PARK ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234242,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:54:18",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:39:59",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 30439,
+        "CampsiteName": "G02",
+        "Loop": "STE MARIE PARK ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234242,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032272,
+      "PostalCode": 72210,
+      "AddressStateCode": "AR",
+      "City": "PINE BLUFF",
+      "FacilityID": 234242,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

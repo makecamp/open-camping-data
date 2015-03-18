@@ -1,0 +1,137 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.99238055555556,
+      42.900275
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -71.99238055555556,
+    "FacilityDescription": "<h2>Overview</h2>Edward MacDowell Lake is situated in a quiet corner of the Monadnock Region of New Hampshire. <br /><br />This day-use area lies just off State Route 101 on the shores of the picturesque lake named after the famous composer and concert pianist, Edward Alexander MacDowell. <h4>Natural Features:</h4>The 165-acre lake is surrounded by densely forested rolling hills. Shady pine, birch, poplar, maple, oak, beech, hemlock and alder trees cover the area.<br /><br />Wildlife is abundant in and around the park. White-tailed deer, moose, beaver, fisher, muskrat, otter and many other mammals make their homes around the lake. Birders may observe many species including osprey, hawks, owls, great blue herons, woodpeckers, waterfowl and songbirds.<h4>Recreation:</h4>Visitors can spend days kayaking and canoeing on the scenic lake, and a boat ramp is provided for easy lake access.<br /><br />Fishing is also a popular activity. Largemouth bass, pickerel, perch and horned pout are all found in abundance.<br /><br />Several hiking trails link up around the lake as well, including the West Ridge Trail, which runs along the entire western edge of the lake and up through the surrounding wetlands. <br /><br />Younger visitors enjoy the parks Junior Ranger Program, which focuses on the surrounding forest, its wildlife and waterways and protecting the environment. Kids ages six through 12 become honorary park rangers upon completion and receive a patch and certificate.<h4>Facilities:</h4>This year-round park is open from sunrise to sunset. It offers two day-use picnic shelters, perfect for large parties or family functions. Flush toilets, drinking water, picnic tables and grills are provided. <br /><br />A swim beach, playground, horseshoe pits and volleyball court offer additional recreation opportunities.<h4>Nearby Attractions:</h4>Educational programs are offered by park rangers, and the nearby ranger station contains interpretive exhibits.",
+    "FacilityLatitude": 42.900275,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "603-924-3431",
+    "FacilityDirections": "From Route 101 in Peterborough, take a right onto Union Street for 1/2-mile, then take a left onto Wilder Street and travel all the way to the end of the street.",
+    "FacilityName": "Edward MacDowell Lake Day Use Facilities",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75015,
+    "OrgFacilityID": "AN375015",
+    "FacilityID": 234176,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:15:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 46177,
+        "CampsiteName": "SH2",
+        "Loop": "EDWARD MACDOWELL",
+        "CampsiteAccessible": true,
+        "FacilityID": 234176,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:15:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 46600,
+        "CampsiteName": "SH1",
+        "Loop": "EDWARD MACDOWELL",
+        "CampsiteAccessible": true,
+        "FacilityID": 234176,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032206,
+      "PostalCode": 3458,
+      "AddressStateCode": "NH",
+      "FacilityStreetAddress1": "75 WILDER STREET",
+      "City": "PETERBOROUGH",
+      "FacilityID": 234176,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

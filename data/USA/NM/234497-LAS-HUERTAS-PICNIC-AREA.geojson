@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.41055555555556,
+      35.234722222222224
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.41055555555556,
+    "FacilityDescription": "<h2>Overview</h2>Las Huertas Picnic Area is one of several picnic areas in the scenic Sandia Range within close proximity to Albuquerque, making it a popular area for visitors to enjoy a getaway in nature. The surrounding forest and mountains provide a beautiful location for sightseeing and outdoor recreation.<h4>Natural Features:</h4>The site is located in the Sandia Mountains, just 16 miles from Albuquerque at an elevation of 7,600 feet. Las Huertas is adjacent to the only year-round stream in the range. The creek can be heard throughout the picnic area. Aspen and fir trees surround the area, providing shade from the sun.<br /><br />The Sandias are home to Rocky Mountain bighorn sheep, mule deer, black bear and many other species of wildlife and birds, including golden eagles often seen soaring at the crest.<h4>Recreation:</h4>Las Huertas Creek is stocked with fish, providing opportunities for leisurely fishing. At least two marked hiking trails, including the Cedro Trail, extend from the area into the scenic Sandia Mountains. <br /><br />Sandia Peak Ski Area offers a tram to 10,678 Sandia Crest, which gives visitors a different vantage point from which to view the surrounding range and valleys. It provides a panoramic view of Albuquerque and the Rio Grande Valley below. Sunsets are spectacular, as are night views of the city lights and starry skies.<h4>Facilities:</h4>The accessible picnic area has a covered shelter that can accommodate up to 30 people. It is equipped with multiple picnic tables and grills. Accessible vault toilets are provided. Water is not available at the site, nor is firewood or charcoal. <h4>Nearby Attractions:</h4>The picnic area is not far from the Sandia Crest Scenic Highway, which travels 13.6 miles to the top ridge of the Sandia Mountains. The roadway is a popular path for motorcyclists and auto touring, with its miles of winding road to the summit.<br /><br />The rock walls and pinnacles on the west side of the Sandia Range provide abundant rock climbing opportunities. The terrain also provides numerous launching spots for hang gliding, which is popular during summer months.",
+    "FacilityLatitude": 35.234722222222224,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "505-281-3304",
+    "FacilityDirections": "From Albuquerque, drive north on I-25 to Exit 242. Continue east on Highway 165 through Placitas to the forest boundary. Travel five miles on the gravel road to the second entrance, which leads to the picnic grounds.",
+    "FacilityName": "LAS HUERTAS PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75382,
+    "OrgFacilityID": "AN375382",
+    "FacilityID": 234497,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:29:51",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 59696,
+        "CampsiteName": 1,
+        "Loop": "LAS HUERTAS",
+        "CampsiteAccessible": true,
+        "FacilityID": 234497,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032525,
+      "PostalCode": 87059,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "11776 HIGHWAY 337",
+      "City": "TIJERAS",
+      "FacilityID": 234497,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

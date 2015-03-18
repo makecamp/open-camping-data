@@ -1,0 +1,142 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.55777777777777,
+      40.702222222222225
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -109.55777777777777,
+    "FacilityDescription": "<h2>Overview</h2>Iron Springs Group Campground is located approximately 5 miles off U.S. Highway 191, along the Red Cloud Loop Scenic Backway at an elevation of 9,200 feet. Campers enjoy exploring local off-road trails.<h4>Natural Features:</h4>Iron Springs lies at the edge of a grassy meadow bordered by shady pines and aspens. Sagebrush and summer wildflowers dot the meadow. Many small lakes and streams can be found in the vicinity.<h4>Recreation:</h4>Red Cloud Loop offers scenic driving on a maintained dirt road, providing miles of trails for ATVs, hikers and mountain bikers. The loop leads to numerous reservoirs and lakes, overlooks, historic sites and through forests and meadows.<br /><br />East Park and Oaks Park Reservoirs are less than 10 miles away. Both are stocked with catchable rainbow trout. A boat ramp is available at East Park; Oaks Park does not have a boat ramp. Brush Creek Caves are nearby, a popular destination for caving and geocaching.<h4>Facilities:</h4>The campground consists of two group sites that can accommodate up to 50 people each. Vault toilets and drinking water are provided. Picnic tables and campfire circles are located at each site. Large gravel parking areas are adjacent.<h4>Nearby Attractions:</h4>Flaming Gorge National Recreation Area is known not only for its beautiful red cliffs, but also for its world-class fishing for lake, brown and rainbow trout. Boating, water skiing, jet skiing, canoeing, kayaking, swimming and scuba diving are popular activities on the reservoir.<br /><br />Flaming Gorge Dam offers guided tours of the working hydroelectric plant and the dam itself; The adjacent visitor center contains area history exhibits.<br /><br />The Green River below the dam provides spectacular rafting opportunities. A trip down the river offers unique geology, outlaw history and Native American rock art.",
+    "FacilityLatitude": 40.702222222222225,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-789-1181",
+    "FacilityDirections": "From Vernal, Utah: Travel north on U.S. Highway 191 for 20 miles. Turn northwest onto Forest Road 018/Red Cloud Loop and travel approximately 5 miles to the campground.",
+    "FacilityName": "IRON SPRINGS GROUP ASHLEY",
+    "LastUpdatedDate": "2015-03-12 02:07:45",
+    "LegacyFacilityID": 70624,
+    "OrgFacilityID": "AN370624",
+    "FacilityID": 232307,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:43:29",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:15:10",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 73062,
+        "CampsiteName": 2,
+        "Loop": "IRON",
+        "CampsiteAccessible": false,
+        "FacilityID": 232307,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:43:29",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:15:10",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 73764,
+        "CampsiteName": 1,
+        "Loop": "IRON",
+        "CampsiteAccessible": false,
+        "FacilityID": 232307,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030325,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "ASHLEY",
+      "FacilityID": 232307,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

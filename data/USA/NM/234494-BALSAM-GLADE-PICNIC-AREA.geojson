@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.40722222222223,
+      35.21361111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.40722222222223,
+    "FacilityDescription": "<h2>Overview</h2>Balsam Glade Picnic Area is one of several picnic areas in the scenic Sandia Range within close proximity to Albuquerque, making it a popular place for visitors to enjoy the outdoors. The surrounding forest and mountains provide a beautiful location for sightseeing and a variety of recreational opportunities.<h4>Natural Features:</h4>The picnic area is located just above the base of Sandia Peak Ski Area, about 23 miles from Albuquerque at an altitude of about 8,600 feet. It is adjacent to La Madera Canyon Overlook, with views of South Mountain. <br /><br />The Sandias are home to Rocky Mountain bighorn sheep, mule deer, black bear and many other species of wildlife and birds, including golden eagles, often seen soaring overhead.<h4>Recreation:</h4>The Sandia Crest Scenic Highway extends 13.6 miles from the picnic area into the Sandia Mountains. It is a popular path for motorcyclists and auto touring, with its miles of winding road to the summit.<br /><br />Day hikes are available along many surrounding trails, including to La Madera Canyon Overlook. <br /><br />Sandia Peak Ski Area offers a tram to 10,678 Sandia Crest, which gives visitors a different vantage point to see the surrounding range and valleys. It provides a panoramic view of Albuquerque and the Rio Grande Valley below. Sunsets are spectacular, as are night views of the city lights and starry skies.<h4>Facilities:</h4>The picnic area has a covered shelter, which is a replica of a mid-1930s Civilian Conservation Corps design. It can accommodate up to 30 people and is equipped with multiple picnic tables and grills. Accessible vault toilets are provided. Water is not available at the site, nor is firewood or charcoal.<h4>Nearby Attractions:</h4>The rock walls and pinnacles on the west side of the Sandia Range provide abundant rock climbing opportunities. The terrain also provides numerous launching spots for hang gliding, which is popular during summer months.",
+    "FacilityLatitude": 35.21361111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Albuquerque, drive approximately 7 miles east on I-40 to Exit 175. Continue north on Highway 14 for another 7 miles to Highway 536. Go west on Highway 536 for approximately 9 miles to the picnic area.",
+    "FacilityName": "BALSAM GLADE PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75378,
+    "OrgFacilityID": "AN375378",
+    "FacilityID": 234494,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:49:11",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:39:59",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 30101,
+        "CampsiteName": 1,
+        "Loop": "BALSAM ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234494,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032522,
+      "PostalCode": 87059,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "11776 HIGHWAY 337",
+      "City": "TIJERAS",
+      "FacilityID": 234494,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

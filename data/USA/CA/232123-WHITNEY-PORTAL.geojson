@@ -1,0 +1,1800 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.22977777777778,
+      36.58986111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.22977777777778,
+    "FacilityDescription": "<h2>Overview</h2>Whitney Portal Campground is in a prime location within the eastern Sierra Nevada Mountains - at the base of Mt. Whitney, the highest peak in the continental United States. <br /><br />With hiking trails to Mt. Whitney and the John Muir Wilderness less than a mile away, the campground is a popular home base for hikers, as well as family, RV and tent campers who wish to explore the areas activities and enjoy unparalleled scenery. <h4>Natural Features:</h4>The facility is situated in a thick pine forest at an elevation of 8,000 ft. Campers can see striking views of the rugged granite peaks surrounding it.<br /><br />The area is home to abundant wildlife, including black bear, mountain lions, mule deer, pine martin, pika and many species of fish and birds. This campground is especially prone to bear activity.<h4>Recreation:</h4>Hikers are drawn to the majestic scenery and challenging trails of the Whitney Portal recreation area. Nearby trails lead into the John Muir Wilderness and Sequoia and Kings Canyon National Park.<br /><br />The campground is only 0.5 miles from trailheads to Mt. Whitney, Meysan Lake and other popular destinations. Visitors should be aware that hiking in this area may require a permit.<br /><br />Visitors can also hike, fish and picnic in the area around the campground. There are numerous lakes, streams and a small pond in the area for trout fishing.<h4>Facilities:</h4>The campground is adjacent to Whitney Creek and just down the road from Trailhead Campground. Numerous campsites are arranged on either side of the creek, including three group camping areas and several tent-only sites. Paved roads, vault toilets and drinking water are provided. <br /><br />Bears frequent the area, and campers are required to use the bear-proof food storage lockers provided in the facility (all supplies must fit; dimensions are 18 inches high, 18 inches deep and 50 inches long). Firewood is available for purchase on-site, and a small convenience store with showers is nearby.<h4>Nearby Attractions:</h4>Campers can enter the John Muir Wilderness, a land of lofty snow-capped mountains, deep canyons and vast expanses of glacially carved terrain, via nearby trails. Mt. Whitney is within the wilderness area and entry is available by lottery for experienced hikers.<br /><br /><a href=http://sierrawild.gov/wilderness/john-muir target=_blank>John Muir Wilderness</a>",
+    "FacilityLatitude": 36.58986111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "760-937-6070",
+    "FacilityDirections": "From U.S. Highway 395 in California, travel to the town of Lone Pine. The campground is 13 miles west of Lone Pine on Whitney Portal Road.",
+    "FacilityName": "WHITNEY PORTAL",
+    "LastUpdatedDate": "2015-03-12 02:04:40",
+    "LegacyFacilityID": 70357,
+    "OrgFacilityID": "AN370357",
+    "FacilityID": 232123,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70004,
+        "CampsiteName": "XXX12",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70049,
+        "CampsiteName": 31,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70153,
+        "CampsiteName": 42,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70162,
+        "CampsiteName": "XXX10",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70164,
+        "CampsiteName": "XXX14",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70172,
+        "CampsiteName": 10,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70192,
+        "CampsiteName": 23,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70197,
+        "CampsiteName": "XXX17",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70199,
+        "CampsiteName": 21,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70200,
+        "CampsiteName": 19,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70259,
+        "CampsiteName": 5,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70273,
+        "CampsiteName": "XXX4",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70284,
+        "CampsiteName": "XXX2",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "WALK TO",
+        "CampsiteID": 70307,
+        "CampsiteName": 44,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70339,
+        "CampsiteName": 39,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70343,
+        "CampsiteName": 1,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70378,
+        "CampsiteName": "XXX11",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 70383,
+        "CampsiteName": "G3",
+        "Loop": "PORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70441,
+        "CampsiteName": "XXX18",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70457,
+        "CampsiteName": 8,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70468,
+        "CampsiteName": "XXX7",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70491,
+        "CampsiteName": "XXX15",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70507,
+        "CampsiteName": 9,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70543,
+        "CampsiteName": 7,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70555,
+        "CampsiteName": "XXX9",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70587,
+        "CampsiteName": 40,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70592,
+        "CampsiteName": 41,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70593,
+        "CampsiteName": 25,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70625,
+        "CampsiteName": "XXX3",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 70679,
+        "CampsiteName": "G1",
+        "Loop": "PORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70682,
+        "CampsiteName": "XXX13",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70687,
+        "CampsiteName": 11,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70693,
+        "CampsiteName": 15,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70716,
+        "CampsiteName": 29,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 70740,
+        "CampsiteName": "G2",
+        "Loop": "PORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70795,
+        "CampsiteName": "XXX16",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70878,
+        "CampsiteName": "XXX1",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70890,
+        "CampsiteName": 13,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 70898,
+        "CampsiteName": 43,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70899,
+        "CampsiteName": 17,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70912,
+        "CampsiteName": "XXX5",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70921,
+        "CampsiteName": "XXX8",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70922,
+        "CampsiteName": 3,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70934,
+        "CampsiteName": 37,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70971,
+        "CampsiteName": 33,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 70989,
+        "CampsiteName": 27,
+        "Loop": "WHIT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:53:39",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 70993,
+        "CampsiteName": "XXX6",
+        "Loop": "AREA WHITNEY PORTAL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232123
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030141,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "INYO NATIONAL FOREST",
+      "City": "LONE PINE",
+      "FacilityID": 232123,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

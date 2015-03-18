@@ -1,0 +1,85 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.01194444444444,
+      34.303888888888885
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -117.01194444444444,
+    "FacilityDescription": "<h2>Overview</h2>Ironwood Group Campground offers a secluded place for an extended family or large group getaway in the mountains of Southern California. A variety of outdoor recreational opportunities, including hiking, mountain biking, target shooting, fishing and boating, can be found in the surrounding area. <h4>Natural Features:</h4>The campground is located near the town of Fawnskin, a few miles north of Big Bear Lake, at an elevation of 6,637 feet. It is situated in a pine forest with a grassy meadow. Mature trees provide ample shade in the campground.<h4>Recreation:</h4>The campground is not far from the Big Pine Flat Recreational Shooting Range, where designated target shooting is available. A variety of hiking, horseback riding and mountain biking trails are in the area.<br /><br />Fishing and boating at nearby Big Bear Lake are also popular activities. Anglers can look forward to a catch of trout, bluegill, crappie, catfish and largemouth bass. Because of cold water temperatures and the presence of underwater obstacles near the shorelines, swimming at the lake is somewhat discouraged, unless done in designated areas.<h4>Facilities:</h4>The campground offers one large group site for tent camping. It can accommodate up to 25 people and six vehicles. The campsite is equipped with picnic tables, a campfire circle and grills. <br /><br />Vault toilets and trash collection are provided, but hookups and drinking water are not available. The parking surface within the campground is gravel.<h4>Nearby Attractions:</h4>A general store and restaurants are available in Fawnskin, 7 miles from the campground.",
+    "FacilityLatitude": 34.303888888888885,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "909-866-3437",
+    "FacilityDirections": "From San Bernardino, travel east on I-10 to Running Springs. Turn onto Highway 18 to Big Bear Lake Dam but dont cross the dam. Go straight on Highway 38 to Fawnskin. Turn left on Rim of the World Drive (Forest Route 3N14) and continue for about 6 miles. Turn left and then right on Forest Route 3N97. Continue for a short distance to the campground.",
+    "FacilityName": "IRONWOOD GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70176,
+    "OrgFacilityID": "AN370176",
+    "FacilityID": 231971,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 83036,
+        "CampsiteName": 1,
+        "Loop": "IRON",
+        "CampsiteAccessible": false,
+        "FacilityID": 231971,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029989,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "SAN BERNARDINO",
+      "FacilityID": 231971,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

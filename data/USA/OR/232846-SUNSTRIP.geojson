@@ -1,0 +1,611 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.10952777777777,
+      45.15262222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.10952777777777,
+    "FacilityDescription": "<h2>Overview</h2>Sunstrip Campground is a primitive campground on the banks of the Clackamas Wild and Scenic River. It provides access to a variety of outdoor activities, but retains the look and feel of true nature, with only a few amenities.<h4>Natural Features:</h4>The campground is nestled in a wooded area of the Mt. Hood National Forest, thick with moss and greenery, at an elevation of about 1,000 feet.<br /><br />The river provides habitat for the federally protected bald eagle and northern spotted owl, as well as the occasional peregrine falcon. A variety of wildlife make its home in the area. <h4>Recreation:</h4>Fishing is very popular in the Clackamas and anglers can expect winter Steelhead, spring Chinook and late summer Kokanee salmon, as well as other species of freshwater fish.<br /><br />Whitewater rafting is also a favorite activity among visitors. The Clackamas River provides miles of wild water as it snakes through the scenic Cascade range.<br /><br />A hiking trail meanders along the riverbank, north and south of the campground. Scenic driving is available on the nearby West Cascades National Scenic Byway, which follows the river.<h4>Facilities:</h4>The campground offers about eight tent-only campsites, half of which are on the waterfront. Each site is equipped with a table and campfire ring with grill. Accessible vault toilets are provided. Drinking water is not available at the campground.<h4>Nearby Attractions:</h4>The Clackamas River, just below nearby Indian Henry Campground to the North Fork Reservoir, provides 12.5 miles of class III-IV whitewater. Outfitters are located in the town of Estacada.",
+    "FacilityLatitude": 45.15262222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "503-630-4156",
+    "FacilityDirections": "From Estacada, travel east on Highway 224 for about 21 miles to the campground.",
+    "FacilityName": "SUNSTRIP",
+    "LastUpdatedDate": "2015-03-12 02:16:28",
+    "LegacyFacilityID": 71629,
+    "OrgFacilityID": "AN371629",
+    "FacilityID": 232846,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81025,
+        "CampsiteName": 7,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81224,
+        "CampsiteName": 5,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81265,
+        "CampsiteName": 6,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 23,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81482,
+        "CampsiteName": 4,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81517,
+        "CampsiteName": 1,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81609,
+        "CampsiteName": 8,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81695,
+        "CampsiteName": 9,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 81972,
+        "CampsiteName": 2,
+        "Loop": "AREA SUNSTRIP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232846,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030857,
+      "AddressStateCode": "OR",
+      "FacilityID": 232846,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

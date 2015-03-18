@@ -1,0 +1,139 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.31666666666666,
+      39.331944444444446
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.31666666666666,
+    "FacilityDescription": "<h2>Overview</h2>Meadows Group Campground offers a wonderful opportunity for groups to enjoy the great outdoors. Located just 45 miles south of Denver near the town of Buffalo Creek, Colorado, the campground provides easy access to trout fishing, hiking and mountain biking. <h4>Natural Features:</h4>The campground sits at an elevation of 7,400 feet in the Front Range of the Rocky Mountains. Temperatures are generally mild. About 67 miles south is Pikes Peak at an altitude of 14,110 feet. It is heralded as the easternmost mountain peak over 14,000 feet in the United States. <h4>Recreation:</h4>Several trailheads for mountain biking, hiking and horseback riding are within a half mile radius of the campground. The Buffalo Creek mountain bike area and the Lost Creek Wilderness Area can be accessed from the campground via the Colorado Trail.<br /><br />Buffalo Creek is a popular fishing area for brook trout.<h4>Facilities:</h4>Two group campsites are available and each one fits up to 150 campers. Accessible picnic tables and vault toilets are onsite. A communal water hydrant is available but it is recommended that campers bring their own drinking water. Firewood is available at Buffalo Campground, a half-mile east on Forest Road 550.<h4>Nearby Attractions:</h4>Head to Wellington Lake or hike up one of the many peaks like Little Scraggy Peak.",
+    "FacilityLatitude": 39.331944444444446,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "303-275-5610",
+    "FacilityDirections": "From Denver, Colorado, take Highway 285 southwest to Pine Junction, turnsouth on Jefferson County 126 and travel 15 miles to Buffalo Creek. Turnright on Forest Road 550 and drive 5 miles to the Meadows Group Campground.",
+    "FacilityName": "MEADOWS GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:00:10",
+    "LegacyFacilityID": 70055,
+    "OrgFacilityID": "AN370055",
+    "FacilityID": 231878,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 68234,
+        "CampsiteName": 1,
+        "Loop": "MEAD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231878,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 68730,
+        "CampsiteName": 2,
+        "Loop": "GRP2",
+        "CampsiteAccessible": false,
+        "FacilityID": 231878,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029896,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "PIKE NATIONAL FOREST.",
+      "City": "S.PLATTE RANGER DIST",
+      "FacilityID": 231878,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

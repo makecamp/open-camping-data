@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.08333333333333,
+      37.81666666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.08333333333333,
+    "FacilityDescription": "<h2>Overview</h2>Pines Group Campground attracts large families and groups friends with its convenient location, just 15 miles from the Yosemite National Park boundary in northern California. It is an ideal base camp for visitors to explore not only Yosemite, but also the fantastic wilderness areas within Stanislaus National Forest, including Carson-Iceberg, Emigrant and Mokelumne Wildernesses.<h4>Natural Features:</h4>The tranquil campground sits at an elevation of 3,200 feet, in a mixed conifer forest with ample shade at each campsite. The Tuolumne River is nearby, which flows for 150 mies from the central Sierra Nevada to the San Joaquin River.<h4>Recreation:</h4>Hike the Little Golden Forest Trail, a half-mile interpretive loop with the option for a longer two-mile loop. A short drive takes visitors to the Tuolumne River for wading and fishing.<br /><br />Winter sports are very popular in the area as well. Dodge Ridge, Bear Valley and Badger Pass Ski Areas offer a variety of winter activities.<h4>Facilities:</h4>The tent-only group site is open year-round and can accommodate up to 50 people. In winter, camping is free but water and toilet paper are not provided.<h4>Nearby Attractions:</h4>Take a scenic drive through Yosemite National Park to view its legendary waterfalls and scenery.",
+    "FacilityLatitude": 37.81666666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "209-379-2258",
+    "FacilityDirections": "From Groveland, drive 9 miles east on State Highway 120, just past the Groveland Ranger Station on Smith Park Road. Look for signs to the campground.",
+    "FacilityName": "PINES GROUP STANISLAUS",
+    "LastUpdatedDate": "2015-03-12 02:30:29",
+    "LegacyFacilityID": 73635,
+    "OrgFacilityID": "AN373635",
+    "FacilityID": 233775,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:08:46",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 65466,
+        "CampsiteName": "PGS",
+        "Loop": "AREA PINES GROUP/STANISLAUS",
+        "CampsiteAccessible": false,
+        "FacilityID": 233775,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031796,
+      "PostalCode": 95321,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "GROVELAND RANGER STN HWY 120",
+      "City": "GROVELAND",
+      "FacilityID": 233775,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

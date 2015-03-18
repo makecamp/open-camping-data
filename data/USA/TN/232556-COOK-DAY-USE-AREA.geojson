@@ -1,0 +1,136 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.59583333333333,
+      36.13666666666666
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -86.59583333333333,
+    "FacilityDescription": "<h2>Overview</h2>Cook Day Use Area is a lakeside oasis in the hills of middle Tennessee, providing visitors with countless recreational activities on the lake and in the surrounding woods and grasslands.<h4>Natural Features:</h4>J. Percy Priest Dam and Lake was one of the first Corps of Engineers lakes to have recreation as part of its mission. The dam, completed in 1968, impounds 42 miles, with 14,200 surface acres of water.<br /><br />In soothing contrast to the sparkling waters of the lake are the adjacent 19,087 acres of grasslands and woodlands.<br /><br />A highlight of the region, the Cedar Glades Natural Area, is home to countless wildlife and plant species, including the Tennessee coneflower.<h4>Recreation:</h4>The lake provides a variety of outdoor recreational opportunities for millions of visitors each year.  Because of its temperate climate and relatively long recreation season, visitors have numerous activities to choose from, including fishing, hunting, picnicking, boating, canoeing, hiking, horseback riding and wildlife viewing. <br /><br />Fishing opportunities abound at J. Percy Priest Lake, with a wide variety of species available, including largemouth and smallmouth bass, crappie, striped bass, Cherokee bass and white bass. Other species such as catfish, bluegill, bream and trout provide excellent opportunities for younger anglers. <br /><br />A large sandy swimming beach provides guests of Cook Day Use Area with convenient access to swimming and comfortable sunbathing.<br /><br />The Three Hickories Nature Trail is a 1.6 mile nature trail located in a wooded area within Cook Recreation Area. <h4>Facilities:</h4>Cook Day Use Area offers two large group shelters for day use, which can accommodate 75 and 100 guests, making it an ideal spot for large parties and family functions. <br /><br />A large playground surrounded by lush, grassy areas are perfect for children to run around and enjoy the outdoors. <h4>Nearby Attractions:</h4>J. Percy Priest Lake is conveniently located about ten miles east of downtown Nashville, offering visitors countless cultural activities and the conveniences of a metro area.<br /><br />Cook Day Use Area is also close to the Hermitage, the historic home of President Andrew Jackson.",
+    "FacilityLatitude": 36.13666666666666,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "615-889-1975",
+    "FacilityDirections": "From downtown Nashville, TN, take I-40 east for 7 miles to exit 221B. Turn right on Old Hickory Boulevard, left on Bell Road, right on New Hope Road and right on Stewarts Ferry Pike. Follow the signs to the picnic shelters.",
+    "FacilityName": "COOK DAY USE AREA",
+    "LastUpdatedDate": "2015-03-12 02:11:45",
+    "LegacyFacilityID": 71098,
+    "OrgFacilityID": "AN371098",
+    "FacilityID": 232556,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:52:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 32795,
+        "CampsiteName": "COOK1",
+        "Loop": "COOK",
+        "CampsiteAccessible": false,
+        "FacilityID": 232556,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:52:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 32864,
+        "CampsiteName": "COOK2",
+        "Loop": "COOK",
+        "CampsiteAccessible": false,
+        "FacilityID": 232556,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030574,
+      "PostalCode": 37076,
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "12230 OLD HICKORY BLVD.",
+      "City": "HERMITAGE",
+      "FacilityID": 232556,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

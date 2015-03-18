@@ -1,0 +1,146 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.10499999999999,
+      38.41638888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.10499999999999,
+    "FacilityDescription": "<h2>Overview</h2>Lodgepole Group Campground is located just two miles west of Lake Alpine in northern California. The campground affords breathtaking views of the surrounding Stanislaus National Forest. Campers enjoy hiking and biking, and picnicking is always popular. <h4>Natural Features:</h4>Lodgepole Campground is situated on a large, flat plain, not far from a creek. It sits at an elevation of 7,290 feet, within the Stanislaus National Forest in the central Sierra Nevada Mountains. The forest lies between Lake Tahoe and Yosemite and boasts gorgeous views of snow-capped peaks and Californias Great Central Valley.<br /><br />A wide variety of wildlife makes its home in the area, including marmots, squirrels, coyotes, deer and many birds.<h4>Recreation:</h4>Lake Alpine provides a wide variety of recreation opportunities. Hike, bike, or ride a horse on Bear Valley, an accessible trail that winds along the lakeshore to the community of Bear Valley. It connects with the historic Emigrant Trail, the route pioneers once traveled via covered wagon to settle in California.<br /><br />Interpretive programs are offered by Forest Service rangers during the summer months.<h4>Facilities:</h4>Both group campsites can accommodate up to 50 guests and 20 vehicles each. Picnic tables, campfire circles and vault toilets are provided. Utility hookups are not available. <br /><br />Single family sites are available on a first-come, first serve basis.<br /><br />Fuel, groceries and camping supplies are available in nearby Bear Valley and at Lake Alpine Lodge.<h4>Nearby Attractions:</h4>The Carson-Iceberg Wilderness offers outstanding hiking, backpacking and horseback riding opportunities.",
+    "FacilityLatitude": 38.41638888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "209-753-6350",
+    "FacilityDirections": "From Angel Camp, drive 50 miles east on Highway 4.",
+    "FacilityName": "LODGEPOLE GROUP LAKE ALPINE",
+    "LastUpdatedDate": "2015-03-12 02:08:37",
+    "LegacyFacilityID": 70688,
+    "OrgFacilityID": "AN370688",
+    "FacilityID": 232343,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:27:47",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:26:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 87192,
+        "CampsiteName": "B001",
+        "Loop": "LODB",
+        "CampsiteAccessible": false,
+        "FacilityID": 232343,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:27:47",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:26:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 87920,
+        "CampsiteName": "A001",
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232343,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030361,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "STANISLAUS",
+      "FacilityID": 232343,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

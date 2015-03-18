@@ -1,0 +1,98 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.05194444444444,
+      31.384999999999998
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.05194444444444,
+    "FacilityDescription": "<h2>Overview</h2>Calabasas Group Campground is a place for groups of up to 250 people to enjoy scenery and privacy in a remote, natural setting. Weddings, family reunions and other social gatherings are especially popular during winter due to pleasant seasonal temperatures, yet it is open year-round. <br /><br />Calabasas is situated in Coronado National Forest in southern Arizona, home to a variety of ecosystems and recreation opportunities. It is located a short distance off Ruby Road near Pe&ntilde;a Blanca Lake, 67 miles south of Tucson and 14 miles northwest of Nogales, Arizona.<h4>Natural Features:</h4>Campsites within the group area are spread out among a stand of oak trees within a shallow, grassy valley. A few well-worn pathways lead to low hilltops in the area where visitors will find good views of the surrounding valleys and mountains. Calabasas sits at an elevation of 4,000 feet.<br /><br />The Coronado National Forest covers 1.78 million acres of southeastern Arizona and southwestern New Mexico. Elevations range from 3,000 to 10,720 feet in 12 widely scattered mountain ranges or &quot;sky islands&quot; that rise dramatically from the desert floor, supporting plant communities as biologically diverse as those encountered on a trip from Mexico to Canada.<h4>Recreation:</h4>A major attraction at Calabasas Group Site is nearby Pe&ntilde;a Blanca Lake. The 45-acre, man-made lake provides birding, boating and fishing opportunities year-round. Anglers can try for rainbow trout, bass, sunfish, crappie and catfish.<br /><br />Groups also enjoy picnicking in the camping area, hiking or mountain biking on area trails or visiting historic sites.<h4>Facilities:</h4>The camping area can be reserved by one group at a time. Facilities at Calabasas include 14 tables, 12 campfire rings with grills, three pedestal barbecue grills, benches, a parking area and toilets. The site is spread out, so there is enough space to set up additional tables and facilities.<br /><br />There is no drinking water available; visitors must bring their own.<h4>Nearby Attractions:</h4>Visitors can take an educational day trip to Tumac&aacute;cori National Historical Park, which protects three Spanish colonial mission ruins, and Tubac Presidio State Historic Park, which preserves the ruins of the oldest Spanish Presidio site in Arizona. The border town, Nogales, is also close by.<br /><br /><a href=http://www.nps.gov/tuma/index.htm target=_blank>Tumac&aacute;cori National Historical Park</a>",
+    "FacilityLatitude": 31.384999999999998,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Tucson, Arizona, take I-19 south for about 56 miles. Exit onto AZ 289 (Exit 12). Turn right (west) onto AZ Highway 289 (Ruby Road) and continue to the Pe Blanca Recreational Area.<br /><br />From Nogales, Arizona, take I-19 north for about 4.4 miles. Exit onto AZ 289 (Exit 12). Turn left (west) onto AZ Highway 289 (Ruby Road) and continue to the Pena Blanca Recreational Area.",
+    "FacilityName": "CALABASAS",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "LegacyFacilityID": 72127,
+    "OrgFacilityID": "AN372127",
+    "FacilityID": 233221,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:51:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 90128,
+        "CampsiteName": 1,
+        "Loop": "CALABASAS",
+        "CampsiteAccessible": false,
+        "FacilityID": 233221,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 250,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031230,
+      "PostalCode": 85621,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "303 Old Tucson Road",
+      "City": "Nogales",
+      "FacilityID": 233221,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

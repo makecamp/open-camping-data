@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.78916666666666,
+      42.49444444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -76.78916666666666,
+    "FacilityDescription": "<h2>Overview</h2>Potomac Group Campground and Day Use Area provides a primitive camping experience for groups of 8-40 people. It is an excellent site for family events and youth group activities. The facility is situated in a scenic area of New York, which makes for an exciting place to explore. A variety of recreational activities are available.<h4>Natural Features:</h4>The lush, green campground is located in Finger Lakes National Forest, between Cayuga and Seneca Lakes in southwestern New York. It is New Yorks only National Forest. The forest has over 30 miles of interconnecting trails that traverse gorges, ravines, pastures and woodlands.<h4>Recreation:</h4>A variety of trails exist in the area, including the Potomac Trail, which extends about 5 miles round-trip. It is a moderately difficult trail that travels through a variety of forest types and follows the edges of quite a few ponds in the area. It is a nice loop on which to learn cross-country skiing and is also a popular game bird hunting area. The Potomac Trail connects with the Interloken Trail and the campground. Fishing is allowed in the ponds, pertaining to state fishing regulations.<h4>Facilities:</h4>Many primitive, group, tent-only campsites and a group picnic shelter are available for reservation and equipped with at least 4 tables. A campfire circle and grills are also provided and vault toilets are located nearby. The shelter can accommodate up to 40 people and an adjacent parking lot can hold up to 10 vehicles. There is no electricity at the shelter.<br /><br />Drinking water is not available at the campground or picnic shelter, nor is trash collection.",
+    "FacilityLatitude": 42.49444444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "607-546-4470",
+    "FacilityDirections": "From the south, take State Route 14 north to Watkins Glen. Turn right at the Fourth Street intersection, onto State Route 414. Continue about 9 miles north, past the Hector Ranger Station, and turn right on County Route 2. Drive 5 miles to the intersection, turn left on Potomac Road and continue to the campground.<br /> <br />From the north, take State Route 414 south to Hector. Turn left onto County Route 2 and continue about 5 miles east to an intersection. Turn left onto Potomac Road and continue to the campground.",
+    "FacilityName": "POTOMAC GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "LegacyFacilityID": 75357,
+    "OrgFacilityID": "AN375357",
+    "FacilityID": 234476,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:29:51",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 59425,
+        "CampsiteName": 1,
+        "Loop": "POTOMAC GROUP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234476,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 500,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032504,
+      "PostalCode": 14841,
+      "AddressStateCode": "NY",
+      "FacilityStreetAddress1": "POTOMAC ROAD",
+      "City": "HECTOR",
+      "FacilityID": 234476,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

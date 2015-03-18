@@ -1,0 +1,536 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.4888888888889,
+      37.84035
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.4888888888889,
+    "FacilityDescription": "<h2>Overview</h2>Kirby Cove is located just eight miles north of downtown San Francisco, at historic Battery Kirby. Visitors are awarded breathtaking views of San Francisco, its famous Golden Gate Bridge and the rugged Pacific Coast of northern California.<h4>Natural Features:</h4>Kirby Cove offers a pristine coarse-sand beach with spectacular views - when its not foggy - of the iconic Golden Gate Bridge and northern San Francisco, including the historic Presidio. The cove is nestled at the foot of the craggy Marin Headlands just west of the Golden Gate Bridge.<br /><br />A steep, mile-long trail to the cove begins at the parking area above Battery Spencer on Conzelman Road. The path descends through a stately grove of Monterrey pine and cypress and Blue Gum eucalyptus. Coastal sage and colorful Lupine dot the hillsides.<br /><br />Temperatures are mild year-round. Expect lows from 50-55 degrees and highs from 60-65. Fog is prevalent in the summer months from May-Sept. It is best to bring clothing that can be layered. Lightweight summer clothes are rarely comfortable to wear at Kirby Cove. <h4>Recreation:</h4>Hiking, picnicking and taking in the beautiful views from Kirby Cove are the parks most popular activities. <br /><br />Visitors also enjoy exploring Battery Kirby, a historic army battery in use from 1898-1934.<h4>Facilities:</h4>Kirby Cove offers four overnight camping sites and one day-use picnic site, all reached via driving on a steep access road. The day-use site is available as an accessible picnic site for persons with a disability or otherwise limited physical mobility. Site 2 is available as an accessible campsite for persons with a disability or otherwise limited physical mobility. If site 2 is already reserved and you are looking for an accessible campsite, please contact the Marin Headlands Visitor Center (415) 331-1540 for assistance.<h4>Nearby Attractions:</h4>The San Francisco Bay Area has no shortage of fun and interesting things to do and see. Awe-inspiring Muir Woods National Monument, with its old-growth coastal redwood forest and numerous hiking trails, is just a 20-minute drive from Kirby Cove. Mount Tamalpais State Park, with hiking and sweeping views of the Bay Area, is another 10 minutes past Muir Woods.<br /><br />Downtown San Francisco offers a myriad of restaurants, shops, museums and tourist attractions. Fishermans Wharf, Alcatraz Island and Chinatown are popular destinations. Visitors love riding San Franciscos world famous cable cars up and down the citys hilly streets.",
+    "FacilityLatitude": 37.84035,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "415-331-1540",
+    "FacilityDirections": "From 101, take Alexander Ave exit. Turn left at the stop sign. Turn right up the steep hill named Conzelman Road, just before the entrance to the Golden Gate Bridge. The Kirby Cove campground entrance will be on the left a quarter mile up on Conzelman Road. Look for the 3 poles at the end of a gravel pull-out and a locked white service gate.",
+    "FacilityName": "KIRBY COVE CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:10:59",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70972,
+    "OrgFacilityID": "AN370972",
+    "FacilityID": 232491,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:01:38",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:18:35",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 4241,
+        "CampsiteName": "Day Use",
+        "Loop": "Day Use Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 232491,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Quad",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Oceanfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:01:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:18:35",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 4242,
+        "CampsiteName": 1,
+        "Loop": "KIRBY COVE CAMPGROUND AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 232491,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Food Locker"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 3,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Oceanfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:01:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:18:35",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 4243,
+        "CampsiteName": 2,
+        "Loop": "KIRBY COVE CAMPGROUND AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 232491,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Food Locker"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 3,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Oceanfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 13,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 13,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:01:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:18:35",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 4244,
+        "CampsiteName": 3,
+        "Loop": "KIRBY COVE CAMPGROUND AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 232491,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Food Locker"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 3,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Oceanfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 13,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 13,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:01:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:18:35",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 4245,
+        "CampsiteName": 4,
+        "Loop": "KIRBY COVE CAMPGROUND AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 232491,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Food Locker"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 3,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Oceanfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Length"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Tent Pad Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030510,
+      "PostalCode": 94965,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "Access Gate located on Conzelman Road just past Battery Spencer Overlook. <br><br><b>Marin Headlands Visitor Center:</b> 415-331-1540 Building 948 Fort Barry",
+      "City": "Sausalito",
+      "FacilityID": 232491,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.15555555555557,
+      45.959722222222226
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -90.15555555555557,
+    "FacilityDescription": "<h2>Overview</h2>Newman Lake Shelter is a day-use picnicking shelter available for large groups. It is situated within the Newman Lake Recreation Area. A variety of recreational opportunities abound.<h4>Natural Features:</h4>The picnic shelter is located on the southeastern shores of Newman Lake in the Chequamegon-Nicolet National Forest in northern Wisconsin. The cold water lake and neighboring picnic shelter are nestled in a mixed forest of aspen and pine trees. A variety of birds and wildlife also make their home in the area.<h4>Recreation:</h4>The recreation area contains volleyball courts, horseshoe pits and a playground for children. Visitors enjoy exploring many hiking and biking trails that are accessible from the picnic shelter. During the winter months, the trails are popular for cross country skiing.<br /><br />A nearby beach provides opportunities for swimming, while the lake is a welcome respite for boaters and anglers alike. Fishing is a popular activity and a typical catch might include bluegill, crappie, various bass and perch. <h4>Facilities:</h4>The accessible shelter can accommodate up to 50 people. It is equipped with tables, grills and a campfire circle. The facility also boasts a wood stove. Vault toilets and drinking water are provided. Trash collection and recycling bins are also available.<h4>Nearby Attractions:</h4>Park Falls, Wisconsin is 15 miles from Newman Lake and is a full service community.",
+    "FacilityLatitude": 45.959722222222226,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From the intersection of Highways 13 and 182 in Park Falls, drive east on Highway 182 for about 13 miles to Forest Road 144. Turn right (south) and continue on Forest Road 144 for 1 mile to Forest Road 1903. Turn left (east) onto Forest Road 1903 and drive 2 miles to the Newman Lake Recreation Area.",
+    "FacilityName": "NEWMAN LAKE SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "LegacyFacilityID": 73848,
+    "OrgFacilityID": "AN373848",
+    "FacilityID": 233917,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 51916,
+        "CampsiteName": "SHEL",
+        "Loop": "NEWMAN LAKE SHELTER ",
+        "CampsiteAccessible": false,
+        "FacilityID": 233917,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031938,
+      "PostalCode": 54552,
+      "AddressStateCode": "WI",
+      "FacilityStreetAddress1": "1170 4TH AVE. SOUTH",
+      "City": "PARK FALLS",
+      "FacilityID": 233917,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

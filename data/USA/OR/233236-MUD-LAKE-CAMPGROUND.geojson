@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.23194444444445,
+      44.964444444444446
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.23194444444445,
+    "FacilityDescription": "<h2>Overview</h2>Mud Lake Campground is located across from the Anthony Lake Ski Area and near Mud Lake in the Wallowa-Whitman National Forest. Some campsites are tucked beneath dense pine and fir forest, while others sit in an open meadow.<h4>Natural Features:</h4>The Wallowa-Whitman National Forest, offering 2.3 million acres of varied landscape, extends from the Blue Mountains and rugged Wallowa Mountains down to the spectacular canyon country of the Snake River on the Idaho border.<br /><br />Mud Lake Campground is located in the Southern Elkhorn Mountain/Powder River Basin Area. Picturesque views of the ski area, Gunsight Peak and the Elkhorn Mountains are only a short hike across Forest Road 73, which is part of the Elkhorn Scenic Byway.<h4>Recreation:</h4>Campers at Mud Lake have access to all the recreational activities at Anthony Lake, including boating, canoeing, kayaking and trout fishing. There is an accessible boatramp available.<br /><br />Trails around Anthony Lake include the 22.6-mile Elkhorn Crest and the 1-mile Black Lake Trails for hiking and horseback riding, as well as the 1-mile Shoreline Trail for hiking only.<h4>Facilities:</h4>A reservable group camp for up to 60 people is available, and additional standard sites are available on a first-come, first-served basis. At an elevation of 7,100 feet, Mud LakeCampground offers comfortable camping during the hottest part of the summer.  <br /><br />Each site has a picnic table and grill. Vault toilets are available at the campground, and drinking water is available at the Anthony Lake Recreation Area.<br /><br /><h4>Nearby Attractions:</h4>The Elkhorn Scenic Byway is a 106-mile drive through the Elkhorn Mountains. Along this drive are ghost towns and an abundance of lakes and rivers.",
+    "FacilityLatitude": 44.964444444444446,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-894-2393",
+    "FacilityDirections": "From Baker City, Oregon, head north on Highway 30 toward Haines for approximately 10 miles. In Haines, turn left and follow the Anthony Lake Highway signs (turns into Forest Road 73 and Elkhorn Scenic Byway) for 25 miles to the Anthony Lake Recreation Area. Turn right into the campground across from the ski area.<br /><br /> From La Grande, head south on Interstate 84 for 25 miles to exit 285 in North Powder, Oregon. In North Powder, follow the ski area signs on Highway 237 for 4 miles to Ellis Road. Turn left on Ellis Road and go about a mile to the Anthony Lake Highway. Turn right and follow the Anthony Lake Highway (becomes Forest Road 73) for 16 miles to the campground entrance on the right, across from the ski area.",
+    "FacilityName": "MUD LAKE CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "LegacyFacilityID": 72151,
+    "OrgFacilityID": "AN372151",
+    "FacilityID": 233236,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:19:21",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 78393,
+        "CampsiteName": "GS-1",
+        "Loop": "MUD LAKE CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 233236,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031245,
+      "PostalCode": 97833,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "Elkhorn Drive-Forest Service Road 73",
+      "City": "Haines",
+      "FacilityID": 233236,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.27583333333334,
+      44.260555555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.27583333333334,
+    "FacilityDescription": "<h2>Overview</h2>Murderers Creek Guard Station is in the heart of the Malheur National Forest, in central Oregon. It makes an excellent base camp for back country recreating, and is a cozy retreat for a couple and a fun opportunity to imagine the life of the early day forest rangers. The historic guard station is one of the oldest standing buildings in the forest.<br /><br />The cabin contains some modern amenities and can be accessed by vehicle. Guests are responsible for their own travel arrangements and safety, and must bring several of their own amenities.<h4>Natural Features:</h4>The guard station is located approximately 32 miles from the town of John Day. It sits at an elevation of about 5,000 feet. The facility was built in 1913 and was originally used as a fireguard station. It was in use by Forest Service officials until the late 1990s.<br /><br />Murderers Creek, a small creek that runs east and west along the southern base of Aldrich Mountain, is nearby the cabin. The guard station is surrounded by open meadows and timbered areas of ponderosa pine and mixed conifer. Abundant wildflowers dot the Cedar Grove Botanical Area, a 26-acre cedar grove on the northeast slope of Aldrich Mountain.<br /><br />The area is known for its wild horses, which coexist with mule deer, elk, antelope, bighorn sheep, bear, cougar, and myriad smaller forest animals. <h4>Recreation:</h4>Viewing wildlife and birds is popular in the area, as is hunting not far from the facility. <br /><br />Guests can hike area trails, explore the Cedar Botanical Area and fish Murderers Creek and South Fork John Day, though area creeks run dry toward summers end.<h4>Facilities:</h4>The one-room cabin is equipped with one futon that sleeps two people. It has a table and chairs, a propane cook stove, propane refrigerator and propane heater inside the cabin. Basic cooking pots, utensils and tableware are also provided. <br /><br />There is a garage building and room to park and RV in the adjacent driveway. A newer style vault toilet is located outside.<br /><br />Guests will need to bring water for drinking, cooking and cleaning purposes, as well as bedding, flashlights or a lantern for emergencies, a first aid kit, towels, garbage bags and dish soap, among other necessities. Guests will need to clean the cabin and carry out all trash before leaving.",
+    "FacilityLatitude": 44.260555555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-820-3800",
+    "FacilityDirections": "From John Day, travel south on Highway 395 approximately 17 miles to County Road 63. Take County Road 63 to the junction of Forest Service Road 21. Take a right onto Forest Service Roard 21 and travel approximately 11.5 miles to the guard station.",
+    "FacilityName": "Murderers Creek Guard Station",
+    "LastUpdatedDate": "2015-03-12 02:36:00",
+    "LegacyFacilityID": 74143,
+    "OrgFacilityID": "AN374143",
+    "FacilityID": 234124,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 81204,
+        "CampsiteName": 1,
+        "Loop": "AREA MURDERERS CREEK WORK CENTER",
+        "CampsiteAccessible": false,
+        "FacilityID": 234124,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "4:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032143,
+      "PostalCode": 97869,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "Prairie City Ranger District: 327 SW Front Street, P.O. Box 337 ",
+      "City": "Prairie City",
+      "FacilityID": 234124,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

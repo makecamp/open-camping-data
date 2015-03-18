@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.73416666666667,
+      40.77361111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.73416666666667,
+    "FacilityDescription": "<h2>Overview</h2>Seedhouse Group Site provides a private setting for group gatherings of up to 100 guests. Located near the Elk River, just miles from Steamboat Springs, Colorado, Seedhouse is a retreat for fishing, hiking, biking and horseback riding in the Rocky Mountains. <br /><br />At an elevation of 8,000 feet, the area is also set near the Mount Zirkel Wilderness, which provides for excellent backcountry hiking and camping.<h4>Natural Features:</h4>Seedhouse lies in the Rocky Mountains in the heart of the Routt National Forest near the Elk River. The Medicine Bow-Routt National Forests and Thunder Basin National Grassland encompass nearly three million acres from central and northeastern Wyoming to north-central Colorado.<br /><br />Black bear, bobcat, coyote, elk, mule deer and moose are just some of the many animals that inhabit these rich and diverse lands.<h4>Recreation:</h4>The group campsite is a great central location for wilderness hiking and mountain biking, trout fishing in the nearby Elk River and picnicking amidst beautiful mountain scenery.<br /><br />Campers can access the Continental Divide National Scenic Trail via a connector trail within a short drive from the campground. <h4>Facilities:</h4>The facility provides eight primitive tent sites with campfire rings and picnic tables, as well as a large picnic shelter that can accommodate 20 guests. <br /><br />Water is available via a hand pump well system. Bear-proof food storage lockers and trash receptacles are provided for visitor safety. <h4>Nearby Attractions:</h4>Visitors might also enjoy stopping by Steamboat Lake State Park, only a short drive from the campground.<br /><br />Many more outdoor opportunities exist in the surrounding national forests and grasslands, including hiking, biking, camping, horseback and off-road vehicle riding, fishing, hunting, sightseeing and winter sports.",
+    "FacilityLatitude": 40.77361111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "970-870-2299",
+    "FacilityDirections": "Take US Highway 40 to County Road 129 north on the west side of Steamboat Springs. Continue for 16 miles, through the town of Clark and across the Elk River, and turn right on County Road 64/Seedhouse Road. Proceed approximately 7.5 miles and look for Seedhouse Campground on the right. Continue past the campground and turn right to access the Seedhouse Group Sites.",
+    "FacilityName": "SEEDHOUSE GROUP SITES",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75040,
+    "OrgFacilityID": "AN375040",
+    "FacilityID": 234197,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 9193,
+        "CampsiteName": 1,
+        "Loop": "SEEDHOUSE GROUP",
+        "CampsiteAccessible": true,
+        "FacilityID": 234197,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032227,
+      "PostalCode": 80487,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "925 WEISS DRIVE",
+      "City": "STEAMBOAT SPRINGS",
+      "FacilityID": 234197,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

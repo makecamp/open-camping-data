@@ -1,0 +1,137 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.5475,
+      39.486666666666665
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.5475,
+    "FacilityDescription": "<h2>Overview</h2>Silver Tip Group Campground is located on the scenic Jackson Meadow Reservoir, in the Tahoe National Forest. Its location, part of the Woodcamp Recreation Area, provides a great base camp for a wide range of recreational activities, including boating, fishing, hiking and hunting. <h4>Natural Features:</h4>Jackson Meadow Reservoir is situated in a rolling forested valley, where visitors are awarded beautiful views of the Sierra Crest and English Mountain. The campground lies on the southwestern shore of the 1,000-acre lake, in a forest of pine and fir trees.<h4>Recreation:</h4>Jackson Meadow Reservoir offers excellent opportunities for boating, canoeing, water skiing, swimming and fishing. Anglers will find plentiful rainbow and brown trout. A boat ramp is located just left of the campground entrance. A designated swimming beach is nearby.<br /><br />A portion of the Pacific Crest Trail meanders along the east side of the lake. Hunting and biking are popular activities in the surrounding area.<h4>Facilities:</h4>The campground offers two group sites that can accommodate up to 25 people each. Vault toilets, drinking water, tables and campfire circles with grills are provided. A parking area for RVs and trailers is on-site, and a service road can be used to load and unload at the campsites.<br /><br />The Camp Store at Jackson Meadow is within walking distance of the campground. A variety of camping and fishing supplies, ice, groceries and souvenirs are available.",
+    "FacilityLatitude": 39.486666666666665,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "000-000-0000",
+    "FacilityDirections": "Take Interstate 80 to the Truckee/Highway 89 exit. Travel north on Highway 89 for about 17 miles, to the turnoff for Jackson Meadows. Go west for 18 miles, to the Jackson Meadows Reservoir and follow signs leading over the dam. Continue to the junction for the camp store and turn right to the Woodcamp Recreation Area. The campground is at the end of the road.",
+    "FacilityName": "SILVERTIP GROUP",
+    "LastUpdatedDate": "2015-03-12 02:16:28",
+    "LegacyFacilityID": 71673,
+    "OrgFacilityID": "AN371673",
+    "FacilityID": 232885,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:27:26",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 88679,
+        "CampsiteName": 1,
+        "Loop": "COVE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232885,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:27:26",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 88717,
+        "CampsiteName": 1,
+        "Loop": "LAKE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232885,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030896,
+      "AddressStateCode": "CA",
+      "FacilityID": 232885,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

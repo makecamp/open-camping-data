@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.43995000000001,
+      36.5387
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -85.43995000000001,
+    "FacilityDescription": "<h2>Overview</h2>Pleasant Grove Recreation Area is a day-use facility, located along the shores of Dale Hollow Lake in the hills of Tennessee. <h4>Natural Features:</h4>Dale Hollow Dam and Lake was completed in 1943. Although the dam was built for flood control and power generation, it has now become a recreational oasis for more than 3 million visitors each year.<br /><br />The dam is located on the Obey River, about 3 miles east of Celina, Tennessee. Surrounded by a thick expanse of forest, the clear blue lake creates a stunning scenic backdrop for a variety of water and land recreational activities. <br /><br />In the late fall through early spring, the American Bald Eagle can be spotted flying overhead or perched on low-lying limbs. Dale Hollow hosts the second largest wintering eagle population in the states of Tennessee and Kentucky.<h4>Recreation:</h4>Dale Hollow is renowned for its fishing opportunities. In addition to yielding the world record smallmouth bass and being known as a trophy smallmouth lake, the Obey River below Dale Hollow Dam is also known for excellent rainbow and brown trout fishing. <br /><br />Boating and water skiing are also popular activities, and with 27,700 surface acres of water and 620 miles of shoreline, there is plenty of space for visitors to explore the lake. A boat launch is provided.<br /><br />Pleasant Grover also offers a picnic area with a reservable shelter, located on a beautiful peninsula with exceptional views of Dale Hollow Dam.<h4>Facilities:</h4>Pleasant Grove Recreation Area offers a large group picnic shelter with five picnic tables and grills. Flush toilets and drinking water are also provided.<br /><br />A boat ramp provides convenient lake access.<h4>Nearby Attractions:</h4>The Dale Hollow National Fish Hatchery is adjacent to the dam. Operated by the U.S. Fish and Wildlife Service, the hatchery is the largest federal trout hatchery east of the Mississippi, producing 1.5 million trout annually. The hatchery is open to visitors daily.",
+    "FacilityLatitude": 36.5387,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "931-243-3136",
+    "FacilityDirections": "From Celina, Tennessee, turn northeast on Route 53 and continue for 4 miles. Turn right on Old Route 53 at the Cedar Hill/Pleasant Grove exit and follow signs to the park. <br /><br />It is recommended that visitors do not rely on GPS or Mapquest to reach the park.",
+    "FacilityName": "PLEASANT GROVE RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:13:17",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 71358,
+    "OrgFacilityID": "AN371358",
+    "FacilityID": 232675,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:07:19",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:45:46",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 37713,
+        "CampsiteName": "L1",
+        "Loop": "PGRO",
+        "CampsiteAccessible": true,
+        "FacilityID": 232675,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030688,
+      "PostalCode": 38551,
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "1170 CEDAR HILL ROAD",
+      "City": "CELINA",
+      "FacilityID": 232675,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

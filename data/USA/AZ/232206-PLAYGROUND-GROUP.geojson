@@ -1,0 +1,81 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.13611111111112,
+      34.69833333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.13611111111112,
+    "FacilityDescription": "<h2>Overview</h2>Close to historic western towns and centrally located in Arizona, Playground Group Campground is a great place for groups of up to 100 people to enjoy a secluded mountain getaway.<br/> <br/>The 7,500 ft. elevation of the site, puts it near the summit of Mingus Mountain in Prescott National Forest. Spectacular views of the surrounding desert valleys as well as the nearby towns of Sedona, Jerome and Prescott Valley await campers on the winding drive to and from the site.<h4>Natural Features:</h4>The campground is in a secluded site in the tall ponderosa pine trees. Pleasant daytime temperatures and cool mountain breezes make it a nice respite from the summer heat of nearby deserts.<h4>Recreation:</h4>The surrounding forest offers many hiking trails of various levels of intensity, from easy short-distance walks to more challenging elevated climbs. <br><br>Campers who need a break from hiking can relax around the campground, take in the views and listen to the sound of the wind in the pines.<h4>Facilities:</h4>The site has a large group gathering place with picnic tables, grills, a large fire pit and vault toilet and is adjacent to a family picnic area. There is no drinking water available. <br><br>The nearby towns of Prescott Valley and Cottonwood have grocery stores, restaurants, gas stations, shopping and other conveniences.<h4>Nearby Attractions:</h4>A short drive away is the colorful town of Jerome, an abandoned mining town that has been transformed into an artist and tourist community.<br/> <br/>Tuzigoot National Monument, an ancient ruin of the Sinaguan culture, and Dead Horse Ranch State Park, which has mountain biking, canoeing and fishing along the Verde River, are also close by.<br><br><a href=http://www.nps.gov/tuzi/index.htm TARGET=_blank>Tuzigoot National Monument</a><br><br><a href=http://azstateparks.com/parks/DEHO/index.html TARGET=_blank>Dead Horse Ranch State Park</a>",
+    "FacilityLatitude": 34.69833333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "928-567-4121",
+    "FacilityDirections": "Take State Highway 89A (seven miles southwest of Jerome or 13 miles east of Prescott Valley) to Forest Road 104. Travel on Forest Road 104 for two miles to Playground Group Campground.",
+    "FacilityName": "PLAYGROUND GROUP",
+    "LastUpdatedDate": "2015-03-12 02:06:13",
+    "LegacyFacilityID": 70480,
+    "OrgFacilityID": "AN370480",
+    "FacilityID": 232206,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:38:19",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:00:43",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 55972,
+        "CampsiteName": "Play1",
+        "Loop": "PLAY",
+        "CampsiteAccessible": false,
+        "FacilityID": 232206,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030224,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "PRESCOTT",
+      "FacilityID": 232206,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

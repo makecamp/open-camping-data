@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.23833333333333,
+      36.12555555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -81.23833333333333,
+    "FacilityDescription": "<h2>Overview</h2>Berry Mountain Park Shelter is located in Berry Mountain Park at W. Kerr Scott Dam and Reservoir in northwestern North Carolina. <h4>Natural Features:</h4>The gentle Yadkin River flows through its scenic namesake valley on the eastern slope of the Blue Ridge Mountain foothills. Forests of mixed hardwoods, including sycamore, poplar, oak and hickory, cover the region. Wildlife is abundant in the valley. White-tailed deer, black bear, eastern cottontails and more can be found among the hills. Birds in the area include wild turkey, woodpeckers, Carolina chickadees, red-eyed vireo, ovenbirds, mallards and wood ducks.<h4>Recreation:</h4>The 1,475-acre reservoir offers excellent boating, canoeing, kayaking and swimming opportunities. Anglers will find channel catfish, large and smallmouth bass, bluegill, threadfin shad, spotted bass, hybrid striped bass and tiger muskellunge. Roughly 30 miles of multi-purpose trails surround the lake, one of which can be accessed from the park. All of these trails are recognized as some of the best mountain biking trails in the country attracting riders from all corners of the world.<h4>Facilities:</h4>This ADA-accessible lakefront shelter offers six, 8-foot picnic tables. A water spigot can be found at the shelter but there is no electricity available. You can enjoy other park amenities which include a playground, grill, flush toilets, showers, swim beach and a basketball court.",
+    "FacilityLatitude": 36.12555555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "336-921-3390",
+    "FacilityDirections": "<b>From Charlotte, North Carolina,</b> take I-77 North (approximately 60 miles) before merging onto Highway 421 North towards Wilkesboro/Boone. Continue to Exit 286B (approximately 20 miles), turn left onto Highway 268 and continue for approximately 4 miles. Berry Mountain Park will be on the right.<br />              <b>From Winston-Salem, North Carolina,</b> take Highway 421 North (approximately 55 miles) to Exit 286B, turn left onto Highway 268 and continue for approximately 4 miles. Berry Mountain Park will be on the right. <br />                                                      <b>From Wilkesboro, North Carolina,</b> head west on Main Street/Hwy 268/Hwy 18 (approximately 5 miles) and Berry Mountain Park will be on the right.",
+    "FacilityName": "BERRY MOUNTAIN PARK SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:47:48",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 116290,
+    "OrgFacilityID": "AN416290",
+    "FacilityID": 250020,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 93672,
+        "CampsiteName": "Berry Mountain Park",
+        "Loop": "BERRY MOUNTAIN PARK SHELTER",
+        "CampsiteAccessible": true,
+        "FacilityID": 250020,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032878,
+      "PostalCode": 28697,
+      "AddressStateCode": "NC",
+      "FacilityStreetAddress1": "4732 W. NC Highway 268",
+      "City": "Wilkesboro",
+      "FacilityID": 250020,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

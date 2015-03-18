@@ -1,0 +1,125 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.90777777777778,
+      42.11833333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -71.90777777777778,
+    "FacilityDescription": "<h2>Overview</h2>Buffumville Lake Group Shelters are located on their namesake lake in the forested hills of southern Massachusetts. <br /><br />Buffumville Lake was recognized as the Project of the Year in 2000 for its state-of-the-art facilities, including BMX-style bike jumps, mountain biking trails and a 27-hole disc golf course. <br /><br />Visitors can also enjoy more traditional activities like boating, fishing, hunting and hiking.<h4>Natural Features:</h4>The scenic 200-acre lake is surrounded by mixed forests of white pine, hemlock, red maple, alder and birch trees. Fall colors are spectacular in the region. <br /><br />Wildlife, including fox, fishers, woodchucks, coyotes, hawks, and a wide variety of songbirds and waterfowl, is abundant throughout the area.<h4>Recreation:</h4>Buffumville Lake provides excellent boating, canoeing and swimming opportunities. The lake is a warm-water fishery with good populations of largemouth bass, pickerel, horned pout, bream and more. <br /><br />Hikers and bikers enjoy exploring the 7.2-mile Lake Shore Trail, which begins at the beach and circles the lake. Scenic views and wildlife viewing opportunities are plentiful along the trail.<br /><br />The Buffumville Lake Disc Golf Course contains 27 challenging holes that wind through the scenic project lands. The hilly terrain contains a mixture of open fairways, woods and water hazards.<h4>Facilities:</h4>This day-use area contains two group picnic areas. The Shoreline Shelter is the larger of the two and near the water, while the Grove Shelter is under the pines in the quiet and cool shade. Picnic tables and grills are provided. Unreserved shelters are available for use on a first come, first served basis. <br /><br />Amenities include flush toilets and drinking water. The park offers a boat ramp, volleyball court, horseshoe pit, trails and a swim beach, making it an ideal area for parties and family functions. Park rangers provide educational programs and a Junior Ranger Program for kids age 6-12.",
+    "FacilityLatitude": 42.11833333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "508-248-5697",
+    "FacilityDirections": "From the Massachusetts Turnpike, take the Sturbridge exit and follow Route 20 to Charlton. Turn right on Route 31 and follow the brown signs to the park.",
+    "FacilityName": "BUFFUMVILLE LAKE (GROUP SHELTERS)",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75276,
+    "OrgFacilityID": "AN375276",
+    "FacilityID": 234411,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:41:43",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 57545,
+        "CampsiteName": 1,
+        "Loop": "BUFFUMVILLE LAKE ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234411,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:41:43",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 57764,
+        "CampsiteName": 2,
+        "Loop": "BUFFUMVILLE LAKE ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234411,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032440,
+      "PostalCode": 1507,
+      "AddressStateCode": "MA",
+      "FacilityStreetAddress1": "48 Old Oxford Rd",
+      "City": "Charlton",
+      "FacilityID": 234411,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "FacilityDescription": "<h2>Overview</h2>Horse Creek Pavilion is located eight miles from Greeneville, Tennessee.    It is nestled into a hardwood cove beside its namesake, Horse Creek.  The Civilian Conservation Corps (CCC) constructed the pavilion during the 1930s.<h4>Natural Features:</h4>Horse Creek Pavilion is located close to Horse Creek and adjacent to Sampson Mountain Wilderness.  It is located at the base of the Bald Mountains at an elevation of 1,720 feet.<h4>Recreation:</h4>Hiking, water-play and fishing are popular activities.  Scarlet Oak Trail (#181) is a .2 mile leg-stretcher through the forest bordering the recreation area.  A more primitive hiking experience is available on three trails located in the nearby Sampson Mountain Wilderness.  A small campground and more picnic sites are located in Horse Creek Recreation Area.<h4>Facilities:</h4>The picnic pavilion has three tables and a paved parking area nearby.  A large grill and water source is located at the pavilion.  Additional tables are located nearby, as are trash containers and a pit toilet.  The walkways and many of the sites are accessible; however the restroom has limited accessibility.<h4>Nearby Attractions:</h4>Horse Creek is located near historic Greeneville, Tennessee, home of Andrew Johnson, 17th President of the U.S.  Tusculum College is located nearby.  Founded in 1794, it is the oldest College in Tennessee.  The Andrew Johnson Homestead and several museums are located in Greeneville/Tusculum.  Hotels, restaurants, grocery stores and gas stations are nearby.",
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "(423)638-4109",
+    "FacilityDirections": "From Greeneville, take TN 107 north for six miles.  Turn right at Horse Creek Road and follow the signs for about two miles to the recreation area.",
+    "FacilityName": "HORSE CREEK PAVILION",
+    "LastUpdatedDate": "2014-12-11 17:16:13",
+    "LegacyFacilityID": 123040,
+    "OrgFacilityID": "AN423040",
+    "FacilityID": 250938,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:49:32",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-11-20 07:54:39",
+        "CampsiteType": "SHELTER NONELECTRIC",
+        "CampsiteID": 94907,
+        "CampsiteName": "HORSE CREEK PAVILION",
+        "Loop": "HORSE CREEK PAVILION",
+        "CampsiteAccessible": false,
+        "FacilityID": 250938,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 74,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 6533444,
+      "PostalCode": 37743,
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "4900 Asheville Highway",
+      "City": "Greeneville",
+      "FacilityID": 250938,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

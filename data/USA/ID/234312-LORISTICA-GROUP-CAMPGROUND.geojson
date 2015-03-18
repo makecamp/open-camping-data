@@ -1,0 +1,94 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.46694444444445,
+      44.022777777777776
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -113.46694444444445,
+    "FacilityDescription": "<h2>Overview</h2>Loristica Group Campground is located in a wooded meadow high in the Lost Creek Range, in eastern Idaho. It sits at an elevation of 8,100 feet. Visitors come to the area for its great trail opportunities and scenic beauty. <h4>Natural Features:</h4>The campground is situated among Douglas fir, lodgepole pine and aspen trees. A variety of wildlife, including deer, elk, bears, foxes and coyotes, makes its home in the surrounding area.<h4>Recreation:</h4>Two trailheads can be accessed within a mile of the campground. The Bear-Wet Creek Trail is open to hiking, horseback riding and off-road vehicles.<br><br>The Long Lost-Wet Creek Trail is a non-motorized trail leading to a high plateau with spectacular views of Little Lost and Big Mountain Ranges. Visitors should watch for bighorn sheep, deer and elk in the Big Creek area, along the trail.<h4>Facilities:</h4>This rustic campground is a group reservation site that can accommodate up to 100 people among seven individual campsites. Though few amenities are present, picnic tables, fire rings and vault toilets are provided. An amphitheater with a campfire circle is also on-site.",
+    "FacilityLatitude": 44.022777777777776,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Mackay, Idaho, travel 6.5 miles south on Highway 93. Turn left at the Forest Access/Pass Creek sign. Drive approximately 9 miles to Pass Creek Summit and turn left at the sign for Loristica. Proceed approximately 1 mile, then bear right at the sign to the campground gate.",
+    "FacilityName": "LORISTICA GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:39:10",
+    "LegacyFacilityID": 75173,
+    "OrgFacilityID": "AN375173",
+    "FacilityID": 234312,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:40:46",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:33:17",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 22141,
+        "CampsiteName": 1,
+        "Loop": "LORGC",
+        "CampsiteAccessible": false,
+        "FacilityID": 234312,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032341,
+      "PostalCode": 83251,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "P.O. BOX 507",
+      "City": "MACKAY",
+      "FacilityID": 234312,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

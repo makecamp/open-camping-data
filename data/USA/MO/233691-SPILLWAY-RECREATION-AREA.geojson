@@ -1,0 +1,149 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.6275,
+      39.52305555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -91.6275,
+    "FacilityDescription": "<h2>Overview</h2>Missouris Spillway Recreation Area is tucked in a cove near the Wappapello Dam on Wappapello Lake. The area provides plenty of recreation for day-use visitors, including boating, fishing or playing volleyball by the lakeshore. <h4>Natural Features:</h4>Wappapello Lake has a seemingly endless string of secluded coves hugged by a winding, wooded shoreline. The public recreation area spans 45,000 acres in the southeastern Ozark foothills.<h4>Recreation:</h4>Boating and fishing are the most popular activities with largemouth bass, crappie, bluegill, white bass and channel catfish, among other species. <br /><br />Pine Ridge Natural Trail, a 3/4-mile double loop, starts at the Spillway Recreation Area and provides an excellent way to explore the beautiful woodlands. <h4>Facilities:</h4>This day use area includes two large picnic shelters, 8 picnic sites, a volleyball court, playground, horseshoe pits and bank fishing.<h4>Nearby Attractions:</h4>The extensive 33-mile Ozark Trail, starts just south of Sam A. Baker State Park and winds along the west side of the St. Francis River and Wappapello Lake.",
+    "FacilityLatitude": 39.52305555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "573-222-8562",
+    "FacilityDirections": "From St. Louis, Missouri: Take I-55 South to US Highway 67 South to State Highway D (located just South of Greenville, Missouri). Take State Highway D south for 20 miles to State Highway T. Cross Wappapello Dam and take the first left onto a paved road and watch for signs. <br /><br />From Poplar Bluff, Missouri: Take US Highway 60 East to State Highway T North. Go North on State Highway T for 22 miles and watch for signs.",
+    "FacilityName": "SPILLWAY RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:29:42",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73506,
+    "OrgFacilityID": "AN373506",
+    "FacilityID": 233691,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:28:10",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 57177,
+        "CampsiteName": "S04",
+        "Loop": "SPILLWAY REC",
+        "CampsiteAccessible": true,
+        "FacilityID": 233691,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 47,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:28:10",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 57217,
+        "CampsiteName": "S06",
+        "Loop": "SPILLWAY REC",
+        "CampsiteAccessible": false,
+        "FacilityID": 233691,
+        "attributes": [
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031712,
+      "PostalCode": "63966-9603",
+      "AddressStateCode": "MO",
+      "FacilityStreetAddress1": "10992 HIGHWAY T",
+      "City": "WAPPAPELLO",
+      "FacilityID": 233691,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

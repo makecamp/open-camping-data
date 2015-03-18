@@ -1,0 +1,904 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.83444444444444,
+      45.38194444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -121.83444444444444,
+    "FacilityDescription": "<h2>Overview</h2>Lost Creek Campground is a fully accessible campground allowing anyone access to campsites, fishing and a paved nature trail that meanders through the area. The campground is also near the Wild and Scenic Sandy River and not far from the popular Ramona Falls Trailhead. Mt. Hood is just southeast of the campground and is close enough for visitors to enjoy a day trip and sightseeing.<h4>Natural Features:</h4>Moss and shrubbery covers the ground and evergreens tower overhead, providing ample shade for the campground and privacy between the individual and group campsites. The campground is situated in the Old Maid Flat area of Mt. Hood National Forest, northwest of majestic Mt. Hood at an elevation of about 2,600 feet. It sits on one of the largest pyroclastic volcanic mudflows from Mt. Hoods &quot;Old Maid&quot; eruption in the 1700s.<h4>Recreation:</h4>A variety of trails exist within and near the campground, including the accessible Lost Creek Nature Trail, which explains events in history that helped form the areas geology. A deviation from the road coming into the campground (Forest Road 1825), will lead to a trailhead for spectacular Ramona Falls on the Sandy River. The 7.1-mile trail leads to cascading waterfalls and is one of the most popular hikes on the forest.<br /><br />Fishing is available in the Sandy River and anglers can expect steelhead year-round, Coho salmon in the fall and Chinook salmon from February through October. Trout also inhabit the river. Scenic driving and picnicking are popular activities as well.<h4>Facilities:</h4>The campground is fully accessible and provides a variety of single, double and walk-to campsites. Two yurts are available for reservation as well. The structures can accommodate up to six campers each. Visitors must provide their own bedding.<br /><br />Picnic tables and campfire rings with grills are provided, as are accessible vault toilets and drinking water. Utility hookups are not available. Firewood is available for purchase from the campground host. <h4>Nearby Attractions:</h4>The town of Government Camp is located at the base of Mt. Hood, about 18 miles from the campground. Year-round skiing is available there, as well as a variety of activities and amenities.",
+    "FacilityLatitude": 45.38194444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-328-0909",
+    "FacilityDirections": "From Portland, follow Highway 26 for 18 miles past the town of Sandy to the community of Zigzag. Turn north (left) onto Lolo Pass Road (Forest Road 18). Travel just over 4 miles and turn right onto Forest Road 1825. Continue for less than a mile and then bear right, staying on Forest Road 1825, and cross the Sandy River bridge. Continue for approximately 2 miles and then bear right at the &quot;Y&quot; junction. The campground is less than a mile past the junction, on the right.",
+    "FacilityName": "LOST CREEK",
+    "LastUpdatedDate": "2015-03-12 02:16:28",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 71621,
+    "OrgFacilityID": "AN371621",
+    "FacilityID": 232838,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "WALK TO",
+        "CampsiteID": 79039,
+        "CampsiteName": "B-02",
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "YURT",
+        "CampsiteID": 79040,
+        "CampsiteName": 11,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": false,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79048,
+        "CampsiteName": 5,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "WALK TO",
+        "CampsiteID": 79092,
+        "CampsiteName": "B-05",
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "WALK TO",
+        "CampsiteID": 79144,
+        "CampsiteName": "B-01",
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79425,
+        "CampsiteName": 4,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79527,
+        "CampsiteName": 8,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79607,
+        "CampsiteName": 2,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "WALK TO",
+        "CampsiteID": 79650,
+        "CampsiteName": "B-03",
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "WALK TO",
+        "CampsiteID": 79720,
+        "CampsiteName": "B-04",
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "YURT",
+        "CampsiteID": 79729,
+        "CampsiteName": 9,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": false,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79752,
+        "CampsiteName": 3,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79766,
+        "CampsiteName": 6,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79969,
+        "CampsiteName": 7,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 79974,
+        "CampsiteName": 1,
+        "Loop": "AREA LOST CREEK",
+        "CampsiteAccessible": true,
+        "FacilityID": 232838,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030849,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "MT. HOOD",
+      "FacilityID": 232838,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

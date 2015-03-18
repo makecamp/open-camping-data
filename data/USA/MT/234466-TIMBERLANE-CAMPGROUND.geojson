@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.525,
+      48.48888888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.525,
+    "FacilityDescription": "<h2>Overview</h2>Timberlane Campground is located along a forest creek and in an area thick with towering trees. Several hiking trails exist in the area. The campground may accommodate up to 200 people and is great for reunions and receptions. Its a great place to enjoy the Kootenai National Forest.<h4>Natural Features:</h4>The campground is located along Pipe Creek in the Kootenai National Forest of northwestern Montana. It lies in a mixed conifer forest at an elevation of about 2,600 feet. A variety of wildlife make its home in the area.<br /><br />The area is historically significant, once a former habitat and hunting ground for the Kootenai Tribe. Certain parts of the forest remain sacred to the tribe, including a location on Pipe Creek that contains soft, multicolored stone, which was used to carve bowls for tobacco pipes used in ceremonies. Pipe Creek used to produce stones of several different colors.<h4>Recreation:</h4>Horseshoe pits, a volleyball court and a large, grassy play field are available at the campground. Pipe Creek allows visitors to enjoy fishing and swimming in the clear mountain water. The campground and picnic area are surrounded by a 1-mile hiking trail.<br /><br />Visitors also enjoy scenic drives, biking and watching for wildlife along any of the roadways in the area. Pipe Creek Road heads deep into the surrounding forest. <h4>Facilities:</h4>The campground offers nearly a dozen single-family campsites, each equipped with a table and campfire ring with grill. Additionally, the large day-use picnic shelter is perfect for large gatherings. Vault toilets, drinking water, large cooking grills, firewood and electric hookups are provided. Parking surfaces are gravel.<h4>Nearby Attractions:</h4>Timberlane Campground is near the David Thompson Historic Route, the 67-mile Lake Koocanusa Scenic Byway and the Scenic Tour of the Kootenai River bike route.<br /><br />The town of Libby is nearby, making the campground a perfect location for overnight stays during the wildly popular Logger Days, various car club events and Nordicfest.",
+    "FacilityLatitude": 48.48888888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-293-7773",
+    "FacilityDirections": "From Libby, Montana, cross the Kootenai River Bridge and turn north onto Pipe Creek Road 68, which leads to the town of Yaak and Turner Mountain Ski Area. Travel 8 miles to the gate, which is approximately 1 mile past the community of Pipe Creek.",
+    "FacilityName": "TIMBERLANE CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:41:32",
+    "LegacyFacilityID": 75344,
+    "OrgFacilityID": "AN375344",
+    "FacilityID": 234466,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:51:59",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:13:33",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 71021,
+        "CampsiteName": 1,
+        "Loop": "AREA TIMBERLANE CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 234466,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032495,
+      "PostalCode": "59923-8212",
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "Canoe Gulch RD 12557 MT Hwy. 37",
+      "City": "LIBBY",
+      "FacilityID": 234466,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

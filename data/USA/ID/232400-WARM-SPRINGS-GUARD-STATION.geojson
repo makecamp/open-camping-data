@@ -1,0 +1,119 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.32291111111111,
+      44.13686111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.32291111111111,
+    "FacilityDescription": "<h2>Overview</h2>Historic Warm Springs Guard Station is open year-round and has recently been restored to reflect its original finishes and paint. Its accessible by car from mid-Aprilthrough mid-December but can only be reached by snowshoes or cross-country skis for the remainder of the year.<br /><br />This charming cabin offers a rustic retreat with a few amenities. Guests should be prepared to bring most of the supplies and gear they need for a comfortable stay.<h4>Natural Features:</h4>Towering Ponderosa pines forest this pretty site located in a narrow mountain valley along the South Fork Payette River. The cabin sits at an elevation of 4,700 feet amid steep mountain peaks.<br /><br />This is a wintering area for deer and elk. Summer visitors to the area may see black bears. A variety of bird species make the forest their home year-round. <h4>Recreation:</h4>Some hiking trails are nearby. One trail leads to Bonneville Hot Springs, which is accessible by snowshoes and skis in the winter. Visitors can soakin the waters while enjoying the beautiful surroundings.<br /><br /> The South Fork Payette River offers opportunities for trout fishing and swimming. The area around the cabin is a cross-country skiing and snowshoeing playground in winter.<h4>Facilities:</h4>The cabin sleeps six people and comes with one double bed and three single beds with mattresses. A futon and a wood stove are located in the front room. Firewood is provided in the adjacent barn, but it may need to be split. The kitchen is equipped with a dry sink and table with chairs. Some pots and pans and a coffee pot are provided.<br /><br />A campfire ring and an outhouse with vault toilet are located outside the cabin. A horse corral and a well with a hand pump are available for summer use. No water is available at the cabin in the winter, but snow can be melted. No electricity or cooking facilities are provided.<br /><br /> Guests must bring garbage bags to pack out trash. Items like bedding, lanterns or flashlights, matches, first aid supplies, extra toilet paper and an axe are not available.    <h4>Nearby Attractions:</h4>Highway 21, just below the guard station, is known as the Ponderosa Pine Scenic Byway. This 131-mile route starts in Boise and meanders through Boise, Salmon-Challis and Sawtooth National Forests, with several points of interest along the way.",
+    "FacilityLatitude": 44.13686111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Boise, Idaho, take State Highway 21 northeast 75 miles to Lowman, Idaho. Continue on Highway 21 another 18 miles to milepost 91.2. Turn left on Forest Road 025RC and continue 1.5 miles to cabin when road is open to motorized use. In the winter, park in the plowed parking lot on the left at milepost 91.2 and hike/snowshoe/ski the the remaining distance.<br /><br /> From Banks, Idaho, turn right off Highway 55 onto Highway 17, drive 40 miles to Lowman. Turn left onto Highway 21 and go approximately 18 miles east to milepost 91.2. Turn left on Forest Road 025RC and continue 1.5 miles to cabin when road is open to motorized use. In the winter, park in the plowed parking lot on the left at milepost 91.2 and hike/snowshoe/ski the the remaining distance.",
+    "FacilityName": "WARM SPRINGS GUARD STATION",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "LegacyFacilityID": 70808,
+    "OrgFacilityID": "AN370808",
+    "FacilityID": 232400,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:36:37",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 54899,
+        "CampsiteName": "001x",
+        "Loop": "WARM SPRINGS GUARD STATION",
+        "CampsiteAccessible": false,
+        "FacilityID": 232400,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:36:37",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 54941,
+        "CampsiteName": 1,
+        "Loop": "WARM",
+        "CampsiteAccessible": false,
+        "FacilityID": 232400,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Cabin Heating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030418,
+      "PostalCode": 83637,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "7359 HIGHWAY 21",
+      "City": "LOWMAN",
+      "FacilityID": 232400,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

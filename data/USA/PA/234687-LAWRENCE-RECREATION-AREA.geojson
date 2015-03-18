@@ -1,0 +1,120 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.16944444444445,
+      41.976111111111116
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -77.16944444444445,
+    "FacilityDescription": "<h2>Overview</h2>Lawrence Recreation Area is a day-use facility on the south side of Cowanesque Lake. It is conveniently located on State Route 49 approximately 4 miles west of Lawrenceville, Pennsylvania. The area offers a great location for picnicking and shoreline fishing. <h4>Natural Features:</h4>Cowanesque Lake is situated in the Endless Mountains region of Pennsylvania, along the Allegheny Plateau in the Appalachian Mountains.  The surrounding land paints a scenic picture of rolling terrain and open fields. <h4>Recreation:</h4>Cowanesque Lake offers many outdoor activities including boating and fishing. A variety of native fish inhabits the areas streams and lakes. The North and South Tailrace areas provide access for fishing below the dam.<br /><br />The fields and forests around the lake are popular destinations for hunters looking for large and small game species that inhabit the eastern hardwood forests.<br /><br />Many miles of hiking trails surround the lake, including the Mid State Trail, which links the trails at Cowanesque and nearby Hammond Lake into a long path that extends all the way through Pennsylvania from Maryland to New York.<h4>Facilities:</h4>The Cayuga Shelter is reservable for group picnicking. It is fully accessible and comfortably accommodates groups of up to 100 people in a lovely lakeside setting.",
+    "FacilityLatitude": 41.976111111111116,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "570-835-5281",
+    "FacilityDirections": "From US 15 South, take the Lawrenceville Exit. At the bottom of the ramp, turn right onto State Route 49. Recreation Area will be on the right approxmately 4 miles. <br /><br />From US 15 North, take the Lawrenceville exit. At the bottom of the ramp turn left. Recreation area will be on the right approximately 5 miles.",
+    "FacilityName": "LAWRENCE RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:45:27",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 96720,
+    "OrgFacilityID": "AN396720",
+    "FacilityID": 234687,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 79313,
+        "CampsiteName": 1,
+        "Loop": "Day Use",
+        "CampsiteAccessible": true,
+        "FacilityID": 234687,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032726,
+      "PostalCode": 16946,
+      "AddressStateCode": "PA",
+      "FacilityStreetAddress1": "Cowanesque Lake, 710 Ives Run Lane (mailing)",
+      "City": "Tioga",
+      "FacilityID": 234687,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

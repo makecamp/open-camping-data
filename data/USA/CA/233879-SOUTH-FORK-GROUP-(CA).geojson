@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.52055555555556,
+      38.76
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.52055555555556,
+    "FacilityDescription": "<h2>Overview</h2>South Fork is the largest group campground in the Crystal Basin Recreation Area, nestled in the vast expanse of the Eldorado National Forest. The remote location affords visitors a true outdoor camping experience.<h4>Natural Features:</h4>Situated at an elevation of 5,200 feet, the campground sits between the Union Valley Reservoir and Loon Lake. <br /><br />It is also just minutes away from Gerle Creek Reservoir, a serene mountain lake where motorized boating is prohibited in order to preserve a peaceful and quiet atmosphere for visitors.<h4>Recreation:</h4>With the South Fork of the Rubicon River located within walking distance, the group camp provides excellent fishing, swimming and other water sports and activities.<h4>Facilities:</h4>While the campground can be used as a single group site that can accommodate up to 125 guests, it can also be reserved as multiple single-family sites.<br /> <br />A group cooking area with food preparation tables and double grills is available, as well as campfire rings with grills at each site. Vault toilets are provided, however, drinking water is not available at the campground. Visitors can boil stream water or fill up at nearby boat ramps. A parking area is also available.<h4>Nearby Attractions:</h4>Swimming and non-motorized boating are available at Gerle Creek Reservoir, 5 miles north of the campground.",
+    "FacilityLatitude": 38.76,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-647-5415",
+    "FacilityDirections": "Travel 21 miles east from Placerville on Highway 50 and turn left on the Ice House Road. Go 25 miles north and turn left on South Fork Road. The campground is a mile from the turn-off, on the right side of the road.",
+    "FacilityName": "SOUTH FORK GROUP (CA)",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "LegacyFacilityID": 73802,
+    "OrgFacilityID": "AN373802",
+    "FacilityID": 233879,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:41:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:26:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 87055,
+        "CampsiteName": 1,
+        "Loop": "AREA SOUTH FORK GROUP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233879,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 125,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031900,
+      "PostalCode": 95726,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "7887 HIGHWAY 50",
+      "City": "POLLOCK PINES",
+      "FacilityID": 233879,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

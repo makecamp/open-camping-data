@@ -1,0 +1,157 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.6236111111111,
+      42.32472222222223
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -113.6236111111111,
+    "FacilityDescription": "<h2>Overview</h2>Thompson Flat Campground is located high in the Albion Mountain Range of southern Idaho, near the towns of Declo and Albion. Visitors enjoy the area for its abundant trails, alpine lakes and scenic beauty.<h4>Natural Features:</h4>The campground is situated in a beautiful wildflower-filled meadow lined with tall pine and fir trees, on the eastern slope of Mount Harrison. It sits at an elevation of 8,400 feet. <h4>Recreation:</h4>The Twin Lakes area is located just outside the campground and across the road. It offers picnic areas, horse corrals and access to a variety of trails.<br /><br />Lake Cleveland is a 2-mile drive from the campground, offering fishing, canoeing and trail opportunities. Several additional hiking, mountain biking, horse and off-road vehicle trails are on the mountain.<h4>Facilities:</h4>The campground contains two group sites, which can accommodate up to 25 and 50 people, respectively. Both sites are equipped with large picnic tables and campfire circles with grills. Additional single-family campsites are available on a first-come, first-served basis, but the group sites must be reserved.<br /><br />Accessible vault toilets are provided. A campground host is located on-site. Roads and parking spurs within the campground are dirt.<h4>Nearby Attractions:</h4>A visit up the road to the Mount Harrison Lookout, which is active and in use during fire season, offers interesting area information and breathtaking panoramic views of the valleys below.<br /><br />Pomerelle Ski Area, just below Thompson Flat, offers lift-served hiking and mountain biking, scenic chairlift rides and a few dining options.",
+    "FacilityLatitude": 42.32472222222223,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-678-0430",
+    "FacilityDirections": "From Interstate 84, take exit 216 and follow State Highway 77 south for approximately 18 miles, through the towns of Declo and Albion, to Howell Canyon Road. Turn west at the Pomerelle Ski Area sign and drive seven miles up the canyon on Howell Canyon Road. The road is steep and winding, watch for the campground entrance sign on the right. Use caution with travel trailers and RVs, as not all campground loops are suitable for trailer turnarounds.",
+    "FacilityName": "THOMPSON FLAT",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75032,
+    "OrgFacilityID": "AN375032",
+    "FacilityID": 234192,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:14:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 11255,
+        "CampsiteName": "A",
+        "Loop": "THOMPSON FLAT ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234192,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:14:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 11259,
+        "CampsiteName": "B",
+        "Loop": "THOMPSON FLAT ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234192,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032222,
+      "PostalCode": 83318,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "3650 South Overland Ave",
+      "City": "BURLEY",
+      "FacilityID": 234192,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

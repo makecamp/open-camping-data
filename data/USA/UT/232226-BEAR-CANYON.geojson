@@ -1,0 +1,249 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.72972222222222,
+      39.7875
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.72972222222222,
+    "FacilityDescription": "<h2>Overview</h2>Bear Canyon Campground is situated on the boundary of the Mount Nebo Wilderness Area just off the Nebo Loop Scenic Byway at an elevation of 6,800 feet. Visitors enjoy hiking and fishing in this quiet canyon.<h4>Natural Features:</h4>Each campsite within Bear Canyon offers beautiful views of the surrounding Wasatch Range. Aspen and fir trees line the edges of the campground, which sits in a large grassy meadow. Few trees are located within the campsites, so shade is very limited.<h4>Recreation:</h4>Salt Creek runs along the edge of campground, offering rainbow trout fishing. Bear Canyon Trail, for hiking, biking and horseback riding, begins at the campground entrance.<h4>Facilities:</h4>The campground contains three large group sites with picnic tables, serving tables, grills and campfire circles. Sites A and B can accommodate up to 75 people each; Site C can accommodate up to 50 people.<br /><br />Flush toilets and a flagpole are located near Site A. Vault toilets are also provided. Roads, parking spurs and walking paths within the site are paved.<h4>Nearby Attractions:</h4>The Mount Nebo Wilderness Area is adjacent, brimming with beautiful mountain scenery, pristine waters, abundant wildlife, vibrant summer wildflowers and numerous trail opportunities. <br /><br />The Nebo Loop Scenic Byway stretches 37 miles through high alpine terrain, dense forests and colorful meadows. Devils Kitchen Geological Area can be found along the loop, just 6 miles from Bear Canyon. It offers a 1/2-mile round-trip trail to interesting red rock hoodoos.",
+    "FacilityLatitude": 39.7875,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-226-3564",
+    "FacilityDirections": "From I-15, take Nephi exit 225. Travel about 5 miles east on Highway 132 to the Nebo Loop Scenic Byway. Turn left onto the byway and travel 3.5 miles to the Bear Canyon turnoff. Turn left. Bear Canyon Campground is located at the end of the road, just past Ponderosa Campground.",
+    "FacilityName": "BEAR CANYON",
+    "LastUpdatedDate": "2015-03-12 02:06:13",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70505,
+    "OrgFacilityID": "AN370505",
+    "FacilityID": 232226,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 75188,
+        "CampsiteName": 2,
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232226
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 75227,
+        "CampsiteName": "C",
+        "Loop": "BEAR CANYON ",
+        "CampsiteAccessible": true,
+        "FacilityID": 232226,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 75662,
+        "CampsiteName": "A",
+        "Loop": "BEAR CANYON ",
+        "CampsiteAccessible": true,
+        "FacilityID": 232226,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 75708,
+        "CampsiteName": 1,
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232226
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 75769,
+        "CampsiteName": 4,
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232226
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 75871,
+        "CampsiteName": 5,
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232226
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 75876,
+        "CampsiteName": "B",
+        "Loop": "BEAR CANYON ",
+        "CampsiteAccessible": true,
+        "FacilityID": 232226,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 75983,
+        "CampsiteName": 3,
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 232226
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030244,
+      "PostalCode": 84660,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "44 WEST 400 NORTH",
+      "City": "SPANISH FORK",
+      "FacilityID": 232226,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

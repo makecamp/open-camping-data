@@ -1,0 +1,793 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.39111111111112,
+      42.405833333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.39111111111112,
+    "FacilityDescription": "<h2>Overview</h2>Willow Prairie Horse Camp is nestled in tall timber at an elevation of 4,400 feet just southwest of Mt. Mc Loughlin, near a beautiful meadow of the same name. The camp offers many amenities to make you and your horses feel at home.<br /><br />The camp was converted to a horse camp in 1990 with the addition of 19 miles of interconnecting horseback riding trails. The renovation was made possible through a partnership between the Forest Service and the Coalition of Equestrian Clubs, which provided much of the labor for this wonderful facility.<h4>Natural Features:</h4>The unique character of the Rogue River-Siskiyou National Forest is composed of two distinct geological provinces: the Cascade Range and the Siskiyou Mountains. The Cascade Range is dominated by snow-capped volcanic peaks such as 9,495 Mt. Mc Loughlin within the Sky Lakes Wilderness. The Siskiyou area embodies world-class wild rivers, remarkable fisheries and the most complex and treasured plant communities in the Pacific Northwest.  <br /><br />Adjacent to the camp is a wetland area featuring beaver dams and several large ponds where wildlife abounds. Sandhill cranes, Canada geese, ducks, elk, deer and many others frequent the area. <h4>Recreation:</h4>Willow Prairie Horse Camp offers equestrian access to a wide variety of trails. Rugged peaks, sparkling lakes and forested areas provide the backdrop for many of these rides.<h4>Facilities:</h4>Willow Prairie offers large equestrian sites, each with corrals, a picnic table, campfire ring with grill and ample parking. Vault toilets and drinking water are provided.<br /><br />A watering trough is available for horses, and a trailer is left on-site for campers to deposit manure and hay upon departure.<h4>Nearby Attractions:</h4>Willow Prairie Guard Station was constructed on the edge of the meadow in 1924 by a Forest Service road crew. Its main purpose at that time was as a firefighter guard station. The original cabin was recently restored by local volunteers and employees of the Butte Falls Ranger District. <br /><br />Fish Lake is just 10 minutes from Willow Prairie. Visitors enjoy fishing, boating, canoeing and swimming. A small resort on the lake offers motor boat and canoe rentals.",
+    "FacilityLatitude": 42.405833333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-865-2700",
+    "FacilityDirections": "From Butte Falls, take County Road 821 (Butte Falls-Fish Lake Highway) approximately 17 miles southeast to Forest Road 3738. Turn west (right) on Forest Road 3738 and drive 1.3 miles to where Forest Road 3738 intersects Forest Road 3735. Turn left onto Forest Road 3735 and you will see the campground sign on your right.<br /><br /> From Medford/Klamath Falls (Highway 140), turn north on County Road 821 and drive approximately 2 miles northwest to Forest Road 3738. Turn west (left) on Forest Road 3738 and drive 1.3 miles to where 3738 intersects Forest Road 3735. Turn left onto Forest Road 3735 and you will see the campground sign on your right.",
+    "FacilityName": "WILLOW PRAIRIE HORSECAMP",
+    "LastUpdatedDate": "2015-03-12 02:36:00",
+    "LegacyFacilityID": 74117,
+    "OrgFacilityID": "AN374117",
+    "FacilityID": 234103,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85080,
+        "CampsiteName": 10,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85084,
+        "CampsiteName": 8,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85149,
+        "CampsiteName": 6,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85207,
+        "CampsiteName": 3,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85283,
+        "CampsiteName": 4,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85659,
+        "CampsiteName": 1,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85740,
+        "CampsiteName": 2,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85745,
+        "CampsiteName": 5,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85873,
+        "CampsiteName": 9,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85890,
+        "CampsiteName": "HOST",
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 85932,
+        "CampsiteName": 7,
+        "Loop": "AREA WILLOW PRAIRIE HORSECAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234103,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032122,
+      "PostalCode": 97522,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "PO Box 227",
+      "City": "BUTTE FALLS",
+      "FacilityID": 234103,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

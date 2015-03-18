@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.9888888888889,
+      43.79972222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.9888888888889,
+    "FacilityDescription": "<h2>Overview</h2>Idlewild Campground is the perfect place for large gatherings in any weather. In sun, rain or snow, there are plenty of ways to enjoy the outdoors while spending time with friends and family.<br /><br />The campground is situated along Highway 395 north of Burns, Oregon. In the summer, it is popular with hikers and mountain bikers. In the winter, visitors can snowmobile and cross-country ski.<h4>Natural Features:</h4>The campground is situated at an elevation of 5,000 feet in a large stand of Ponderosa pines. The group shelter sits near a meadow within Idlewild Campground.<br /><br />The Malheur National Forest encompasses 1.46 million acres in the Blue Mountains of eastern Oregon. The forests dramatic landscapes include the Strawberry Mountain Wilderness, with 9,038 Strawberry Mountain, which extends east to west through the heart of the forest, and the Monument Rock Wilderness along the eastern boundary.<h4>Recreation:</h4>Idlewild offers opportunities for camping, picnicking, hiking and mountain biking. Devine Summit Trail begins within the campground. Snowmobiling and cross-country skiing bring visitors to the area in the winter.<h4>Facilities:</h4>Idlewild contains one accessible, group day-use picnic shelter available for reservations for up to 75 people. It is equipped with picnic tables, a campfire circle and grills. Vault toilets and drinking water are provided.<br /><br /> Individual sites for overnight camping are available on a first-come, first-served basis. <h4>Nearby Attractions:</h4>The campground is located a short drive from Burns, Oregon.",
+    "FacilityLatitude": 43.79972222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-573-4300",
+    "FacilityDirections": "From the city of Burns, Oregon, take U.S. Highway 395 approximately 17 miles north. There are signs for the campground 1/2-mile from the site in both directions.",
+    "FacilityName": "IDLEWILD",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75065,
+    "OrgFacilityID": "AN375065",
+    "FacilityID": 234217,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 85801,
+        "CampsiteName": 1,
+        "Loop": "AREA IDLEWILD",
+        "CampsiteAccessible": true,
+        "FacilityID": 234217,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032247,
+      "PostalCode": 97738,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "265 HIGHWAY 20 SOUTH",
+      "City": "HINES",
+      "FacilityID": 234217,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

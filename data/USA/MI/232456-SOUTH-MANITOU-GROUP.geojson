@@ -1,0 +1,376 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.09469999999999,
+      45.01246388888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -86.09469999999999,
+    "FacilityDescription": "<h2>Overview</h2>South Manitou Group Campground is a tent-only backcountry facility on South Manitou Island in Sleeping Bear Dunes National Lakeshore on Lake Michigan. Campers must take a 1.5-hour ferry or boat ride to reach it, and must backpack their gear into the campground from the dock.<br /><br />This facility is comprised of three reservable group sites at Bay Campground and three others at Weather Station Campground. Each site is open to groups of nine to 20 people only. Smaller parties must plan to occupy multiple first-come, first-served individual sites at Popple, Bay or Weather Station Campgrounds on the island. Bay is the closest campground to the dock (less than a mile) and a short walk from the beach. Weather Station overlooks Lake Michigan from the bluffs on the south side of the island; the hike from the ferry is about 1.3 miles. <br /><br />If group sites are full, your group may be able to split up into multiple individual campsites. Be sure to make reservations for the ferry (231-256-9061) for transportation to the island. For more information, call 231-326-4700 ext 5010<br /><br />Summer temperatures range from the upper 70s to 90s during the day and drop about 20 degrees at night. Winters are cold, with daytime highs in the 20s to 30s and lows in the 10s and 20s; snow is usually on the ground from late November through March. <h4>Natural Features:</h4>South Manitou Island is part of an island chain in Lake Michigan that extends north to the Straits of Mackinac. The island consists of a ridge of tilted layers of limestone, buried under a blanket of glacial debris. It features unique sand dune formations, 10 miles of pebble beaches and a grove of old growth white cedars that date back over 500 years. The campgrounds lie on sandy soils among younger forests.<h4>Recreation:</h4>There is no shortage of activities on South Manitou Island. Visitors can hike around the 10-mile perimeter of the island via pebble beaches, take a tour of the South Manitou Island Lighthouse during summer months, view the 1960 shipwreck of the Francisco Morazanon or go on a motorized tour to learn the history of the island.<br /><br />Visitors can also hike day-long excursions to unique sand dune formations and old growth cedar forests. Both campgrounds have beach access where campers can beachcomb and swim; group sites are closer to the beach at Bay Campground than at Weather Station.<h4>Facilities:</h4>Water is available on the island at Bay Campground, Weather Station Campground, the Village and the School House located on the old farm site. Group campsites are secluded and set apart from one another. Each site has a fire pit for open fires (firewood must be purchased or collected in the park). Wooden pit toilets are provided, however campers must bring their own toilet paper.",
+    "FacilityLatitude": 45.01246388888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "231-326-4700",
+    "FacilityDirections": "From Traverse City, Michigan, take M-22 to Suttons Bay. Go west on M-204 from Suttons Bay towards Leland. Turn north at the junction of M-22 and M-204 to Leland. Take the ferry from Leland to South Manitou Island.",
+    "FacilityName": "SOUTH MANITOU GROUP",
+    "LastUpdatedDate": "2015-03-12 02:10:10",
+    "LegacyFacilityID": 70935,
+    "OrgFacilityID": "AN370935",
+    "FacilityID": 232456,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 02:53:27",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:15:05",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 798,
+        "CampsiteName": "BG001",
+        "Loop": "Bay Group Sites",
+        "CampsiteAccessible": false,
+        "FacilityID": 232456,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:30 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 2640,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 02:53:27",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:15:05",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 799,
+        "CampsiteName": "BG003",
+        "Loop": "Bay Group Sites",
+        "CampsiteAccessible": false,
+        "FacilityID": 232456,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:30 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 2640,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 02:53:27",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:15:05",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 800,
+        "CampsiteName": "WG001",
+        "Loop": "Weather Station Group Sites",
+        "CampsiteAccessible": false,
+        "FacilityID": 232456,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:30 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 7920,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 02:53:27",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:15:05",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 801,
+        "CampsiteName": "WG003",
+        "Loop": "Weather Station Group Sites",
+        "CampsiteAccessible": false,
+        "FacilityID": 232456,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:30 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 7920,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 02:53:27",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:15:05",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 802,
+        "CampsiteName": "BG002",
+        "Loop": "Bay Group Sites",
+        "CampsiteAccessible": false,
+        "FacilityID": 232456,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:30 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 2640,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 02:53:27",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:15:05",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 803,
+        "CampsiteName": "WG002",
+        "Loop": "Weather Station Group Sites",
+        "CampsiteAccessible": false,
+        "FacilityID": 232456,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:30 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 7920,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030475,
+      "PostalCode": 49654,
+      "AddressStateCode": "MI",
+      "FacilityStreetAddress1": "Leland Harbor & W. River St",
+      "City": "Leland ",
+      "FacilityID": 232456,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

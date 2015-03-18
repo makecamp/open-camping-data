@@ -1,0 +1,98 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.71638888888889,
+      32.538333333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.71638888888889,
+    "FacilityDescription": "<h2>Overview</h2>With its picturesque vegetation and dramatic setting at the foot of 9,157 Mt. Lemmon in southeastern Arizona, Peppersauce Campground is an outstanding area for enjoying an afternoon picnic or a weekend campout. This year-round facility is a popular stop among off-road vehicle enthusiasts and families. Hunting, hiking and scenic driving opportunities are nearby. It is located 8 miles from the town of Oracle.<h4>Natural Features:</h4>Campsites at Peppersauce are spread throughout a creekside oasis of enormous Arizona sycamore and walnut trees that provide shade in summer and color in autumn. The campground sits at an elevation of 4,700 feet alongside Peppersauce Creek. The creek is normally dry except during heavy rains or the areas summer monsoon season. Campers should be aware that the creek is prone to flash flooding during rain events.<h4>Recreation:</h4>The Santa Catalina Mountains are known for their exceptional hiking. Hikers can find access to the Arizona Trail, which runs from Mexico to Utah, about 5 miles from the campground along Forest Road 38. Off-road vehicle trails are also available in the area.<br><br>A few nearby caves afford visitors the opportunity for caving and spelunking.<h4>Facilities:</h4>Peppersauce Campground has one reservable group camping area for up to 35 people at a time. The facility is equipped with vault toilets, several tables and benches, a grill, campfire rings and lantern posts. The parking area can hold up to 10 vehicles. First-come, first-served individual campsites are also available.<br><br>A campground host is available on-site for visitor assistance.<h4>Nearby Attractions:</h4>Visitors can explore several historic, cultural and natural attractions within a day trip, including the University of Arizonas Biosphere 2, the city of Tucson, Saguaro National Park, Sabino Canyon and Colossal Cave.",
+    "FacilityLatitude": 32.538333333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Tucson, drive north on Oracle Road (U.S. Highway 89). Continue for 27 miles to State Highway 77. Turn right (east) and drive 10 miles to the town of Oracle. Take the first Oracle exit and travel 4 miles through the town to Forest Road 38. Follow 38 to Peppersauce Canyon.<br><br>Please note: the speed limit is 5 mph inside the campground and 35 mph outside the campground on Forest Road 38.",
+    "FacilityName": "PEPPERSAUCE",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "LegacyFacilityID": 72129,
+    "OrgFacilityID": "AN372129",
+    "FacilityID": 233222,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 90632,
+        "CampsiteName": "Group Area",
+        "Loop": "PEPPERSAUCE",
+        "CampsiteAccessible": false,
+        "FacilityID": 233222,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031231,
+      "PostalCode": 85623,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "Mount Lemmon Road",
+      "City": "Oracle",
+      "FacilityID": 233222,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.60166666666666,
+      36.973333333333336
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -90.60166666666666,
+    "FacilityDescription": "<h2>Overview</h2>Markham Springs Campground is set on the Black River in a scenic and historic recreation area in the southwestern corner of Missouris Mark Twain National Forest. The area provides access to multiple trails and recreational opportunities.<br /><br />Markham Springs Recreation Area gets its name from former owner, M. J. Markham, who acquired the property in 1901 and operated a lumber mill at the site until the 1930s.<br /><br />The Fuchs House, a five-bedroom concrete and native stone home, also sits on the property, along with a neighboring mill. At times, it is also available for rent.<h4>Natural Features:</h4>Located adjacent to the Black River, the recreation area contains a small pond that dates back to the 1800s. The area is covered by a dense forest of colorful trees, including ash, elm, maple and poplar.<h4>Recreation:</h4>River and stream fishing are popular activities near the campground. The Black River boasts bass, sunfish, walleye and catfish. Many anglers fish from boats, but others fish from the riverbanks. Canoeing and kayaking is also possible on the river.<br /><br />Various day hikes within the Markham Springs Trail System are accessible from the campground. Eagle Bluff Trail is a 1.5-mile loop along the river, where birding and wildlife viewing are favorite pastimes.<h4>Facilities:</h4>The campground offers single and double sites for tent and RV camping. Some rather primitive sites are located in a wooded setting near the river. <br /><br />Electric hookups are provided, as well as tables and campfire rings with grills. Lantern posts are also available. Accessible vault toilets, drinking water, showers and trash collection are provided. <h4>Nearby Attractions:</h4>The small town of Williamsville is just 3 miles from the campground, offering a general store and fuel station.",
+    "FacilityLatitude": 36.973333333333336,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Poplar Bluff, take Highway 67 north for 14 miles, then drive west on Highway 49 for 9 miles (about 3 miles past the town of Williamsville). Take the first right after crossing the Black River to enter Markham Springs Recreation Area.",
+    "FacilityName": "MARKHAM SPRINGS",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "LegacyFacilityID": 75374,
+    "OrgFacilityID": "AN375374",
+    "FacilityID": 234490,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74121,
+        "CampsiteName": 31,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74129,
+        "CampsiteName": 33,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74351,
+        "CampsiteName": 34,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74381,
+        "CampsiteName": 36,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74447,
+        "CampsiteName": 32,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74501,
+        "CampsiteName": 35,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74533,
+        "CampsiteName": 30,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74602,
+        "CampsiteName": 29,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74673,
+        "CampsiteName": 26,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74691,
+        "CampsiteName": 28,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "RV ELECTRIC",
+        "CampsiteID": 74804,
+        "CampsiteName": 27,
+        "Loop": "CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 234490,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Springs",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032518,
+      "PostalCode": 63902,
+      "AddressStateCode": "MO",
+      "FacilityStreetAddress1": "PO Box 988",
+      "City": "POPLAR BLUFF",
+      "FacilityID": 234490,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

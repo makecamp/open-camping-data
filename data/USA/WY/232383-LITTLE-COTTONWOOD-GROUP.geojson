@@ -1,0 +1,82 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.93555555555555,
+      43.19138888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.93555555555555,
+    "FacilityDescription": "<h2>Overview</h2>Little Cottonwood Group Campground is located in beautiful Snake River Canyon, just 30 miles southwest of Jackson, in western Wyoming. It sits at an elevation of 5,700 feet. Visitors enjoy fishing and whitewater rafting on the adjacent Snake River.<h4>Natural Features:</h4>The campground is situated in a forest of pine and aspen trees, which provide partial shade. Summer wildflowers are abundant. The Snake River is below the campground, down the hillside. <h4>Recreation:</h4>Fly-fishing for cutthroat, rainbow and brown trout is a popular activity on the Snake, as is whitewater rafting and kayaking. A boat ramp is nearby.<h4>Facilities:</h4>The campground offers one group campsite that can accommodate up to 40 people. The site is equipped with picnic tables, a campfire circle and food storage lockers. Vault toilets, drinking water and trash collection are provided, but there is no electricity. The parking area within the campground is dirt.<h4>Nearby Attractions:</h4>The city of Jackson is about 25 miles north, offering restaurants, groceries, shops, galleries and ski resorts with summer activities.<br /><br />Grand Teton National Park is approximately 40 miles north of the campground. It provides opportunities for boating, fishing, hiking, canoeing and outstanding mountain scenery.",
+    "FacilityLatitude": 43.19138888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "307-690-7284",
+    "FacilityDirections": "From Jackson, travel south on Highway 191/89/26 for about 13 miles, to Hoback Junction. Turn right on Highway 26/89 and continue along Snake River Canyon for 17 miles. The campground is on the south side of the road.",
+    "FacilityName": "LITTLE COTTONWOOD GROUP",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "LegacyFacilityID": 70780,
+    "OrgFacilityID": "AN370780",
+    "FacilityID": 232383,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:16:19",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 11838,
+        "CampsiteName": 1,
+        "Loop": "LITT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232383,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030401,
+      "AddressStateCode": "WY",
+      "FacilityStreetAddress1": "BRIDGER-TETON NF",
+      "City": "SNAKE RIVER CANYON",
+      "FacilityID": 232383,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

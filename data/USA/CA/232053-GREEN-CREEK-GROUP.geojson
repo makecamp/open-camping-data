@@ -1,0 +1,132 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.2761111111111,
+      38.11083333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.2761111111111,
+    "FacilityDescription": "<h2>Overview</h2>Green Creek Group Campground is located about 12 miles from Bridgeport, California, at an elevation of 7,500 feet. Visitors enjoy fishing on Green Creek and hiking the Green Creek Trail.<h4>Natural Features:</h4>The campground is tucked between Green Creek and a rocky outcropping, among a forest of towering Jeffrey pines, which offer partial shade. Aspens, juniper, sagebrush and summer wildflowers dot the landscape. <h4>Recreation:</h4>Green Creek offers rainbow trout fishing and can be easily accessed from within the campground.<br /><br />Green Creek Trail, for hiking and horseback riding, can be accessed just outside the campground entrance. It leads to Green Lake and further on to East Lake. Rugged peaks surround both large lakes, where hikers are rewarded with good backcountry fishing and spectacular scenery.<h4>Facilities:</h4>This primitive campground contains two group sites that can accommodate 25 and 30 people, with large picnic tables, campfire circles, grills and food storage lockers. Vault toilets, drinking water and trash collection are provided. Roads and parking spurs are dirt.",
+    "FacilityLatitude": 38.11083333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "760-932-7092",
+    "FacilityDirections": "From Bridgeport, California, take Highway 395 south 5 miles. Turn west on Forest Road 142 and follow signs for 7 miles to the campground.",
+    "FacilityName": "GREEN CREEK GROUP",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "LegacyFacilityID": 70274,
+    "OrgFacilityID": "AN370274",
+    "FacilityID": 232053,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:52:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 32294,
+        "CampsiteName": 1,
+        "Loop": "GREE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232053,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:52:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 32557,
+        "CampsiteName": 2,
+        "Loop": "GRP2",
+        "CampsiteAccessible": false,
+        "FacilityID": 232053,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030071,
+      "PostalCode": 93517,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "P.O. BOX 472 ",
+      "City": "BRIDGEPORT",
+      "FacilityID": 232053,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

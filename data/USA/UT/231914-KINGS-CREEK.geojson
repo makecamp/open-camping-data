@@ -1,0 +1,130 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.2625,
+      37.612500000000004
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.2625,
+    "FacilityDescription": "<h2>Overview</h2>Kings Creek Campground is located on the west side of Tropic Reservoir, high on the Colorado Plateau at an elevation of 8,000 feet. Visitors enjoy boating, fishing and exploring local ATV trails.<h4>Natural Features:</h4>Tropic Reservoir is situated at the foot of beautifully forested mountains in Southern Utah. The campground is nestled among towering pines on a hillside above the reservoir. <h4>Recreation:</h4>Kings Creek is a favorite of ATV enthusiasts because of its easy access to a large network of trails. The Fremont ATV trail passes within 1/4 mile of the campground and the Great Western Trail is nearby.<br /><br />Hiking and mountain biking trails are plentiful as well, with access from various points within the campground. <br /><br />Tropic Reservoir offers boating, canoeing and fishing for brook, rainbow, brown and cutthroat trout. A boat ramp is within 1/2-mile of the the campground. The East Fork Sevier River is nearby with good fishing opportunities.<h4>Facilities:</h4>The campground offers two group sites, which can be reserved separately or together. The group area is isolated from the main campground and provides privacy for gatherings and events. All individual sites are managed on a first come, first served basis.<br /><br />Flush toilets and drinking water are provided. The campground and reservoir are reached via a well-maintained gravel road with good access for cars and RVs alike.<h4>Nearby Attractions:</h4>Bryce Canyon National Park is 12 miles from the campground, with breathtaking scenery and excellent hiking opportunities.<br /><br />Kodachrome Basin State Park is an hour away, with towering rock spires, a natural arch and great hiking trails.",
+    "FacilityLatitude": 37.612500000000004,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-676-8608",
+    "FacilityDirections": "From Panguitch, Utah, travel 7 miles south on Hwy 89 to Scenic Hwy 12. Travel Hwy 12 for 11 miles to East Fork Road. Travel East Fork Road 7 miles to Tropic Reservoir and Kings Creek Campground. Turn immediately after the sign for the campground, and continue .5 miles to the campground located on the west side of Tropic Reservoir.",
+    "FacilityName": "KINGS CREEK",
+    "LastUpdatedDate": "2015-03-12 02:01:15",
+    "LegacyFacilityID": 70101,
+    "OrgFacilityID": "AN370101",
+    "FacilityID": 231914,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:23:03",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:27:35",
+        "CampsiteType": "GROUP RV AREA NONELECTRIC",
+        "CampsiteID": 15715,
+        "CampsiteName": "Group A",
+        "Loop": "KING",
+        "CampsiteAccessible": false,
+        "FacilityID": 231914,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:23:03",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:27:35",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 15716,
+        "CampsiteName": "Group B",
+        "Loop": "KING",
+        "CampsiteAccessible": false,
+        "FacilityID": 231914,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029932,
+      "AddressStateCode": "UT",
+      "City": "Dixie",
+      "FacilityID": 231914,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.92444444444445,
+      44.138888888888886
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -114.92444444444445,
+    "FacilityDescription": "<h2>Overview</h2>North Shore Picnic Area is located next to beautiful Redfish Lake at the foot of the Sawtooth Mountain Range. Stanley, Idaho, is conveniently close, only about 4 miles away. <h4>Natural Features:</h4>Summer wildflowers are plentiful, lodgepole pines provide partial shade and Fishhook Creek is nearby. Temperatures are cool, with an average summer high of 78 degrees and a low of 40 degrees.<h4>Recreation:</h4>North Shore is in the heart of the beautiful Sawtooth National Recreation Area, where outdoor activities abound. <br /><br />Redfish Lake offers excellent boating, water skiing, canoeing, kayaking and fishing for rainbow trout and Kokanee salmon. Little Redfish Lake is just down the road, providing additional fishing and canoeing opportunities.<br /><br />In the immediate area are trailheads for the Alpine Way, Fishhook Creek, Redfish Lake Creek and Bench Lakes Trails. The Idaho Centennial Trail passes nearby<h4>Facilities:</h4>This day-use site offers two waterfront picnic sites. Site A can accommodate up to 100 people; Site B can accommodate up to 50 people. Vault toilets and drinking water are provided. <br /><br />A designated swim beach is on-site. Sandy Beach Boat Ramp is less than 1/4 mile away. Firewood can be purchased at the picnic area.<h4>Nearby Attractions:</h4>The Sawtooth National Recreation Area offers a myriad of excellent hiking and biking opportunities, and an estimated 750 miles of trails crisscross the valley and surrounding mountains. .<br /><br />The Salmon River offers excellent fishing for rainbow trout, Westslope cutthroat trout and occasional hybrid cutbows and bull trout. <br /><br />Redfish Lake Lodge is nearby with a restaurant, general store, boat and kayak rentals, mooring services, lake tours and a lake shuttle. <br /><br />Popular area events include an Arts and Crafts Fair in July, and Wagon Days, Salmon Festival, Quilt Fair, and Firemans Ball in September.",
+    "FacilityLatitude": 44.138888888888886,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-774-3000",
+    "FacilityDirections": "From Stanley, Idaho, take State Highway 75 south for 4 miles. Turn west onto Forest Road 214 at the Redfish Lake sign and travel approximately 2 miles. Turn right at the North Shore Picnic Area entrance sign.",
+    "FacilityName": "NORTH SHORE PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "LegacyFacilityID": 70301,
+    "OrgFacilityID": "AN370301",
+    "FacilityID": 232076,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:05:38",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:51:34",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 44086,
+        "CampsiteName": "A01",
+        "Loop": "NORT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232076,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:05:38",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:51:34",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 44802,
+        "CampsiteName": "B01",
+        "Loop": "PICB",
+        "CampsiteAccessible": false,
+        "FacilityID": 232076,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030094,
+      "PostalCode": 83278,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "SAWTOOTH",
+      "City": "STANLEY",
+      "FacilityID": 232076,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

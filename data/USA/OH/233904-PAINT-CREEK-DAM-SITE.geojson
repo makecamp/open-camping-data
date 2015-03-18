@@ -1,0 +1,140 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.35277777777777,
+      39.24444444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -83.35277777777777,
+    "FacilityDescription": "<h2>Overview</h2>Paint Creek Dam Site Area, located on Paint Creek Lake, offers great opportunities for outdoor recreation in the Scioto area of southwestern Ohio. Visitors enjoy boating, fishing, camping, picnicking and rock climbing.<h4>Natural Features:</h4>The lake is situated among gently rolling hills, where a mix of open meadows and wooded areas cover the shoreline. A variety of songbirds and waterfowl can be found in the area.<h4>Recreation:</h4>The campground is operated by the Ohio Department of State Parks and offers a wide variety of outdoor recreation activities, including mini and disc golf, a nature center and an amphitheater. Other activities on land include picnicking, hiking, mountain biking, horseback riding, hunting and rock climbing. A swimming beach, summer nature programs, three boat ramps, a marina and boat rentals can all be found around the lake. In winter months, sledding and cross-country skiing are available.<br />  <br /> The Corps of Engineers downstream recreation area offers picnicking, a trail, a play area and rock climbing opportunities. Two access points to the stream provide kayaking and canoeing opportunities on the river. Paint Creek has long been a popular fishing stream, where white and black crappie, blue gill, smallmouth and spotted bass, rock bass, suckers, darters, channel catfish and saugeye are commonly found.<br />  <br /> A 1.5-mile hiking trail meanders near Little Pond, and individual picnic sites with grills are scattered throughout the area and available on a first come, first served basis.<h4>Facilities:</h4>Paint Creek Dam Site Area offers two accessible day-use picnic shelters that each accommodate up to 100 people. A visitor center is located on-site. <br /><br /> Little Pond Shelter (Shelter 1) sits next to Little Pond and contains 15-amp electric hookups. Corn hole courts are adjacent, but bean bags are not provided. A water fountain is available at the shelter; a fountain and playground are just across the parking lot from the shelter.<br />  <br /> Overlook Shelter (Shelter 2) overlooks the lake and emergency spillway. There is an environmental restroom but it has no water or electric hookups. Overlook Shelter is located near the visitor center which houses a water fountain, flush restrooms and visitor information. A small playground and corn hole courts are adjacent to the shelter and an accessible fishing pier is within walking distance.<h4>Nearby Attractions:</h4>The Paint Creek Lake area offers several points of interest within a short drive, including the First Dental School Museum, Highlands Nature Sanctuary and the Sugarloaf Outdoor Drama Theater. <br /><br />Several points of cultural significance include Tecumseh, Serpent Mound, Seip Mound and the Hopewell Indian Culture National Park.<br /><br />Rocky Fork State Park, Paint Creek State Park and Pike Lake State Park are all in the area as well, offering additional recreational opportunities.<br /><br />The nearby cities of Greenfield, Chillicothe, Hillsboro and Washington Courthouse host annual festivals in the spring, summer and fall.",
+    "FacilityLatitude": 39.24444444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Chillicothe Ohio, take Route 50 west for 18 miles to Bainbridge. Ohio. Three miles past Bainbridge, turn right on Rapid Forge Road. Go 2 miles north and turn left into the Paint Creek Dam Site Area.<br /><br />Little Pond Shelter is located on the right just before crossing the dam. Overlook Shelter is located at the end of the road at the emergency spillway overlook.",
+    "FacilityName": "PAINT CREEK DAM SITE",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73833,
+    "OrgFacilityID": "AN373833",
+    "FacilityID": 233904,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 68079,
+        "CampsiteName": 2,
+        "Loop": "OVER",
+        "CampsiteAccessible": true,
+        "FacilityID": 233904,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 68109,
+        "CampsiteName": 1,
+        "Loop": "LITT",
+        "CampsiteAccessible": true,
+        "FacilityID": 233904,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031925,
+      "PostalCode": 45612,
+      "AddressStateCode": "OH",
+      "FacilityStreetAddress1": "RECREATION AREA",
+      "City": "BAINBRIDGE",
+      "FacilityID": 233904,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

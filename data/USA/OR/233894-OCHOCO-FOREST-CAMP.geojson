@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.42527777777778,
+      44.39722222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.42527777777778,
+    "FacilityDescription": "<h2>Overview</h2>Ochoco Forest Camp is nestled in the Ochoco Mountain range near the 6,926-foot Lookout Mountain, which is known for its unusual rock formations. The camp offers a large group picnic area and several campsites.<h4>Natural Features:</h4>Much of the area is dominated by old-growth Ponderosa pine. Wildlife include Rocky Mountain elk and mule deer, as well as several bird species that includewhite-headed woodpecker, belted kingfisher, spotted sandpiper, cinnamon teal, American coot, Stellers jay, yellow-headed blackbird and Brewers blackbird.<h4>Recreation:</h4>The shelter is close to the Lookout Mountain Trail, which climbs to the top of the mountain and offers terrific views of the Cascades and meadow wildflowers in thespring. This trail is open to hikers and mountain bikers.<br /><br />Anglers can go fly fishing for trout in adjacent Ochoco Creek. There is also a horseshoe pit on-site.<h4>Facilities:</h4>The large picnic shelter sits in a quiet and secluded location at the far end of the campground. Groups of up to 75 people can enjoy picnicking andother recreational activities. Picnic tables and grills are provided at the shelter, and drinking water and vault toilets are available in the campground.<br /><br />Several first-come, first-served campsites are available for visitors wishing to spend the night. <h4>Nearby Attractions:</h4>Walton Lake offers a variety of activities for day-use visitors. There is a swimming beach, fishing pier and boat ramp, and the lake is stocked with rainbow trout and catfish.",
+    "FacilityLatitude": 44.39722222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-416-3689",
+    "FacilityDirections": "From Prineville, Oregon, take Highway 26 north for 16 miles. Turn righton Ochoco Ranger Station Road and go 9 miles to the Ranger Station, then turnleft, proceed across the small bridge and take a right into the Forest Campfee station. Continue on to the pavilion group site.",
+    "FacilityName": "OCHOCO FOREST CAMP",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "LegacyFacilityID": 73823,
+    "OrgFacilityID": "AN373823",
+    "FacilityID": 233894,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 84102,
+        "CampsiteName": 1,
+        "Loop": "AREA OCHOCO FOREST CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233894,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031915,
+      "PostalCode": 97754,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "Aud&Di Campground Service, 3160 NE 3rd St.",
+      "City": "PRINEVILLE",
+      "FacilityID": 233894,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

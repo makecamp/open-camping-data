@@ -1,0 +1,149 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.78194444444445,
+      39.13111111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.78194444444445,
+    "FacilityDescription": "<h2>Overview</h2>Forbes Creek Group Campground is located on the southeast shore of Sugar Pine Reservoir in the Tahoe National Forest. Visitors enjoy the area for its fishing, canoeing and hiking opportunities.<h4>Natural Features:</h4>The 160-acre Sugar Pine Reservoir sits at an elevation of 3,600 feet. A forest of cedar and ponderosa pine covers the campground, which overlooks the reservoir. Summertime temperatures are warm during the day and cool at night.<h4>Recreation:</h4>Fishing, canoeing, swimming and boating are popular activities on the reservoir. A trail system for walking and non-motorized biking connects the two group sites at the campground, to the lake and nearby boat ramp.<br /><br />The North Fork of the American River is nearby, offering opportunities for additional fishing and swimming. Many miles of hiking, biking and off-road vehicle trails are in the surrounding area.<h4>Facilities:</h4>The campground offers two group campsites, Madrone and Rocky Ridge. Each site can accommodate up to 50 people and 18 vehicles. Both sites are equipped with a central cooking and picnic area, with a large campfire circle and multiple tables.<br /><br />RVs, trailers and tents are allowed within the campground. An unloading area and accessible parking are available within the campground.",
+    "FacilityLatitude": 39.13111111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-478-6150",
+    "FacilityDirections": "Take Interstate 80 to the Foresthill/Auburn exit, near Auburn. Continue east for 17 miles to Foresthill. Travel through town, about 9 miles, to Forest Road 10/Sugar Pine Road. Turn left and continue about 9 miles. Look for the Sugar Pine Recreation Area sign and turn right on the first road after the sign. Continue about a half-mile to the Rocky Ridge Group Campground, on the right, and to the Madrone Group Campground, at the end of the circle.",
+    "FacilityName": "FORBES CREEK",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70266,
+    "OrgFacilityID": "AN370266",
+    "FacilityID": 232045,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 83343,
+        "CampsiteName": "GS2",
+        "Loop": "ROCKY RIDGE",
+        "CampsiteAccessible": true,
+        "FacilityID": 232045,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 83871,
+        "CampsiteName": "GS1",
+        "Loop": "MADRONE",
+        "CampsiteAccessible": true,
+        "FacilityID": 232045,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 18,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030063,
+      "PostalCode": 95959,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "631 Coyote Street",
+      "City": "Nevada City",
+      "FacilityID": 232045,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

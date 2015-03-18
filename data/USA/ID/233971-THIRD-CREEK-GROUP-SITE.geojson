@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.12305555555555,
+      42.19138888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.12305555555555,
+    "FacilityDescription": "<h2>Overview</h2>Third Creek Group Campground is located just 12 miles northeast of Malad, Idaho, on the Weston Highway near Deep Creek Reservoir. Visitors enjoy exploring the local trail system and fishing at Deep Creek.<h4>Natural Features:</h4>The group site lies in an open, flat area in Weston Canyon at an approximate elevation of 5,000 feet. Pines and hardwoods are scattered around the edges of the campground, which receives snow through the winter. <h4>Recreation:</h4>Third Creek Trailhead is adjacent to the campground, complete with hitching racks for horses. It accesses the Oxford Peak Trail System and is open to hikers, bikers, motorcyclists and off-road vehicle users as well.<br /><br />Deep Creek Reservoir offers good trout, as well as boating and swimming opportunities.<h4>Facilities:</h4>This year-round campground contains one group site that can accommodate up to 125 people. A large picnic shelter, tables and grills are provided, as are vault toilets and drinking water. <br /><br />Weston Highway is paved and the one-mile stretch of road to the campground is a good gravel road with easy access for RVs and trailers.",
+    "FacilityLatitude": 42.19138888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Malad, travel 3.5 miles north on I-15 to exit 17. Turn east onto Weston Highway and continue for 7 miles to Upper Deep Creek Reservoir. Turn left on Forest Road 231. Go one mile to Third Creek Group Site Campground.",
+    "FacilityName": "THIRD CREEK GROUP SITE",
+    "LastUpdatedDate": "2015-03-12 02:33:37",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73925,
+    "OrgFacilityID": "AN373925",
+    "FacilityID": 233971,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:41:43",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 57568,
+        "CampsiteName": 1,
+        "Loop": "THIRD CREEK GROUP SITE ",
+        "CampsiteAccessible": true,
+        "FacilityID": 233971,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 125,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031992,
+      "PostalCode": 83204,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "4350 CLIFFS DRIVE",
+      "City": "POCATELLO",
+      "FacilityID": 233971,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

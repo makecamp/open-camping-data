@@ -1,0 +1,103 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.5761111111111,
+      38.195277777777775
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.5761111111111,
+    "FacilityDescription": "<h2>Overview</h2>Aquarius Ranger Station is located about 15 miles south of Loa, in eastern Utah. It sits on the west side of beautiful Boulder Mountain, which makes up half of the expansive Aquarius Plateau. The station was built by the Civilian Conservation Corps in 1937 and was used by generations of Forest Service employees working in the surrounding back country. <br /><br />Recreational activities abound in the surrounding area. Guests enjoy fishing in many lakes on Boulder Top, and exploring local trails.<h4>Natural Features:</h4>The ranger station is situated at the edge of a meadow lined with aspens and mixed conifers, at an elevation of 8,700 feet. Grasses, sagebrush and summer wildflowers fill the meadow. From the front porch, guests are awarded scenic views of surrounding area. Summer days are warm and nights are cool.<br /><br />Boulder Mountain rises to an elevation of 11,317 feet. Capitol Reef National Park lies on its eastern edge. Boulder is comprised of over 50,000 acres of rolling pine, spruce and aspen forests on its slopes and broad, lake-studded meadows on its top.<h4>Recreation:</h4>Pine Creek Reservoir is less than a mile from the ranger station. This small lake covers three acres, and offers fishing for brook trout. Cook Lake, Miller Lake and numerous additional fishing lakes are scattered across Boulder Top.<br /><br />Many hiking, biking and off-road vehicle trails meander through the surrounding area. The Great Western Trail spans nearly 4,500 miles through five states, and runs alongside the station. Hikers, horseback riders, mountain bikers and off-road enthusiasts love this spectacular trail. <br /><br />Big game hunting for black bear, mule deer, elk, grouse and antelope is also a popular activity.<h4>Facilities:</h4>The Aquarius Ranger Station Complex can accommodate a maximum of 20 people, with four inside and 16 camped outside in tents or RVs. The rustic two-room cabin sleeps four people comfortably on one double bed and one set of bunk beds. No linens or bedding are provided. Two or three RVs and several tents are allowed outside. <br /><br />The cabin is equipped with a table and chairs, a wood stove and propane appliances including a cook stove and oven, refrigerator and hot water heater. Some pots and pans, dishes and utensils are provided, but guests are encouraged to bring their own. <br /><br />A vault toilet is located adjacent to the cabin, as is a campfire circle and several picnic tables. Potable water is available inside the cabin and at a hydrant outside. Solar lighting is available inside the cabin.<br /><br />Please note: pets are not allowed inside the Ranger Station. <br /><br />No smoking in the Ranger Station.",
+    "FacilityLatitude": 38.195277777777775,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-836-2811",
+    "FacilityDirections": "From Loa, travel directly south on the paved county road for about 2 miles. From that point, turn south on Forest Road 154 and travel about 8 miles. Turn left on Forest Road 178 and travel about 5 miles, then turn left onto the Aquarius Ranger Station Road and travel approximately a quarter-mile to the cabin.",
+    "FacilityName": "AQUARIUS RANGER STATION",
+    "LastUpdatedDate": "2015-03-12 02:43:53",
+    "LegacyFacilityID": 75464,
+    "OrgFacilityID": "AN375464",
+    "FacilityID": 234572,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 43896,
+        "CampsiteName": 1,
+        "Loop": "AQRS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234572,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Hot Water"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Both",
+            "AttributeName": "Stove/Fridge"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Stove/Oven"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032600,
+      "PostalCode": 84747,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "P.O BOX 129 138 SOUTH MAIN ST",
+      "City": "LOA",
+      "FacilityID": 234572,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

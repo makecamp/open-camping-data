@@ -1,0 +1,334 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.64611111111111,
+      40.64555555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.64611111111111,
+    "FacilityDescription": "<h2>Overview</h2>Jordan Pines Campground is located in scenic Big Cottonwood Canyon at an elevation of 7500 feet. Salt Lake City is conveniently close. Visitors enjoy hiking, biking and fishing.<h4>Natural Features:</h4>A forest of shady pines and aspens covers the campground, which offers panoramic views of the surrounding peaks. Vivid summer wildflowers are abundant and autumn leaves put on quite a show.<h4>Recreation:</h4>Hiking and mountain biking are popular activities on area trails, including the Donut Falls Trail, which begins nearby. Fly-fishing is a favorite activity on Big Cottonwood Creek.<h4>Facilities:</h4>This group campground is a perfect location for family reunions, church outings and company picnics. It offers four overnight campsites and one day-use picnic site, all of which contain picnic tables, campfire rings and grills.<br /><br />Vault toilets and drinking water are provided. A volleyball court and horseshoe pit are available, but campers must bring their own net, ball and horseshoes. Roads and parking spurs are paved.<h4>Nearby Attractions:</h4>Big Cottonwood Canyon is a beautiful area known for its soaring peaks, pristine hidden lakes and cascading streams. Numerous hiking and mountain biking trails are in the area. Rock climbing is a popular activity as well.<br /><br />Solitude Mountain Resort is 4 miles up-canyon, offering scenic chairlift rides, hiking, a few dining options and a challenging 18-hole disc golf course.<br /><br />Silver Lake is another mile past Solitude. Fishing and canoeing are popular activities. An easy trail loops around the small lake.",
+    "FacilityLatitude": 40.64555555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-649-7534",
+    "FacilityDirections": "From I-215, take the 6200 south exit and travel a mile east to Wasatch Blvd. Take Wasatch Blvd a mile south to junction with Big Cottonwood Canyon/Highway 190. Make a left at the junction and travel up Big Cottonwood Canyon 9.2 miles to the campground.",
+    "FacilityName": "JORDAN PINES",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "LegacyFacilityID": 70285,
+    "OrgFacilityID": "AN370285",
+    "FacilityID": 232063,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 68342,
+        "CampsiteName": 2,
+        "Loop": "PODR",
+        "CampsiteAccessible": false,
+        "FacilityID": 232063,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 68572,
+        "CampsiteName": 3,
+        "Loop": "PINE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232063,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Preferred",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 125,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 68612,
+        "CampsiteName": 1,
+        "Loop": "PINI",
+        "CampsiteAccessible": false,
+        "FacilityID": 232063,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 68744,
+        "CampsiteName": 4,
+        "Loop": "LIMA",
+        "CampsiteAccessible": false,
+        "FacilityID": 232063,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:48:35",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 68783,
+        "CampsiteName": 5,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232063,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 18,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030081,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "Jordan Pines (UT)",
+      "City": "WASATCH",
+      "FacilityID": 232063,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

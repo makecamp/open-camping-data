@@ -1,0 +1,3460 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.97083333333333,
+      33.46388888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.97083333333333,
+    "FacilityDescription": "<h2>Overview</h2>Dripping Springs campground is a wonderful campground adjacent to the Agua Tibia Wilderness. <h4>Natural Features:</h4>The campground is adjacent to sensitive riparian habitat which is home to the endangered Arroyo Toad. The hills surrounding the campground are covered in southern California chaparral which is host to a diverse population of mammals and fauna. The mountain tops above the campground are lined with coniferous forest. <h4>Recreation:</h4>Recreation in the area includes hiking, trail running, and backpacking. <h4>Facilities:</h4>The campground facilities include restrooms and potable water. No showers or other amenities are available at this location. <h4>Nearby Attractions:</h4>The campground is directly adjacent to Agua Tibia Wilderness. This wilderness area includes a 20-mile hiking loop. The campground is also near Temecula, California, and the Temecula Wine Country.",
+    "FacilityLatitude": 33.46388888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "760-788-0250",
+    "FacilityDirections": "Campground is 11 miles east of Temecula off of Highway 79.",
+    "FacilityName": "DRIPPING SPRINGS CAMPGROUND (CA)",
+    "LastUpdatedDate": "2015-03-12 02:46:15",
+    "LegacyFacilityID": 107633,
+    "OrgFacilityID": "AN407633",
+    "FacilityID": 234719,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 90020,
+        "CampsiteName": 32,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Horse",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90114,
+        "CampsiteName": 8,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90183,
+        "CampsiteName": 10,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90224,
+        "CampsiteName": 5,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90297,
+        "CampsiteName": 9,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 90306,
+        "CampsiteName": 34,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Horse",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90379,
+        "CampsiteName": 24,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90384,
+        "CampsiteName": 1,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90390,
+        "CampsiteName": 16,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90408,
+        "CampsiteName": 4,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90459,
+        "CampsiteName": 15,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 90531,
+        "CampsiteName": 30,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Horse Stall/Corral"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Horse",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90534,
+        "CampsiteName": 2,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90542,
+        "CampsiteName": 28,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90577,
+        "CampsiteName": 27,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90646,
+        "CampsiteName": 29,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90648,
+        "CampsiteName": 7,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90655,
+        "CampsiteName": 20,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90656,
+        "CampsiteName": 26,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90661,
+        "CampsiteName": 14,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90685,
+        "CampsiteName": 23,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90725,
+        "CampsiteName": 17,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90734,
+        "CampsiteName": 3,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90785,
+        "CampsiteName": 19,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90789,
+        "CampsiteName": 18,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90805,
+        "CampsiteName": "25 Host",
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90826,
+        "CampsiteName": 21,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90861,
+        "CampsiteName": 22,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 90864,
+        "CampsiteName": 31,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Horse",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90868,
+        "CampsiteName": 11,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 90881,
+        "CampsiteName": 12,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Severe",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 90902,
+        "CampsiteName": 13,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Severe",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "EQUESTRIAN NONELECTRIC",
+        "CampsiteID": 90904,
+        "CampsiteName": 33,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Horse",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 90985,
+        "CampsiteName": 6,
+        "Loop": "DRIPPING SPRINGS CAMPGROUND (CA)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234719,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Moderate",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032767,
+      "PostalCode": 92536,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "39755 Highway 79",
+      "City": "Aguanga",
+      "FacilityID": 234719,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

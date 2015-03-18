@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.841,
+      36.859969444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -87.841,
+    "FacilityDescription": "<h2>Overview</h2>Cadiz Park is located on the beautiful Lake Barkley near the town of Cadiz, Kentucky. The day-use area is a great spot for barbecuing, boating and fishing.  <br><br>Fun fact: the largest yellow bass caught in Kentucky, weighing in at one pound one ounce, was caught in Lake Barkley. <h4>Natural Features:</h4>Lake Barkley covers 57,900 acres with 1,004 miles of shoreline. Summer water temperatures are a comfortable but refreshing 70 to 80 degrees Fahrenheit. <h4>Recreation:</h4>Visitors enjoy boating, fishing, and swimming among many other activities. Bring the family and some food and enjoy a fun-filled day in sun at Cadiz.  <h4>Facilities:</h4>The picnic shelter is ideal for groups of up to 100 guests. Amenities include a boat ramp, playground, paved parking and grills. Shopping, grocery stores, and gas stations are conveniently close.<h4>Nearby Attractions:</h4>Visit the Lake Barkley State Resort Park for miles of hiking trails and horseback riding stables.",
+    "FacilityLatitude": 36.859969444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "270-362-4236",
+    "FacilityDirections": "<p>From Nashville, Tennessee, take I-24 W to the Cadiz Exit, then travel eight milesto the park, following entrance signs.</p>",
+    "FacilityName": "CADIZ",
+    "LastUpdatedDate": "2015-03-12 02:11:45",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 71062,
+    "OrgFacilityID": "AN371062",
+    "FacilityID": 232538,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:15:10",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 73940,
+        "CampsiteName": 1,
+        "Loop": "CADI",
+        "CampsiteAccessible": true,
+        "FacilityID": 232538,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030556,
+      "PostalCode": "42045-0218",
+      "AddressStateCode": "KY",
+      "FacilityStreetAddress1": "BOX 218",
+      "City": "GRAND RIVERS",
+      "FacilityID": 232538,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

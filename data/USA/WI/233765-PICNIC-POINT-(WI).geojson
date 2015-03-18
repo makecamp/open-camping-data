@@ -1,0 +1,102 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.43583333333333,
+      45.30555555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -90.43583333333333,
+    "FacilityDescription": "<h2>Overview</h2>Picnic Point Campground is a quaint campground, where a large group can enjoy a peaceful escape in northern Wisconsin. The rustic nature of the campground draws campers in for a respite from the hustle and bustle of nearby cities and towns.<h4>Natural Features:</h4>The campgrounds shaded group campsite is nestled under towering pine trees along the western shore of Mondeaux Flowage. Sites sit right on the edge of the scenic lake, where boats can also be anchored.<h4>Recreation:</h4>A boat ramp into the 411-acre Mondeaux Flowage is available not far from the campground. The lake, although rather shallow, is popular for swimming and fishing. Anglers fish for musky, pan fish, largemouth bass and pike, among other varieties.<br /><br />A system of hiking trails is available in the area, including the 1,200-mile Ice Age National Scenic Trail, which traces the edge of a historic glacier that once covered the state of Wisconsin and much of North America.<h4>Facilities:</h4>The campground offers one large group campsite for tent camping only. The site can accommodate up to 35 people. <br /><br />The site is equipped with multiple tables and campfire rings with grills. Vault toilets and drinking water are provided. The campground does not provide trash collection and visitors are required to pack out all garbage.<h4>Nearby Attractions:</h4>The city of Medford is located about 18 miles from the campground. A variety of services can be found there.",
+    "FacilityLatitude": 45.30555555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "715-748-4875",
+    "FacilityDirections": "From Medford, take State Highway 13 north 4 miles. Turn left (west) onto County Highway M for about 7 miles. Turn right (north) onto County Highway E and continue for about 8 miles. Turn right (east) onto Forest Road 1563 and continue for 1 mile, then turn right (south) onto Forest Road 106 for 2 miles.",
+    "FacilityName": "PICNIC POINT (WI)",
+    "LastUpdatedDate": "2015-03-12 02:30:29",
+    "LegacyFacilityID": 73622,
+    "OrgFacilityID": "AN373622",
+    "FacilityID": 233765,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:16:54",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 75866,
+        "CampsiteName": "GT1",
+        "Loop": "PICNIC POINT",
+        "CampsiteAccessible": false,
+        "FacilityID": 233765,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031786,
+      "PostalCode": 54451,
+      "AddressStateCode": "WI",
+      "City": "MEDFORD",
+      "FacilityID": 233765,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.02305555555556,
+      45.85861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -114.02305555555556,
+    "FacilityDescription": "<h2>Overview</h2>Spring Gulch Campground is a well-maintained campground located about 50 feet from the highway, on the banks of the scenic Bitterroot River. Visitors enjoy a variety of recreational opportunities, including hiking, mountain biking, fishing and swimming. The campground provides accessible sites and amenities, making it a comfortable spot for anyone to relax in the mountains of southwestern Montana.<h4>Natural Features:</h4>Located on the banks of the Bitterroot River, the campground is nestled in a ponderosa pine forest. It is easily accessible from Highway 93 and sits at an elevation of about 4,100 feet in the Bitterroot National Forest. A variety of wildlife, including big game like mule and white-tailed deer, elk and moose, makes its home in the area.<h4>Recreation:</h4>A number of hiking, biking and horseback riding trails can be accessed near the campground. The Continental Divide National Scenic Trail can be accessed not far from the campground, as well as trails that lead to the areas numerous mountain peaks.<br><br>A variety of natural hot springs exist in the area, including Lost Trail Hot Springs, which is approximately seven miles south of the campground. The springs are popular places for swimming. A general store and lodging are located nearby.<br><br>Rafting, canoeing, kayaking and fishing on the Bitterroot River are also popular activities. A short paved path meanders along the river and an accessible fishing dock is located within the campground. Anglers can expect to find mainly cutthroat trout, but other freshwater species are available. <h4>Facilities:</h4>The campground offers single and double-family campsites, some of which are accessible. Reservations are required. Picnic tables and campfire rings with grills are provided, as are accessible vault toilets and drinking water. RV hookups are not available.<h4>Nearby Attractions:</h4>The small town of Sula is less than five miles from the campground, offering gas and a post office.",
+    "FacilityLatitude": 45.85861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-821-3201",
+    "FacilityDirections": "The campground is located in southwestern Montana, approximately 75 miles south of Missoula. From Sula, travel three miles northwest on Highway 93.",
+    "FacilityName": "SPRING GULCH",
+    "LastUpdatedDate": "2015-03-12 02:07:45",
+    "LegacyFacilityID": 70657,
+    "OrgFacilityID": "AN370657",
+    "FacilityID": 232327,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "RV NONELECTRIC",
+        "CampsiteID": 61033,
+        "CampsiteName": 9,
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 61071,
+        "CampsiteName": 10,
+        "Loop": "SPRI",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Hike-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 61171,
+        "CampsiteName": 7,
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "RV NONELECTRIC",
+        "CampsiteID": 61174,
+        "CampsiteName": 8,
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 61191,
+        "CampsiteName": 1,
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 61275,
+        "CampsiteName": "Group Picnic",
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 61510,
+        "CampsiteName": 4,
+        "Loop": "GULC",
+        "CampsiteAccessible": true,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 61603,
+        "CampsiteName": 6,
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 61783,
+        "CampsiteName": 3,
+        "Loop": "GULC",
+        "CampsiteAccessible": false,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:05:35",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 61794,
+        "CampsiteName": 2,
+        "Loop": "GULC",
+        "CampsiteAccessible": true,
+        "FacilityID": 232327,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030345,
+      "PostalCode": 59871,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "Sula Ranger District, 7338 Hwy. 93 S.",
+      "City": "Sula",
+      "FacilityID": 232327,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

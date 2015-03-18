@@ -1,0 +1,136 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.96694444444445,
+      37.98361111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -79.96694444444445,
+    "FacilityDescription": "<h2>Overview</h2>Bolar Mountain Picnic Shelters are a great destination for visitors looking for a fun day on Lake Moomaw. The shelters provide access to plenty of activities ranging from water skiing to fishing to volleyball. The area offers easy lake access and picturesque views of the surrounding forest and mountains.<h4>Natural Features:</h4>The picnic shelters are perched on the northern end of Lake Moomaw, a manmade lake covering 2,530 acres along the Jackson River. The lakes average depth is 80 feet and it has 43 miles of wooded shoreline.<br /><br />Bolar Mountain is part of the George Washington and Jefferson National Forests which span across Virginia and parts of West Virginia and Kentucky. These forests protect 40 tree species within mostly Appalachian hardwood and mixed pine-hardwood forests, 60 species of mammals and 200 species of birds.<h4>Recreation:</h4>Boating, canoeing, water skiing and relaxing on the beach are popular activities at the lake. Anglers fish for brown and rainbow trout, bass and crappie.<h4>Facilities:</h4>Visitors reserving either picnic shelter have access to all the facilities within Bolar Mountain Recreation Area, including a large playground, volleyball courts and horseshoe pits. Flush toilets and drinking water are provided.<h4>Nearby Attractions:</h4>Head to Warm Springs for restaurants, shopping and a visit to the Bath County Historical Society.",
+    "FacilityLatitude": 37.98361111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "540-839-2521",
+    "FacilityDirections": "From Warm Springs, take U.S. Highway 39 west 12 miles to State Route 600 and turn left (south. Continue 8 miles on SR 600 to intersection of Twin Ridge Drive. <br /><br />To reach Bolar Flat Shelter, go straight through the intersection and continue 1 mile to the Bolar Flat Marina. Turn right at the marina and then take the next right.<br /><br />To reach Beach Shelter, turn right at the intersection of SR 600 and Twin Ridge Drive and continue 1 mile to the picnic shelter.",
+    "FacilityName": "BOLAR MOUNTAIN PICNIC SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:43:06",
+    "LegacyFacilityID": 75446,
+    "OrgFacilityID": "AN375446",
+    "FacilityID": 234556,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 68344,
+        "CampsiteName": "BEACH",
+        "Loop": "BFPS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234556,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:46:53",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:11:07",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 68428,
+        "CampsiteName": "B-FLAT",
+        "Loop": "BFPS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234556,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032584,
+      "PostalCode": 24484,
+      "AddressStateCode": "VA",
+      "FacilityStreetAddress1": "756 Twin Ridge Drive",
+      "City": "Warm Springs",
+      "FacilityID": 234556,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

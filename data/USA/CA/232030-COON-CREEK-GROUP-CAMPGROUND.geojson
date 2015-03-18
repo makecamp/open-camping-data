@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.70944444444444,
+      34.14888888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.70944444444444,
+    "FacilityDescription": "<h2>Overview</h2>The Coon Creek Group Campground is located in the pine-covered mountains of Southern California. The unique campground is home to three historic cabins and a stunning view into the Coachella Valley on clear days.  <h4>Natural Features:</h4>The campground is situated at an 8,000-foot elevation, overlooking the San Bernardino mountains. Mature pine trees dot the area, but provide little shade over the rocky terrain. <h4>Recreation:</h4>The campground is adjacent to a portion of the Pacific Crest Trail, a famous hike that spans more than 2,600 miles from Canada to Mexico. The trail is available for hiking and horseback riding only and offers multiple entry and exit points along its lengthy route, making it ideal for short nature walks or day hikes.<br /> <br />In addition to touring the campgrounds three historic cabins, the campground also offers access to mountain stream fishing and bird and wildlife viewing. The San Gorgonio Wilderness is vast and offers a variety of trailheads and points of exploration.<h4>Facilities:</h4>The somewhat rustic group campground offers one large-group campsite, available for tent or RV camping. It can accommodate up to 25 people and 10 vehicles. Utility hookups are not available and parking spurs are gravel. Drinking water is also not available at the campground.<br /> <br />The site is equipped with multiple tables, a campfire circle and grills. Vault toilets are provided. Parking is available within the campground and on the adjacent roadway. Camping is prohibited within the log cabins and campfires must be kept outside of the buildings.<h4>Nearby Attractions:</h4>The campground is less than 20 miles away from Big Bear Lake, which offers a variety of water-related recreation opportunities. The adjoining town provides golf, shopping and restaurant options.",
+    "FacilityLatitude": 34.14888888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "909-866-8550",
+    "FacilityDirections": "From San Bernardino, take I-10 to the Alabama exit in Redlands, California. Turn onto Lugonio Avenue (Highway 38). Head northeast on Highway 38 for approximately 31 miles to Forest Route IN02. Continue for approximately 6 miles to the campground.",
+    "FacilityName": "COON CREEK GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:03:03",
+    "LegacyFacilityID": 70250,
+    "OrgFacilityID": "AN370250",
+    "FacilityID": 232030,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 83399,
+        "CampsiteName": "C1",
+        "Loop": "COON",
+        "CampsiteAccessible": false,
+        "FacilityID": 232030,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030048,
+      "PostalCode": 92305,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "HWY 38 FOREST RD. 1N02",
+      "City": "ANGELUS OAKS",
+      "FacilityID": 232030,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

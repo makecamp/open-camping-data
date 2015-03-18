@@ -1,0 +1,174 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.03211666666667,
+      40.389975
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -76.03211666666667,
+    "FacilityDescription": "<h2>Overview</h2>Located at Blue Marsh Lake northwest of Reading, Pennsylvania, three group picnic shelters are available for reservations within the Dry Brooks Day Use Area.  With over 36 miles of trails, 5,000 acres of land, 1,147 acres of water, picnic areas, a small beach and boat launches, the Blue Marsh Lake area is appealing to all kinds of outdoor enthusiasts.<h4>Natural Features:</h4>The group shelters are set within the day use picnic area surrounded by mowed grass and parking lots.  The shelters are also within walking distance of the swimming beach.<h4>Recreation:</h4>Blue Marsh Lake is an unlimited horsepower lake for boating and waterskiing.  Paddle craft are also very popular.  There is a 30 mile multi-use hiking trail that permits hiking, biking, and horseback riding.  Other activities include swimming, picnicking, bird watching, and hunting.<h4>Facilities:</h4>Blue Marsh Lake is a day use facility only and includes three boat launches and a Visitor Center.  The group shelters includes picnic tables, grills, trash receptacles and restrooms nearby.  Lakeview and Hillside shelters include water and electricity, but Vista shelter does not.<h4>Nearby Attractions:</h4>Visitors to the Blue Marsh Lake area may want to consider a visit to the Mid-Atlantic Air Museum, Berks County Parks System which contains the Berks County Heritage Center, and The Conrad Weiser Homestead located in nearby Hamburg, PA.",
+    "FacilityLatitude": 40.389975,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "610-376-6337",
+    "FacilityDirections": "Blue Marsh Lake is located 7 miles northwest of Reading, PA.  Take route 183 north and make a left on Palisades Dr.  Travel one mile and the Dry Brooks Day Use Area will be on your right.",
+    "FacilityName": "BLUE MARSH LAKE (DRY BROOKS DAY USE AREA)",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 74763,
+    "OrgFacilityID": "AN374763",
+    "FacilityID": 251120,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2015-02-05 06:42:29",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 95159,
+        "CampsiteName": "Vista Pavilion",
+        "Loop": "Dry Brooks Day Use Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 251120,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2015-02-05 06:42:29",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 95160,
+        "CampsiteName": "Hillside Pavilion",
+        "Loop": "Dry Brooks Day Use Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 251120,
+        "attributes": [
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2015-02-05 06:42:29",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 95161,
+        "CampsiteName": "Lakeview Pavilion",
+        "Loop": "Dry Brooks Day Use Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 251120,
+        "attributes": [
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032192,
+      "PostalCode": 19533,
+      "AddressStateCode": "PA",
+      "FacilityStreetAddress1": "1268 Palisades Dr",
+      "City": "Leesport",
+      "FacilityID": 251120,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.42,
+      32.85027777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.42,
+    "FacilityDescription": "<h2>Overview</h2>Wooded Hill Group Campground is a great mountain getaway for groups of up to 110 people to take a retreat from the city. Just one hour east of San Diego, California, the campground offers cooler temperatures, unique natural areas and an extensive trail system. The facility is a perfect place for groups to gather and enjoy the outdoors from Memorial Day through Labor Day.<h4>Natural Features:</h4>The campground sits at an elevation of 6,000 ft. in the Laguna Mountains. It is forested with pines and oaks that provide plenty of shade. The area is a quiet home to many species of birds and wildlife.<h4>Recreation:</h4>The Laguna Mountains are known for great horseback riding, mountain biking and hiking trails. Visitors can get their boots dusty on a segment of the 2,650-mile Pacific Crest Trail, which runs from Mexico to Canada or try other nearby trails such as the Wooded Hills Nature Trail.<br><br>The Wooded Hills Nature Trail is accessible just west of the campground off of Sunrise Scenic byway. From the trail, visitors can ascend to the highest wooded point on Laguna Mountain, offering views of San Diego, Point Loma and the Channel Islands on a clear day. <br><br>The drive along Sunrise Highway weaves through woods brimming with pine, spruce, and fir trees, offering travelers many opportunities to enjoy pristine mountain meadows and amazing vistas. <h4>Facilities:</h4>Groups will find one large campsite with 21 parking spurs for trailers or RVs (maximum spur length varies from 27-40 ft.). There are no hookups. The facility is equipped with picnic tables, vault toilets and grills.<br><br>The nearest dump station is located at Buckman Springs Rest Area, 4 miles east of Pine Valley, the closest town, on I-8.",
+    "FacilityLatitude": 32.85027777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "619-445-6235",
+    "FacilityDirections": "Located 50 miles east of San Diego, California. Take I-8 to the Sunrise Highway exit. Go approximately 8.1 miles and turn west onto Wooded Hill Road.",
+    "FacilityName": "WOODED HILL GROUP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70150,
+    "OrgFacilityID": "AN370150",
+    "FacilityID": 231952,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP RV AREA NONELECTRIC",
+        "CampsiteID": 66365,
+        "CampsiteName": "WH1",
+        "Loop": "WOOD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231952,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 110,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 22,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029970,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "CLEVELAND",
+      "FacilityID": 231952,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

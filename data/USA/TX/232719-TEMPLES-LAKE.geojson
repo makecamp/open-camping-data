@@ -1,0 +1,107 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.49497222222222,
+      31.13283888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -97.49497222222222,
+    "FacilityDescription": "<h2>Overview</h2>Temples Lake Park is a day-use facility with over 60 picnic sites and one reservable group area on the southern shore of Belton Lake. The lake provides some of the best fishing and boating in Central Texas and the park offers amenities for large groups of up to 80 people, such as flush toilets, showers, a playground, a swim beach and two two-lane boat ramps.<br /><br />Belton Lake was created by the U.S. Army Corps of Engineers with the construction of Belton Dam in 1954. The 12,300-acre lake is located on the Leon River, just upstream of the confluence of the Leon River and the Little River. <h4>Natural Features:</h4>The facility is directly on the shores of Belton lake with mostly open sunny spaces, occasionally dotted with trees.  <br /><br />Deer, turkey and other small game are commonly seen, and a man-made wetland on the opposite side of the lake was constructed to provide an additional 25 acres of wildlife habitat in the lake area.<h4>Recreation:</h4>Temples Lake Park is a destination for boaters and anglers. Popular fish species include hybrid striped bass, largemouth bass, white bass, catfish and sunfish. Visitors can also make use of a swimming beach, volleyball and basketball courts and a playground in the facility.<h4>Facilities:</h4>The park has one group shelter called Temples Pavilion that must be reserved. There are also 62 picnic sites that do not need reservations. The park has excellent water access and convenient amenities, including flush toilets, drinking water and showers.<h4>Nearby Attractions:</h4>Belton Lake is located adjacent to the Fort Hood Army Base, which has several points of interest for the military buff. <br /><br />The mural painted on the spillway wall of Belton Dam depicts the history of the Bell County area.",
+    "FacilityLatitude": 31.13283888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "254-780-2461",
+    "FacilityDirections": "From Interstate 35 in Temple, Texas take the Farm-to-Market Road 2305/Adams exit. Travel west on 2305 to the park.",
+    "FacilityName": "TEMPLES LAKE",
+    "LastUpdatedDate": "2015-03-12 02:14:05",
+    "LegacyFacilityID": 71450,
+    "OrgFacilityID": "AN371450",
+    "FacilityID": 232719,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:17:37",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:58:16",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 52047,
+        "CampsiteName": "TEMPLE",
+        "Loop": "TEMPLES LAKE ",
+        "CampsiteAccessible": false,
+        "FacilityID": 232719,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": 80,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030731,
+      "PostalCode": 76513,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "14190 FM 2305",
+      "City": "BELTON",
+      "FacilityID": 232719,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

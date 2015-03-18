@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.26803888888888,
+      31.051861111111112
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -94.26803888888888,
+    "FacilityDescription": "<h2>Overview</h2>Located on Boykin Springs Lake in Angelina National Forest, this recreation area offers a little of everything, including camping, hiking, fishing, picnicking and relaxing in nature. It is situated in eastern Texas near the Louisiana border. <br /><br />The facility has both a campground and day-use area. The group shelter must be reserved; the campground is first-come, first-served.<h4>Natural Features:</h4>Boykin Creek and the nine-acre Boykin Springs Lake both pass through the facility, and the Sam Rayburn Reservoir is nearby.<br /><br />The area is forested with pines and hardwoods. Wildlife is abundant, and the region is a hot spot for migratory birds.<h4>Recreation:</h4>The group picnic area provides direct access to the Sawmill Trail, a hiking trail that winds through the forest to the Neches River and the Aldridge Sawmill Historical Site.<br /><br />Waters are calm and quiet; only non-motorized boats are allowed.<h4>Facilities:</h4>The group picnic shelter accommodates up to 74 guests and is available by reservation only. It is adjacent to the hiking trail and creek.<br /><br />The campground has several standard sites for tents and RVs, as well as a few tent-only sites. All campsites are first-come, first-served. Drinking water, flush toilets and hot showers are available at the campground. <h4>Nearby Attractions:</h4>The National Forests and Grasslands in Texas have trails for a variety of outdoor activities, including nearly 200 miles of hiking trails, 85 miles of off-road vehicle trails, 145 miles of horse trails and 11 miles of bicycle trails.",
+    "FacilityLatitude": 31.051861111111112,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "936-897-1068",
+    "FacilityDirections": "From Zavalla, Texas, travel east on Highway 63 for 10.5 miles. Turn right on Forest Road 313 and proceed 2.5 miles to the campground.",
+    "FacilityName": "BOYKIN SPRINGS RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:22:46",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 72156,
+    "OrgFacilityID": "AN372156",
+    "FacilityID": 233239,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 93359,
+        "CampsiteName": 1,
+        "Loop": "BOYKIN SPRINGS RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 233239,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 74,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031249,
+      "PostalCode": 75980,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "USDA FOREST SERVICE, ANGELINA RANGER DISTRICT, 111 WALNUT RIDGE",
+      "City": "ZAVALLA",
+      "FacilityID": 233239,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

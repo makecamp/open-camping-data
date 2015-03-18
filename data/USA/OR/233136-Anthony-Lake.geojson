@@ -1,0 +1,95 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.23355277777777,
+      44.96319166666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.23355277777777,
+    "FacilityDescription": "<h2>Overview</h2>At an elevation of 7,100 feet, this campground keeps cool in the summertime heat. The sites sit among boulders and mixed conifers on a bluff over Anthony Lake.<br /><br />None of the sites offer lake views, but campers can enjoy gazing on Gunsight Mountain and the surrounding peaks of the Elkhorn range. <h4>Natural Features:</h4>The Wallowa-Whitman National Forest, 2.3 million acres of varied landscape, extends from the Blue Mountains and rugged Wallowa Mountains down to the spectacular canyon country of the Snake River on the Idaho border.<br /><br />Anthony Lake Campground is located in the Southern Elkhorn Mountain/Powder River Basin Area, with the highest peak in the Elkhorn Mountains at 9,108 feet. The area around the lake is known for conifer forests, wildflower meadows and the resident mountain goats. <h4>Recreation:</h4>There is a boat ramp available at the camp. Activities on Anthony Lake include boating, canoeing, kayaking and trout fishing.<br /><br /> Trails in the area include the 22.6-mile Elkhorn Crest (foot and equestrian), 1-mile Black Lake (foot and equestrian) and the 1-mile Shoreline (foot). <h4>Facilities:</h4>Each site has a paved parking apron, tent pad, picnic table and campfire ring with grill. Drinking water and vault toilets are available.<br /><br />Handicap-accessible sites are available. <h4>Nearby Attractions:</h4>The Elkhorn Scenic Byway is a 106-mile drive through the Elkhorn Mountains. Along this drive are ghost towns and an abundance of lakes and rivers.",
+    "FacilityLatitude": 44.96319166666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-894-2393",
+    "FacilityDirections": "From Baker City, head north on Highway 30 toward Haines, approximately 10 miles. In Haines, turn left and follow the Anthony Lake Highway signs (turns into Forest Road 73) for 25 miles to the Anthony Lake Recreation Area. Turn left into the Anthony Lake Campground. The main campground is on the east side of the lake.<br /><br />From La Grande, head south on Interstate 84 for 25 miles to exit 285 in North Powder, Oregon. In North Powder, follow the ski area signs on Highway 237 for 4 miles to Ellis Road. Turn left on Ellis Road and go about 1 mile to the Anthony Lake Highway. Turn right and follow the Anthony Lake Highway (becomes Forest Road 73) for 16 miles to campground entrance on your left.",
+    "FacilityName": "Anthony Lake",
+    "LastUpdatedDate": "2015-03-12 02:20:23",
+    "LegacyFacilityID": 72020,
+    "OrgFacilityID": "AN372020",
+    "FacilityID": 233136,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 79986,
+        "CampsiteName": "GS1",
+        "Loop": "Anthony Lake",
+        "CampsiteAccessible": false,
+        "FacilityID": 233136,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031147,
+      "PostalCode": 97833,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "Elkhorn Drive - Forest Service Road 73",
+      "City": "Haines",
+      "FacilityID": 233136,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

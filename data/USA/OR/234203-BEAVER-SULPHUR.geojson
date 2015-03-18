@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.03277777777778,
+      42.113055555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -123.03277777777778,
+    "FacilityDescription": "<h2>Overview</h2>Nestled in the deep shade of a mixed-conifer forest on the banks of bubbling Beaver Creek, Beaver Sulphur Campground offers an ideal setting for groups and large family gatherings.<br /><br />Located in southwest Oregon in the Rogue River-Siskayou National Forest, the campgrounds proximity to a hiking trails and scenic waterways provides visitors with access to a multitude of recreational activities. <h4>Natural Features:</h4>The unique character of the landscapes comprising the Rogue River-Siskiyou National Forest has led to the designation of over 340,000 acres of the forest as Wilderness, and over 200 miles of streams as National Wild and Scenic Rivers.<br /><br />The forest itself is composed of two distinct geological provinces, the Cascade Range and the Siskiyou Mountains.<br /><br /> The Cascade Range is dominated by snow-capped volcanic peaks, such as 9,495 foot Mt. McLoughlin, located within the Sky Lakes Wilderness. The Siskiyou area embodies the most complex and treasured plant communities in the Pacific Northwest. World-class wild rivers, biological diversity, remarkable fisheries resources and complex watersheds define the Siskiyou.<br /><br /> Diverse landscapes provide habitat for a wide-range of wildlife, from spotted owls and bull elk to salamanders and sandhill cranes.<h4>Recreation:</h4>Beaver Sulphur Campground offers outdoor enthusiasts the opportunity to hike, fish, hunt and enjoy a multitude of outdoor activities throughout the year.<br /><br /> A handful of hiking trails are accessible from the campground and in the surrounding areas.<br /><br /> The nearby Mule Mountain Trail offers a special opportunity to access the hillsides above Applegate Valley and witness the seasonal changes in wildlife activity. It is a long-distance hike, winding up and around the arid ridges of the Oregon Siskiyous. In the spring, dwarf star tulips, lilies, shooting stars, larkspurs and buttercups puncture the needle and leaf mat and adorn the grass floor.<br /><br />Nearby Applegate Lake is a popular recreation lake, located north of the spectacular Red Buttes Wilderness Area. The lake is popular for swimming, cycling, boating, canoeing, fishing and hiking the various trails near the lake.<h4>Facilities:</h4>Beaver Sulphur Campground offers a large, reservable group site that has individual spurs for tents and trailers. The site is equipped with picnic tables, campfire rings and vault toilets.<h4>Nearby Attractions:</h4>The Rogue River National Recreation Trail, stretching 40 miles between Grave Creek and Big Bend, offers some of southwestern Oregons most amazing landscapes and hiking experiences. The trail follows the north bank of the Rogue River as it winds its way toward the Pacific Ocean.<br /><br />  Visitors enjoy Crater Lake National Park and learning about its natural and cultural history. At 1,943 feet deep, Crater Lake is the deepest lake in the United States and one of the ten deepest lakes in the world.<br /><br />For those interested in scenic drives, the Rogue-Umpqua National Scenic Byway offers 172 miles of diverse river and mountain landscapes. The road takes visitors from rolling oak-covered hills and towering coniferous forests to roaring white water rapids and incised intercanyon lava flows.",
+    "FacilityLatitude": 42.113055555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-899-3800",
+    "FacilityDirections": "From Jacksonville Oregon, take Highway 238 west for 7 miles. Turnleft on Upper Applegate Road. Continue for 9.2 miles to Forest Road 20. Turn left and continue about 3 miles to the campground entrance on the right side of the road.",
+    "FacilityName": "BEAVER SULPHUR",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "LegacyFacilityID": 75046,
+    "OrgFacilityID": "AN375046",
+    "FacilityID": 234203,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:22:54",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 83305,
+        "CampsiteName": "G01",
+        "Loop": "AREA BEAVER SULPHUR",
+        "CampsiteAccessible": false,
+        "FacilityID": 234203,
+        "attributes": [
+          {
+            "AttributeValue": "4:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032233,
+      "PostalCode": 97530,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "FOREST RD 20",
+      "City": "JACKSONVILLE",
+      "FacilityID": 234203,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

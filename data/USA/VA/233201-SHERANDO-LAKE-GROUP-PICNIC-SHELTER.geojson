@@ -1,0 +1,71 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.97972222222222,
+      37.92972222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -78.97972222222222,
+    "FacilityDescription": "<h2>Overview</h2>Sherando Lake Group Picnic Shelter, also known as the William Branch Group Picnic Area, is a very popular facility in the Blue Ridge Mountains. Sherando Lake Recreation Area is known locally as the jewel of the Blue Ridge Mountains, where families enjoy picnicking in the shade and relaxing on the sandy beach.<h4>Natural Features:</h4>The picnic area is located just above the 25 acre lower lake with the beach area and beach bathhouse within walking distance. Situated between the South Fork of Back Creek and the foot of the mountain, the area offers shade and cooling breezes all season.<h4>Recreation:</h4>The lower 25 acre lake offers a sand beach and accessible ramp for swimming, fishing and boating. Fishing licenses are required to fish the upper or lower lakes at Sherando Lake Recreation Area.<br /><br />Many hiking opportunities abound, including the Blue Loop Trail, the Lakeside Trail and the Torry Ridge Trail that heads to Bald Knob.<br /><br />Fun weekend campfire programs take place at the amphitheater in summertime.<h4>Facilities:</h4>The shelter can be accessed by vehicle using a short service road. <br /><br />The parking area holds up to 40 cars and the picnic area can accommodate 50 guests. Drinking water and flush toilets are adjacent to the shelter. Ice and vending machines are available at the beach bathhouse pavilion.<h4>Nearby Attractions:</h4>The nearest groceries and fuel are located in Stuarts Draft, Virginia, about 15 minutes from the recreation area.<br /><br />A golf course and ski resort with wonderful scenic overlooks are within 10 miles of Sherando Lake.",
+    "FacilityLatitude": 37.92972222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "540-942-5965",
+    "FacilityDirections": "From I-64, take Exit 96 just east of Stuarts Draft. Go south on State Route 624, which becomes State Route 664 at Lyndhurst. Continue south on State Route 664 approximately 8 miles to the entrance to the Sherando Lake Recreation Area on the right. The gatehouse is approximately 0.5 miles ahead.  If the gatehouse is closed, continue through the recreation area toward the lower lake. The service road entrance to the group picnic shelter is to the left in the sharp curve before you reach the beach parking area.",
+    "FacilityName": "SHERANDO LAKE GROUP PICNIC SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "LegacyFacilityID": 72103,
+    "OrgFacilityID": "AN372103",
+    "FacilityID": 233201,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:24:29",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:20:59",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 80841,
+        "CampsiteName": "WB1",
+        "Loop": "SHERANDO LAKE GROUP PICNIC SHELTER",
+        "CampsiteAccessible": false,
+        "FacilityID": 233201,
+        "attributes": [
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031210,
+      "PostalCode": 22952,
+      "AddressStateCode": "VA",
+      "FacilityStreetAddress1": "26 Sherando Lake Road",
+      "City": "Lyndhurst",
+      "FacilityID": 233201,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

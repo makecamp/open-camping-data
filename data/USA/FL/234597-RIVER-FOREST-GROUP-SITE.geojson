@@ -1,0 +1,86 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.39076111111112,
+      29.012869444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -81.39076111111112,
+    "FacilityDescription": "<h2>Overview</h2>River Forest is a shaded group camping facility on the shores of the St. Johns River in Ocala National Forest. Located just across the river from Deland, the site is popular for groups, family reunions and weddings and can accommodate up to 125 guests.<h4>Natural Features:</h4>The Ocala National Forest spans four counties and 383,000 acres. It is the southernmost and oldest national forest east of the Mississippi River and protects the worlds largest contiguous sand pine scrub forest.<br /><br />The campground is shaded with large live oaks with a flat, grassy patch of land that leads to the St. Johns River.<h4>Recreation:</h4>This site is a great setting for groups to relax, picnic and enjoy the shade on a warm day. A large field offers ample space for activities such as softball, volleyball and horseshoe tossing. <br /><br />Visitors wanting to venture out of the picnic area can go for a long walk through floodplain forests and pine flatwoods on the St. Francis Trail, or head to the river to canoe, kayak or fish for bass.<h4>Facilities:</h4>All new facilities are the highlight of the River Forest Group Site. Facilities include a screened pavilion for food preparation and cooking with your own cook stoves.  A new bathhouse has also been built on site.<br /><br />The camping area is flat for tents with some shade provided by trees. While RVs are welcome, there are no hookups and all vehicles must remain in the designated parking area. Grills and picnic tables are provided.<h4>Nearby Attractions:</h4>The Ocala National Forest is notable for its extensive off-road trail system catering to off-road vehicle enthusiasts, as well as being a traditional destination for deer hunters from around Central Florida. Numerous lakes, rivers and natural springs surround the area and offer many water activities.",
+    "FacilityLatitude": 29.012869444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Deland, Florida, drive west on State Route 44 to the first intersection after crossing the St. Johns River. Turn right on County Road 42, and the entrance to the campground is on the right.",
+    "FacilityName": "RIVER FOREST GROUP SITE",
+    "LastUpdatedDate": "2015-03-12 02:43:53",
+    "LegacyFacilityID": 75491,
+    "OrgFacilityID": "AN375491",
+    "FacilityID": 234597,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:24:41",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:31:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 20762,
+        "CampsiteName": 1,
+        "Loop": "RFGS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234597,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 125,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032625,
+      "PostalCode": 32720,
+      "AddressStateCode": "FL",
+      "FacilityStreetAddress1": "45700 RIVER FOREST BLVD",
+      "City": "DELAND",
+      "FacilityID": 234597,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

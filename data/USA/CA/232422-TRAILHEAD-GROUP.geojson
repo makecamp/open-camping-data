@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.2724,
+      37.964200000000005
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.2724,
+    "FacilityDescription": "<h2>Overview</h2>Trailhead Group Campground is located in the eastern high Sierra Nevada Mountains of California at just over 10,000 feet in elevation. Also known as Saddlebag Lake Group Campground, the facility is adjacent to the scenic lake and provides a quiet mountain getaway for groups of up to 25 people. It is within a two-hour drive of Yosemite National Park and Mono Lake, and lies next to the Hoover Wilderness.<h4>Natural Features:</h4>The campground is situated in a high elevation pine forest next to scenic 600-acre Saddlebag Lake, though not directly on the lake shore. Many species of wildlife call the mountains home, such as black bear, mountain lions, mule deer, pine marten, pika and numerous fish and birds.<h4>Recreation:</h4>Campers might like to relax and unwind by picnicking in the forested camping area or around the lake. The eastern Sierras are well-known for trout fishing, and Saddlebag Lake is no exception. Anglers can access a boat ramp nearby or try their luck for rainbow, brook and brown trout from shore. The lake has a 15 mph speed limit.<br /><br />The majestic scenery and challenging trails are a big draw for hikers. Close by, campers can access the Twenty Lakes Basin Trail, which leads into the Hoover Wilderness.<h4>Facilities:</h4>One group area is available for tents only. Flush toilets and picnic tables are provided. The group campground is next to the main Saddlebag Lake Campground, which is a small facility with individual sites available on a first-come, first-served basis. Drinking water is available at the main campground, but not directly in the group camping area.<br /><br />The lakes resort offers a restaurant, camping and fishing supplies and boat rentals.<h4>Nearby Attractions:</h4>The Mono Lake area and Yosemite National Park are great day trips, and hikers can access the spectacular scenery of the Hoover Wilderness via nearby trails.<br /><br /><a href=http://www.recreation.gov/recAreaDetails.do?contractCode=NRSO&amp;recAreaId=13061&amp;agencyCode=131 target=_blank>Hoover Wilderness</a><br /><br /><a href=http://www.nps.gov/yose/index.htm target=_blank>Yosemite National Park</a>",
+    "FacilityLatitude": 37.964200000000005,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "Take U.S. Highway 395 in California to its junction with State Highway 120 west. Take 120 west 10 miles toward Tioga Pass. Turn right on Forest Road 1N04 to Saddlebag Lake. Proceed up 1N04 for 2.4 miles. Take the first right just past the open gate on the road. The campground is on the right, just past the restroom.",
+    "FacilityName": "TRAILHEAD GROUP",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "LegacyFacilityID": 70832,
+    "OrgFacilityID": "AN370832",
+    "FacilityID": 232422,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:39:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 85443,
+        "CampsiteName": 1,
+        "Loop": "TRAI",
+        "CampsiteAccessible": false,
+        "FacilityID": 232422,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030440,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "INYO",
+      "FacilityID": 232422,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

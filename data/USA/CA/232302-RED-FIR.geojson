@@ -1,0 +1,86 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.3125,
+      39.00222222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.3125,
+    "FacilityDescription": "<h2>Overview</h2>Situated on the north side of the Loon Lake Reservoir, Red Fir Group Campground offers a primitive group camping experience in the lush Eldorado National Forest.<h4>Natural Features:</h4>The campground is part of the Crystal Basin Recreation Area, situated at a 6,400-foot elevation and nestled in a forest of tall pine trees. <h4>Recreation:</h4>The nearby lake provides fishing, swimming and boating, and the campground is just a short walk across the road to the waters edge.<br /> <br />Visitors also enjoy off-road vehicle and motorcycle riding on the popular Rubicon Jeep trail. <br /> <br />Hiking and wilderness backpacking are popular activities. Day permits are available at the nearby Loon Lake trailhead and overnight permits are available at the Eldorado Information Center.<h4>Facilities:</h4>The campground offers tent-only campsites, accommodating a group of up to 25 guests. <br /> <br />A group kitchen area is equipped with multiple tables, a campfire circle and grills. Accessible vault toilets and drinking water are provided. <h4>Nearby Attractions:</h4>The campground is not far from the Desolation Wilderness.",
+    "FacilityLatitude": 39.00222222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-647-5415",
+    "FacilityDirections": "Take Highway 50 east of Placerville for approximately 21 miles to Ice House Road. At the river take a left and go north 28 miles, then veer right at the fork in the road and continue 9 miles to Red Fir Group campground.",
+    "FacilityName": "RED FIR",
+    "LastUpdatedDate": "2015-03-12 02:07:45",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70612,
+    "OrgFacilityID": "AN370612",
+    "FacilityID": 232302,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:08:26",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 64915,
+        "CampsiteName": 1,
+        "Loop": "LOON",
+        "CampsiteAccessible": true,
+        "FacilityID": 232302,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030320,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "ELDORADO",
+      "FacilityID": 232302,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

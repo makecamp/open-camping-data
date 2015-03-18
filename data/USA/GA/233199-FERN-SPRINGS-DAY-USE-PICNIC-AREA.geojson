@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.45555555555556,
+      34.559999999999995
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -83.45555555555556,
+    "FacilityDescription": "<h2>Overview</h2>Fern Springs day-use picnic area sits in the lush forests of northern Georgia. It is home to historical hand-constructed stone pavilions, walkways, bridges, water rills and stairways. The diverse and secluded area is large enough to accommodate group picnicking and is available by reservation only.<h4>Natural Features:</h4>Fern Springs is cradled by white pines, hemlocks and old growth oak trees and has a large grassy lawn and rich understory. The conditions provide a wonderful habitat for many bird species and animals, making the area a perfect spot for viewing wildlife.<br /> <br />The picnic area was constructed by the Civilian Conservation Corp in the 1930s and is eligible for listing on the National Register of Historic Places. <h4>Recreation:</h4>Lake Russell Recreation Area, located just five miles from the picnic area, offers a popular swimming beach and ample fishing opportunities.<h4>Facilities:</h4>The area offers three picnic shelters, complete with tables, benches, campfire circles and group grills. The site can accommodate up to 100 guests. There is also a large lawn space used for a variety of activities. <br /><br />A parking area is located adjacent to the shelters. Vault toilets and drinking water are provided.",
+    "FacilityLatitude": 34.559999999999995,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "706-754-6221",
+    "FacilityDirections": "Fern Springs day-use picnic area is located on Highway 123, about 6 miles north of Cornelia, Georgia. It is accessible by turning east on Hazel Creek Road off of Highway 23/441. Continue east just over a mile and then head north on Highway 123 for about a half-mile.",
+    "FacilityName": "FERN SPRINGS DAY USE PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "LegacyFacilityID": 72100,
+    "OrgFacilityID": "AN372100",
+    "FacilityID": 233199,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:42:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "PICNIC",
+        "CampsiteID": 90161,
+        "CampsiteName": 1,
+        "Loop": "FERN SPRINGS DAY USE PICNIC AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 233199,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031208,
+      "PostalCode": 30525,
+      "AddressStateCode": "GA",
+      "FacilityStreetAddress1": "809 Hwy 441 S ",
+      "City": "Clayton",
+      "FacilityID": 233199,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

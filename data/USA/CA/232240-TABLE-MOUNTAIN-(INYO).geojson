@@ -1,0 +1,85 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.56833333333333,
+      37.20805555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.56833333333333,
+    "FacilityDescription": "<h2>Overview</h2>Table Mountain Group Campground is located 18 miles southwest of Bishop, California, along the South Fork of Bishop Creek. Here, the creek has bountiful trout to please anglers. Nearby glaciers and lakes make for incredible scenery and wildlife viewing is excellent.<br /><br />With over 2 million acres, the Inyo National Forest is home to many natural wonders, including Mt. Whitney, Mono Lake, Mammoth Lakes Basin and the Ancient Bristlecone Pine Forest. <h4>Natural Features:</h4>The campground sits adjacent to Bishop Creek among a variety of conifers like Jeffrey pine. Situated on Table Mountain, the campground is part of the White Mountain Ranger District. This district alone boasts he Ancient Bristlecone Pine Forest, numerous 14,000 foot peaks, ancient glaciers and pristine lakes.<h4>Recreation:</h4>Located near John Muir Wilderness, the area offers access to several trailheads for hiking and horseback riding. Less than a mile up the road is the trailhead for the Tyee Lakes Trail, highlighting epic views of the Inconsolable Range and the peaks that surround South Lake. <h4>Facilities:</h4>The campground accommodates up to 25 guests for tent camping only. Campground conveniences include a vault toilet, bear boxes, campfire rings and easy access to trails. Within a few miles, campers can access a boat ramp and convenience store. <h4>Nearby Attractions:</h4>Take the John Muir Trail into the John Muir Wilderness and be swept away by excellent views of Devils Postpile.",
+    "FacilityLatitude": 37.20805555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "760-873-2500",
+    "FacilityDirections": "From Highway 395 in the center of Bishop, turn west on Line Street (Highway158) and continue west for 13 miles. Turn south on South Lake Road and continue for 5 miles to South Fork road.",
+    "FacilityName": "TABLE MOUNTAIN (INYO)",
+    "LastUpdatedDate": "2015-03-12 02:07:00",
+    "LegacyFacilityID": 70522,
+    "OrgFacilityID": "AN370522",
+    "FacilityID": 232240,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:18:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 64223,
+        "CampsiteName": 1,
+        "Loop": "TABL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232240,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030258,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "INYO",
+      "FacilityID": 232240,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

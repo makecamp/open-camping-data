@@ -1,0 +1,86 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.42500000000001,
+      47.75861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.42500000000001,
+    "FacilityDescription": "<h2>Overview</h2>Pine Flats Group Campground is located next to the Mad River, in the Okanogan National Forest. Visitors have easy access to a variety of multiple-use trails. Birding and wildlife viewing are popular activities.<h4>Natural Features:</h4>The campground is situated on the banks of the Mad River, at an elevation of 2,385 feet. Ponderosa pines tower over the campground. A large fire burned the area around the campground in 1992, but many young trees now cover the forest floor.<br /><br />The surrounding forest provides excellent habitat for a wide range of wildlife. Visitors may catch glimpses of mule deer, elk, bald and golden eagles and a variety of woodpeckers and owls. <h4>Recreation:</h4>The campground offers great trail opportunities for hikers, horseback riders, mountain bikers and motorcyclists. Forest Service Trail 1049 is nearby and accesses a large multiple-use trail system. <h4>Facilities:</h4>The campground offers one group site that can accommodate up to 33 people. Picnic tables and campfire circles are provided, as are vault toilets and drinking water.<br /><br />Trash collection bins are not provided. Visitors are asked to bring garbage bags and pack out all trash.",
+    "FacilityLatitude": 47.75861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Wenatchee, at the junction of U.S. Highway 2 and Washington State Route 97A, travel north 17 miles along the west bank of the Columbia River. Turn left 100 yards north of the Entiat River Bridge onto Entiat Valley Road (Chelan County Route 19). Continue west/northwest just over 11 miles and turn left on Mad River Road (Chelan County Route 19A). Continue up Mad River Road for almost three miles, to its junction with Forest Road 5700. Continue 2 miles to the campground.",
+    "FacilityName": "PINE FLATS (WA)",
+    "LastUpdatedDate": "2015-03-12 02:34:24",
+    "LegacyFacilityID": 73956,
+    "OrgFacilityID": "AN373956",
+    "FacilityID": 233999,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:59",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 80114,
+        "CampsiteName": "GRP01",
+        "Loop": "AREA PINE FLATS",
+        "CampsiteAccessible": false,
+        "FacilityID": 233999,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 33,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Quad",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032020,
+      "PostalCode": 98822,
+      "AddressStateCode": "WA",
+      "FacilityStreetAddress1": "MAD RIVER ROAD",
+      "City": "ENTIAT",
+      "FacilityID": 233999,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

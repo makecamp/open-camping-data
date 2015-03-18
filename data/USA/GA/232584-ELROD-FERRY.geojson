@@ -1,0 +1,157 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.85694444444444,
+      34.362500000000004
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -82.85694444444444,
+    "FacilityDescription": "<h2>Overview</h2>Elrod Ferry is a summer day-use area located at Hartwell Lake, one of the southeasts largest and most popular public recreation areas. The facility is positioned on a narrow peninsula which extends onto Hartwell Lake, providing sweeping views of the 56,000-acre lake and offering an ideal setting for a party, barbecue or simply a day of water activities with the family.  <h4>Natural Features:</h4>Hartwell Lake is a man-made lake bordering Georgia and South Carolina on the Savannah, Tugaloo and Seneca Rivers. The dam and lake areas boast nine campgrounds and 15 day-use facilities that are operated by the US Army Corps of Engineers. <br/><br/>The Hartwell area abounds in historical lore, much of which is inherited from the Cherokee Indians and early settlers.<br><br>Surrounding vegetation allows for plenty of shade, and the 962 miles of shoreline provide numerous swimming beaches, picnic areas and boat ramps. <h4>Recreation:</h4>Boating and water sports top the list of popular activities. A boat ramp is available for visitors convenience, and three designated swimming beaches are located around the facility. <h4>Facilities:</h4>Elrod Ferry offers multiple picnic areas, complete with shelters, flush toilets and playgrounds. Parking is available on-site.<h4>Nearby Attractions:</h4>A hiking and biking trail is located nearby at Paynes Creek Campground.",
+    "FacilityLatitude": 34.362500000000004,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "888-893-0678",
+    "FacilityDirections": "From Hartwell, GA, travel approximately 2.5 miles on Highway 29. Turn left onto Elrod Ferry Road, and after a mile follow the brown directional signs to the facility.",
+    "FacilityName": "ELROD FERRY",
+    "LastUpdatedDate": "2015-03-12 02:12:31",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 71164,
+    "OrgFacilityID": "AN371164",
+    "FacilityID": 232584,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:21:07",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:55:43",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 49683,
+        "CampsiteName": 2,
+        "Loop": "EFER",
+        "CampsiteAccessible": true,
+        "FacilityID": 232584,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 90,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:21:07",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:55:43",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 49955,
+        "CampsiteName": 1,
+        "Loop": "EFER",
+        "CampsiteAccessible": false,
+        "FacilityID": 232584,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030602,
+      "PostalCode": 30643,
+      "AddressStateCode": "GA",
+      "FacilityStreetAddress1": "1387 ELROD FERRY ROAD",
+      "City": "HARTWELL",
+      "FacilityID": 232584,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

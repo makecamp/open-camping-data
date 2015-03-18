@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.48444444444445,
+      43.48527777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -123.48444444444445,
+    "FacilityDescription": "<h2>Overview</h2>Tyee is a delightful riverfront pavilion perfect for company functions, family reunions and even weddings. It faces the main stem of the Umpqua River and is ideal for a day of fun, food and water activities. The pavilion is located inside the Tyee campground, which is a first come, first served facility.<p>The Umpqua River Recreation Area has no shortage of recreational activities, ranging from horseback riding to birding and whitewater rafting. Wildlife viewing in the area includes deer, bald eagles, osprey and a herd of elk that populates the region in the fall. </p><h4>Natural Features:</h4>The Tyee Pavilion is perched on the banks of the Umpqua River in southwestern Oregon. It is only one of two rivers in Oregon with headwaters that begin high up in the Cascade Mountains, and it meanders down to the Pacific Ocean. The campground lies in a broad river canyon surrounded by deeply forested mountainsides.<h4>Recreation:</h4>Head upstream, then kayak or canoe down to the pavilion for some food and relaxation. <br /><br />Fishing, especially for steelhead and salmon, is very popular in the Umpqua River.<br /><br />For a more casual afternoon, a round of horseshoe on the grounds of the pavilion is also very fun. <h4>Facilities:</h4>The day use pavilion accommodates up to 50 guests, with six large picnic tables, a long serving counter, sink, electrical outlets and a large barbecue grill. Theres a neighboring grassy area with horseshoe pits and extra room for picnicking. <br /><br />For visitors wishing to stay overnight, Eagleview is a mile away and a good option for reservable group camping. <h4>Nearby Attractions:</h4>The Umpqua River Scenic Byway offers breathtaking views and outstanding scenery. Along the byway lies the town of Elkton, well-known for its wineries. <br /><br />West of Elkton is the Dean Creek Elk Viewing Area, where spotting majestic Roosevelt Elk near the roadway is almost guaranteed. The Pacific Coast is roughly 50 miles from Tyee.",
+    "FacilityLatitude": 43.48527777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-440-4930",
+    "FacilityDirections": "From Sutherlin, travel west on Highway 138 for 12 miles. Turn left at the Bullock Bridge, cross over the bridge and immediately turn right onto County Road 57 (Bullock Road).  Travel .5 miles to Tyee.  Campground is on the right.",
+    "FacilityName": "TYEE PAVILION",
+    "LastUpdatedDate": "2015-03-12 02:21:11",
+    "LegacyFacilityID": 72045,
+    "OrgFacilityID": "AN372045",
+    "FacilityID": 233157,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 92313,
+        "CampsiteName": "Pavilion",
+        "Loop": "TYEE PAVILION",
+        "CampsiteAccessible": false,
+        "FacilityID": 233157,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Riverfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031168,
+      "AddressStateCode": "OR",
+      "FacilityID": 233157,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

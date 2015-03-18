@@ -1,0 +1,148 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.83333333333333,
+      36.50138888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -87.83333333333333,
+    "FacilityDescription": "<h2>Overview</h2>Dyers Creek boasts fantastic views of on the sparkling Lake Barkley in the wooded rolling hills of Tennessee. Whether its a family picnic and a BBQ with friends, the recreation area provides the perfect setting for a relaxing get-together.<h4>Natural Features:</h4>Lake Barkley, the westernmost lake on the Cumberland River is connected by canal to Kentucky Lake, forming one of the greatest freshwater recreation complexes in the country. <br><br>Between both lakes sits the Land Between the Lakes National Recreation Area, the largest inland peninsula in the United States. Here visitors have access to boat ramps, many miles of hiking trails, wildlife viewing and off highway vehicle riding. <h4>Recreation:</h4>Visitors here enjoy boating, fishing, wildlife watching and swimming. <br><br>Bring the binoculars and search for wildlife like the white-tailed deer, raccoons and bald eagles. Fishing is popular, and during warm months bass and catfish are abundant. <h4>Facilities:</h4>The park provides a playground, volleyball court, flush toilets and a boat ramp. The shelter accommodates up to 100 people and 50 vehicles. Ample paved parking is also available. <h4>Nearby Attractions:</h4>Visit the Lake Barkley State Resort Park for miles of hiking trails and horseback riding stables.",
+    "FacilityLatitude": 36.50138888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "270-362-4236",
+    "FacilityDirections": "From Nashville, Tenn, take I-24 West to the Clarksville Exit.  FollowHighway 79 for 20 miles to Dyers Creek Recreation Area entrance.",
+    "FacilityName": "DYERS CREEK",
+    "LastUpdatedDate": "2015-03-12 02:11:45",
+    "LegacyFacilityID": 71150,
+    "OrgFacilityID": "AN371150",
+    "FacilityID": 232579,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 43552,
+        "CampsiteName": 1,
+        "Loop": "DCRE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232579,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:03:50",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2015-03-12 04:03:50",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 95399,
+        "CampsiteName": 2,
+        "Loop": "DCRE",
+        "CampsiteAccessible": true,
+        "FacilityID": 232579,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030597,
+      "PostalCode": "42045-0218",
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "BOX 218",
+      "City": "GRAND RIVERS",
+      "FacilityID": 232579,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

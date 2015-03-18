@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.10222222222221,
+      43.93583333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.10222222222221,
+    "FacilityDescription": "<h2>Overview</h2>Campers at Roaring River Group Campground enjoy the soothing sounds of the aptly named Roaring River flowing past their campsites. The campground is tucked in a wooded setting in Willamette National Forest and can accommodate up to 50 overnight visitors. <br /><br />Fishing and hiking are a few of the best ways to spend the day here. The nearby Three Sisters Wilderness offers plenty of trails to explore. <h4>Natural Features:</h4>The group site is just a few feet from the river on the east bank, among Douglas fir, maple and alder. The Willamette National Forest stretches for 110 miles with varied landscapes of high mountains, narrow canyons, cascading streams and wooded slopes.<h4>Recreation:</h4>The Box Canyon Trail Area is nearby, providing excellent hiking routes like the McBee Trail and the Roaring Ridge Trail. The Roaring Ridge Trail passes through Douglas Fir forests with views of the South Fork of the McKenzie River.<br /><br />Mountain biking, fishing and wildlife viewing are popular activities here. Bird sightings may include osprey, great blue herons and bald eagles.<h4>Facilities:</h4>Roaring River provides picnic tables, dumpsters, vault toilets and campfire pits. No water is provided so campers are expected to bring their own. <br /><br />Parking fits up to 10 vehicles. <h4>Nearby Attractions:</h4>The Three Sisters Wilderness Area offers 260 miles of trail through 286,708 acres of wild, incredible mountains and meadows.",
+    "FacilityLatitude": 43.93583333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-822-3381",
+    "FacilityDirections": "From Eugene, Oregon, take I-105 east to McKenzie Highway 126 to Milepost45. Turn South on Forest Service Road 19 and travel for 22 miles to campground. Entry is through a locked gate with a combination. Call (541) 822-3381 prior to arrival to receive combination.",
+    "FacilityName": "ROARING RIVER (GROUP)",
+    "LastUpdatedDate": "2015-03-12 02:03:03",
+    "LegacyFacilityID": 70190,
+    "OrgFacilityID": "AN370190",
+    "FacilityID": 231983,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:27:47",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 81310,
+        "CampsiteName": 1,
+        "Loop": "ROAR",
+        "CampsiteAccessible": false,
+        "FacilityID": 231983,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030001,
+      "PostalCode": 97413,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "57600 MCKENZIE HWY",
+      "City": "MCKENZIE BRIDGE",
+      "FacilityID": 231983,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

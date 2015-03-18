@@ -1,0 +1,766 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.67472222222223,
+      41.690555555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -93.67472222222223,
+    "FacilityDescription": "<h2>Overview</h2>Cottonwood Recreation Area is a day-use facility located in the tailwater area below Saylorville Dam. The 26,000-acre Saylorville Lake Project stretches over 50 miles up the Des Moines River Valley. The lake provides a wide variety of recreational activities, including boating, swimming, fishing, hiking and hunting.<h4>Natural Features:</h4>Cottonwood covers a large open and flat lowland area bordering the east side of the Des Moines River.<br /><br />Wildlife is abundant throughout the project. White-tailed deer, turkeys, pheasants, waterfowl, and other small game animals roam the lands around the lake. <h4>Recreation:</h4>Visitors come to Saylorville Lake for its great boating, sailing, water skiing, windsurfing and swimming opportunities. Anglers fish for walleye, wiper, largemouth bass, catfish, crappie and northern pike. <br /><br />The paved Neal Smith Trail winds 24 miles from Des Moines to Big Creek State Park and connects the campgrounds on the east side of the lake. It is designated as a National Recreation Trail and is used for biking, hiking, jogging, walking and in-line skating.<h4>Facilities:</h4>The day-use area offers nine group picnic areas with water and electric hookups. Amenities include flush toilets, a volleyball court, playground and hiking trails.",
+    "FacilityLatitude": 41.690555555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From I-35, take Exit 90 in Ankeny and head approxmately 3.5 miles west to NW 84th Ave. Turn Left on 84th Ave and head south apprximately 1.5 miles to Cottonwood Recreation Area on the right.",
+    "FacilityName": "COTTONWOOD RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:45:27",
+    "LegacyFacilityID": 97074,
+    "OrgFacilityID": "AN397074",
+    "FacilityID": 234699,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93017,
+        "CampsiteName": 5,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 36,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93121,
+        "CampsiteName": 1,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 24,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93139,
+        "CampsiteName": 7,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 31,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93257,
+        "CampsiteName": 2,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 32,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93293,
+        "CampsiteName": 6,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 36,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93518,
+        "CampsiteName": 4,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 250,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Riverfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93527,
+        "CampsiteName": 9,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 29,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Riverfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93579,
+        "CampsiteName": 3,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 32,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:47:57",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:31:41",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 93593,
+        "CampsiteName": 8,
+        "Loop": "COTTONWOOD RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234699,
+        "attributes": [
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032738,
+      "PostalCode": 50223,
+      "AddressStateCode": "IA",
+      "FacilityStreetAddress1": "7400 NW 37th Street",
+      "City": "Ankeny",
+      "FacilityID": 234699,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

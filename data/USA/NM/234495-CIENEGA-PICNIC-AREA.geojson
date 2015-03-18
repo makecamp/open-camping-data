@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.38416666666667,
+      35.16972222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.38416666666667,
+    "FacilityDescription": "<h2>Overview</h2>Cienega Picnic Area is one of several picnic areas in the scenic Sandia Range within close proximity to Albuquerque, making it a popular place for visitors to enjoy a nature-filled getaway. The surrounding forest and mountains provide a beautiful location for sightseeing, as well as ample opportunity for recreation.<h4>Natural Features:</h4>The picnic area is located in the Sandia Mountains just 15 miles from Albuquerque at an elevation of 7,500 feet. It is situated in a meadow surrounded by densely forested mountainous terrain.<h4>Recreation:</h4>A variety of hiking and horseback riding trails are available from within the picnic area, including one leading to the mountain crest. The nearly 10-mile round-trip trail winds through a fir forest, abundant with wildflowers. Much of the hike is in the shade, although the terrain can be rough. Day hikes are available along the route. In non-drought times, the trails follow a mountain stream with a beautiful travertine waterfall.<br /><br />An accessible interpretive trail begins in the area and travels along the nearby stream and meadow. The Sandias are home to Rocky Mountain bighorn sheep, mule deer, black bear and many other species of wildlife and birds, including golden eagles often seen soaring at the crest.<h4>Facilities:</h4>The picnic area offers a semi-private space that can accommodate up to 50 people. Accessible vault toilets are provided, but water is not available. A small fee is typically charged for day use parking. Additional picnic areas are available on a first-come, first-served basis.<br /><br />Visitors must obtain a key from the Sandia Ranger District office, in Tijeras. There is a refundable deposit of $10, due at the time of pick up. The gate is to remain locked at all times.<h4>Nearby Attractions:</h4>The campground lies along the Sandia Crest Scenic Byway, which extends to the ridge of the Sandia Mountains. It is a popular path for motorcyclists, with its miles of winding road to the summit. The nearby ski area also offers a tram to the crest, giving visitors a different vantage point to see the surrounding range and valleys. It provides a panoramic view of Albuquerque and the Rio Grande Valley below.",
+    "FacilityLatitude": 35.16972222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Albuquerque, drive approximately 7 miles east on Interstate 40 to exit 175. Go about 7 miles north on Highway 14 to Highway 536. Go west on Highway 536 for just over a mile to the picnic area. Process a half-mile to the group site.",
+    "FacilityName": "CIENEGA PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75379,
+    "OrgFacilityID": "AN375379",
+    "FacilityID": 234495,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:39:00",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:38:18",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 28711,
+        "CampsiteName": 1,
+        "Loop": "CIENEGA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234495,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032523,
+      "PostalCode": 87059,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "11776 HIGHWAY 337",
+      "City": "TIJERAS",
+      "FacilityID": 234495,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

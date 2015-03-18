@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.69638888888889,
+      43.90861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.69638888888889,
+    "FacilityDescription": "<h2>Overview</h2>Hayfork Group Campground is located 49 miles northeast of Boise, Idaho, along scenic Highway 21. Historic Idaho City is just 12 miles south of the campground. Visitors enjoy fishing in Mores Creek and exploring local trails.<p><iframe width=385 height=242 src=http://www.youtube.com/embed/64J3xE_ya-M?feature=player_embedded scrolling=no frameborder=0 style=border: 0px none transparent;> </iframe> </p><h4>Natural Features:</h4>The campground is situated at the foot of a ponderosa pine-forested hillside along Highway 21, at an elevation of 5,100 feet. The campsite, however, is in an open area with limited shade. Wildlife and summer wildflowers are abundant in the surrounding area.<h4>Recreation:</h4>Mores Creek runs between the highway and the campground, offering whitefish and rainbow trout fishing.<br /><br />Numerous trails are in the area, providing ample opportunities for hiking, biking, horseback riding and off-road vehicle riding. In the winter, the area becomes a playground for back country skiers and snowmobiles.<h4>Facilities:</h4>The campground provides one large-group campsite for reservation. It can accommodate up to 50 people and is a great location for family reunions or small weddings. The site is equipped with multiple tables, a grill and a campfire circle with benches.<br /><br />Vault toilets, drinking water and trash collection are provided. Parking spurs are gravel. Due to the campgrounds proximity to the highway, some noise from passing traffic is to be expected.<h4>Nearby Attractions:</h4>Highway 21, also known as the Ponderosa Pine Scenic Byway, snakes along Mores Creek to Mores Creek Summit, Gold Fork and Banner Ridge, offering historic sites, hot springs pools and breathtaking views of the surrounding mountains and forest along the way.",
+    "FacilityLatitude": 43.90861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-392-6681",
+    "FacilityDirections": "From Idaho City, take Highway 21 north for about 11 miles to the campground. The entrance is on the east side of the road.",
+    "FacilityName": "HAYFORK GROUP CG",
+    "LastUpdatedDate": "2015-03-12 02:08:37",
+    "LegacyFacilityID": 70773,
+    "OrgFacilityID": "AN370773",
+    "FacilityID": 232379,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:26:23",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:25:57",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 13707,
+        "CampsiteName": 1,
+        "Loop": "HAYF",
+        "CampsiteAccessible": false,
+        "FacilityID": 232379,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030397,
+      "PostalCode": 83706,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "HIGHWAY 21",
+      "City": "IDAHO CITY",
+      "FacilityID": 232379,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

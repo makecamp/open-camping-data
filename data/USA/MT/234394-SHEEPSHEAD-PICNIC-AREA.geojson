@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.465,
+      46.15555555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.465,
+    "FacilityDescription": "<h2>Overview</h2>Sheepshead Mountain Recreation Area provides a beautiful backdrop for weddings, receptions, large family gatherings and group picnics. It is in the heart of the Beaverhead-Deerlodge National Forest and is a great place to take advantage of the great outdoors.<h4>Natural Features:</h4>The area is an expanse of grassy meadows and sagebrush, with several streams and a small lake, all surrounded by a dense lodgepole pine forest. The natural setting has been adapted with features and facilities that are accessible to almost everyone.<h4>Recreation:</h4>The area is known for its pleasant picnicking amenities, but it is also popular for large group gatherings including games, hiking, fishing and enjoying nature. <br /> <br /> Volleyball courts and a horseshoe pit are available near the picnic shelter. A volunteer on-site host has a volleyball net, but all other equipment must be provided by the renter.<h4>Facilities:</h4>The picnic shelter can accommodate up to 200 people. It is equipped with multiple tables, campfire circles and grills. Additional tables sit around the shelter, some with grills available. Accessible vault toilets and drinking water are provided.<h4>Nearby Attractions:</h4>The city of Butte is about 20 miles from the picnic area. A variety of services are available there.",
+    "FacilityLatitude": 46.15555555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-494-0246",
+    "FacilityDirections": "From Butte, travel Interstate 15 north for about 13 miles to the Elk Park exit. Turn left off the ramp and continue under the overpass to Forest Service Road 442 and continue driving for 6 miles. The Sheepshead Recreation Area is on the right. The Sheepshead Picnic Area is the second entrance on the right.",
+    "FacilityName": "SHEEPSHEAD PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75259,
+    "OrgFacilityID": "AN375259",
+    "FacilityID": 234394,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:39:36",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 64216,
+        "CampsiteName": 1,
+        "Loop": "AREA SHEEPSHEAD PICNIC AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234394,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 300,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032423,
+      "PostalCode": 59701,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "1820 Meadowlark Lane",
+      "City": "BUTTE",
+      "FacilityID": 234394,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

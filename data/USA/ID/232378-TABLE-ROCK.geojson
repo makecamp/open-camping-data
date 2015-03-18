@@ -1,0 +1,96 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.58972222222222,
+      43.630833333333335
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.58972222222222,
+    "FacilityDescription": "<h2>Overview</h2>Table Rock Campground is located in a small but scenic canyon near Kelly Canyon Ski Resort, approximately 30 miles from Idaho Falls, Idaho. Hiking, mountain biking and ATV riding are popular activities.<h4>Natural Features:</h4>The campground is situated in a quiet draw covered by an open grassy meadow dotted with summer wildflowers. Aspens and towering pines border the site, offering partial shade. <h4>Recreation:</h4>Hawley Gulch Trail begins at the campground, offering great opportunities for ATV enthusiasts, hikers and mountain bikers. Numerous forest roads and trails in the area allow ATV travel, hiking, horseback riding and mountain biking.<h4>Facilities:</h4>Table Rock is a large group campground that can accommodate up to 200 people. Accessible vault toilets are provided, but there is no electricity. Picnic tables, campfire circles and grills are scattered throughout the site. The road and oversized parking spur are gravel.",
+    "FacilityLatitude": 43.630833333333335,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-483-2434",
+    "FacilityDirections": "From Idaho Falls, Idaho, take Highway 26 east for 20 miles. Turn onto Heise Road and travel past Kelly Canyon Ski Resort. Take Forest Road 218 for 1 mile to junction with Forest Road 217. At the Y intersection, bear slight right and travel 1.25 miles to the campground.",
+    "FacilityName": "TABLE ROCK",
+    "LastUpdatedDate": "2015-03-12 02:08:37",
+    "LegacyFacilityID": 70772,
+    "OrgFacilityID": "AN370772",
+    "FacilityID": 232378,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:54:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:40:49",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 31815,
+        "CampsiteName": "GS-1",
+        "Loop": "TABL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232378,
+        "attributes": [
+          {
+            "AttributeValue": "Triple",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030396,
+      "AddressStateCode": "ID",
+      "FacilityID": 232378,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.41638888888889,
+      41.24166666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.41638888888889,
+    "FacilityDescription": "<h2>Overview</h2>Hidden Valley Group Picnic Site offers a large open space, surrounded by scenic forests, for groups of up to 300 people to gather amidst a beautiful outdoor setting. <br /><br />This is an excellent facility for family reunions, weddings and large outdoor sporting events and can be used as an overnight campground as well. <h4>Natural Features:</h4>The picnic site lies just east of Laramie, Wyoming, at an elevation of 8,636 feet.<br /><br />The Medicine Bow-Routt National Forests and Thunder Basin National Grassland encompass nearly 3 million acres from central and northeastern Wyoming to north-central Colorado.<br /><br />Lodgepole pine, aspen, fir, spruce and shrubs dominate the landscape of the national forests. The Grassland boasts numerous species of grasses and wildflowers that add color to the landscape during warmer months.<br /><br />Black bear, bobcat, coyote, elk, mule deer and moose are just some of the many animals that inhabit these rich and diverse lands.<h4>Recreation:</h4>Volleyball and kickball are popular at this site, but guests must bring their own volleyball. <h4>Facilities:</h4>The picnic site can accommodate up to 300 guests and 50 vehicles at a time. Vault toilets, drinking water and grills are provided.<h4>Nearby Attractions:</h4>Many more outdoor opportunities exist in the surrounding national forests and grasslands, including hiking, biking, camping, horseback and off-road vehicle riding, fishing, hunting, sightseeing and winter sports.",
+    "FacilityLatitude": 41.24166666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Laramie, Wyoming, take I-80 east to exit 323 at Happy Jack Road. Turn left onto Happy Jack Road and follow it past the Summit Visitor Center. Take Forest Road 705 for a mile southeast to picnic area.",
+    "FacilityName": "HIDDEN VALLEY PICNIC",
+    "LastUpdatedDate": "2015-03-12 02:00:10",
+    "LegacyFacilityID": 70019,
+    "OrgFacilityID": "AN370019",
+    "FacilityID": 231845,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:59:28",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:42:28",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 33239,
+        "CampsiteName": 1,
+        "Loop": "HIDD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231845,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 300,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029863,
+      "AddressStateCode": "WY",
+      "FacilityStreetAddress1": "HIDDEN VALLEY GROUP PICNIC GRP",
+      "City": "LARAMIE RANGER DSRT.",
+      "FacilityID": 231845,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

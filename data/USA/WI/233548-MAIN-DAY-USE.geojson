@@ -1,0 +1,133 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.24444444444444,
+      44.85944444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -92.24444444444444,
+    "FacilityDescription": "<h2>Overview</h2>Main Day Use Are at Eau Galle Lake offers many family-friendly outdoor activities including fishing, boating and hiking, in the lush Wisconsin woodlands.  <h4>Natural Features:</h4>Eau Galle Lake is a 150-acre impoundment surrounded by densely wooded hills and bluffs. Its waters are fed by the 35-mile Eau Galle River, shaded with scenic mixed hardwoods. <h4>Recreation:</h4>In summer, the lake is a popular place for canoe, kayak and other non-gasoline powered boating. Fishermen cast their reels year-round for a chance to catch largemouth bass, crappies, blue gills and sunfish. <h4>Facilities:</h4>Amenities include flush toilets, playgrounds, horseshoe pits, volleyball courts, a large sandy swimming beach, boat ramp, and a fishing dock.<h4>Nearby Attractions:</h4>Crystal Cave, Wisconsins longest cave, is approximately 1 mile southwest of Spring Valley, WI. A series of steps and ramps allow visitors to descend over 70 ft. among stalagmites and rippling flowstone.  <br />Spring Valley Golf Course is nearby.",
+    "FacilityLatitude": 44.85944444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "715-778-5562",
+    "FacilityDirections": "From Minneapolis/St. Paul, take I-94 east to Exit 24. Take County Road B south approximately 6 miles and follow the highway signs to the park.",
+    "FacilityName": "MAIN DAY USE",
+    "LastUpdatedDate": "2015-03-12 02:27:23",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73268,
+    "OrgFacilityID": "AN373268",
+    "FacilityID": 233548,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:29:48",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:30:49",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 19557,
+        "CampsiteName": "EAST",
+        "Loop": "MDAU",
+        "CampsiteAccessible": true,
+        "FacilityID": 233548,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 250,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:29:48",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:30:49",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 19558,
+        "CampsiteName": "WEST",
+        "Loop": "MDAU",
+        "CampsiteAccessible": true,
+        "FacilityID": 233548,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031571,
+      "PostalCode": "54767-0190",
+      "AddressStateCode": "WI",
+      "FacilityStreetAddress1": "W501 EAU GALLE DAM RD",
+      "City": "SPRING VALLEY",
+      "FacilityID": 233548,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

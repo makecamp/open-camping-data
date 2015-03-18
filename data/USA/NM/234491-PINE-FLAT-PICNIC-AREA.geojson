@@ -1,0 +1,133 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.33555555555554,
+      35.013333333333335
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.33555555555554,
+    "FacilityDescription": "<h2>Overview</h2>Pine Flat Picnic Area is one of several picnic areas in the scenic Sandia Range within close proximity to Albuquerque, making it a popular place for visitors to enjoy a getaway in nature. The surrounding forest and mountains provide a beautiful location for sightseeing and outdoor recreation.<h4>Natural Features:</h4>The picnic area is located in the Manzanita Mountains just 13 miles from Albuquerque at an elevation of about 7,500 feet. Cool mountain breezes are common in the area, and are a stark but welcome contrast to the desert heat of Albuquerque.<br /><br />The hills are home to Rocky Mountain bighorn sheep, mule deer, black bear and many other species of wildlife and birds, including golden eagles often seen soaring at the crest.<h4>Recreation:</h4>A variety of hiking trails surround the area, and are of varying distances and difficulties. The 13-mile Pine Flats Loop Trail is open to hiking, biking and horseback riding. It begins in the picnic area and connects with multiple trails to make the loop. Some portions are challenging, but the trail goes through scenic areas with spectacular views.<br /><br />Scenic drives through the area are popular as well.<h4>Facilities:</h4>The picnic area offers two accessible group picnic shelters, each equipped with multiple tables and grills. Each shelter can accommodate up to 50 people. Accessible vault toilets are provided. There is no water available at this facility.<h4>Nearby Attractions:</h4>The historic Cedro Cemetery and the town of Tijeras are about five miles from the picnic area.",
+    "FacilityLatitude": 35.013333333333335,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "505-281-3304",
+    "FacilityDirections": "From Albuquerque, drive approximately 7 miles east on I-40 to Exit 175. Proceed south on Highway 337 for just over 6 miles to the picnic area on the east side of the highway.",
+    "FacilityName": "PINE FLAT PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75375,
+    "OrgFacilityID": "AN375375",
+    "FacilityID": 234491,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 9337,
+        "CampsiteName": "01A",
+        "Loop": "PINE FLAT",
+        "CampsiteAccessible": true,
+        "FacilityID": 234491,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 9338,
+        "CampsiteName": "01B",
+        "Loop": "PINE FLAT",
+        "CampsiteAccessible": true,
+        "FacilityID": 234491,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032519,
+      "PostalCode": 87059,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "11776 HWY 337",
+      "City": "TIJERAS",
+      "FacilityID": 234491,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

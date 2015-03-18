@@ -1,0 +1,521 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.1588888888889,
+      39.538888888888884
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.1588888888889,
+    "FacilityDescription": "<h2>Overview</h2>Old Folks Flat Campground is nestled in beautiful Huntington Canyon along the Huntington Canyon National Scenic Byway on Utah Highway 31. It sits at an elevation of 8,600 feet. Many recreational activities are available, including hiking, biking and fishing.<h4>Natural Features:</h4>Large spruce trees and aspens cover the campground, offering partial shade. The canyon area has numerous lakes and streams, vibrant summer wildflowers, colorful fall foliage and abundant wildlife. <h4>Recreation:</h4>Popular activities include fishing, hunting, hiking, mountain biking, horseback riding, rock climbing and scenic driving. Nearby Huntington Creek is a Blue Ribbon fishery, offering high-quality fishing for brown, cutthroat and rainbow trout.<br /><br />The 4-mile Left Fork of the Huntington National Recreation Trail is nearby and open to hikers and horseback riders. The 10-mile Fish Creek Trail, for hiking, biking and horseback riding, is also close by.<h4>Facilities:</h4>This campground is primarily devoted to group sites, but eight single-family campsites are also available. The five group sites can accommodate up to 20, 50 or 60 people and multiple vehicles in adjacent parking areas. <br /><br />Sites are equipped with tables and and a campfire rings with grills. The facility has recently been upgraded with flush toilets and drinking water spigots, but electricity and garbage collection service is not available. Roads and parking spurs within the campground are gravel. <h4>Nearby Attractions:</h4>The Huntington Canyon National Scenic Byway is part of the 86-mile Energy Loop. It offers stunning mountain and lake views as it tops 10,000 feet in elevation.<br /><br />The historic Stuart Guard Station Visitor Center is nearby, offering a glimpse of the 1930s life of a ranger and his family who once lived there. Exhibits of Civilian Conservation Corps projects and original equipment are also on display. Area information is available there as well.",
+    "FacilityLatitude": 39.538888888888884,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-384-2372",
+    "FacilityDirections": "The campground is located 21 miles from Huntington, Utah, along Highway 31.",
+    "FacilityName": "OLD FOLKS FLAT",
+    "LastUpdatedDate": "2015-03-12 02:01:15",
+    "LegacyFacilityID": 70112,
+    "OrgFacilityID": "AN370112",
+    "FacilityID": 231924,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 54048,
+        "CampsiteName": 4,
+        "Loop": "OLD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 54053,
+        "CampsiteName": 2,
+        "Loop": "OLD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54092,
+        "CampsiteName": 3,
+        "Loop": "FGRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 7,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 54140,
+        "CampsiteName": "XXX2",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 54422,
+        "CampsiteName": "XXX3",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 54495,
+        "CampsiteName": 8,
+        "Loop": "OLD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 54596,
+        "CampsiteName": 6,
+        "Loop": "OLD",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54643,
+        "CampsiteName": 7,
+        "Loop": "LGRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 14,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54705,
+        "CampsiteName": 5,
+        "Loop": "FGRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 54778,
+        "CampsiteName": "XXX1",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54793,
+        "CampsiteName": 9,
+        "Loop": "LGRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54957,
+        "CampsiteName": 1,
+        "Loop": "FGRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 11,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 54999,
+        "CampsiteName": "XXX4",
+        "Loop": "MANAGEMENT SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 231924
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029942,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "MANTI-LASAL",
+      "FacilityID": 231924,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.36666666666666,
+      38.75833333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.36666666666666,
+    "FacilityDescription": "<h2>Overview</h2>Adelaide Campground is located in Corn Creek Canyon on the south end of the Pahvant Mountain Range near Kanosh, Utah.<h4>Natural Features:</h4>A grove of maple and cottonwood trees provides plentiful shade. Pines and summer wildflowers dot the area. Corn Creek runs alongside the campground, which lies at an elevation of 5,500 feet. <h4>Recreation:</h4>Corn Creek offers brown and rainbow trout fishing. Hiking and biking trails begin nearby, and the Paiute ATV trail can be easily accessed from the site.<h4>Facilities:</h4>The campground offers one accessible group site that can accommodate up to 48 guests and 15 vehicles. Additional single-family sites are available on a first come, first served basis.<br /><br />Flush and vault toilets are provided, as is drinking water. A large amphitheater and picnic shelter are located on-site. Roads and parking spurs are gravel.",
+    "FacilityLatitude": 38.75833333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Kanosh, head east on Center Street to 100 East. Turn right on 100 East, then left on 300 South. Continue onto Corn Creek Road, then Canyon Road to the campground.",
+    "FacilityName": "ADELAIDE CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:39:10",
+    "LegacyFacilityID": 75157,
+    "OrgFacilityID": "AN375157",
+    "FacilityID": 234297,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:14:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 11260,
+        "CampsiteName": "A",
+        "Loop": "ADELAIDE CAMPGROUND (UT)",
+        "CampsiteAccessible": false,
+        "FacilityID": 234297,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 48,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032326,
+      "PostalCode": 84631,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "390 SOUTH MAIN",
+      "City": "FILLMORE",
+      "FacilityID": 234297,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

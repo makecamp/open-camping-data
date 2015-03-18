@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.70416666666667,
+      35.77777777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.70416666666667,
+    "FacilityDescription": "<h2>Overview</h2>Holy Ghost Campground sits in the Santa Fe National Forest on the edge of the Pecos Wilderness. The Holy Ghost Creek runs alongside the campground. Numerous trails in the area lead hikers and horseback riders into the surrounding wilderness area. <h4>Natural Features:</h4>The campground is nestled among a ponderosa pine and fir forest, right where aspen trees begin to grow, in the Sangre de Cristo Mountains of New Mexico. Vibrant wildflowers bloom throughout the area in the summertime.<br><br>The Holy Ghost Creek borders the campground, and offers pretty views. A variety of wildlife and birds are found in the surrounding area.<h4>Recreation:</h4>Hiking and horseback riding are the most popular activities at Holy Ghost Campground. The trailhead at the campground accesses a 350-mile network of trails within the Pecos Wilderness, including Holy Ghost Trail, which accesses Skyline Trail and beautiful Stewart Lake.<br><br>Anglers enjoy fly-fishing on Holy Ghost Creek. Brown trout and stocked rainbow trout are found in the cool waters.<h4>Facilities:</h4>The campground offers one accessible group campsite that can accommodate up to 40 people. It is equipped with a picnic shelter, tables and a grill. <br><br>Individual sites are available on a first come, first served basis. These sites each contain a grassy tent pad, table and campfire ring with grill.<br><br>Accessible vault toilets, drinking water and trash collection are provided. No hookups are available. The road to the campground is narrow in places.<h4>Nearby Attractions:</h4>The town of Pecos is located about 16 miles south of the campground.",
+    "FacilityLatitude": 35.77777777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Santa Fe, take I-25 east approximately 18 miles to the Glorieta/Pecos Exit. Take NM Highway 50 to Pecos, approximately 5 miles. At the 4-way stop, turn left onto NM Highway 63 and travel approximately 14 miles north to Forest Road 122. Take Forest Road 122 approximately 4 miles to the campground.",
+    "FacilityName": "HOLY GHOST GROUP AREA",
+    "LastUpdatedDate": "2015-03-12 02:01:15",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70076,
+    "OrgFacilityID": "AN370076",
+    "FacilityID": 231892,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:05:38",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:51:34",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 44483,
+        "CampsiteName": 1,
+        "Loop": "HOLY",
+        "CampsiteAccessible": true,
+        "FacilityID": 231892,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029910,
+      "PostalCode": 87552,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "HOLY GHOST GROUP AREA",
+      "City": "PECOS",
+      "FacilityID": 231892,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

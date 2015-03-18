@@ -1,0 +1,96 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.17888888888889,
+      33.35777777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -94.17888888888889,
+    "FacilityDescription": "<h2>Overview</h2>North Shore Park is the largest day-use area on Wright Patman Lake, a 30,000-acre lake set amidst the piney woods of northeast Texas. With a sandy swimming beach, accessible boat ramp, reservable group picnic shelter and numerous other amenities, the park provides a fun, enjoyable day at the lake for a wide variety of visitors.<h4>Natural Features:</h4>The park overlooks the lake and is set among a thick forest on the sandy shoreline. <br /><br />The U.S. Army Corps of Engineers manages approximately 55,000 acres of public forestland around the lake, providing habitat for wild turkey, bobwhite quail, squirrel, white-tailed deer, waterfowl and migrating bald eagles, pelicans and ducks. Some poisonous snakes inhabit the area.<h4>Recreation:</h4>This facility provides easy lake access for boating and fishing activities, as well as plenty of on-shore fun. Picnickers enjoy swimming and relaxing on the beach. Children have plenty of options to keep busy, including basketball and sand volleyball courts, a playground and horseshoe pit. <br /><br />Anglers make use of the fishing pier and accessible boat dock and ramp in search of bass, catfish, crappie and sunfish.<h4>Facilities:</h4>The group picnic shelter can accommodate up to 30 people. It is conveniently located next to a restroom with flush toilets, showers and the swimming beach. There are 60 first come, first served picnic sites as well, though water and electricity are not supplied to these sites.<br /><br />There are no overnight campsites available in the park but Clear Springs Campground is one mile away.<h4>Nearby Attractions:</h4>The Texarkana region is full of activities such as shopping, movies, restaurants and local historical sites. Shreveport, Louisiana offers river boat gambling, horse races and numerous festivals, including the Four State Fair and Rodeo and the Jump, Jive and Jam Festival.",
+    "FacilityLatitude": 33.35777777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "903-838-8781",
+    "FacilityDirections": "From Texarkana, take U.S. Highway 59 south approximately 10 miles. Turn right on Farm-to-Market (FM) Road 2148 and travel approximately 1.5 miles to the Wright Patman Lake sign. Turn left and follow park signs to the entrance.",
+    "FacilityName": "NORTH SHORE ",
+    "LastUpdatedDate": "2015-03-12 02:34:24",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73948,
+    "OrgFacilityID": "AN373948",
+    "FacilityID": 233991,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:31:38",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:03:57",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 59069,
+        "CampsiteName": 1,
+        "Loop": "NORTH SHORE",
+        "CampsiteAccessible": true,
+        "FacilityID": 233991,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032012,
+      "PostalCode": 75501,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "64 CLEAR SPRINGS PARK",
+      "City": "TEXARKANA",
+      "FacilityID": 233991,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

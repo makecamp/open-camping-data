@@ -1,0 +1,941 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.65777777777778,
+      39.666666666666664
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.65777777777778,
+    "FacilityDescription": "<h2>Overview</h2>Lakes Basin Campground is located in the Lakes Basin Recreation Area, 9 miles southwest of Graegle, California. Visitors enjoy boating, fishing and hiking at Gold Lake, just 2 miles away.<h4>Natural Features:</h4>The area was formed by glaciers and is characterized by breathtaking mountain scenery--most notably the craggy peaks of the Sierra Buttes and over 20 natural glacial lakes, most of which are accessible by well maintained hiking trails. <br /><br /> The campground sits at an elevation of 6,400 feet among fir and aspen trees in a field of granite boulders. <h4>Recreation:</h4>Gold Lakes Basin offers a variety of recreational activities including boating, fishing and hiking. A network of over 30 miles of maintained trails branch out across the area, and the Pacific Crest trail can be easily reached from the trail system. <br /><br />Many of the trails are open to hiking, biking and horseback riding, including the 1-mile Grassy Lakes Trail, accessible from the campground.<br /><br />At nearby Gold Lake, where a boat ramp is provided, visitors enjoy convenient access to boating and fishing. Once on the water, anglers wont have any trouble trolling for brown and rainbow trout and Mackinaws in the cool, clear waters. <h4>Facilities:</h4>The single loop campground offers family campsites and one group tent-only site. One double-family site is also available. Vault toilets, drinking water and trash collection are provided. All sites have fire rings with grills and picnic tables.<h4>Nearby Attractions:</h4>The Plumas Eureka State Park is a popular side trip about 18 miles from the campground. This historic site offers a glimpse of the gold rush era with a museum and visitor center, stamp mills, a stable and blacksmith shop and the Moriarty House, a miners residence. The park also offers hiking, fishing and winter skiing opportunities.",
+    "FacilityLatitude": 39.666666666666664,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "In Graeagle, CA, at the intersection of State Rt. 89 and Forest Rt. 24 (Gold Lakes directional sign), turn onto Rt. 24 and go 6.9 miles to campground sign.  Turn right onto the single-lane road and proceed 0.3 miles. The  campground will be on the right.",
+    "FacilityName": "LAKES BASIN",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70167,
+    "OrgFacilityID": "AN370167",
+    "FacilityID": 231963,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 66011,
+        "CampsiteName": 21,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 66016,
+        "CampsiteName": 1,
+        "Loop": "LAKE",
+        "CampsiteAccessible": true,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66050,
+        "CampsiteName": 8,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 66180,
+        "CampsiteName": 13,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 66227,
+        "CampsiteName": 22,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 66333,
+        "CampsiteName": 20,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 66352,
+        "CampsiteName": 4,
+        "Loop": "FAM",
+        "CampsiteAccessible": true,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66356,
+        "CampsiteName": 9,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66392,
+        "CampsiteName": 19,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66395,
+        "CampsiteName": 16,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66492,
+        "CampsiteName": 3,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 66501,
+        "CampsiteName": 2,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66541,
+        "CampsiteName": 14,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66563,
+        "CampsiteName": 17,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66599,
+        "CampsiteName": 11,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66633,
+        "CampsiteName": 7,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 66717,
+        "CampsiteName": 15,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66767,
+        "CampsiteName": 12,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 66833,
+        "CampsiteName": 10,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 66940,
+        "CampsiteName": 5,
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 66998,
+        "CampsiteName": "6A6B",
+        "Loop": "MULT",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Double",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 67381,
+        "CampsiteName": "XXX12",
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 67944,
+        "CampsiteName": 18,
+        "Loop": "FAM",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:10:20",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 67946,
+        "CampsiteName": "XXX13",
+        "Loop": "AREA LAKES BASIN",
+        "CampsiteAccessible": false,
+        "FacilityID": 231963
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029981,
+      "PostalCode": "PO Box 626",
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": " CA 96122",
+      "City": "Portola",
+      "FacilityID": 231963,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.11497777777777,
+      48.70261388888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -118.11497777777777,
+    "FacilityDescription": "<h2>Overview</h2>Evans Group Camp, along the northern shoreline of Lake Roosevelt, is the most northern campground on the lake that can be reserved. The site is long and narrow, an orientation that allows for a fantastic, clear view of the lake from every vantage point. There is one group campsite that can accommodate one group of up to 25 people at a time. <br /><br />Lake Roosevelt is a 130-mile lake on the Columbia River created by the Grand Coulee Dam. Named after President Franklin D. Roosevelt, it is part of the Lake Roosevelt National Recreation Area and managed by the National Park Service.<h4>Natural Features:</h4>Evans provides ample shade with thick forests of ponderosa pine, douglas fir and maple trees. The lake area is abundant with wildlife, including moose, elk and deer. Quite a few bald eagles have been spotted around Evans, and dozens of species of fish inhabit the lake, such as walleye, bass, rainbow trout, salmon and sturgeon. Fishing for sturgeon is not allowed.<br /><br />Much of the water in the originates from glaciers and snow in the cold, high Canadian Rockies, though temperatures are pleasant to swim in during summer.<h4>Recreation:</h4>The boat launch provides year-round access to the lake. Boating, fishing, swimming and water skiing are activities that can easily take place from the campground. Campers might also enjoy relaxing and taking in the beautiful view or attending educational ranger programs. <h4>Facilities:</h4>Evans Group Camp can be reserved year-round. Great for family reunions and other medium-sized gatherings, there are picnic tables, drinking water, fire pits, a swimming area and a playground within the facility.",
+    "FacilityLatitude": 48.70261388888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "509-754-7889",
+    "FacilityDirections": "Take Washington state Highway 395 north from Spokane. Travel 83 miles to the town of Kettle Falls, take Highway 25 north and travel 11 miles. Follow signs to the campground. It is on the west side of the highway.",
+    "FacilityName": "EVANS GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:35:11",
+    "LegacyFacilityID": 74072,
+    "OrgFacilityID": "AN374072",
+    "FacilityID": 234065,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:09:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:21:50",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 8580,
+        "CampsiteName": 1,
+        "Loop": "EVANS GROUP SITE",
+        "CampsiteAccessible": false,
+        "FacilityID": 234065,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032085,
+      "PostalCode": 99126,
+      "AddressStateCode": "WA",
+      "FacilityStreetAddress1": "1949 Hwy 25 North",
+      "City": "Evans",
+      "FacilityID": 234065,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

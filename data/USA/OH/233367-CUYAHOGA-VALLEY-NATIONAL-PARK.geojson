@@ -1,0 +1,165 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.51666666666667,
+      41.220555555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -81.51666666666667,
+    "FacilityDescription": "<h2>Overview</h2>Cuyahoga Valley National Park is a destination for millions of visitors each year who enjoy hiking, riding the scenic railroad, biking and picnicking. <br /><br />Whether you need an area large enough for a family reunion or just an intimate spot for two, Cuyahoga Valley is an ideal destination. Picnic areas are scattered throughout the park. Two rustic shelters, Ledges and Octagon, are available for reservation in the Virginia Kendall Unit of Cuyahoga Valley National Park. <h4>Natural Features:</h4>The Cuyahoga River flows through the park for 22 miles, fed by more than 190 miles of perennial (permanent) and ephemeral (temporary) streams. The Beaver Marsh and other wetlands, many lined with cattails and dense patches of duckweed, provide a home for many of the parks reptiles and amphibians and help filter pollutants from the water. <h4>Recreation:</h4>With many different facilities and attractions in the park, there is something to interest everyone. Most shelter areas have open fields for games and nearby hiking trails.Visitors enjoy riding the scenic railroad, exploring the visitor centers, catching one of the summer concerts, attending one of the ranger-guided programs, biking the Towpath Trail or picnicking in one of the parks picnic shelters.<h4>Facilities:</h4>Cuyahoga Valleys two shelters are fully-accessible. The Civilian Conservation Corps constructed them with American chestnut and locally quarried sandstone. The shelters are located near Ritchie Ledges, an area with approximately 2 miles of Sharon conglomerate stone cliffs about 30 feet tall. A large play field and hiking trails are available near each shelter.<br /><br />Ledges Shelter accommodates up to 75 people. It has two fireplaces and eight picnic tables inside, as well as eight tables in the outside pavilion and a large grill.  <br /><br />Octagon Shelter accommodates up to 50 people. During the summer months its walls are removed; they are in place from about October 15 to May 1. Seven indoor picnic tables, two fireplaces and an outdoor grill are provided.<br /><br />Both shelters have electricity for normal two-pronged household appliances such as coffee pots and crock pots. Drinking water is available at a drinking fountain from May 1 to September 15. Restrooms with flush toilets are available year-round. <h4>Nearby Attractions:</h4>Visit Brandywine Falls, the historic Boston Store Visitor Center, Ritchie Ledges, the Beaver Marsh and the Everett Road Covered Bridge. These are some of the more popular attractions in the park.",
+    "FacilityLatitude": 41.220555555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "(330) 657-2752",
+    "FacilityDirections": "Ledges Shelter: <br /><br />701 Truxell RoadBoston Township, Peninsula, OH 44264 <br /><br />Octagon Shelter: 801 Truxell Road Boston Township, Peninsula, OH 44264<br /><br /><a href=http://www.nps.gov/cuva/planyourvisit/directions.htm>Click here</a> for the quickest routes to Cuyahoga Valley National Park.",
+    "FacilityName": "CUYAHOGA VALLEY NATIONAL PARK",
+    "LastUpdatedDate": "2015-03-12 02:24:18",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 72403,
+    "OrgFacilityID": "AN372403",
+    "FacilityID": 233367,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:51:11",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 90464,
+        "CampsiteName": "Octagon",
+        "Loop": "CUYAHOGA ",
+        "CampsiteAccessible": true,
+        "FacilityID": 233367,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Parallel",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:51:11",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 90499,
+        "CampsiteName": "Ledges ",
+        "Loop": "CUYAHOGA ",
+        "CampsiteAccessible": true,
+        "FacilityID": 233367,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Parallel",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Slight",
+            "AttributeName": "Driveway Grade"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031376,
+      "PostalCode": 44141,
+      "AddressStateCode": "OH",
+      "FacilityStreetAddress1": "15610 Vaughn Road ",
+      "City": "Brecksville",
+      "FacilityID": 233367,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

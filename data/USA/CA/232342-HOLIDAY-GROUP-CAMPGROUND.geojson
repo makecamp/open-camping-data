@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.27694444444444,
+      34.51722222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.27694444444444,
+    "FacilityDescription": "<h2>Overview</h2>Holiday Group Campground is a relaxing location to enjoy nature all year long; a quick escape from the bustle of the city. It provides access to a variety of recreational opportunities, including hiking, biking and horseback riding. Surrounding trails are also fun for off-road vehicle enthusiasts.<h4>Natural Features:</h4>The campground is situated at the bottom of Live Oak Canyon at an elevation of 2,120 feet. It is heavily shaded and the Matilija Creek runs nearby.<h4>Recreation:</h4>The Wheeler Gorge Nature Trail begins not far from the campground. It is a relatively short, loop trail that leads through thick vegetation along the river banks and to a scenic hillside view of the area. Wildflowers are often located along the path.<br /><br />The 10-mile Ortega Trail, for off-road vehicle use, is popular among experienced riders. Rocky, steep terrain takes the trail to the ridgetop.<br /><br />The creek flows near some of the campsites and a small swimming hole is available nearby. Fishing is rough in the area and may produce a catch of trout, but the stream is not stocked. Kayaking or canoeing in the creek is not recommended.<h4>Facilities:</h4>The campground offers one large group site for tent camping and can accommodate up to 50 people. An adjacent parking area provides space for 10 vehicles. Vault toilets are provided, but drinking water is not available at the campground.<br /><br />Campfires are allowed at the campground and visitors are asked to take precaution when using propane or gas stoves and the available on-site grills.<h4>Nearby Attractions:</h4>Ojai is the nearest town, about 15 miles from the campground. The larger city of Ventura is about 20 miles south of the campground. The Pacific Ocean is not far from there.",
+    "FacilityLatitude": 34.51722222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "805-968-6640",
+    "FacilityDirections": "From Ventura, travel north on Highway 33 for about 14 miles to Ojai. Turn left, continuing on Highway 33 and travel north about 9 miles to the campground.<br /><br />From Los Angeles, take I-5 north and turn west onto Highway 126 for 28 miles to St. Paula. Turn onto Highway 150 and travel north for about 16 miles. Turn left onto Highway 33 and continue north for approximately 9 miles.",
+    "FacilityName": "HOLIDAY GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:08:37",
+    "LegacyFacilityID": 70687,
+    "OrgFacilityID": "AN370687",
+    "FacilityID": 232342,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:41:43",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:08:46",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 65042,
+        "CampsiteName": "A001",
+        "Loop": "HOLI",
+        "CampsiteAccessible": false,
+        "FacilityID": 232342,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030360,
+      "PostalCode": 93023,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "1190 E. OJAI AVE.",
+      "City": "OJAI",
+      "FacilityID": 232342,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

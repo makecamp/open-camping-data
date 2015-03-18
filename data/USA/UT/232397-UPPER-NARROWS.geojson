@@ -1,0 +1,89 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.59083333333332,
+      40.49166666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.59083333333332,
+    "FacilityDescription": "<h2>Overview</h2>Upper Narrows Campground is located southwest of Grantsville, Utah, in South Willow Canyon at an elevation of 6,400 feet. Visitors enjoy exploring local trails.<h4>Natural Features:</h4>The remote desert canyon is forested with oak, maple, and juniper trees, which offer partial shade. Willow Creek runs alongside the site.<h4>Recreation:</h4>The multi-use Stansbury Front and Medina Flat Trails begin nearby, offering access to the rugged Deseret Peak Wilderness. Willow Creek offers rainbow and brown trout fishing.<h4>Facilities:</h4>This primitive campground is dispersed over a mile-long stretch of road. One walk-to group site, ideal for family reunions or church groups, is available for up to 50 people. A footbridge must be crossed to access the site from the parking area. <br /><br />Picnic tables and campfire rings are provided, as are vault toilets. Roads and parking spurs are dirt.",
+    "FacilityLatitude": 40.49166666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-292-2800",
+    "FacilityDirections": "From Salt Lake City, head west on I-80 for 36 miles. Take the Stansbury-Tooele/Route 35 exit and travel south 3 miles to Route 138 West. Continue for 10 miles to Grantsville. Go through Grantsville to Cooley Street and turn south; go 5 miles to the South Willow Canyon turnoff. Boy Scout Campground is located 3 miles from the forest boundary.",
+    "FacilityName": "UPPER NARROWS",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "LegacyFacilityID": 70805,
+    "OrgFacilityID": "AN370805",
+    "FacilityID": 232397,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:26:28",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:58:16",
+        "CampsiteType": "GROUP WALK TO",
+        "CampsiteID": 52173,
+        "CampsiteName": 1,
+        "Loop": "UPPE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232397,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030415,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "WASATCH",
+      "FacilityID": 232397,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

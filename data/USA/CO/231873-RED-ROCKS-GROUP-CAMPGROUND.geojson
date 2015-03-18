@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.07972222222222,
+      39.04416666666666
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.07972222222222,
+    "FacilityDescription": "<h2>Overview</h2>Red Rocks Group Campground is located 4 miles north of the town of Woodland Park, Colorado. Visitors enjoy the area for hiking, biking and visiting the nearby 5-acre Manitou Lake. <h4>Natural Features:</h4>This rustic group site is situated in a ponderosa pine forest at an elevation of 8,200 feet. A nearby hiking trail leads to a unique red sandstone formation. Most of Red Rocks Group is shaded by sweetly scented ponderosa pine trees.<h4>Recreation:</h4>The Centennial Bike Trail is a paved, accessible recreation trail that connects Red Rocks Campground to Manitou Lake, Colorado and South Meadows Campgrounds. The trail is popular among hikers, roller bladers and bicyclists. The nearby Rainbow Falls OHV Trail System and North Divide OHV Trail System are recommended for off-road vehicle enthusiasts.<br /><br />Manitou Lake is a short drive away, and is great for picnics and trout fishing. Canoeing is also a popular activity.<h4>Facilities:</h4>The campground offers one group site that can accommodate up to 125 people and 44 vehicles. It can be reserved for overnight or day use. The site is equipped with picnic tables and a campfire circle with benches. Additional tables and grills are scattered throughout the area. Vault toilets, drinking water and trash collection are provided.<h4>Nearby Attractions:</h4>The town of Woodland Park is located 6 miles south of Colorado Campground, where campers can find gas, groceries, dining and shopping. <br /><br />Colorado Springs is about 20 miles southeast of the campground and offers many services. Garden of the Gods is a popular attraction just outside of town. This free park offers hiking trails, rock climbing routes, a visitor center and cafe.<br /><br />Pikes Peak lies west of Manitou Springs, which is about 15 miles from the campground. Visitors can hike, bike, drive or ride a historic cog railway to the summit of this beautiful mountain.",
+    "FacilityLatitude": 39.04416666666666,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "719-636-1602",
+    "FacilityDirections": "From the I-25 and Highway 24 intersection in Colorado Springs, Colorado, travel west on Highway 24 for about 18 miles to the junction with Highway 67 in Woodland Park. Turn right (north) on Highway 67 and drive about 4 miles. Turn right (east) on Forest Road 335. The campground entrance is up the road about 0.2 miles on the left.",
+    "FacilityName": "RED ROCKS GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:00:10",
+    "LegacyFacilityID": 70049,
+    "OrgFacilityID": "AN370049",
+    "FacilityID": 231873,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:28:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:06",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 53522,
+        "CampsiteName": 1,
+        "Loop": "RED",
+        "CampsiteAccessible": false,
+        "FacilityID": 231873,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 44,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029891,
+      "PostalCode": 80903,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "CO HIGHWAY 67",
+      "City": "WOODLAND PARK",
+      "FacilityID": 231873,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

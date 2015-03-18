@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.875,
+      37.125
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.875,
+    "FacilityDescription": "<h2>Overview</h2>Buck Ridge Park is a group day-use area located at Hensley Lake in the foothills of central California, 50 miles north of Fresno. <br /><br />The lake area offers many recreational opportunities, such as swimming, water skiing, fishing and hiking, and attracts a growing number of visitors per year. It is within a short drive to Yosemite, Kings Canyon and Sequoia National Parks, as well as Sierra National Forest.<br /><br />The 1,500-acre lake was created by the construction of Hidden Dam on the Fresno River. With over 20 miles of shoreline, it is a popular vacation spot for families because of its playground, swimming areas and water activities. <h4>Natural Features:</h4>Buck Ridge is located directly on the shore of Hensley Lake and surrounded by the oak woodlands of the Sierra Nevada foothills, offering a mixture of sun and shade. <h4>Recreation:</h4>The area is packed with opportunities for outdoor fun. The lake area has a swim beach, a disc golf course and a hiking, mountain biking and equestrian trail. On the water, visitors can ski, swim and fish.<h4>Facilities:</h4>This facility has boat ramps, picnic areas, a group picnic shelter and a playground. Drinking water is provided, and there is a grocery store within a short driving distance.<h4>Nearby Attractions:</h4>Yosemite National Park is about one hour north, and Sequoia and Kings Canyon National Parks are about 1.5 hours southeast of the facility.<br /><br /><a href=http://www.nps.gov/yose/index.htm target=_blank>Yosemite National Park</a><br /><br /><a href=http://www.nps.gov/seki/index.htm target=_blank>Sequoia and Kings Canyon National Parks</a>",
+    "FacilityLatitude": 37.125,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "559-673-5151",
+    "FacilityDirections": "From south of Fresno: Take State Route 99 to SR 41 north to SR 145. Turn left on 145 and go 8.4 miles to Road 33. Turn right on Road 33, and go 1 mile to Road 400. Turn right on 400, and go 9.7 miles to the Buck Ridge Recreation Area. Follow the signs to the campground and various areas within the park.<br /><br />From south of Madera: Take SR 99 north to exit 153B. Bear right onto Madera Ave. and go .3 miles to Gateway. Turn left and drive .2 miles to the traffic light at Yosemite Ave. (SR 145). Turn right and go 7.2 miles to Road 33. Turn left on Road 33, and go 1 mile to Road 400. Turn right on 400, and go 9.7 miles to the Buck Ridge Recreation Area. Follow the signs to the campground and various areas within the park.<br /><br />From north of Madera: Take SR 99 south to exit 153B. Exit onto Olive Ave. Turn left onto Madera Ave. and go .3 miles to Gateway. Turn left and drive .2 miles to the traffic light at Yosemite Ave. (SR 145). Turn right and go 7.2 miles to Road 33. Turn left on Road 33, and go 1 mile to Road 400. Turn right on 400, and go 9.7 miles to the Buck Ridge Recreation Area. Follow the signs to the campground and various areas within the park. <br /><br />",
+    "FacilityName": "BUCK RIDGE",
+    "LastUpdatedDate": "2015-03-12 02:25:50",
+    "LegacyFacilityID": 73103,
+    "OrgFacilityID": "AN373103",
+    "FacilityID": 233440,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:28:04",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:30:01",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 18001,
+        "CampsiteName": "A",
+        "Loop": "BRID",
+        "CampsiteAccessible": false,
+        "FacilityID": 233440,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031464,
+      "PostalCode": "93653-0085",
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "PO BOX 85",
+      "City": "RAYMOND",
+      "FacilityID": 233440,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

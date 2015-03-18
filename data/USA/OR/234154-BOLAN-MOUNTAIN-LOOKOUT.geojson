@@ -1,0 +1,75 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.45944444444444,
+      42.01611111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -123.45944444444444,
+    "FacilityDescription": "<h2>Overview</h2>Bolan Mountain Lookout is surrounded by glass windows on all sides, providing visitors with an unparalleled view of the sheer drop-offs sharp cliffs, and breath-taking views of the rugged Siskiyou Mountains.<br /><br />The current structure was built in 1953 to replace an original lookout that once stood in its place. The historic lookout is available for rent during the snow-free season, and guests must bring several of their own amenities. <h4>Natural Features:</h4>From the lookout, guests are treated to expansive views of the Red Buttes and Siskiyou Wilderness areas, Preston Peak and Bolan Lake. To the north are far views of the Kalmiopsis Wilderness and the Illinois River Valley. On a clear day, even Mount Shasta is visible to the southeast.<br /><br />Bolan Lake is a 12 acre, high mountain lake with a shoreline of Douglas fir, pine and hemlock. A dip in the cool waters provides much needed relief from a hot summer day. Clear nights provide guests with a dazzling display of stars and planets. <h4>Recreation:</h4>Hikers may enjoy spending a day hiking the Bolan Lake Trail down to Bolan Lake. Hemmed in by conifer forest, the lake is stocked with trout, and is an ideal setting to enjoy fishing, non-motorized boating such as kayaking or picnicking at its banks.<br /><br /> The lookout is also a prime spot for nature and scenic photography due to the stunning vistas provided. For visitors interested in astronomy, Stargazing is a popular activity on clear nights. <h4>Facilities:</h4>The 14 x 14 foot one room cabin is designed to house only one or two people, and offers a primitive camping experience. The 30 to 40 steps up to the lookout are steep and uneven, so visitors should use caution when climbing to the main cabin. <br /><br />The room is equipped with a table, two chairs, a single bed without a mattress, a footstool, cleaning supplies and a fire extinguisher. A primitive vault toilet is located near the lookout.<br /><br /> No water is available on site, so guests must pack in water for drinking, cooking and washing. Guests must also provide their own camp stove, light source, sleeping bag, sleeping pad, towels, dish soap, matches, cooking gear, toilet paper and garbage bags. <h4>Nearby Attractions:</h4><b><u>Oregon Caves National Monument</u></b><br /><br />Discover the &quot;Marble Halls of Oregon&quot; nestled deep inside the Siskiyou Mountains. The caves formed as rainwater from the ancient forest above dissolved the surrounding marble and created one of the worlds few marble caves. The highly complex geology found at the Monument contributes to the unusual and rare plants and animals found nowhere else but here. Experience the extensively decorated and adventurous &quot;Marble Halls of Oregon.&quot; <br /><br /><b><u>Kalmiopsis Wilderness</u></b><br /><br />Kalmiopsis Wilderness is a wilderness area in the Siskiyou Mountains of southwestern Oregon, within the Rogue River-Siskiyou National Forest. It was designated wilderness by the United States Congress in 1964 and now comprises a total of 179,755 acres. There are approximately 153 miles of trails on 24 established hiking trails in the area. The Kalmiopsis Wilderness was named for Kalmiopsis leachiana, a slow-growing plant related to the rhododendron, which was discovered in the area in 1930. <br /><br /><b><u>Red Buttes Wilderness</u></b><br /><br />The Unites States Congress designated the Red Buttes Wilderness in 1984 - it now includes a total of 19,940 acres. Management of the Red Buttes Wilderness, located on the California/Oregon border, is shared by the Klamath National Forest and the Rogue River - Siskiyou National Forest. The majority of the Wilderness lies within the boundaries of the Rogue River-Siskiyou National Forest.&quot;",
+    "FacilityLatitude": 42.01611111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-592-4000",
+    "FacilityDirections": "From Cave Junction, travel south on Highway 199 for 6.4 miles to the Happy Camp Road. Turn left and travel 17.3 miles on Forest Service Road 48/Happy Camp road to the junction with Forest Service Road 4812. Turn left and travel 4.1 miles to the junction of Forest Service Road 4812-040 (the road to Bolan Lake Campground). Turn left again, and travel 1.1 miles to Forest Service Road 535. Turn right and travel 1.6 miles to the lookout. Forest Service Road 535 is gated.<br /><br /> The lookout can be accessed by passenger car, but a high clearance vehicle is recommended. Early summer access can be hampered by late season snow pack. Parking is available just below the lookout.",
+    "FacilityName": "BOLAN MOUNTAIN LOOKOUT",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "LegacyFacilityID": 74184,
+    "OrgFacilityID": "AN374184",
+    "FacilityID": 234154,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:19:49",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:50",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 86648,
+        "CampsiteName": "C01",
+        "Loop": "AREA BOLAN MOUNTAIN LOOKOUT",
+        "CampsiteAccessible": false,
+        "FacilityID": 234154,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032173,
+      "PostalCode": 97523,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "ROGUE RIVER-SISKIYOU NATIONAL FOREST<br /> WILD RIVERS RANGER DISTRICT<br /> 26568 REDWOOD HIGHWAY",
+      "City": "CAVE JUNCTION",
+      "FacilityID": 234154,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.6061111111111,
+      35.816944444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.6061111111111,
+    "FacilityDescription": "<h2>Overview</h2>Jemez Falls Picnic Area is great place to spend the day, especially when planning a day hike to nearby Jemez Falls on the Jemez District of the Santa Fe National Forest. The lands are known for immense cultural heritage of the Jemez people, as well as a therapeutic natural warm springs.<h4>Natural Features:</h4>The picnic area is situated in a forested area at an elevation of 7,880 feet. Nearby Jemez Falls cascades 70 feet over a rocky cliff surrounded by boulders and pines. <h4>Recreation:</h4>A trailhead to Jemez Falls is located within the day-use area. It leads to both Jemez Falls and McCauley Warm Springs. Visitors also enjoy fishing the Jemez River, a small trout stream stocked with catchable rainbow trout.<h4>Facilities:</h4>The accessible picnic area is equipped with a shelter, tables and large grills. Accessible vault toilets and trash collection are provided. The site can accommodate up to 100 people. A large parking area is on-site.<br><br>Drinking water is not provided in the day-use area, but is available at nearby campgrounds and facilities, including Battleship Rock, Vista Linda and the Jemez Ranger Station.<h4>Nearby Attractions:</h4>The picnic area is located 15 miles northeast of Jemez Springs, New Mexico.",
+    "FacilityLatitude": 35.816944444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Jemez Springs, New Mexico, travel 15 miles northeast on State Road 4 to Forest Road 133 South. Continue approximately 1.5 miles to the day-use area.",
+    "FacilityName": "JEMEZ FALLS (NM) PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:07:45",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70605,
+    "OrgFacilityID": "AN370605",
+    "FacilityID": 232297,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:15:52",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 46550,
+        "CampsiteName": 1,
+        "Loop": "JEME",
+        "CampsiteAccessible": true,
+        "FacilityID": 232297,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030315,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "PICNIC AREA:JEMEZ FALLS",
+      "City": "JEMEZ SPRINGS",
+      "FacilityID": 232297,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

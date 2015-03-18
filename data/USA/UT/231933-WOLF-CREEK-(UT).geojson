@@ -1,0 +1,142 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.03194444444445,
+      40.481388888888894
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.03194444444445,
+    "FacilityDescription": "<h2>Overview</h2>Wolf Creek Campground is located on the summit of scenic Wolf Creek Highway at an elevation of 9,400 feet. Visitors enjoy hiking Trail Hollow with its beautiful mountain views.<h4>Natural Features:</h4>The campground is situated among dense stands of pines, which offer plentiful shade. Aspens dot the landscape. Colorful summer wildflowers fill the mountain meadows on the summit and wildlife is abundant in the area.<h4>Recreation:</h4>The 3.5-mile Trail Hollow Trail begins in the campground and offers great hiking into the West Fork of the Duchesne, offering unparalleled views of the surrounding Wasatch Range. <h4>Facilities:</h4>This campground offers two group sites. Site 1 can accommodate up to 60 people; Site 2 can accommodate up to 30 people. An amphitheater sits above Site 1 and has a cement stage, wood benches and a campfire circle. <h4>Nearby Attractions:</h4>Soapstone Basin, just 8 miles north of the campground, offers miles of designated dirt trails for off-road vehicle enthusiasts and mountain bikers. Soapstone also offers excellent birding opportunities.",
+    "FacilityLatitude": 40.481388888888894,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-226-3564",
+    "FacilityDirections": "From Woodland, Utah, travel approximately 16 miles on State Highway 35. Campground is on the southwest side of the road.",
+    "FacilityName": "WOLF CREEK (UT)",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70121,
+    "OrgFacilityID": "AN370121",
+    "FacilityID": 231933,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54221,
+        "CampsiteName": 2,
+        "Loop": "GRP2",
+        "CampsiteAccessible": false,
+        "FacilityID": 231933,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:34:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 54433,
+        "CampsiteName": 1,
+        "Loop": "WOLF",
+        "CampsiteAccessible": false,
+        "FacilityID": 231933,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029951,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "UINTA",
+      "FacilityID": 231933,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.08888888888889,
+      41.827222222222225
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -77.08888888888889,
+    "FacilityDescription": "<h2>Overview</h2>Lambs Creek Recreation Area is located at the southern end of Tioga Lake, just north of the borough of Mansfield, PA. The recreation area is easily accessible from US Route 15 and offers a great location for picnicking, hiking and biking.<h4>Natural Features:</h4>Lambs Creek is situated in the Endless Mountains region of Pennsylvania, along the Allegheny Plateau in the Appalachian Mountains. The surrounding land paints a scenic picture of rolling terrain and open fields. <h4>Recreation:</h4>A 3.2-mile paved rail trail travels south from the recreation area into Mansfield. It is open for hiking, biking and roller blading.<br /><br />A boat ramp within the facility provides access to the 498-acre Tioga Lake, which is popular for water skiing, fishing and paddling.<h4>Facilities:</h4>Lambs Creek offers one group shelter. It is fully accessible and comfortably accommodates up to 100 people in a lovely wooded setting.",
+    "FacilityLatitude": 41.827222222222225,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "570-835-5281",
+    "FacilityDirections": "From Route 15 South, take the Business 15/Mansfield Exit. Take the first right off the exit at the Lambs Creek Recreation Area sign. Travel approximately 2 miles and take a right at the Y. Shelter is approximately another 1/2 mile.<br /><br />From Route 15 North, take the Route 6 Mansfield Exit. At the bottom of the ramp, turn left on Route 6 and travel into the town of Mansfield to the intersection of Route 6 and Business Route 15. Turn left on Business 15 traveling north. Travel approximately 1 mile and bear left at the Y. At the stop sign, travel through the intersection and follow the access road approximately 2 miles and take a right at the Y. Shelter is approximately another 1/2 mile.",
+    "FacilityName": "LAMBS CREEK RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:45:27",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 96723,
+    "OrgFacilityID": "AN396723",
+    "FacilityID": 234690,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "SHELTER NONELECTRIC",
+        "CampsiteID": 90260,
+        "CampsiteName": "LAMBS CREEK SHELTER",
+        "Loop": "LAMBS CREEK RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234690,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032729,
+      "PostalCode": 16946,
+      "AddressStateCode": "PA",
+      "FacilityStreetAddress1": "Tioga-Hammond Lakes, 710 Ives Run Lane",
+      "City": "Tioga",
+      "FacilityID": 234690,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

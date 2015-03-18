@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.88305555555554,
+      37.63305555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -80.88305555555554,
+    "FacilityDescription": "<h2>Overview</h2>Bluestone Lake Picnic Shelter is a day-use area near the shores of Bluestone Lake in southern West Virginia. <br /><br />The 2,040 acres of water provide boaters, water skiers and fishermen with plenty of recreational opportunities. <br /><br />With a capacity of up to 100 guests and dozens of activities and amenities, the day use area is a hot spot for large gatherings and outdoor fun. It is very popular among Little League Baseball groups and fishermen.<h4>Natural Features:</h4>Visitors wont want to miss the scenic views of West Virginias third largest lake and its surrounding thick forests. <br /><br />Bluestone Dam spans the New River, forming Bluestone Lake. The New River is the oldest river in North America and partially follows the path of the prehistoric Teays River.<br /><br />The area is also rich in cultural history, with 103 archaeological sites located on federal property around the lake.<h4>Recreation:</h4>The New River is the best warm water fishery in West Virginia. Year after year, it produces more citation game fish than any other warm water river in West Virginia. Anglers can cast a line for smallmouth, white and striped bass, bluegill, catfish, crappie and muskellunge. <br /><br />A short drive to the popular Bluestone Lake Wildlife Management Area wont disappoint for hunters interested wild turkey, white-tailed deer and various small game.<h4>Facilities:</h4>The accessible picnic shelter is equipped with electric and water hookups, as well as restrooms and ample parking. There are 12 picnic tables located around the shelter which seat approximately 75 people.<br /><br />Basketball, baseball, horseshoe, playing fields and a playground are sure to keep visitors active during their visit.<br /><br />A boat ramp, dock, pier and marina are a short drive away for the convenience of boaters and anglers. <h4>Nearby Attractions:</h4>Bluestone State Park has cabin rentals, picnicking and camping facilities, as well as two boat ramps and a marina.",
+    "FacilityLatitude": 37.63305555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Beckley, West Virginia, take Interstate 64 east to exit 139. Go south on State Route 20 to Hinton and turn right at the first stoplight. Follow Route 20 south and turn left across the New River Bridge. Turn right at the end of the bridge on State Route 3E. Make another right onto Miller Avenue and follow the road to Bluestone Dam.",
+    "FacilityName": "BLUESTONE LAKE PICNIC SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:38:23",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75078,
+    "OrgFacilityID": "AN375078",
+    "FacilityID": 234229,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:45:11",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:16:03",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 74661,
+        "CampsiteName": 1,
+        "Loop": "SHELTER",
+        "CampsiteAccessible": true,
+        "FacilityID": 234229,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032259,
+      "PostalCode": 25951,
+      "AddressStateCode": "WV",
+      "FacilityStreetAddress1": "701 MILLER AVENUE",
+      "City": "HINTON",
+      "FacilityID": 234229,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.78305555555555,
+      34.15555555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.78305555555555,
+    "FacilityDescription": "<h2>Overview</h2>The Skyline Group Campground is a great place to enjoy an extended family or large group camping experience. It is close to a variety of wilderness trails and offers abundant fishing opportunities within the surrounding mountain creeks. <h4>Natural Features:</h4>The campground is nestled among pine-covered mountains, at an elevation of 6,880 feet. It is not far from the Big Bear Lake, but far enough to retain a remote and secluded atmosphere.<br /><br />Plentiful pines tower over the site, but are sparse in some places, allowing daylight to flow in. A variety of mountain creeks and streams are nearby.<h4>Recreation:</h4>Backcountry hiking, biking and horseback riding trails can be found near the campground, including the famed Santa Ana River Trail, which provides miles of scenic mountain views and points of exploration. Creek fishing is also available nearby.<br /> <br />The Wildhorse Creek Trail, which explores 5 miles of rolling terrain in the area, can be  accessed north of the campground and leads to a remote camping area south of Wildhorse Meadow, climbing 1,100 feet in elevation. <br /><br />The serene Aspen Grove Trail, which leads to a small remnant grove of quaking aspen, is adjacent to nearby Fish Creek. The scenery is beautiful in the fall, when the leaves turn a golden color. A wilderness permit may be required to hike in the area.<h4>Facilities:</h4>The campground offers a single, large-group campsite, available for tent or RV camping. It can accommodate up to 25 people and about 9 vehicles. Roads and a parking area are paved. The site is equipped with multiple tables and campfire rings with grills. Vault toilets and drinking water are provided. Trash collection facilities are also available.<h4>Nearby Attractions:</h4>The Big Bear Lake and its adjoining town are located approximately 20 miles from the campground, offering a variety of water-related recreation opportunities, as well as golf, shopping and restaurant options.",
+    "FacilityLatitude": 34.15555555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From San Bernardino, travel on I-10, to the Alabama exit in the City of Redlands. Turn onto Lugonia Avenue (Highway 38) and head northeast for approximately 31 miles. Turn onto Forest Route IN02 and continue less than a mile to Heart Bar Campground. Skyline is located at the back.",
+    "FacilityName": "SKYLINE",
+    "LastUpdatedDate": "2015-03-12 02:04:40",
+    "LegacyFacilityID": 70327,
+    "OrgFacilityID": "AN370327",
+    "FacilityID": 232100,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:50",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 86514,
+        "CampsiteName": 1,
+        "Loop": "SKYL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232100,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 9,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030118,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "HWY 38 HEART BAR F.S. 1N02",
+      "FacilityID": 232100,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.07694444444444,
+      39.99527777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -82.07694444444444,
+    "FacilityDescription": "<h2>Overview</h2>Dillon Lake is approximately six miles northwest of Zanesville, Ohio, and twenty miles east of Newark, Ohio. Access to the lake is provided by State Route 146 via State Routes 16 and 586 from the north and US 40 and Interstate 70 from the south. The office is open from 7:30 a.m. until 4:00 p.m., Monday through Friday, but the area is open 24 hours.<h4>Natural Features:</h4>The picnic shelter/playground area is located above Dillon Lake, next to a large parking area. Visitors get a beautiful view of the lake, grass covered hills and wooded areas. <h4>Recreation:</h4>Plenty of recreation is available throughout this area including water sports on the lake, great fishing and hunting, biking, and extraordinary wildlife viewing. We offer an accessible fishing pier below the dam and a trail with exercise facilities.<h4>Facilities:</h4>The picnic shelter offers 10 accessible picnic tables. The facility also offers several barbeque grills and a large fenced-in playground. Other facilities include a gazebo and fitness trail surrounded by park benches, picnic tables and beautiful landscaping.<h4>Nearby Attractions:</h4>Other facilities around the area are provided by the Ohio State Parks and Division of Wildlife. These include several boat launches, plenty of hiking, biking, and horse trails, hunting areas, and a swim beach.",
+    "FacilityLatitude": 39.99527777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "740-454-2225",
+    "FacilityDirections": "The facility is located along Route 146, approximately 7 miles north of Zanesville, Ohio. You can access Route 146 by either State Route 16 from the north, or by US 70 from the south.",
+    "FacilityName": "Dillon Lake Group Picnic Shelter",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 74951,
+    "OrgFacilityID": "AN374951",
+    "FacilityID": 250818,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:49:32",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-07-17 04:33:57",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 94405,
+        "CampsiteName": "Picnic Shelter",
+        "Loop": "Dillon Lake Group Picnic Shelter",
+        "CampsiteAccessible": true,
+        "FacilityID": 250818,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 80,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032193,
+      "PostalCode": 43701,
+      "AddressStateCode": "OH",
+      "FacilityStreetAddress1": "4969 Dillon Dam Road",
+      "City": "Zanesville",
+      "FacilityID": 250818,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

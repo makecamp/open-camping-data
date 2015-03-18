@@ -1,0 +1,94 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.80388888888889,
+      40.97972222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -111.80388888888889,
+    "FacilityDescription": "<h2>Overview</h2>Bountiful Peak Campground is set in an alpine basin high in the Wasatch Mountains at an elevation of 7,500 feet. Farmington, Utah, is 9 miles away. Visitors enjoy exploring local trails on foot, bike and off-road vehicles.<h4>Natural Features:</h4>A mixed forest of conifer and aspen covers the area, providing partial shade and pretty autumn color. Wildlife and summer wildflowers are abundant.<h4>Recreation:</h4>Numerous trails are within the area, offering beautiful views of Great Salt Lake and the Wasatch Back. Skyline Drive passes near the campground, offering scenic driving opportunities. Fishing and in-season hunting are popular activities.<h4>Facilities:</h4>This group campground contains one site that can accommodate up to 100 people. Picnic tables and campfire circles are provided, as are vault toilets and drinking water.",
+    "FacilityLatitude": 40.97972222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "801-733-2660",
+    "FacilityDirections": "From I-15 north, take exit 325 to State Street. Proceed east on State Street to 100 East. Turn left on 100 East to Farmington Canyon. Continue 9 miles up steep, narrow, dirt-surfaced canyon road to the campground.",
+    "FacilityName": "BOUNTIFUL PEAK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:30:29",
+    "LegacyFacilityID": 73612,
+    "OrgFacilityID": "AN373612",
+    "FacilityID": 233755,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:28:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:59:06",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 53908,
+        "CampsiteName": "GROUP",
+        "Loop": "BOUNTIFUL PEAK GROUP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233755,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Quad",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031776,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "FARMINGTON CANYON (9 MILE)",
+      "City": "FARMINGTON",
+      "FacilityID": 233755,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

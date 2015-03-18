@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.08333333333333,
+      45.84305555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.08333333333333,
+    "FacilityDescription": "<h2>Overview</h2>Fish Creek Group Camp is located a few miles from the developed Fish Creek Campground. The primitive group site is a horse-friendly camp that can accommodate up to 75 people. It is also known as &quot;Eagles Nest,&quot; &quot;Girl Scout Camp&quot; and &quot;Fish Creek Dispersed Site.&quot; <h4>Natural Features:</h4>The group site is laid out in a large, flat area beneath tall pines within the Nez Perce National Forest in the heart of north central Idaho. The forest is comprised of rugged peaks, deep canyons, dense forests and remote wilderness. Due in large part to dramatic elevational differences, the forest supports a wide variety of vegetation, from cedar groves to desert ecosystems.<br /><br />Fish Creek Group Camp is located in the Salmon River/Highway 95 Corridor. The landscape here varies from the emerald-colored Salmon River pouring through steep canyon walls to sapphire-hued Moores Lake in the remote Gospel-Hump Wilderness.<h4>Recreation:</h4>The Fish Creek Cross Country Trail begins at nearby Fish Creek Campground. This 7-mile multi-use loop is open to hikers, mountain bikers, horseback riders and off-road vehicle enthusiasts, and offers scenic views of Gospel Mountain, Pilot Rock and Buffalo Hump.<h4>Facilities:</h4>The group site can accommodate up to 75 people and 20 vehicles. Tent pads and two vault toilets are provided.<h4>Nearby Attractions:</h4>Grangeville is the closest town. It offers camping supplies and a historical museum. The surrounding area offers a wealth of recreational activities, including whitewater rafting on the Salmon and Snake Rivers, golfing and fishing.",
+    "FacilityLatitude": 45.84305555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-983-1950",
+    "FacilityDirections": "Drive 8 miles south of the Forest Service offices on Grangeville Salmon Road (Forest Road 221). Drive past Fish Creek Campground andtake the first right onto Forest Road 2000. Drive about 1/2 mile and takethe first left.",
+    "FacilityName": "FISH CREEK GROUP USE",
+    "LastUpdatedDate": "2015-03-12 02:41:32",
+    "LegacyFacilityID": 75310,
+    "OrgFacilityID": "AN375310",
+    "FacilityID": 234443,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:39:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 64339,
+        "CampsiteName": 1,
+        "Loop": "AREA FISH CREEK GROUP USE",
+        "CampsiteAccessible": false,
+        "FacilityID": 234443,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032472,
+      "PostalCode": 83530,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "FOREST RD 2000",
+      "City": "GRANGEVILLE",
+      "FacilityID": 234443,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

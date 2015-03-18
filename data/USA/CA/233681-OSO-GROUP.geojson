@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.77472222222222,
+      34.54527777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.77472222222222,
+    "FacilityDescription": "<h2>Overview</h2>The Oso Group Campground is nestled in the beautiful Barton Flats area of the San Bernardino Mountains. It is surrounded by picturesque pine trees and miles of scenic landscape. <br /><br />In addition to a nearby lake and river access, a variety hiking, biking and horseback riding trails can be accessed from the campground. Its location also provides a great place for visitors to relax, take in the fresh mountain air, and enjoy the beautiful scenery.<h4>Natural Features:</h4>The campground is located in a dense pine forest, at an elevation of about 6,400 feet. The entrance to the Oso Group Campground is the same as for the neighboring Lobo Group Campground. Both share the region with a variety of wildlife and bird species.<h4>Recreation:</h4>The campground provides access to the famed Santa Ana River Trail, which when completed will travel all the way from the mountains to the pacific ocean, providing spectacular views along the way. It is currently popular for hiking, biking and horseback riding. <br /><br />The Rio Monte Trail is also accessed from the campground, taking hikers to the Rio Monte Panorama, which overlooks the deep gorge of the Santa Ana River Valley.<br /> <br />Visitors can also enjoy fishing and non-motorized boating at the nearby Jenks Lake, a small mountain lake with a picnic area and access to hiking trails. <br /><br />The lake is stocked with rainbow trout, as well as largemouth bass, bluegill, sunfish and catfish. Rowboats, canoes and kayaks are permitted and fishing is also available at the nearby Santa Ana River. <h4>Facilities:</h4>The group campground offers one large group campsite, available for tent and RV camping. It can accommodate up to 100 people and about 20 vehicles. There are no utility hookups at the site and roads, as well as the parking area, are gravel and dirt.<br /> <br />The site is equipped with multiple tables, a campfire circle and grills. Vault toilets and drinking water are provided at the campground. Tent pads are shaded but group areas are primarily in the open.<h4>Nearby Attractions:</h4>The Grayback Amphitheater on State Route 38 provides evening educational programs on most Saturdays and Sundays throughout the summer months. Programs are hosted by the San Gorgonio Wilderness Association and pertain to the areas background that is rich with history.",
+    "FacilityLatitude": 34.54527777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "Take I-10 East to Redlands. Take the University Street exit, EXIT 80. Turn left (northbound) on University Street. Turn right onto E. Lugonia Avenue/SR-38. Continue on State Highway 38 for approximately 22 miles to the campground entrance.",
+    "FacilityName": "OSO GROUP",
+    "LastUpdatedDate": "2015-03-12 02:29:42",
+    "LegacyFacilityID": 73490,
+    "OrgFacilityID": "AN373490",
+    "FacilityID": 233681,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:08:26",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:06:23",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 62674,
+        "CampsiteName": 1,
+        "Loop": "AREA OSO GROUP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233681,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031702,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "SAN BERNADINO",
+      "FacilityID": 233681,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

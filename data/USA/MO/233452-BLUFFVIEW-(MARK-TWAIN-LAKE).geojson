@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.57111111111111,
+      39.57166666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -91.57111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Bluffview is an excellent location for boating and fishing near Mark Twain Lake. Here, visitors can relax on the Salt River and imagine what life was like when the beloved author explored the same waters and created legendary characters like Tom Sawyer and Huck Finn.  <h4>Natural Features:</h4>Bluffview lies about 10 miles downstream of Mark Twain Lake and the Clarence Cannon Dam. Here on the Salt River, a smaller dam is in place to form a storage pool for wetland purposes. Mark Twain Lake and the Salt River are hugged by tree-topped hills in north-central Missouri. <h4>Recreation:</h4>Visitors enjoy fishing for bass below the Re-Regulation Dam. Bird watching for waterfowl and boating are also popular activities.<h4>Facilities:</h4>The recreation area is for day-use visitors only, and provides a boat ramp, playground and picnic shelters.<h4>Nearby Attractions:</h4>Tour Mark Twains birthplace in Florida, Missouri, or try the David C. Berti Shooting Range. Visit the town of Hannibal to see the Mark Twain Boyhood Home and Museum.",
+    "FacilityLatitude": 39.57166666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "573-735-4097",
+    "FacilityDirections": "From Hannibal, MO, travel west on Hwy 36 for 17 miles, turn south on RouteJ, continue traveling south for 4 miles, turn east on Route A, travel for 6miles.From Center, MO, travel north on Hwy HH for 4.8 miles, turn west on Route Afor 1.9 miles.From Monroe City, MO. travel east on Hwy 36, turn south on Rt. J for 4miles, turn east on Rt. A for 6 miles.",
+    "FacilityName": "BLUFFVIEW (MARK TWAIN LAKE)",
+    "LastUpdatedDate": "2015-03-12 02:25:50",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73116,
+    "OrgFacilityID": "AN373116",
+    "FacilityID": 233452,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:10:43",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:47:27",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 39006,
+        "CampsiteName": "GS1",
+        "Loop": "BLUF",
+        "CampsiteAccessible": true,
+        "FacilityID": 233452,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031476,
+      "PostalCode": "63456-9359",
+      "AddressStateCode": "MO",
+      "FacilityStreetAddress1": "20642 HIGHWAY J",
+      "City": "MONROE CITY",
+      "FacilityID": 233452,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

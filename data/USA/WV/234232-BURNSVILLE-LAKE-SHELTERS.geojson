@@ -1,0 +1,343 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.56638888888888,
+      38.791666666666664
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -80.56638888888888,
+    "FacilityDescription": "<h2>Overview</h2>Burnsville Lake Shelters create a wonderful setting for daytime gatherings on Burnsville Lake. The six group picnic shelters are scattered across two ends of the lake. Shelters 1-4 are near the dam while shelters 5 and 6 are upstream near the inflow from the Little Kanawha River.<h4>Natural Features:</h4>The reservoir was built in 1978 for flood control. Its beautiful setting between the Allegheny Mountains and Allegheny Plateau create a lush backdrop of steep hills.<h4>Recreation:</h4>The primary pastime at the picnic shelters, naturally, is picnicking. Activities like biking, hiking and fishing are also quite popular.<h4>Facilities:</h4>The shelters are equipped with drinking water and a large charcoal grill; shelters 3 and 5 have electricity. All shelters are close to playgrounds and within 50 feet of flush toilets. Groups with young children may prefer shelters 2, 3, 4 and 5, as they are nearest to playground facilities.<h4>Nearby Attractions:</h4>Take a trip back in time at the Bulltown Historical Village to get a taste of life during the Civil War era. The village and visitor center is nearest shelters 1-4.",
+    "FacilityLatitude": 38.791666666666664,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "To reach Picnic Shelters 1-4:From Clarksburg, drive south on I-79 to Exit 79 (Burnsville). Turn left and proceed through town until you reach a junction. Turn right onto Route 5 East. Follow approximately 2.5 miles. Turn right and enter the downstream area.<br>For Shelter 1: Turn right and enter the downstream area; shelter is next to the restroom.For Shelter 2: Turn right and enter the downstream area; shelter is next to the playground and ball field directly below the dam.For Shelters 3-4: Turn left into the Left Fork area adjacent the boat ramp.<br><br>To reach Picnic Shelters 5-6:From Clarksburg, drive south on I-79. Take Exit 67 (Flatwoods). Turn left at the stop light and proceed north on Route 19. Follow for 10 miles. Shelters will be on the left, adjacent to the Confederate Overlook.",
+    "FacilityName": "BURNSVILLE LAKE SHELTERS",
+    "LastUpdatedDate": "2015-03-12 02:38:23",
+    "LegacyFacilityID": 75081,
+    "OrgFacilityID": "AN375081",
+    "FacilityID": 234232,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:50:51",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 32400,
+        "CampsiteName": 2,
+        "Loop": "SHELTERS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234232,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:50:51",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 32401,
+        "CampsiteName": 1,
+        "Loop": "SHELTERS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234232,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:52:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 32640,
+        "CampsiteName": 5,
+        "Loop": "SHELTERS",
+        "CampsiteAccessible": true,
+        "FacilityID": 234232,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:50:51",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 32672,
+        "CampsiteName": 6,
+        "Loop": "SHELTERS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234232,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:50:51",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 32725,
+        "CampsiteName": 4,
+        "Loop": "SHELTERS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234232,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:50:51",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:41:38",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 32819,
+        "CampsiteName": 3,
+        "Loop": "SHELTERS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234232,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032262,
+      "PostalCode": 26335,
+      "AddressStateCode": "WV",
+      "FacilityStreetAddress1": "HC 10 BOX 24",
+      "City": "BURNSVILLE",
+      "FacilityID": 234232,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

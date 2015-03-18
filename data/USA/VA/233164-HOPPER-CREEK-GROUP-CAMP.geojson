@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.50888888888889,
+      37.56027777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -79.50888888888889,
+    "FacilityDescription": "<h2>Overview</h2>Hopper Creek Group Camp offers a serene setting along Hopper Creek under a canopy of mixed hardwood trees. The area welcomes visitors to enjoy the relaxing atmosphere complete with hiking and bird watching opportunities. <h4>Natural Features:</h4>Hopper Creek stems from Elk Creek is nestled in the Blue Ridge Mountains of Virginia, and is a tributary of the James River. The campground sits at an approximate elevation of 1,100 feet.<h4>Recreation:</h4>A mowed, grassy field is located in the group camp area for games and organized activities like Frisbee and capture the flag. Various hiking trails are nearby, including one that loops around Cave Mountain Lake.<br /><br />The nearby James River Face and Thunder Ridge Wilderness areas are popular destinations for backpackers.<h4>Facilities:</h4>The group camp can accommodate up to 50 people. It is designated for tent camping only, and tent pads are provided. The site is equipped with 12 picnic tables, a pedestal double grill, a large campfire circle and a vault toilet. Drinking water is not provided; campers must bring their own supply. <h4>Nearby Attractions:</h4>Hopper Creek is 3 miles from Cave Mountain Lake, which offers a day use area with sandy beach, and swimming and shoreline fishing opportunities. Showers are available on-site.",
+    "FacilityLatitude": 37.56027777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "540-291-2188",
+    "FacilityDirections": "From I-81 North, take Exit 175 just south of Natural Bridge. Go north on U.S. Highway 11 toward Natural Bridge (left turn facing the Exxon station). From Natural Bridge, follow Route 130 East at the intersection with U.S. Highway 11 (right turn at the Natural Bridge parking lot). Continue east on Route 130 for approximately 4 miles to Natural Bridge Station. Turn right onto State Route 759 and continue for approximately 3 miles to the intersection with Route 781 and Petites Gap Road. Continue 1.6 miles ahead on Route 759/Hopper Creek Road. Turn left into the recreation area entrance.",
+    "FacilityName": "HOPPER CREEK GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:21:11",
+    "LegacyFacilityID": 72054,
+    "OrgFacilityID": "AN372054",
+    "FacilityID": 233164,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:24:29",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:21:48",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 81692,
+        "CampsiteName": "G1",
+        "Loop": "HOPPER CREEK GROUP CAMP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233164,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031175,
+      "PostalCode": 24579,
+      "AddressStateCode": "VA",
+      "FacilityStreetAddress1": "725 Hopper Creek Group Road",
+      "City": "Natural Bridge Station",
+      "FacilityID": 233164,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

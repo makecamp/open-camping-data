@@ -1,0 +1,96 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.16111111111111,
+      33.32194444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -94.16111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Oak Park is a day use area located just below the dam on Wright Patman Lake in northeastern Texas. Its picnic shelter and ball fields make it a great location for larger groups and special events. <h4>Natural Features:</h4>Oak Park is named for its large oak trees that create a peaceful, nostalgic setting and shade for picnickers. Though it is not directly on the waterfront, the shelter is a short walk or drive from the scenic shoreline. <br><br>The U.S. Army Corps of Engineers manages approximately 55,000 acres of public forestland around the lake, providing habitat for wild turkey, bobwhite quail, squirrel, white-tailed deer, migrating bald eagles, pelicans and ducks and other waterfowl. Some poisonous snakes inhabit the area.<h4>Recreation:</h4>This facility is a relaxing and spacious location for group gatherings and picnics. Wright Patman Lake hosts a wide range of recreational activities to allow visitors to get outdoors and enjoy the area, including boating, fishing, hunting, hiking, picnicking and wildlife viewing.<br><br>Several boating, fishing and swimming facilities can be accessed in nearby parks around the lake. Anglers enjoy fishing for bass, catfish, crappie and sunfish.<br><br>A model airplane flying field is located next to the park.<h4>Facilities:</h4>Oak Park offers one group day-use picnic shelter with water and electric hookups. Several family picnic sites are available on a first come, first served basis. A swing set, sand volleyball court and baseball diamond are located next to the shelter. No swim beach is available in the park.<h4>Nearby Attractions:</h4>The Texarkana region is full of activities such as shopping, movies, restaurants and local historical sites. Shreveport, Louisiana offers river boat gambling, horse races and numerous festivals, including the Four State Fair and Rodeo and the Jump, Jive and Jam Festival.",
+    "FacilityLatitude": 33.32194444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "903-838-8781",
+    "FacilityDirections": "From Texarkana, take U.S. Highway 59 south for approximately 12 miles. Turn right at the sign for Wright Patman Lake. Follow the park road to the dam; turn left and proceed to the next intersection. Turn left again, and follow the road to the park.",
+    "FacilityName": "OAK PARK (WRIGHT PATMAN LAKE)",
+    "LastUpdatedDate": "2015-03-12 02:33:37",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73899,
+    "OrgFacilityID": "AN373899",
+    "FacilityID": 233951,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:44:07",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:34:54",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 24357,
+        "CampsiteName": "GRP001",
+        "Loop": "PAVI",
+        "CampsiteAccessible": true,
+        "FacilityID": 233951,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031972,
+      "PostalCode": 75501,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "64 CLEAR SPRINGS ROAD",
+      "City": "TEXARKANA",
+      "FacilityID": 233951,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.26583333333333,
+      48.67333333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -121.26583333333333,
+    "FacilityDescription": "<h2>Overview</h2>Upper Goodell Group Campground is a quiet, remote facility for tent camping on the banks of Goodell Creek in North Cascades National Park. The campground is the perfect place to relax while watching the rushing creek cascade over its rocky course.<br /><br />The area is more remote and up a slightly steeper road than nearby Lower Goodell Group Campground. The elevation is 500 above sea level. Both Upper and Lower Goodell Group Campgrounds are convenient hubs for day trips to the visitor center, hiking trails and the nearby town of Newhalem.<h4>Natural Features:</h4>The site lies among lush ancient forests of western red cedar, western hemlock and Douglas fir trees. The creeks headwaters begin in the surrounding mountains, pick up cold, clean glacial meltwater along the way and eventually empty into the Skagit River.<br /><br />The creek provides a sampling of the colorful crystalline rocks of the North Cascade Core, which formed deep underground and is now revealed in the rugged terrain of the North Cascade Range.<h4>Recreation:</h4>Nature abounds in the Goodell Gorge, where visitors enjoy exploring the scenery, viewing wildlife and birding. Both grizzly and black bears inhabit the area, so caution must be taken while hiking, picnicking or camping.<br /><br />Many miles of hiking trails are within a short drive. The creek and nearby Skagit River offer fishing for trout, salmon and steelhead. There is no boating or swimming at the site.<h4>Facilities:</h4>The facility has a picnic shelter and pit toilet for visitors convenience. Drinking water is not available.<br /><br />The campground has one group site, which can comfortably fit 12 to 20 people with a maximum capacity of 30.<h4>Nearby Attractions:</h4>The campground is a short drive or a long walk to the visitor center, and the nearest grocery store is in Newhalem.",
+    "FacilityLatitude": 48.67333333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "(360) 854-7200",
+    "FacilityDirections": "To reach the North Cascades, drive State Route 20 (North Cascades Highway) from Burlington on the west and Twisp on the east. The campground is located at Mile Marker 119 on State Route 20. It is 13 miles east of Marblemount and 74 miles west of Winthrop.",
+    "FacilityName": "UPPER GOODELL GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:36:00",
+    "LegacyFacilityID": 74101,
+    "OrgFacilityID": "AN374101",
+    "FacilityID": 234089,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:09:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:21:50",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 8377,
+        "CampsiteName": 1,
+        "Loop": "Upper Goodell Group Site",
+        "CampsiteAccessible": false,
+        "FacilityID": 234089,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032108,
+      "PostalCode": 98283,
+      "AddressStateCode": "WA",
+      "FacilityStreetAddress1": "MILEPOST 120 STATE ROUTE 20",
+      "City": "NEWHALEM",
+      "FacilityID": 234089,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

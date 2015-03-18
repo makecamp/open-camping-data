@@ -1,0 +1,99 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.03722222222223,
+      40.51611111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.03722222222223,
+    "FacilityDescription": "<h2>Overview</h2>Uinta River Group Campground is located about 25 miles from Roosevelt near the Uinta River at an elevation of 7,600 feet. Visitors come to enjoy the areas fishing and trail opportunities.<h4>Natural Features:</h4>The campground lies in an open meadow beneath towering Ponderosa pines. Summer wildflowers and wildlife are abundant.<h4>Recreation:</h4>Anglers fish for rainbow, brown, brook and cutthroat trout on the Uinta River.<br><br>The Uinta River Trailhead is just up the road, providing access to the Chain Lakes region of the High Uintas Wilderness. Hiking, backpacking and horseback riding are popular in the wilderness area, and numerous sparkling lakes provide great backcountry fishing opportunities.<h4>Facilities:</h4>The campground contains one large group site that can accommodate up to 150 people. Several picnic tables and campfire rings with grills are scattered throughout the area. <br><br>Vault toilets and trash collection are provided. The available water is not potable. Campers must bring their own supply. Roads and parking spurs are gravel.",
+    "FacilityLatitude": 40.51611111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-722-5018",
+    "FacilityDirections": "From Roosevelt, Utah, take State Highway 121 north to Neola, then travel on Uinta and Ouray Indian Reservation Road to Forest Road 118.",
+    "FacilityName": "UINTA RIVER GROUP",
+    "LastUpdatedDate": "2015-03-12 02:31:17",
+    "LegacyFacilityID": 73717,
+    "OrgFacilityID": "AN373717",
+    "FacilityID": 233817,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:12:41",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:24:18",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 11520,
+        "CampsiteName": "GROUP",
+        "Loop": "UINTA RIVER GROUP ",
+        "CampsiteAccessible": false,
+        "FacilityID": 233817,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031838,
+      "PostalCode": 84066,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "650 W HWY 40 PO BOX 127",
+      "City": "ROOSEVELT",
+      "FacilityID": 233817,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

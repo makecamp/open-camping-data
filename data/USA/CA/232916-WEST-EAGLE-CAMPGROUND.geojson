@@ -1,0 +1,188 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.78138888888888,
+      40.54861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.78138888888888,
+    "FacilityDescription": "<h2>Overview</h2>West Eagle Campground is part of the Eagle Lake Recreation Area in the Lassen National Forest, which offers a variety of lakes, streams and wilderness areas and an abundance of recreation opportunities.<br /><br />In addition to water sports on the lake, the area also offers miles of trails that are used year-round for hiking and mountain biking and by snowmobiling enthusiasts during the winter months. <h4>Natural Features:</h4>The campground is located on the southeastern shores of Eagle Lake, in northeastern California, at an elevation of approximately 5,100 feet. It is nestled in a forest of mature pine trees with a grassy understory. A few sites offer sweeping views of the adjacent lake and some have space to moor a boat.<h4>Recreation:</h4>The 27,000-acre lake provides ample boating, swimming, water skiing and sailing opportunities. Visitors also enjoy the plentiful trout fishing. A boat ramp can be found not far from the campground, and a beach is located at the nearby Aspen Campground. <br /> <br />The campground offers access points for miles of trails within the Eagle Lake Recreation Area. A 6-mile hiking, biking and horseback riding trail parallels the lake and winds through the surrounding forest.<h4>Facilities:</h4>West Eagle Campground offers two group sites for tent or RV camping. One site can accommodate up to 75 guests, while the other is rated for up to 100 guests. <br /><br />Each site is equipped with tables and campfire rings with grills. Accessible flush toilets, electricity and drinking water are provided. Firewood is available for purchase.",
+    "FacilityLatitude": 40.54861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-825-3212",
+    "FacilityDirections": "From Susanville, California, take Highway 36 for 2 miles west to County Road A-1. Turn north and continue 14 miles to the Eagle Lake Recreation Area, following the signs to the campground.",
+    "FacilityName": "WEST EAGLE CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:17:14",
+    "LegacyFacilityID": 71729,
+    "OrgFacilityID": "AN371729",
+    "FacilityID": 232916,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:41:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:26:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 87316,
+        "CampsiteName": "GS1",
+        "Loop": "AREA WEST EAGLE CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 232916,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:41:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:26:38",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 87508,
+        "CampsiteName": "GS2",
+        "Loop": "AREA WEST EAGLE CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 232916,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Site Height/Overhead Clearance"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030927,
+      "PostalCode": 96130,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "LASSEN",
+      "City": "SUSANVILLE",
+      "FacilityID": 232916,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

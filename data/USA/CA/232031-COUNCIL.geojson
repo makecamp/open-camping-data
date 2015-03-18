@@ -1,0 +1,90 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.88166666666666,
+      34.171388888888885
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.88166666666666,
+    "FacilityDescription": "<h2>Overview</h2>The Council Group Campground is a great place to enjoy a large outdoor gathering with just about everything the San Bernardino National Forest has to offer.<br /><br /> Its location provides a great place for visitors to relax, take in the fresh mountain air and enjoy the beautiful scenery.<br /><br />In addition to a nearby lake and river access, a variety hiking, biking and horseback riding trails can be accessed from the campground. <h4>Natural Features:</h4>The campground is located northeast of San Bernardino, just off of Highway 38, in the Barton Flats area of the San Bernardino Mountains. The highway is part of the Rim of the World Scenic Byway. The campground is situated in a pine forest, at an elevation of about 6,360 feet.<h4>Recreation:</h4>The campground provides access to the famed Santa Ana River Trail, which when completed will travel all the way from the mountains to the pacific ocean, providing spectacular views along the way. It is currently popular with hikers, bikers and horseback riders. <br /><br />The Rio Monte Trail is also accessible from the campground, leading visitors to the Rio Monte Panorama, which overlooks the deep gorge of the Santa Ana River Valley.<br /> <br />Visitors can also enjoy fishing and non-motorized boating, including kayaking and canoeing at the nearby Jenks Lake,  a small mountain lake with a picnic area and access to hiking trails. <br /><br />The lake is stocked with rainbow trout and there are also some largemouth bass, bluegill, sunfish and catfish available. Fishing is also available in the nearby Santa Ana River.  <h4>Facilities:</h4>The campground offers one accessible group campsite, available for tent and RV camping. The site can accommodate up to 50 people and 13 vehicles. A campground host is available at nearby Barton Flats Campground if needed for check-in assistance and to answer questions regarding the area.<br /> <br />The site is equipped with tables and campfire rings with grills. Larger campfire circles are available as well. Accessible vault toilets and drinking water are provided.<h4>Nearby Attractions:</h4>The Grayback Amphitheater on State Route 38 provides evening educational programs on most Saturdays and Sundays throughout the summer months. Programs are hosted by the San Gorgonio Wilderness Association and pertain to the areas background and rich history.",
+    "FacilityLatitude": 34.171388888888885,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "Take I-10 East to Redlands. Take the University Street exit, EXIT 80. Turn left (northbound) on University Street. Turn right onto E. Lugonia Avenue/SR-38. Continue on State Highway 38 for approximately 17 miles to the campground entrance.",
+    "FacilityName": "COUNCIL",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "LegacyFacilityID": 70251,
+    "OrgFacilityID": "AN370251",
+    "FacilityID": 232031,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:09",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 63635,
+        "CampsiteName": 1,
+        "Loop": "COUN",
+        "CampsiteAccessible": false,
+        "FacilityID": 232031,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 13,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030049,
+      "PostalCode": 92305,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "HWY 38 BARTON FLATS RD",
+      "City": "ANGELUS OAKS",
+      "FacilityID": 232031,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

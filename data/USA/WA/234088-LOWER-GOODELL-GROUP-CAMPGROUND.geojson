@@ -1,0 +1,149 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.26583333333333,
+      48.67333333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -121.26583333333333,
+    "FacilityDescription": "<h2>Overview</h2>Lower Goodell Group Campground is a convenient site on the banks of Goodell Creek in North Cascades National Park. Don your walking shoes and hit the trails, explore the nearby town of Newhalem or relax next to the cascading creek.<br /><br />Both Upper and Lower Goodell Group Campgrounds are convenient hubs near visitor centers, hiking trails and town amenities.<h4>Natural Features:</h4>The site lies among lush ancient forests of western red cedar, western hemlock and Douglas fir trees. The creeks headwaters begin in the surrounding mountains, pick up cold, clean glacial meltwater along the way and eventually empty into the Skagit River.<br /><br />The creek provides a sampling of the colorful crystalline rocks of the North Cascade Core, which formed deep underground and are now revealed in the rugged terrain of the North Cascade Range.<h4>Recreation:</h4>Nature abounds in the Goodell Gorge, where visitors can enjoy exploring the scenery, viewing wildlife and birding. Both grizzly and black bears inhabit the area, so caution must be taken while hiking, picnicking or camping.<br /><br />Campers can access hiking trails from within the facility. The creek and nearby Skagit River offer fishing for trout, salmon and steelhead. There is no boating or swimming at the site.<h4>Facilities:</h4>The facility has a picnic shelter and pit toilet for visitors convenience. The nearest grocery store is in Newhalem.<br /><br />The campground has two group sites, which can each comfortably fit 12 to 20 people each; the capacity is 50 per site.<h4>Nearby Attractions:</h4>Newhalem is within a short walking distance from the campsites. A variety of tours can be booked in town. Campers can also walk to the Skagit Information Center (in Newhalem) and the North Cascades Visitor Center.",
+    "FacilityLatitude": 48.67333333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "360-854-7200",
+    "FacilityDirections": "To reach the North Cascades, drive State Route 20 (North Cascades Highway) from Burlington on the west and Twisp on the east. The campground is located at Mile Marker 120 on State Route 20. It is 13 miles east of Marblemount and 74 miles west of Winthrop.",
+    "FacilityName": "LOWER GOODELL GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:36:00",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 74100,
+    "OrgFacilityID": "AN374100",
+    "FacilityID": 234088,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:09:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:21:50",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 8375,
+        "CampsiteName": "A",
+        "Loop": "Lower Goodell Group Sites",
+        "CampsiteAccessible": true,
+        "FacilityID": 234088,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:09:10",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:21:50",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 8376,
+        "CampsiteName": "B",
+        "Loop": "Lower Goodell Group Sites",
+        "CampsiteAccessible": true,
+        "FacilityID": 234088,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032107,
+      "PostalCode": 98283,
+      "AddressStateCode": "WA",
+      "FacilityStreetAddress1": "MILEPOST 120 STATE ROUTE 20",
+      "City": "NEWHALEM",
+      "FacilityID": 234088,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

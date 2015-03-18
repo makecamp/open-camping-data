@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.31322222222222,
+      34.30108333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.31322222222222,
+    "FacilityDescription": "<h2>Overview</h2><p>Gentry Group Campground is positioned on a ridge that divides two canyons. From the campground visitors enjoy views of Black Canyon Lake and the forested hillsides and canyons beyond. Due to limited maneuvering space, this campground is recommended for tents or small campers only.</p> <h4>Natural Features:</h4><p><b>The area is relatively flat with sandy surfaces.  The campground is sheltered among towering ponderosa pines interspersed with fir and oak.</b></p><h4>Recreation:</h4><p>Recreation opportunities in the area include hiking, photography and wildlife viewing.  Visitors can often see a herd of wild horses which frequent the area.</p>  <h4>Facilities:</h4><p>Gentry Group Campground offers picnic tables, campfire grills, and a vault toilet.  Roads are sand and gravel.  There is a campground host available at the Black Canyon Rim campground.</p><h4>Nearby Attractions:</h4><p>Gas, phone and groceries are available adjacent to Highway 260, approximately 10 miles west at Forest Lakes or 13 miles east at Heber.</p>",
+    "FacilityLatitude": 34.30108333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "928-535-9859",
+    "FacilityDirections": "<p>Approximately 13 west of Heber on AZ Highway 260, take Forest Road 300 south approximately four and one half miles, following signs to Gentry Lookout Tower. Located adjacent to Forest Road 300, at just over the 7,700 foot elevation mark, this campground shares its space with the Lookout Tower.</p>",
+    "FacilityName": "GENTRY GROUP CAMPGROUND",
+    "LastUpdatedDate": "2015-03-05 02:48:38",
+    "LegacyFacilityID": 118994,
+    "OrgFacilityID": "AN418994",
+    "FacilityID": 250772,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:56:00",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-06-12 05:58:51",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 94235,
+        "CampsiteName": "Gentry CG",
+        "Loop": "GENTRY GROUP CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 250772,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 7925028,
+      "PostalCode": 85931,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "P.O. Box 1535",
+      "City": "Forest Lakes",
+      "FacilityID": 250772,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

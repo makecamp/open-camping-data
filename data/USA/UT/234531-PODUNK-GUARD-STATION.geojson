@@ -1,0 +1,98 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.29805555555555,
+      37.487500000000004
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.29805555555555,
+    "FacilityDescription": "<h2>Overview</h2>Podunk Guard Station is located next to the East Fork Sevier River, in the Dixie National Forest in southern Utah. The cabin was constructed in 1928 and has been used by generations of Forest Service employees. <br /><br />Guests enjoy exploring local trails on foot, horseback, mountain bike and off-road vehicle. The river offers fishing and swimming opportunities.<h4>Natural Features:</h4>The cabin sits in a narrow mountain valley just above the meandering East Fork Sevier River. The meadow is surrounded by mature spruce trees, and grasses and willow thickets line the riverbanks. <br /><br />Average summer temperatures range from 74 degrees during the day to 42 degrees at night. September temperatures range from 68 to 37 degrees; October temperatures range from 57 to 27 degrees. <h4>Recreation:</h4>Recreational opportunities in the area include hiking, mountain biking, off-roading and fishing. The Paunsaugunt, Fremont and Great Western OHV Trail Systems can be accessed easily from the guard station.<h4>Facilities:</h4>The two-room cabin can sleep six people on two, twin-size bunk beds located in the bedroom, and a double-size futon in the living room. No linens or bedding are provided. <br /><br />The kitchen is equipped with a propane stove and oven, a table and chairs. No pots, pans, dishes or utensils are available. Guests must bring their own cooking and eating euipment. A wood stove is provided for heat. The cabin does not have running water.<br /><br />A vault toilet, picnic table and campfire ring are located outside.<h4>Nearby Attractions:</h4>Tropic Reservoir is 8.5 miles north of the cabin. Boating, canoeing and fishing are popular activities. Anglers fish for brook, rainbow, brown and cutthroat trout. A boat ramp is located on the west side of the reservoir.",
+    "FacilityLatitude": 37.487500000000004,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Panguitch, turn onto State Highway 89 and travel 7 miles to State Highway 12. Drive 8 miles on Highway 12 to East Fork Road/Forest Road 30087. The sign at this junction will say, &quot;Tropic Reservoir - 8 miles.&quot; Travel south on this well-maintained, two-lane dirt road for 16 miles. Podunk Guard Station will be on the east side of the road.<br /><br /> From Bryce Canyon National Park, travel on Highway 12 for 5 miles to East Fork Road/Forest Road 30087. The sign at this junction will say, &quot;Tropic Reservoir - 8 miles.&quot; Travel along this well-maintained, two-lane dirt road for 16 miles. Podunk Guard Station will be on the east side of the road.",
+    "FacilityName": "PODUNK GUARD STATION",
+    "LastUpdatedDate": "2015-03-12 02:43:06",
+    "LegacyFacilityID": 75419,
+    "OrgFacilityID": "AN375419",
+    "FacilityID": 234531,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:57:37",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:44:05",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 35288,
+        "CampsiteName": 1,
+        "Loop": "POGS",
+        "CampsiteAccessible": false,
+        "FacilityID": 234531,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Num of Bedrooms"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Num of Rooms"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Stove/Oven"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Toilet"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032559,
+      "PostalCode": "84759-0080",
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "225 E CENTER ST BOX 80",
+      "City": "PANGUITCH",
+      "FacilityID": 234531,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

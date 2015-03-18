@@ -1,0 +1,141 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.11244444444444,
+      37.057180555555554
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -88.11244444444444,
+    "FacilityDescription": "<h2>Overview</h2>Old Kuttawa Recreation Area is on the northern shores of Lake Barkley, near the narrow canal linking it to Kentucky Lake. Together, these two reservoirs combine to create one of the greatest freshwater recreation areas in the country. <br><br>Take pleasure in a day of picnicking or soak up the sun at the swimming beach, either way Old Kuttawa provides an ideal setting to enjoy nature at its best.<h4>Natural Features:</h4>Lake Barkley spans 57,900 acres with 1,004 miles of shoreline and offers warm water temperatures during summer months that make for comfortable recreation.<br><br> Running parallel to Barkley Lake is its neighbor, Kentucky Lake, with the Land Between the Lakes National Recreation Area nestled between. <h4>Recreation:</h4>The half-mile Anderson Woodland Trail is an enjoyable footpath for birding and viewing the great tall trees of the region. Other activities include swimming, fishing and boating.<h4>Facilities:</h4>Two large picnic pavilions, a playground, restrooms and paved parking are available. Plenty of picnic tables and grills are scattered around the recreation area, with ample shade for sunny summer days.<h4>Nearby Attractions:</h4>See the astonishing Floodwall Murals in the town of Paducah. It is a gallery that captures Paducas rich history.",
+    "FacilityLatitude": 37.057180555555554,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "270-362-4236",
+    "FacilityDirections": "<p>From Nashville, take I-24 West to Exit 40. Turn left on 62 and thenright on Highway 295.  Follow Highway 295 to recreation area entrance.</p>",
+    "FacilityName": "OLD KUTTAWA",
+    "LastUpdatedDate": "2015-03-12 02:13:17",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 71328,
+    "OrgFacilityID": "AN371328",
+    "FacilityID": 232661,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:54:47",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:14:21",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 72399,
+        "CampsiteName": 1,
+        "Loop": "OKUT",
+        "CampsiteAccessible": true,
+        "FacilityID": 232661,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:54:47",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:14:21",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 72740,
+        "CampsiteName": 2,
+        "Loop": "OKUT",
+        "CampsiteAccessible": true,
+        "FacilityID": 232661,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Preferred",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030674,
+      "PostalCode": "42045-0218",
+      "AddressStateCode": "KY",
+      "FacilityStreetAddress1": "BOX 218",
+      "City": "GRAND RIVERS",
+      "FacilityID": 232661,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

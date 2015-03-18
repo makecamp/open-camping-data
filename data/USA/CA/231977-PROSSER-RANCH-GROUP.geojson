@@ -1,0 +1,99 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.15520000000001,
+      39.378797222222225
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -120.15520000000001,
+    "FacilityDescription": "<h2>Overview</h2>Prosser Ranch Group Campground is located on the picturesque Prosser Reservoir, within the Tahoe National Forest, about 10 minutes from Truckee, Calif. Visitors enjoy the area for its boating, canoeing, swimming, fishing and abundant hiking and off-road trails.<h4>Natural Features:</h4>The campground is situated on the western shore of the reservoir. A scenic forest of Jeffrey pine and fir trees covers the area, while sagebrush dots the forest floor. The site affords views of the reservoir and the surrounding mountains can be seen through the trees.<h4>Recreation:</h4>Prosser Reservoir is a popular location for canoeing, swimming and fishing. Power boating is allowed but a 10-mph speed limit is enforced. A boat ramp is located on-site.<br /><br />The surrounding area offers many hiking, biking, horseback riding and off-road vehicle trails.<h4>Facilities:</h4>The campground offers one large-group, tent-only campsite, that can accommodate up to 50 people and 10 vehicles. The site is not suitable for RV camping. Picnic and serving tables and a campfire circle are provided, along with vault toilets and drinking water. <h4>Nearby Attractions:</h4>Boca Reservoir is 30 minutes east of the campground. Boating, water skiing, swimming and fishing are popular activities there. <br /><br />Lake Tahoe is located 30 minutes south. Tahoe offers excellent boating, kayaking, fishing, hiking and scenic driving opportunities, as well as dining, shopping and lodging options.",
+    "FacilityLatitude": 39.378797222222225,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "530-478-6150",
+    "FacilityDirections": "From Truckee, take Interstate 80 to Highway 89. Travel along Highway 89 for about five miles, then turn right at the Prosser sign. Continue about two miles to the group campground.",
+    "FacilityName": "PROSSER RANCH GROUP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70183,
+    "OrgFacilityID": "AN370183",
+    "FacilityID": 231977,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:08:26",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:58",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 64116,
+        "CampsiteName": 1,
+        "Loop": "PROS",
+        "CampsiteAccessible": false,
+        "FacilityID": 231977,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029995,
+      "PostalCode": 95959,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "631 Coyote Street",
+      "City": "Nevada City",
+      "FacilityID": 231977,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

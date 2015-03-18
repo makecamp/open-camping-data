@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.29916666666666,
+      46.63805555555555
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -114.29916666666666,
+    "FacilityDescription": "<h2>Overview</h2>Larry Creek Group Campground is located in western Montanas Bitterroot National Forest. It is a great location for an extended family or group getaway, providing access to many fishing, hiking, mountain biking and hunting opportunities. <h4>Natural Features:</h4>The campground sits at a fairly low elevation in the Bass Creek Recreation Area between Missoula and Hamilton. It is situated west of the Lee Metcalf National Wildlife Refuge, in an area forested with pine, spruce and fir trees.<br><br>A variety of wildlife, including mule and white-tailed deer, elk, moose and birds can often be seen in the area.<h4>Recreation:</h4>A variety of hiking and mountain biking trails are nearby, including a half-mile nature trail that highlights some the areas best features. The 9-mile Bass Creek Trail is located just south of the campground and leads to a scenic overlook and many fishing holes. <br><br>Bass Lake, Bass Creek and numerous additional mountain streams make the campground a very popular location for fishing.<br><br>An interpretive trail, fitness trail and volleyball court are located within the campground.<h4>Facilities:</h4>The campground offers one large, accessible group campsite, available for tent and RV camping. It can accommodate up to 75 people and 10 vehicles. The adjacent parking area is small, limiting RVs to about 30 feet in length.<br><br>The site is equipped a picnic shelter, several tables, a large campfire circle and grills. Accessible pit toilets and drinking water are provided. A gravel road accesses the campground.<h4>Nearby Attractions:</h4>The Lee Metcalf National Wildlife Refuge is located along the Bitterroot River about 20 miles from the campground. The refuge provides visitors with opportunities for wildlife observation, photography, hunting, fishing and environmental education. A wildlife viewing area offers 2.5 miles of nature trails, including an accessible 0.5-mile path. The trails meander through meadows and woodlands along the river.<br><br>A variety of services are available in the neighboring city of Stevensville.",
+    "FacilityLatitude": 46.63805555555555,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Stevensville, travel northwest on County Road 269 to Highway 93. Continue about 4 miles to Bass Creek Road. Travel 2 miles on Bass Creek Road and less than a mile on Forest Road 1136. Turn onto Forest Road 1316 and continue about a mile to the campground.",
+    "FacilityName": "LARRY CREEK GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:39:10",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75151,
+    "OrgFacilityID": "AN375151",
+    "FacilityID": 234291,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:32:56",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:24:14",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 84287,
+        "CampsiteName": "G01",
+        "Loop": "GROU",
+        "CampsiteAccessible": true,
+        "FacilityID": 234291,
+        "attributes": [
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032320,
+      "PostalCode": 59870,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "88 MAIN STREET",
+      "City": "STEVENSVILLE",
+      "FacilityID": 234291,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

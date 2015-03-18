@@ -1,0 +1,107 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.20277777777778,
+      44.03861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.20277777777778,
+    "FacilityDescription": "<h2>Overview</h2>Hard Rock Campground is a small, primitive group site along the South Fork of the McKenzie River in Oregon. Many hiking and biking trails are available in the surrounding area and the river offers fishing opportunities.<h4>Natural Features:</h4>The campground sits just south of Cougar Reservoir, near where Balm Creek feeds into the South Fork, at an elevation of 1,800 feet. Hard Rock is set on the western slopes of the Cascade Mountains, where gorgeous, lush mountain landscapes abound.<h4>Recreation:</h4>The river offers good catch-and-release fishing for wild redside, cutthroat and bull trout. Cougar Reservoir is open to motorized boating and offers a beautiful setting.<h4>Facilities:</h4>The campground offers one tent-only group campsite that can accommodate up to 10 people. No water or electricity is available at Hard Rock. Campfire rings, picnic tables, portable toilets and trash collection are provided. <h4>Nearby Attractions:</h4>Just east of Cougar Reservoir, the Castle Rock Trail leads through a dense Douglas-fir forest to the top of Castle Rock. Once on top, hikers enjoy impressive views of the McKenzie River Valley below.",
+    "FacilityLatitude": 44.03861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-603-8564",
+    "FacilityDirections": "From Blue River, travel 4 miles east on Highway 126 to Aufderheide Drive (Forest Road 19). Turn right and proceed on Aufderheide Drive for 12 miles.",
+    "FacilityName": "HARD ROCK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "LegacyFacilityID": 75064,
+    "OrgFacilityID": "AN375064",
+    "FacilityID": 234216,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:29:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:59",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 80902,
+        "CampsiteName": 1,
+        "Loop": "AREA HARD ROCK CAMPGROUND",
+        "CampsiteAccessible": false,
+        "FacilityID": 234216,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 5,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032246,
+      "PostalCode": 97408,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "P.O. Box 8516",
+      "City": "Coburg",
+      "FacilityID": 234216,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

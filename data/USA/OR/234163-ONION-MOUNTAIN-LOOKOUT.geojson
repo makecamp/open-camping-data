@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.61638888888888,
+      42.45444444444445
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -123.61638888888888,
+    "FacilityDescription": "<h2>Overview</h2>THIS FACILITY IS CLOSED TO RESERVATIONS UNTIL FURTHER NOTICE<br /><br />Onion Mountain lookout sits atop a 12-foot tower at an elevation of 4,438 feet, offering guests expansive mountain views in southwestern Oregon.<br /><br /> The original Onion Mountain Lookout was a raised platform, built on top of a tower in 1916. In 1924, a second lookout without a tower was built on site. The current structure was placed on site in 1952 and served as a fire lookout and Aircraft Warning Service observation station.<br /><br />The lookout offers a unique lodging experience in the Rouge River-Siskiyou National Forest, but visitors are required to bring a few of their own supplies to enjoy a safe and comfortable stay. <h4>Natural Features:</h4>On a clear day, Onion Mountain offers panoramic views of layered mountainous terrain and forest stretching out in all directions.<br /><br />  Onion Mountain is named for the tiny wild onions that grow among the rocks at the summit. In early summer, the area is dotted with plumes of Bear Grass, bright yellow Snow Mountain Buckwheat and purple penstemon. <h4>Recreation:</h4>Hiking, mountain biking, stargazing and wildlife viewing are popular among guests to this lookout.<br /><br />On trails throughout the area, hikers will enjoy mountain views, old-growth forest canopies and natural pools for swimming.<br /><br />The lookout is located near the Taylor Creek/Onion Way mountain loop, a trail popular among mountain biking enthusiasts.<br /><br />At night, the rustic cabin becomes an astronomers heaven as the expansive night sky is littered with a dazzling display of stars and planets.<h4>Facilities:</h4>The cabin offers a 14 x 14 foot room with large windows on all sides. It is designed for one or two people, and is furnished with a bed with a mattress, a table and chairs. Amenities include a propane cooking stove, refrigerator, and lanterns. There is no propane heater.<br /><br />There is also no water on site, so visitors must bring sufficient supplies for drinking, cooking and washing. Guests must also provide their own sleeping bags, sleeping pads, towels, dish soap, matches, cooking gear, toilet paper and garbage bags.<br /><br /> A primitive vault toilet is located near the lookout as well as space for four or five tents. <h4>Nearby Attractions:</h4>Visit Crater Lake National Park and learn about its unique natural and cultural history.  Reaching depths of 1,943 feet, Crater Lake is the deepest lake in the United States and one of the 10 deepest lakes in the world.<br /><br /><a href=http://www.nps.gov/orca/index.htm target=_blank>Oregon Caves National Monument</a> is within a hours drive.",
+    "FacilityLatitude": 42.45444444444445,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-471-6500",
+    "FacilityDirections": "Entry to the lookout is by a key. Please call the Wild Rivers Ranger District office at 541-471-6500, four days prior to arrival to arrange pick up and drop off of the key. The office is open Monday through Friday from 7:45 a.m. to 4:30 p.m., and is closed on weekends and holidays. It is located at the Grants Pass Interagency Office, 2164 NE Spalding Avenue in Grants Pass, Oregon 97526.<br /><br />From Grants Pass travel Highway 199 south to Riverbanks Road (milepost 7-just past the Applegate River) and turn right. Proceed on Riverbanks Road, 5.5 miles to Shan Creek Road and turn left. Travel 8 miles on this gravel road to Forest Service Road 2509 and turn right. Proceed 0.75 miles to the Onion Mountain gate. <br /><br />Note: Onion Mountain Lookout is accessible by car, but the last 8.75 miles are on graveled Forest Service roads.",
+    "FacilityName": "ONION MOUNTAIN LOOKOUT",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "LegacyFacilityID": 74196,
+    "OrgFacilityID": "AN374196",
+    "FacilityID": 234163,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:26:14",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:25:01",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 85175,
+        "CampsiteName": "C01",
+        "Loop": "AREA ONION MOUNTAIN LOOKOUT",
+        "CampsiteAccessible": false,
+        "FacilityID": 234163,
+        "attributes": [
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 4,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Cabin Heating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032182,
+      "PostalCode": 97526,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "2164 NE Spalding AvenueROAD",
+      "City": "GRANTS PASS",
+      "FacilityID": 234163,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

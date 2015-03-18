@@ -1,0 +1,197 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.91777777777779,
+      44.06166666666666
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -115.91777777777779,
+    "FacilityDescription": "<h2>Overview</h2>Hot Springs Campground is located just east of Garden Valley, Idaho along the Banks-Lowman Highway at an elevation of 3,200 feet. <br /><br />Visitors enjoy rafting, kayaking and fishing on the South Fork Payette River, and soaking in the hot springs at the rivers edge.<h4>Natural Features:</h4>The campground is situated at the foot of a forested hillside. Towering Ponderosa pines are scattered throughout the site, offering partial shade. Summer wildflowers dot the landscape.<h4>Recreation:</h4>The South Fork Payette River is across the road from the campground, offering fishing, whitewater rafting and kayaking. <br /><br />A natural hot springs soaking pool is located on the river directly across the road and down a staircase.<h4>Facilities:</h4>The campground contains three accessible group sites with picnic and serving tables, grills and campfire circles with benches. Sites 1 and 2 can accommodate up to 200 people each; Site 3 can accommodate up to 50 people. <br /><br />Vault toilets, drinking water and trash collection are provided. Because of its proximity to the highway, some noise from passing traffic is to be expected.<h4>Nearby Attractions:</h4>Numerous natural hot springs pools can be found along the Banks-Lowman Highway, also known as the Wildlife Canyon Scenic Byway. The area offers scenic views, wildlife watching, historical information kiosks and several trail opportunities.<br /><br />Whitewater rafting and kayaking are popular activities on the South Fork and Main Payette Rivers. Several companies in the area offer guided half and full-day trips.",
+    "FacilityLatitude": 44.06166666666666,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-462-2865",
+    "FacilityDirections": "From Boise, Idaho, take State Highway 55 north 35 miles to Banks. Turn east onto the Banks-Lowman Highway and go 17 miles to the campground.",
+    "FacilityName": "HOT SPRINGS",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70282,
+    "OrgFacilityID": "AN370282",
+    "FacilityID": 232060,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:21:07",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 46318,
+        "CampsiteName": 2,
+        "Loop": "GRP2",
+        "CampsiteAccessible": true,
+        "FacilityID": 232060,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:21:07",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 46706,
+        "CampsiteName": 3,
+        "Loop": "GRP3",
+        "CampsiteAccessible": true,
+        "FacilityID": 232060,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:21:07",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 46805,
+        "CampsiteName": 1,
+        "Loop": "HOT",
+        "CampsiteAccessible": true,
+        "FacilityID": 232060,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030078,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "Hot Springs (ID)",
+      "City": "BOISE",
+      "FacilityID": 232060,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

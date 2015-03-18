@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.90861111111111,
+      37.57361111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.90861111111111,
+    "FacilityDescription": "<h2>Overview</h2>Deer Haven Campground is situated high on the western edge of the Colorado Plateau, close to Cedar City, Utah. Visitors enjoy hiking, biking and day-tripping to nearby Cedar Breaks National Monument.<h4>Natural Features:</h4>Deer Haven is at an elevation of 8,900 feet. This peaceful and scenic campground is surrounded by a forest of aspen and pine trees. Summer wildflowers are abundant throughout the site. <h4>Recreation:</h4>The 34-mile Virgin River Rim Trail passes near the campground and is open to hiking, mountain biking and horseback riding.<br><br>Deer Haven is just 11 miles from Cedar Breaks National Monument, with hiking trails, guided tours and breathtaking scenery. <br><br>Just outside Cedar Breaks is the Ashdown Gorge Wilderness Area, where hikers will find 10 miles of trails and the Twisted Forest, a stand of ancient bristlecone pine.<h4>Facilities:</h4>This campground offers one large group area for family reunions, youth and church groups and other large organizations of up to 200 people. Ten single sites are available on a first-come, first-served basis.<br><br>Flush and vault toilets are provided. Drinking water is piped from a spring, but there is not an abundant supply. Campers area urged to conserve water in all activities.<h4>Nearby Attractions:</h4>Deer Haven is close to many areas with excellent recreational opportunities. Navajo Lake and Duck Lake are both within 30 minutes, offering boating, canoeing and fishing. The Duck Creek/Markagunt ATV Trail System begins nearby.",
+    "FacilityLatitude": 37.57361111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "435-865-3200",
+    "FacilityDirections": "From Cedar City, Utah, take Highway 14 east for 16 miles. Turn south on Webster Flat Road and travel 3 miles to the campground.",
+    "FacilityName": "DEER HAVEN",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "LegacyFacilityID": 70255,
+    "OrgFacilityID": "AN370255",
+    "FacilityID": 232034,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:19:24",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:54:49",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 48766,
+        "CampsiteName": 1,
+        "Loop": "DEER",
+        "CampsiteAccessible": false,
+        "FacilityID": 232034,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030052,
+      "PostalCode": 84720,
+      "AddressStateCode": "UT",
+      "FacilityStreetAddress1": "DIXIE",
+      "City": "CEDAR CITY",
+      "FacilityID": 232034,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

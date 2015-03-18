@@ -1,0 +1,286 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.2088888888889,
+      41.974444444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -77.2088888888889,
+    "FacilityDescription": "<h2>Overview</h2>South Shore Recreation Area is located on the south side of the Cowanesque Lake along State Route 49, just five miles west of Lawrenceville, Pennsylvania. The area is easily accessible from Route 15 and offers a great location for boating, picnicking and fishing. <h4>Natural Features:</h4>Cowanesque Lake is situated in the Endless Mountains region of Pennsylvania, along the Allegheny Plateau in the Appalachian Mountains. The surrounding land paints a scenic picture of rolling terrain and open fields.<h4>Recreation:</h4>Cowanesque Lake offers a variety of outdoor activities including boating and fishing. A variety of native fish inhabits the areas streams and lakes. The North and South Tailrace areas provide access for fishing below the dam.<br /><br />The fields and forests around the lake are popular destinations for hunters looking for large and small game species that inhabit the eastern hardwood forests.<br /><br />Many miles of hiking trails circle the lake, including the Mid State Trail, which travels through the recreation area. It links the trails at Cowanesque and nearby Hammond Lake into a long path that extends all the way through Pennsylvania from Maryland to New York.<h4>Facilities:</h4>The recreation area offers three group shelters. The Iroquois and Oneida Shelters have electric and water hookups; the Mohawk Shelter has water hookups only. All three sites are fully accessible and comfortably accommodate groups of up to 100 people in a lovely lakeside setting.",
+    "FacilityLatitude": 41.974444444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "570-835-5281",
+    "FacilityDirections": "From US 15 South, take the Lawrenceville Exit. At the bottom of the ramp, turn right onto State Route 49. Recreation Area will be on the right approxmately 5 miles. <br /><br />From US 15 North, take the Lawrenceville exit. At the bottom of the ramp turn left. Recreation area will be on the right approximately 5 miles.",
+    "FacilityName": "SOUTH SHORE RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:45:27",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 96722,
+    "OrgFacilityID": "AN396722",
+    "FacilityID": 234689,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "SHELTER ELECTRIC",
+        "CampsiteID": 79636,
+        "CampsiteName": "Oneida 003",
+        "Loop": "Day Use",
+        "CampsiteAccessible": true,
+        "FacilityID": 234689,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "SHELTER NONELECTRIC",
+        "CampsiteID": 79783,
+        "CampsiteName": "Mohawk 002",
+        "Loop": "Day Use",
+        "CampsiteAccessible": true,
+        "FacilityID": 234689,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:46:24",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:20:10",
+        "CampsiteType": "SHELTER ELECTRIC",
+        "CampsiteID": 79813,
+        "CampsiteName": "Iroquois 001",
+        "Loop": "Day Use",
+        "CampsiteAccessible": true,
+        "FacilityID": 234689,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032728,
+      "PostalCode": 16946,
+      "AddressStateCode": "PA",
+      "FacilityStreetAddress1": "Cowanesque Lake, 710 Ives Run Lane (mailing)",
+      "City": "Tioga",
+      "FacilityID": 234689,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.78583333333333,
+      34.15861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.78583333333333,
+    "FacilityDescription": "<h2>Overview</h2>The Heart Bar Equestrian Campground is available by reservation and is for equestrian campers only. It provides access to some of Southern Californias greatest backcountry horseback riding trails and a variety of other recreational opportunities in the surrounding area as well. <h4>Natural Features:</h4>The campground is located in the pine-covered mountains of Southern California, at an elevation of 6,880 feet. It is not far from the Big Bear Lake, but far enough to retain a remote and secluded atmosphere.<h4>Recreation:</h4>A variety of horseback riding trails can be found near the campground, including the famed Santa Ana River Trail, which is also popular among hikers and bikers and provides miles of scenic mountain views.<br /><br />The Wildhorse Creek Trail, which explores 5 miles of rolling terrain in the area, is accessed just north of the campground and leads to a remote camping area south of Wildhorse Meadow, climbing nearly 1,100 feet in elevation.Creek fishing is also available nearby.<h4>Facilities:</h4>The campground offers one large-group campsite, available for tent or RV camping. The site can accommodate up to 65 people and 21 vehicles, as well as a large number of horses. Only campers with horses will be permitted at the campground. <br /> <br />The campground is equipped with corrals for 40 horses, multiple tables, a campfire circle and grills. Firewood is available for purchase at the adjacent Heart Bar Campground. Accessible flush toilets, showers and drinking water are provided at the campground.<h4>Nearby Attractions:</h4>The Big Bear Lake and its adjoining town are located approximately 20 miles from the campground, offering a variety of water-related recreation opportunities, as well as golf, shopping and restaurant options.",
+    "FacilityLatitude": 34.15861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From I-10 in San Bernardino, take the Alabama exit in the city of Redlands to Lugonia Avenue (State Highway 38). Travel northeast on Highway 38 for approximately 30 miles until you reach Forest Route IN02. Continue less than a mile to the campground.",
+    "FacilityName": "HEART BAR EQUESTRIAN",
+    "LastUpdatedDate": "2015-03-12 02:03:52",
+    "LegacyFacilityID": 70278,
+    "OrgFacilityID": "AN370278",
+    "FacilityID": 232057,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:51:59",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:12:44",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 70350,
+        "CampsiteName": "GR1",
+        "Loop": "HEAR",
+        "CampsiteAccessible": false,
+        "FacilityID": 232057,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 65,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 21,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Horse",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030075,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "HWY 38 ON F.S. 1N02",
+      "FacilityID": 232057,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

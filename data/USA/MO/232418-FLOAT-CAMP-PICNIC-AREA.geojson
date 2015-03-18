@@ -1,0 +1,95 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.87138888888889,
+      36.664722222222224
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -90.87138888888889,
+    "FacilityDescription": "<h2>Overview</h2>Float Camp Picnic Area is located only 150 feet from the cool waters of the crystal clear Current River. Visitors enjoy floating the river, fishing and hiking.  A campground is only a half-mile away for those who want to stay longer than a day.<h4>Natural Features:</h4>The picnic area is nestled under a mature forest of hardwoods, which offers plentiful shade. It is adjacent to the Current River.<h4>Recreation:</h4>The swift-moving river allows for enjoyable float trips, as well as canoeing and great fishing. Swimming is also a popular pastime.<br /><br />Visitors enjoy horseshoe pits and volleyball courts, as well as hiking and other recreational opportunities nearby. <h4>Facilities:</h4>The day-use picnic area offers an accessible group shelter that can accommodate up to 75 people. The site is equipped with electricity, tables and grills. Individual sites are available on a first come, first served basis. Accessible vault toilets, drinking water and trash collection are provided.<h4>Nearby Attractions:</h4>Doniphan is four miles away and offers float trip outfitters, restaurants and lodging.",
+    "FacilityLatitude": 36.664722222222224,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Doniphan, Missouri, go 4.5 miles north on Highway Y. Go west on Forest Service Road 3210 for 0.5 miles to the recreation area.",
+    "FacilityName": "FLOAT CAMP PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70827,
+    "OrgFacilityID": "AN370827",
+    "FacilityID": 232418,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:24:41",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:28:23",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 16755,
+        "CampsiteName": 1,
+        "Loop": "FLOA",
+        "CampsiteAccessible": true,
+        "FacilityID": 232418,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Riverfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030436,
+      "PostalCode": 63935,
+      "AddressStateCode": "MO",
+      "FacilityStreetAddress1": "#4 Confederate Ridge Rd.",
+      "City": "DONIPHAN",
+      "FacilityID": 232418,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

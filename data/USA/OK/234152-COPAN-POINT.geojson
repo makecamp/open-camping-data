@@ -1,0 +1,92 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.95422222222223,
+      36.892649999999996
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -95.95422222222223,
+    "FacilityDescription": "<h2>Overview</h2>Copan Point is a day-use area located on the banks of Copan Lake in Oklahomas Green Country. Camping, boating, picnicking, hunting, and fishing are popular activities here.<h4>Natural Features:</h4>The 4,850-acre lake sits on the Little Caney River among a prairie landscape of grasslands and croplands. The campground is wooded but has limited shade.<h4>Recreation:</h4>Copan Lake offers its visitors extensive opportunities for a memorable outdoor recreation experience. The lake is home to many species of game fish, including largemouth bass, white crappie, channel and flathead catfish, and various species of sunfish.<br /><br />Hikers and horseback riders enjoy exploring the area on several miles of trails that wind through the wooded and open meadows of the lake shore.<br /><br />11,000 acres of land around the lake have been set aside for wildlife management. These lands are open for public hunting of deer, waterfowl, bobwhite quail, turkey, cottontail rabbit and squirrel.<h4>Facilities:</h4>This day-use area offers one group picnic shelter that can accommodate up to 45 people. Amenities include flush toilets, drinking water, picnic and utility tables, and grills. A boat ramp, dock, and beach are within the park.",
+    "FacilityLatitude": 36.892649999999996,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "918-532-4334",
+    "FacilityDirections": "From HWY 75, travel 2 miles west on HWY 10 and 1 mile north on County Road 3970, then turn left on W 850 Road and go 1 mile to the park.",
+    "FacilityName": "COPAN POINT",
+    "LastUpdatedDate": "2015-03-12 02:36:47",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 74181,
+    "OrgFacilityID": "AN374181",
+    "FacilityID": 234152,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:28:10",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:02:20",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 57277,
+        "CampsiteName": "GS-01",
+        "Loop": "COPAN POINT ",
+        "CampsiteAccessible": true,
+        "FacilityID": 234152,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032171,
+      "PostalCode": 74022,
+      "AddressStateCode": "OK",
+      "FacilityStreetAddress1": "396120 State 10 Highway",
+      "City": "COPAN",
+      "FacilityID": 234152,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

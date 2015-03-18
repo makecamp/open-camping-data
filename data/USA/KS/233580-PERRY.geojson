@@ -1,0 +1,133 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.40833333333335,
+      39.12222222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -95.40833333333335,
+    "FacilityDescription": "<h2>Overview</h2>Perry Park is a recreational day use area, situated near the dam on the south end of Perry Lake in the lush Kansas forest. <h4>Natural Features:</h4>Perry Lake Dam was completed in 1966 to help with flood control for the Missouri and Mississippi Rivers.  Today, the lake boasts 160 miles of shoreline and 11,150 surface acres of water, creating countless recreational activities for visitors, and earning it the nickname &quot;paradise on the plains.&quot;<br /><br />The park is surrounded by the lake and a beach on one side and a dense canopy of forest on the other, making it ideal for those wishing to enjoy the best of both environments. <h4>Recreation:</h4>Perry lake has a reputation for being one of the best sailing lakes in the region; however, boaters of all types will enjoy the many opportunities offered here, whether its sailing, power boating or canoeing. <br /><br />Perry Lake offers excellent fishing: White crappie, flathead catfish, walleye, white bass, channel catfish and sauger are in abundance throughout the lake.<br /><br />In addition to the vast lake, the area has approximately 21,600 acres of public land dedicated to wildlife management: turkey, deer, quail, pheasant, rabbit, squirrel, duck and geese are all found on these federal lands. <h4>Facilities:</h4>Perry Park is located next to a marina and the dam information center, and features a swimming beach, boat ramp and reservable picnic shelter, making it ideal for a large party or family function. <h4>Nearby Attractions:</h4>Several popular trails, including the 29-mile Perry Hiking Trail, are located nearby, along with a public marina.",
+    "FacilityLatitude": 39.12222222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "785-597-5144",
+    "FacilityDirections": "From Highway 24 in Perry, Kansas, take Ferguson Road north for 3 miles, then turn west onto 43rd street and follow signs into the park.",
+    "FacilityName": "PERRY",
+    "LastUpdatedDate": "2015-03-12 02:28:09",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73336,
+    "OrgFacilityID": "AN373336",
+    "FacilityID": 233580,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:26:23",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:30:01",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 18041,
+        "CampsiteName": "DPS",
+        "Loop": "PERR",
+        "CampsiteAccessible": true,
+        "FacilityID": 233580,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:26:23",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:30:01",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 18042,
+        "CampsiteName": "BSH",
+        "Loop": "PERR",
+        "CampsiteAccessible": true,
+        "FacilityID": 233580,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031603,
+      "PostalCode": "66073-9717",
+      "AddressStateCode": "KS",
+      "FacilityStreetAddress1": "10419 PERRY PARK DRIVE",
+      "City": "PERRY",
+      "FacilityID": 233580,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

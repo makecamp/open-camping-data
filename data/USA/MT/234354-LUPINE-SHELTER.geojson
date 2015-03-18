@@ -1,0 +1,84 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.10111111111111,
+      45.50222222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -113.10111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Lupine Shelter is a picnicking facility open year-round, however it is most heavily visited during the winter, when it is used by snowmobilers as a warming hut. It is an excellent location to have a picnic or a family gathering any time of year.<h4>Natural Features:</h4>The shelter was built in the early 1990s, as a replica of a Civilian Conservation Corps-style building. It is situated in a grassy meadow surrounded by a forest of mature pine trees at an elevation of 7,600 feet. <br /><br />In spring and early summer, vivid wildflowers color the meadow. A variety of birds and wildlife make their home in the area.<h4>Recreation:</h4>In winter, snowmobiling, cross country skiing and snowshoeing are popular activities in the snow-covered meadow surrounding the shelter.<br /><br />During the spring, summer and fall, a variety of hiking and mountain biking trails can be found in the area. <h4>Facilities:</h4>The day-use shelter boasts a beautiful large rock fireplace, lots of window and two tables with chairs inside. Guests are encouraged to clean up after themselves with the provided broom and dust pan. <br /><br />Additional picnic tables are available outside the shelter. Accessible vault toilets are provided. No drinking water is available, nor is trash collection.<h4>Nearby Attractions:</h4>The closest town is Wise River, Montana, which is about 25 miles north of the picnic area.",
+    "FacilityLatitude": 45.50222222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-832-3178",
+    "FacilityDirections": "From Wise River, Montana, take the Pioneer Mountains Scenic Byway approximately 25 miles south.",
+    "FacilityName": "LUPINE SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:39:57",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75218,
+    "OrgFacilityID": "AN375218",
+    "FacilityID": 234354,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:36:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 83495,
+        "CampsiteName": 1,
+        "Loop": "AREA LUPINE SHELTER",
+        "CampsiteAccessible": true,
+        "FacilityID": 234354,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 74,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032383,
+      "PostalCode": 59762,
+      "AddressStateCode": "MT",
+      "FacilityStreetAddress1": "PO BOX 100",
+      "City": "WISE RIVER",
+      "FacilityID": 234354,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

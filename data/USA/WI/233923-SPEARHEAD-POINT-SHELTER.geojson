@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.44694444444445,
+      45.32777777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -90.44694444444445,
+    "FacilityDescription": "<h2>Overview</h2>Spearhead Point Shelter is a day-use picnic site for large groups. It is located in one of the most popular areas surrounding Mondeaux Flowage in northern Wisconsin. Nearby, visitors can access the lake and numerous trails. <h4>Natural Features:</h4>The shelter is located within the Spearhead Point Campground at an elevation of 1,140 feet. Tall trees surround the shelter, which is nestled along the western shore of 411-acre Mondeaux Flowage.<h4>Recreation:</h4>Boating, swimming and fishing are popular activities. Anglers can expect to find a variety of species, including pike, largemouth bass and bluegill. Boats with and without motors are allowed on the lake, however the lake is quite shallow in some areas.<br /><br />A portion of the Ice Age National Scenic Trail is easily accessed from the campground. The trail is open to hiking and biking and wanders 1,200 miles along the edge of a historic glacier that once covered the state of Wisconsin and much of North America.<h4>Facilities:</h4>The accessible picnic shelter can accommodate up to 30 people. It is equipped with picnic tables and grills. Two stone fireplaces are available inside the shelter. Accessible vault toilets and drinking water are also provided.<br /><br />Overnight camping is not allowed at the shelter but is available at adjacent Spearhead Point Campground.<h4>Nearby Attractions:</h4>The city of Westboro is about 10 miles away.",
+    "FacilityLatitude": 45.32777777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Medford, travel north on State Highway 13 for 4 miles, then turn left (west) onto County Road M and continue for 7 miles. Turn right (north) onto County Highway E and continue about 8 miles, then turn right (east) onto Forest Service Road 1563 and continue for about 1 mile. Turn right (east) onto Forest Service Road 106 and look for the campground entrance sign at the top of the hill.",
+    "FacilityName": "SPEARHEAD POINT SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73856,
+    "OrgFacilityID": "AN373856",
+    "FacilityID": 233923,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 9330,
+        "CampsiteName": 1,
+        "Loop": "SPEARHEAD POINT  ",
+        "CampsiteAccessible": true,
+        "FacilityID": 233923,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031944,
+      "PostalCode": 54451,
+      "AddressStateCode": "WI",
+      "FacilityStreetAddress1": "850 NORTH 8TH STREET",
+      "City": "MEDFORD",
+      "FacilityID": 233923,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

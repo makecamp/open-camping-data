@@ -1,0 +1,123 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "FacilityDescription": "<h2>Overview</h2>Watauga Point Recreation Area is located on the southern shore of Watauga Lake in Carter County.  Large shade trees scattered throughout grassy areas provide a park setting for picnicking and sunbathing.  In addition to picnic facilities, there is a designated swim area in the lake and a gravel trail that loops through the nearby forest.   <h4>Natural Features:</h4><b>At more than 1,900 feet in elevation, Watauga is the highest reservoir in Tennessee. This scenic 6,400-acre reservoir is managed for flood management, power generation, aquatic ecology and recreation. Watauga Point overlooks the reservoir and the Big Laurel Branch Wilderness area on the opposite shore.</b><h4>Recreation:</h4>Boaters, anglers, swimmers and picnickers all enjoy Watauga Point. There is a wooded trail on site, as well.<h4>Facilities:</h4>Watauga Point Recreation Area has one pavilion with accessible flush toilets.  There are six picnic tables and two large grills at the pavilion.  The shady area has five picnic tables and two grills.  There is electricity at the pavilion.<h4>Nearby Attractions:</h4>Both water-based and land-based recreation activities abound near Watauga Point Recreation Area.  Forest Service facilities within three miles include Cardens Bluff Campground, Rat Branch Boat Ramp, and Pond Mountain Shooting Range.",
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "423-735-1500",
+    "FacilityDirections": "From Elizabethton, take US 19E/321 south for five miles to Hampton.  Turn left on US 321/TN 67 south for five miles, then turn left into Watauga Point.",
+    "FacilityName": "WATAUGA POINT RECREATION AREA PAVILION AND SHADY AREA PICNIC",
+    "LastUpdatedDate": "2014-12-11 17:16:13",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 121940,
+    "OrgFacilityID": "AN421940",
+    "FacilityID": 250857,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-09-18 03:00:49",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 94652,
+        "CampsiteName": "Watauga Point Recreation Area - Shady area",
+        "Loop": "WATAUGA POINT RECREATION AREA PAVILION AND SHADY AREA PICNIC AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 250857,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-09-18 03:00:49",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 94672,
+        "CampsiteName": "Watauga Point Recreation Area - Pavilion",
+        "Loop": "WATAUGA POINT RECREATION AREA PAVILION AND SHADY AREA PICNIC AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 250857,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 6533433,
+      "PostalCode": 37692,
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "4400 Unicoi Drive",
+      "City": "Unicoi",
+      "FacilityID": 250857,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

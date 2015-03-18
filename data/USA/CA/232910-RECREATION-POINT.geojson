@@ -1,0 +1,482 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.57777777777777,
+      37.328611111111115
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -119.57777777777777,
+    "FacilityDescription": "<h2>Overview</h2>Recreation Point is nestled in a partially shaded cove overlooking the northern end of Bass Lake. It offers tent-only, overnight sites and picnic area for groups. The maximum group sizes range from 30-50 people per campsite and 50-100 people per picnic site.<br /><br />The camp consists of four sites on one loop: Knoll, Lagoon, Scout and Acorn. The group picnic areas, Cove, Oak Point and South Park, are on a separate loop.<h4>Natural Features:</h4>The Sierra National Forest, located on the western slope of the central Sierra Nevada, is known for its spectacular mountain scenery and abundant natural resources.<br /><br />The terrain includes rolling, oak-covered foothills, heavily forested middle elevation slopes and the starkly beautiful alpine landscape of the High Sierra.<br /><br />Recreation Point is located in the Bass Lake Ranger District at an elevation of 3,400 feet. Bass Lake is a very popular area known for its variety of fish, as well as the bald and golden eagles that make their home here.<h4>Recreation:</h4>Bass Lake offers a beach and boat ramp. Popular activities include swimming, motorized boating, canoeing, kayaking, water skiing, sailing and fishing for bass, trout, bluegill and catfish. Recreation Point has a designated swim area.<br /><br />Nearby hiking trails include Willow Creek, Goat Mountain, Spring Cove and Way-of-the-Mono Interpretive Trail. A variety of educational programs are offered on weekends during the summer.<h4>Facilities:</h4>Each campsite has a water faucet, picnic tables and a large pedestal grill. The group picnic areas offer picnic tables and pedestal grills. The restrooms have flush toilets.<h4>Nearby Attractions:</h4>Yosemite National Park can be reached in under an hour, making it an ideal day trip from Bass Lake.",
+    "FacilityLatitude": 37.328611111111115,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "559-642-3212",
+    "FacilityDirections": "From Fresno, California, take Highway 41 north through Oakhurst. Turn right on Forest Road 222 toward Bass Lake. Keep right for 3.5 miles to the campground registration office.",
+    "FacilityName": "RECREATION POINT",
+    "LastUpdatedDate": "2015-03-12 02:17:14",
+    "LegacyFacilityID": 71720,
+    "OrgFacilityID": "AN371720",
+    "FacilityID": 232910,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 66029,
+        "CampsiteName": "South Park Picnic",
+        "Loop": "SOUT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 66071,
+        "CampsiteName": "Lagoon",
+        "Loop": "LAGO",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 66276,
+        "CampsiteName": "Acorn",
+        "Loop": "ACOR",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 66302,
+        "CampsiteName": "Cove",
+        "Loop": "COVE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 66622,
+        "CampsiteName": "Knoll",
+        "Loop": "KNOL",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP TENT ONLY AREA NONELECTRIC",
+        "CampsiteID": 66642,
+        "CampsiteName": "Scout",
+        "Loop": "SCOU",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 66917,
+        "CampsiteName": "Oak Point Picnic",
+        "Loop": "OAKP",
+        "CampsiteAccessible": false,
+        "FacilityID": 232910,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030921,
+      "AddressStateCode": "CA",
+      "FacilityID": 232910,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

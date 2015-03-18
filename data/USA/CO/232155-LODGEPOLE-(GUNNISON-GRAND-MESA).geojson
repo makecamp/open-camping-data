@@ -1,0 +1,836 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.66111111111111,
+      38.76111111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -106.66111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Lodgepole Campground is located 22 miles from Gunnison, Colo., in the Taylor River Canyon. Visitors enjoy the area for its rafting, fishing and trail opportunities.<h4>Natural Features:</h4>The campground is situated in a dense stand of lodgepole pine trees, which provides shade and privacy between campsites. Summertime temperatures are warm during the day and cool at night. <h4>Recreation:</h4>The Taylor River can be accessed from the campground, and offers a calm stretch for leisurely rafting and kayaking. Anglers cast for rainbow and brook trout. <br /><br />The Fossil Ridge Wilderness Area lies one mile south of the campground. The Summerville and South Lottis trailheads provide access to the scenic, natural area.<br /><br />A number of off-road trails are found in the surrounding area, including Doctor Park Trail, Taylor River Trail and Taylor Vista Trail. <h4>Facilities:</h4>The campground offers single-family campsites, each equipped with a picnic table and campfire ring. Vault toilets and drinking water are provided.<h4>Nearby Attractions:</h4>Taylor Park Reservoir is located within 10 miles of the campground, offering boating, fishing and swimming. A boat ramp and boat rentals are available there as well.",
+    "FacilityLatitude": 38.76111111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "970-642-0566",
+    "FacilityDirections": "From Gunnison, Colo., travel north on Highway 135 for 10 miles to Almont. Turn right (northeast) onto Taylor Canyon Road and proceed 12 miles to the campground entrance, which is on the right.",
+    "FacilityName": "LODGEPOLE (GUNNISON GRAND MESA)",
+    "LastUpdatedDate": "2015-03-12 02:05:27",
+    "LegacyFacilityID": 70417,
+    "OrgFacilityID": "AN370417",
+    "FacilityID": 232155,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51009,
+        "CampsiteName": 3,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51013,
+        "CampsiteName": 2,
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51235,
+        "CampsiteName": 13,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51239,
+        "CampsiteName": 9,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51264,
+        "CampsiteName": "XXX9",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51383,
+        "CampsiteName": 12,
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "0:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 51406,
+        "CampsiteName": 10,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51447,
+        "CampsiteName": 4,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51475,
+        "CampsiteName": "XXX7",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51481,
+        "CampsiteName": "XXX6",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51528,
+        "CampsiteName": 7,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51611,
+        "CampsiteName": 5,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51725,
+        "CampsiteName": 8,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 51734,
+        "CampsiteName": 14,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51735,
+        "CampsiteName": "XXX8",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51755,
+        "CampsiteName": 6,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51761,
+        "CampsiteName": 1,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51842,
+        "CampsiteName": "XXX10",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51865,
+        "CampsiteName": 11,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51888,
+        "CampsiteName": "XXX5",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "STANDARD NONELECTRIC",
+        "CampsiteID": 51991,
+        "CampsiteName": 15,
+        "Loop": "LODG",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "MANAGEMENT",
+        "CampsiteID": 51993,
+        "CampsiteName": "XXX4",
+        "Loop": "MANAGEMENT",
+        "CampsiteAccessible": false,
+        "FacilityID": 232155
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030173,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "GUNNISON, GRAND MESA, AND UNCO",
+      "FacilityID": 232155,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

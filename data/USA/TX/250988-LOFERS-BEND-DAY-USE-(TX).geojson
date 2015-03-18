@@ -1,0 +1,65 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "FacilityDescription": "<h2>Overview</h2>Lofers Bend Day Use Park is located on Whitney Lake on the Brazos River in central Texas.  Whitney Lake gets over two million visitors a year.  Visitors enjoy many recreational activities in the area and the scenic beauty that Whitney Lake provides.<h4>Natural Features:</h4>The park is located in Hill County on the upstream side of Whitney Dam and features an oak-savannah landscape including a variety of oak trees, native grasses, and wildflowers.  Whitetail deer can often be seen in the park.<h4>Recreation:</h4>Boating, fishing, swimming, volleyball, and hiking opportunities are provided in the park.<h4>Facilities:</h4>Lofers Bend Day Use Park offers 29 picnic sites, a reserveable day use group pavilion, a two lane boat ramp, playground, 2 swim beaches, 2 sand volleyball courts, a 1.5 mile fitness trail, and 2 restrooms.<h4>Nearby Attractions:</h4>The 12.5 mile Hopewell Trail is nearby. The trail allows hiking, mountain biking, and horseback riding. Visitors can choose to travel north on the trail to Kimball Bend Park, or south to Lakeside Village and Powelidale Mountain.",
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "254-622-3332",
+    "FacilityDirections": "From I-35 in Hillsboro, take Hwy 22 West for 12 miles to Whitney, continue 7 miles past Whitney, and turn right before the dam.  Take the first left turn.",
+    "FacilityName": "LOFERS BEND DAY USE (TX)",
+    "LastUpdatedDate": "2014-12-11 17:16:13",
+    "LegacyFacilityID": 123490,
+    "OrgFacilityID": "AN423490",
+    "FacilityID": 250988,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-12-04 06:23:17",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 95003,
+        "CampsiteName": "DUP",
+        "Loop": "LOFERS BEND DAY USE (TX)",
+        "CampsiteAccessible": false,
+        "FacilityID": 250988,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:30 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 200,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 6533447,
+      "PostalCode": 76692,
+      "AddressStateCode": "TX",
+      "FacilityStreetAddress1": "145 Lofers Bend Park Rd.",
+      "City": "West Whitney",
+      "FacilityID": 250988,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

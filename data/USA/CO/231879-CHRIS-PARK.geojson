@@ -1,0 +1,288 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.8,
+      37.51638888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -107.8,
+    "FacilityDescription": "<h2>Overview</h2>Chris Park is located near Haviland Lake in southwestern Colorado, 18 miles north of Durango. Visitors enjoy the area for its hiking, canoeing and fishing opportunities.<h4>Natural Features:</h4>The campground is situated in a mostly flat, open area, shaded by scattered ponderosa pine trees. Haviland Lake is a short drive from the site. <h4>Recreation:</h4>Several trailheads are in the vicinity, including Forebay, Goulding, Elbert Creek and Purgatory Flats. The historic Rico-to-Rockwood Wagon Road passes through Chris Park. Built in the late 1800s, the road was used for six years until the railway opened.<h4>Facilities:</h4>The campground offers three group sites. Sites 1 and 2 can accommodate up to 75 people each. Site 3 can accommodate up to 150 people, and includes a picnic shelter with electricity and grills. A volleyball court is located near this site as well. Picnic tables and campfire rings provided, as are vault toilets and drinking water.<h4>Nearby Attractions:</h4>Beautiful Haviland Lake is less than two miles from the campground. The 80-acre, no-wake lake offers boating, canoeing and fishing. Accessible fishing docks are located on the lakeshore.",
+    "FacilityLatitude": 37.51638888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "970-884-2512",
+    "FacilityDirections": "From Durango, travel north on Highway 550 for about 18 miles to the campground. Turn at Haviland Lake sign, continue for a half-mile, then turn right at the intersection.",
+    "FacilityName": "CHRIS PARK",
+    "LastUpdatedDate": "2015-03-12 02:00:10",
+    "LegacyFacilityID": 70056,
+    "OrgFacilityID": "AN370056",
+    "FacilityID": 231879,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 42017,
+        "CampsiteName": 1,
+        "Loop": "CHRI",
+        "CampsiteAccessible": false,
+        "FacilityID": 231879,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 42579,
+        "CampsiteName": 3,
+        "Loop": "CHRI",
+        "CampsiteAccessible": true,
+        "FacilityID": 231879,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 43,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Platform"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 42949,
+        "CampsiteName": 2,
+        "Loop": "CHRI",
+        "CampsiteAccessible": false,
+        "FacilityID": 231879,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Hike In Distance to Site"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029897,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "Chris Park Road, San Juan NF",
+      "City": "Durango",
+      "FacilityID": 231879,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

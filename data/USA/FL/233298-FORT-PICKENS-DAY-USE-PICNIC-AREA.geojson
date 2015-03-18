@@ -1,0 +1,204 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.25527777777778,
+      30.31833333333333
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -87.25527777777778,
+    "FacilityDescription": "<h2>Overview</h2>The two pavilions at the facility are located near the historic Fort Pickens, a pentagonal fort built to defend Pensacola Bay in 1834. The structure was fortified after the War of 1812, and was one of four forts in the South never occupied by Confederates during the Civil War. <br><br>Spend the day walking the gorgeous white sand beaches on Santa Rosa Island. Swim, build sandcastles, or stroll from the Gulf of Mexico side to the Pensacola Bay side of the island. <h4>Natural Features:</h4>The picnic area is on a barrier island between the Gulf of Mexico and Pensacola Bay. Its part of the Gulf Islands National Seashore. More than 80% of the national park is submerged, as its a vital protective habitat to marine life. <h4>Recreation:</h4>Fort Pickens is great for all things beach. Bring a beach ball, comb the sand and swim to your hearts content. A fishing pier is a short distance from the picnic pavilions, and hiking trails through the dunes are also accessible. <h4>Facilities:</h4>Two pavilion areas are available, each with ample seating and two large grills. Battery Landon holds 60 people and has has no lights or electricity. Battery Worth seats 48 people and offers electricity, lights, and an outdoor rinse-off shower to clear off all the beach sand.",
+    "FacilityLatitude": 30.31833333333333,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "850-934-2600",
+    "FacilityDirections": "From I-10, take I-110S to Pensacola. Take US Hwy 98S / FL Hwy 40 over Pensacola Bay to Gulf Breeze. Follow 98 through Gulf Breeze, turn RIGHT unto FL Hwy 399 to Pensacola Beach. $1.00 per vehicle toll booth entering Pensacola Beach, then turn RIGHT at the traffic light onto Fort Pickens Road. It is about 3 miles to the Park Entrance Station.",
+    "FacilityName": "FORT PICKENS DAY USE PICNIC AREA",
+    "LastUpdatedDate": "2015-03-12 02:23:32",
+    "LegacyFacilityID": 72308,
+    "OrgFacilityID": "AN372308",
+    "FacilityID": 233298,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 90302,
+        "CampsiteName": "Battery Worth Side B",
+        "Loop": "FORT PICKENS DAY USE PICNIC AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 233298,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 48,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 48,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Island",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:54:25",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:04",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 90407,
+        "CampsiteName": "Battery Langdon",
+        "Loop": "FORT PICKENS DAY USE PICNIC AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 233298,
+        "attributes": [
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "9:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Island",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031308,
+      "PostalCode": 32561,
+      "AddressStateCode": "FL",
+      "FacilityStreetAddress1": "1400 Fort Pickens Road",
+      "City": "Pensacola Beach",
+      "FacilityID": 233298,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

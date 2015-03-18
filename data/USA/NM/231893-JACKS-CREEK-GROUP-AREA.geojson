@@ -1,0 +1,140 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.65555555555557,
+      35.84166666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.65555555555557,
+    "FacilityDescription": "<h2>Overview</h2>Jacks Creek Group Area is a forested, high-elevation campground about 50 miles from Santa Fe. Perfect for family reunions, recreation events and other large group gatherings, the campground has two group units available that can each hold 40 people. The campground sits at approximately 8,000 feet in the Santa Fe National Forest. Visitors enjoy the moderate temperatures and cool mountain breezes while the campground is open from mid-April to mid-November. The surrounding wilderness provides astounding views.<h4>Natural Features:</h4>Located in the Sangre de Cristo Mountains, Jacks Creek is on the border of the Pecos Wilderness, which features 160,000 acres of majestic mountain scenery, high mountain lakes and the Pecos River. The campground is heavily forested with fir trees intermixed with aspens, which shimmer with golden foliage in the fall. The trees provide plenty of shade if desired, yet enough space to enjoy the sun as well. The creek is adjacent to the campground. A variety of wildlife, such as elk, mule deer, migratory birds, bald eagles (in winter) and other raptors inhabit the forest.<h4>Recreation:</h4>Hikers find this campground convenient to the popular Jacks Creek Trail nearby. Fishermen also enjoy fishing for rainbow and brown trout in Jacks Creek.<h4>Facilities:</h4>A campground host patrols the campground on a routine basis and is available to answer questions. Campers can lock the gate after their group is settled into the site, if desired. One of the sites (Group B) is accessible. All of the roads are the paved, so low clearance vehicles can also reach it.<h4>Nearby Attractions:</h4>The City of Santa Fe is just over a one-hour drive away.",
+    "FacilityLatitude": 35.84166666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "Take I-25 east from Santa Fe, New Mexico, and travel approximately 18 miles. Take the Glorieta/Pecos exit. Take State Highway 50 approximately five miles to Pecos. At the four-way stop, turn left onto State Highway 63. Travel north on 63 to the Jacks Creek Campground area. The campground is about 21 miles north of Pecos.",
+    "FacilityName": "JACKS CREEK GROUP AREA",
+    "LastUpdatedDate": "2015-03-12 02:01:15",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70077,
+    "OrgFacilityID": "AN370077",
+    "FacilityID": 231893,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:12:41",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:23:28",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 10716,
+        "CampsiteName": 1,
+        "Loop": "GRPB",
+        "CampsiteAccessible": true,
+        "FacilityID": 231893,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:12:41",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:23:28",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 10717,
+        "CampsiteName": 1,
+        "Loop": "GRPA",
+        "CampsiteAccessible": true,
+        "FacilityID": 231893,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Preferred",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029911,
+      "PostalCode": 87552,
+      "AddressStateCode": "NM",
+      "FacilityStreetAddress1": "Jacks Creek Group Area",
+      "City": "Pecos",
+      "FacilityID": 231893,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

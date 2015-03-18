@@ -1,0 +1,104 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.21666666666667,
+      44.4175
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.21666666666667,
+    "FacilityDescription": "<h2>Overview</h2>Stoddard Creek Campground is located just 1 mile off I-15 and 17 miles north of the town of Dubois, Idaho. Visitors come to the area to enjoy the abundance of trails, wildlife viewing opportunities and scenic beauty. <h4>Natural Features:</h4>The campground is situated in a Douglas fir and aspen forest. Stoddard Creek runs just below the site. The campground is approximately 11 miles south of the Idaho-Montana border via Monida Pass on the Continental Divide.<h4>Recreation:</h4>Fishing, hiking, mountain biking, motorcycling and ATV riding are popular activities in the area. The Continental Divide National Scenic Trail can be accessed 8 miles away, where it crosses I-15. <h4>Facilities:</h4>The campground contains one accessible group site that can accommodate up to 50 people. Picnic tables and campfire circles are provided, as are vault toilets, drinking water and trash collection. A campground host is on-site. <h4>Nearby Attractions:</h4>Phone, gas and groceries are 5 miles away in Spencer, Idaho or 17 miles away in Dubois.",
+    "FacilityLatitude": 44.4175,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-374-5422",
+    "FacilityDirections": "From Dubois, Idaho: Travel north on I-15 to the Stoddard Creek Exit (Exit 184). Go west on Stoddard Creek Road (FR 002) for approximately 1 mile to the Stoddard Creek Campground Road (FR 003), then turn left into the campground.",
+    "FacilityName": "STODDARD CREEK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75246,
+    "OrgFacilityID": "AN375246",
+    "FacilityID": 234381,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:15:52",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:53:11",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 46839,
+        "CampsiteName": 8,
+        "Loop": "C",
+        "CampsiteAccessible": true,
+        "FacilityID": 234381,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Double Driveway"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032410,
+      "PostalCode": 83423,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "127 West Main Street",
+      "City": "DUBOIS",
+      "FacilityID": 234381,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

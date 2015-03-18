@@ -1,0 +1,90 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.25305555555556,
+      40.86666666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -122.25305555555556,
+    "FacilityDescription": "<h2>Overview</h2>The Hirz Bay Group 1 Campground sits on the McCloud Arm of Shasta Lake in a forest of oak and Manzanita. A variety of recreational activities are offered here, including a nearby boat ramp for water sports and a hiking trail. This camp is ideal for groups of up to 120 people. <h4>Natural Features:</h4>Shasta-Trinity is the largest national forest in California with a diverse landscape encompassing five wilderness areas, hundreds of mountain lakes and 6,278 miles of streams and rivers.<br /><br />Lake Shasta sits at an elevation of 1,067 feet, with 365 miles of shoreline punctuated by steep mountains blanketed in manzanita and evergreens. A snow-capped Mount Shasta, the second-tallest mountain in the Cascade Range, looms in the distance. <h4>Recreation:</h4>The nearest boat launch is about 1 mile away at Hirz Bay. Hikers can access the 2-mile Hirz Bay Trail near the campground. Resorts on the lake have watercraft rentals and marinas with fuel.<br /><br />Popular water activities include power and non-motorized boating, fishing and water skiing. Lake Shasta offers excellent fishing for trout, catfish, Chinook salmon, crappie, bluegill, white sturgeon, brown bullhead and bass.<h4>Facilities:</h4>The camp offers a picnic area, 2 large pedestal grills, 1 large fire ring, 2 large sinks with faucets and a paved parking lot with 21 spaces. The parking area is separate from the camping area.<br /><br />Vault toilets are provided. <h4>Nearby Attractions:</h4>Lake Shasta Caverns are also located on the McCloud Arm of Shasta Lake in an area know as the Grey Rocks. Tours are given daily at this privately owned facility.<br /><br />The nearby Hirz Mountain Lookout offers panoramic views of Mt. Shasta, Mt. Lassen and the surrounding area at an elevation of 3,500 feet.",
+    "FacilityLatitude": 40.86666666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "250 miles north of San Francisco. Take I-5 through Sacramentoand Redding. Go 25 miles north of Redding and cross Shasta Lake. Remain on I-5 to Gilman Road. From the north, take Salt Creek exit to Gilman Road. Take Gilman Road east 11 miles to entrance of Hirz Bay onright.",
+    "FacilityName": "HIRZ BAY GROUP 1",
+    "LastUpdatedDate": "2015-03-12 02:20:23",
+    "LegacyFacilityID": 71927,
+    "OrgFacilityID": "AN371927",
+    "FacilityID": 233096,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:28:15",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 89727,
+        "CampsiteName": 1,
+        "Loop": "AREA HIRZ BAY GROUP 1",
+        "CampsiteAccessible": false,
+        "FacilityID": 233096,
+        "attributes": [
+          {
+            "AttributeValue": "3:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031107,
+      "PostalCode": 96051,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "Gilman Road Exit off of Interstate 5",
+      "City": "Lakehead",
+      "FacilityID": 233096,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

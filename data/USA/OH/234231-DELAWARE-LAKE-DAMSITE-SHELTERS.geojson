@@ -1,0 +1,123 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.06916666666666,
+      40.35861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -83.06916666666666,
+    "FacilityDescription": "<h2>Overview</h2>Both picnic shelters at Dam Site Recreation Area make for a pleasant getaway at Delaware Lake.  <br /><br />Shady Ridge Shelter is nestled under elms atop a grassy ridge, providing privacy from surrounding areas, while Elm Grove Shelter is cradled between rows of trees just 50 ft. from the parking area.<h4>Natural Features:</h4>Both reservable shelters are near the dam on Delaware Lake in central Ohio. The lake is hugged by forests, which provide a habitat for groundhogs, pheasants and white-tailed deer.<h4>Recreation:</h4>Pack a picnic or fire up the grill with friends and family. Anglers might want to bring their rods and take advantage of excellent fishing opportunities on the river below the dam. <br /><br />In addition, the Division of Wildlife stocks fishing ponds in the 4,670-acre wildlife area adjacent to Delaware State Park.<h4>Facilities:</h4>Both picnic shelters provide water and electric hookups, playgrounds, a volleyball court and easy access to restrooms. An open grassy space is ideal for field sports like soccer.<br /><br />Shady Ridge provides more privacy, while Elm Grove boasts a textured patio with pedestal tables and a group grill.<h4>Nearby Attractions:</h4>Delaware State Park is just over a mile from the picnic shelters and offers lots of activities, from jet skiing to disc golf.<br /><br />A series of low-intensity hiking trails, ranging from .25 miles to 1.6 miles, traverse the area and connect with the lakeshore.",
+    "FacilityLatitude": 40.35861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Delaware, Ohio,head north on US 23 N for 5.4 miles (just beyond Railroad Underpass). Turn right at DelawareLake Sign.",
+    "FacilityName": "DELAWARE LAKE DAMSITE SHELTERS",
+    "LastUpdatedDate": "2015-03-12 02:38:23",
+    "LegacyFacilityID": 75080,
+    "OrgFacilityID": "AN375080",
+    "FacilityID": 234231,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 9194,
+        "CampsiteName": "Shady Ridge",
+        "Loop": "Shelters",
+        "CampsiteAccessible": false,
+        "FacilityID": 234231,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:10:54",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:22:39",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 9195,
+        "CampsiteName": "Elm Grove",
+        "Loop": "Shelters",
+        "CampsiteAccessible": false,
+        "FacilityID": 234231,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 120,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 45,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032261,
+      "PostalCode": 43015,
+      "AddressStateCode": "OH",
+      "FacilityStreetAddress1": "3920 U.S. 23 NORTH",
+      "City": "DELAWARE",
+      "FacilityID": 234231,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

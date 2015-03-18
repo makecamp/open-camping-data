@@ -1,0 +1,95 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.85078055555554,
+      43.925716666666666
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -114.85078055555554,
+    "FacilityDescription": "<h2>Overview</h2>Alturas Area Picnic B is located along the sandy shoreline of scenic Alturas Lake, at the foot of the Sawtooth Mountain Range.<h4>Natural Features:</h4>Summer wildflowers are plentiful, and a mixed-growth conifer forest provides partial shade. Temperatures are cool with an average summer high of 78 degrees and a low of 40 degrees. <h4>Recreation:</h4>The site is part of the Sawtooth National Recreation Area, where outdoor activities abound. Alturas Lake offers excellent boating, water skiing, canoeing, kayaking and fishing for bull trout and Kokanee salmon. Alturas Creek runs through the adjacent campground.<br /><br />The 10-mile round trip Alpine Meadows Trail begins nearby, with spectacular canyon, meadow and alpine lake views. The trail is also a popular area for bird watching.<h4>Facilities:</h4>The picnic site is a day-use area only. It offers one accessible group site that can accommodate up to 50 people. Vault toilets, drinking water and garbage service are provided. Smokey Bear Boat Ramp is less than 1/4-mile away.<h4>Nearby Attractions:</h4>The Sawtooth National Recreation Area offers a myriad of excellent hiking and biking opportunities, and an estimated 750 miles of trails crisscross the valley and surrounding mountains. <br /><br />Perkins Lake is less than 2 miles away, with excellent fishing and canoeing. Pettit and Yellowbelly Lakes are nearby with more fishing, canoeing and hiking. The Salmon River offers fishing for rainbow trout, Westslope cutthroat trout and occasional hybrid cutbows and bull trout.<br /><br />Popular area events include an Arts and Crafts Fair in July, and Wagon Days, Salmon Festival, Quilt Fair and Firemans Ball in September.",
+    "FacilityLatitude": 43.925716666666666,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-774-3000",
+    "FacilityDirections": "From Stanley, Idaho, take State Highway 75 south for about 22 miles. Turn right on Alturas Creek Road/Forest Road 205 and continue west for about 2.6 miles to the campground.",
+    "FacilityName": "ALTURAS LAKE PICNIC AREA (ID)",
+    "LastUpdatedDate": "2015-03-12 02:03:03",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 70227,
+    "OrgFacilityID": "AN370227",
+    "FacilityID": 232011,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:26:23",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:29:11",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 17132,
+        "CampsiteName": "B",
+        "Loop": "PICB",
+        "CampsiteAccessible": true,
+        "FacilityID": 232011,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030029,
+      "AddressStateCode": "ID",
+      "FacilityStreetAddress1": "SAWTOOTH NRA",
+      "City": "STANLEY",
+      "FacilityID": 232011,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

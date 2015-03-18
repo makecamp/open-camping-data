@@ -1,0 +1,207 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.44333333333334,
+      45.74611111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -114.44333333333334,
+    "FacilityDescription": "<h2>Overview</h2>Fales Flat Campground is a group facility on Nez Perce Fork of the Bitterroot River. It is also well equipped for equestrian campers. The campground provides access to a variety of hiking and horseback riding trails in the area, as well as a variety of historic sites that denote the presence of the Nez Perce many years ago.<h4>Natural Features:</h4>The campground is located in a large meadow at the base of Nez Perce Pass along the Nez Perce Fork of the Bitterroot River. The area is believed to have been used by the Nez Perce Nimiipuu tribe during its travels to the buffalo country in eastern Montana.<h4>Recreation:</h4>Fly fishing and wading in the Nez Perce Fork, which runs alongside the campground, are also popular activities.<br><br>A variety of trails and unimproved roads are great for hiking and horseback riding. Three trails originate near the campground, including the Watchtower Trail and Sheephead Creek Trail which access the Selway-Bitterroot Wilderness and can be hiked as a loop. A steep, 2-mile trail leads to the historic Bare Cone Lookout. <h4>Facilities:</h4>The campground offers one large group site for tent and RV camping. It can accommodate from 15 to 100 people. Hookups are not available. Parking surfaces are gravel. <br><br>The site is equipped with multiple tables and a large campfire circle. Vault toilets are provided. Drinking water and trash collection bins are not available.<br><br>A few individual and equestrian sites are available at the campground on a first-come, first-served basis. Those sites have access to a horse staging area and hitching racks.<h4>Nearby Attractions:</h4>The campground is about 23 miles from the town of Conner. A variety of services are offered there.",
+    "FacilityLatitude": 45.74611111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "406-821-3269",
+    "FacilityDirections": "From Darby, travel south on Highway 93 for about four miles. Turn onto Highway 473 and continue southwest for 14 miles. Turn west onto Forest Road 468 and continue about 12 miles to the campground.",
+    "FacilityName": "FALES FLAT CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:39:10",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75138,
+    "OrgFacilityID": "AN375138",
+    "FacilityID": 234283,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:22:36",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 82767,
+        "CampsiteName": "GS1",
+        "Loop": "G",
+        "CampsiteAccessible": true,
+        "FacilityID": 234283,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:22:36",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 82807,
+        "CampsiteName": "GS3",
+        "Loop": "H",
+        "CampsiteAccessible": false,
+        "FacilityID": 234283,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:34:53",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:23:25",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 83601,
+        "CampsiteName": "GS2",
+        "Loop": "I",
+        "CampsiteAccessible": false,
+        "FacilityID": 234283,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 0,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032312,
+      "AddressStateCode": "MT",
+      "FacilityID": 234283,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

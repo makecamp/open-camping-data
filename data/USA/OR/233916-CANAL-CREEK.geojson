@@ -1,0 +1,211 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.92527777777778,
+      44.393055555555556
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -123.92527777777778,
+    "FacilityDescription": "<h2>Overview</h2>Canal Creek is a group campground where campers can truly get away from the hustle and bustle of the city and immerse themselves in nature. The facility is comprised of two group campsites, each providing a tranquil, scenic setting.<h4>Natural Features:</h4>Canal Creek flows through the campground, dividing the two sites, which are shaded by Douglas fir and spruce trees. Huckleberry bushes dot the forest floor. Roosevelt elk and bald eagles make their homes in the surrounding area. <br /><br />The campground is part of Siuslaw National Forest, which extends across the lush forests of the coastal mountains to the Oregon Dunes and beaches of the Pacific Ocean.<h4>Recreation:</h4>Site 001 has a large open space that provides room for sports like soccer, Frisbee and football. Campers are urged to bring sports equipment, as none is provided.<br /><br />Other activities include fishing and crawfishing, hiking, tubing and swimming. Cutthroat trout inhabit Canal Creek.<h4>Facilities:</h4>Site 001 is accessed by fording the gentle creek. It has a large open field with a picnic shelter, tables and a campfire circle. The site accommodates up to 100 people and 20 vehicles. RVs are not recommended.<br /><br />Site 002 is bordered by the creek. It is made up of 10 separate campsites surrounding a central dining area with tables and a campfire circle. The site accommodates up to 50 people and 10 vehicles. RVs are welcome. <br /><br />Vault toilets are provided, but no drinking water or electric hookups are available at either site.<h4>Nearby Attractions:</h4>Sandy beaches stretch north and south of Waldport, about 20 minutes from the campground. Beautiful Cape Perpetua Scenic Area is another 15 minutes south of Waldport.<br /><br />Marys Peak is the highest point in Oregons Coast Range and has been designated a Scenic Botanical Area because of its rich, unique scenery and plants.<br /><br />The Rock Creek Wilderness Area, within the Siuslaw National Forest off Coastal Highway 101, encompasses about 7,500 acres. The area is comprised of a dense coniferous rainforest, where bigleaf maple and red alder trees line the creeks, and rhododendrons dot the forest floor.",
+    "FacilityLatitude": 44.393055555555556,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "541-547-3679",
+    "FacilityDirections": "From Waldport, Oregon, take State Route 34 east 7 miles to the campground sign at Forest Road 3462.  Turn right onto 3462 and go 4 miles to another campground sign and turn left into the campground.",
+    "FacilityName": "CANAL CREEK",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "LegacyFacilityID": 73847,
+    "OrgFacilityID": "AN373847",
+    "FacilityID": 233916,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:27:47",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:59",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 80284,
+        "CampsiteName": "Canal Creek Group",
+        "Loop": "GRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233916,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 16,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Riverfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:27:47",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:20:59",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 80953,
+        "CampsiteName": "Alsea Group",
+        "Loop": "GRP",
+        "CampsiteAccessible": false,
+        "FacilityID": 233916,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Riverfront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031937,
+      "PostalCode": 97394,
+      "AddressStateCode": "OR",
+      "City": "WALDPORT",
+      "FacilityID": 233916,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.50111111111111,
+      43.38111111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -72.50111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Stoughton Pond Recreation Area is a day use area located to the north of North Springfield Lake. Stoughton Pond is located off State Route 106 on Stoughton Pond Road in Perkinsville, Vermont. <h4>Natural Features:</h4>Stoughton Pond is situated among rolling hills on the North Branch of the Black River. Open lawns cover the park, with hardwood and softwood trees offering areas of shade and wildlife habitat. <h4>Recreation:</h4>Stoughton Pond Recreation Area offers plenty of activities for visitors of all ages. Many people enjoy canoeing, kayaking, boating and fishing. The state of Vermont Department of Fish and Game annually stock the pond with rainbow trout, and the pond also offers excellent bass fishing. A boat ramp is available, located off Plains Road. <br /><br />An interpretive trail winds along the side of the pond. Hikers are treated to views of wetlands and uplands, both with a wide diversity of natural habitats. A multi-use trail system is located at the main reservoir, North Springfield Lake. <h4>Facilities:</h4>Stoughton Pond Recreation Area offers a group picnic shelter with tables and a large grill. Ten family picnic sites are also available on a first-come, first-served basis. Flush toilets, change house and drinking water are available on site. <br /><br />Amenities at this family-friendly park include a swimming area with a great beach, grassy areas for sun bathing and a boat ramp for small boats, canoes and kayaks. <br /><br />The park is staffed by uniformed park rangers who offer special programs on a variety of nature topics throughout the season.",
+    "FacilityLatitude": 43.38111111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "802-886-2775",
+    "FacilityDirections": "Take VT 106 North to Stoughton Pond Road. The facility is about &frac12; mile to the left in Perkinsville, Vermont.",
+    "FacilityName": "Stoughton Pond Rec Area",
+    "LastUpdatedDate": "2015-03-12 02:25:04",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73058,
+    "OrgFacilityID": "AN373058",
+    "FacilityID": 249983,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:49:32",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:17:43",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 76755,
+        "CampsiteName": "Picnic Shelter ",
+        "Loop": "Stoughton Pond Rec Area",
+        "CampsiteAccessible": true,
+        "FacilityID": 249983,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 60,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031436,
+      "PostalCode": 5156,
+      "AddressStateCode": "VT",
+      "FacilityStreetAddress1": "98 Reservoir Road ",
+      "City": "Springfield ",
+      "FacilityID": 249983,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

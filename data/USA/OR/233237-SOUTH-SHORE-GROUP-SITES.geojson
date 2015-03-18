@@ -1,0 +1,124 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.14916666666667,
+      44.49166666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -121.14916666666667,
+    "FacilityDescription": "<h2>Overview</h2>Haystack South Shore Group Campground is the only group campground on Haystack Reservoir. Each of the two campsites holds up to 50 people. This is a year-round facility ideal for large events such as family reunions or groups of rock climbers visiting nearby Smith Rock State Park. <h4>Natural Features:</h4>South Shore is located in the high desert landscape with views of Mt. Jefferson as a scenic backdrop. Juniper trees and sagebrush dot the landscape. The combination of a low forest canopy and 3,000 ft. elevation make this a perfect location for stargazing at the wide open sky on clear nights. Eagles and other birds inhabit the shoreline of the lake.<h4>Recreation:</h4>Haystack Reservoir is a popular fishing spot for a variety of species, including kokanee, rainbow trout, largemouth bass, black crappie and brown bullhead catfish. The lake is cool, but a comfortable temperature for swimming. Motorized boating is allowed. Boat launches are located at nearby Haystack and West Shore day use areas. The surrounding national grassland also provides ample opportunities for hunting, hiking, horseback riding, mountain biking and riding off-highway vehicles.<h4>Facilities:</h4>The facility is very comfortable for group events, providing several picnic tables, campfire rings and plenty of parking. There are two group sites, Willow and Cottonwood, which are out of sight from each other. Although there is no drinking water at this facility, it is available at Haystack Campground down the road. There are no hookups. Vaulted toilets are located near both sites.<h4>Nearby Attractions:</h4><a href=http://www.oregonstateparks.org/park_51.php target=_blank>Smith Rock State Park</a>, best known for its many rock climbing routes, is a short drive away.",
+    "FacilityLatitude": 44.49166666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "208-270-0094",
+    "FacilityDirections": "From Highway 97: Exit Jericho Lane and head East for approximately 1.25 miles. Turn right on Springer Road (FS 7130/FS 96) and proceed approximately 1.5 miles. South Shore Campground will be on the left.<br /> <br />From Highway 26: Exit Laurel Lane (FS 96) and head west for approximately four miles. Turn right onto Springer Road (FS 7130/FS 96) and continue approximately 2.5 miles. South Shore Campground will be on the right.",
+    "FacilityName": "SOUTH SHORE GROUP SITES",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "LegacyFacilityID": 72152,
+    "OrgFacilityID": "AN372152",
+    "FacilityID": 233237,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:49:32",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:22:36",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 82270,
+        "CampsiteName": "Cottonwood Group Site",
+        "Loop": "SOUTH SHORE GROUP SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 233237,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:49:32",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:22:36",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 82307,
+        "CampsiteName": "Willow Group Site",
+        "Loop": "SOUTH SHORE GROUP SITES",
+        "CampsiteAccessible": false,
+        "FacilityID": 233237,
+        "attributes": [
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031246,
+      "PostalCode": 97754,
+      "AddressStateCode": "OR",
+      "FacilityStreetAddress1": "3160 NE 3rd Street ",
+      "City": "Prineville",
+      "FacilityID": 233237,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

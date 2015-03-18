@@ -1,0 +1,109 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.97500000000001,
+      34.223333333333336
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.97500000000001,
+    "FacilityDescription": "<h2>Overview</h2>Bluff Mesa Group Campground is conveniently located for campers to enjoy all the beautiful Big Bear Lake area has to offer. A variety of trailheads are nearby, leading visitors through the scenic forest that surrounds the campground. <h4>Natural Features:</h4>The campground is located 45 miles from San Bernardino at an elevation of 6,800 feet. It is accessed via a dirt road, and is nestled in a secluded, mixed conifer forest with a grassy understory. Mature trees provide much shade throughout the area, but open meadows are also available.<h4>Recreation:</h4>A variety of hiking and mountain biking trails can be accessed from the campground, and rock climbing routes can be found nearby. <br /><br />Fishing, boating and swimming at Big Bear Lake are popular activities. Anglers can look forward to trout, bluegill, crappie, catfish and largemouth bass, among other fish. The lake is less than 10 miles from the campground.<h4>Facilities:</h4>The campground offers one large group site for tent and RV camping. It can accommodate up to 40 people and eight vehicles. The site is equipped with picnic tables, grills and a campfire circle.<br /><br />Vault toilets are provided. Drinking water, utility hookups and trash collection are not available. Parking surfaces are gravel.<h4>Nearby Attractions:</h4>The Big Bear Discovery Center is located about 10 miles from the campground, on the other side of Big Bear Lake. A visitor center, interpretive trails and educational programs are available, as well as accessible flush restroom facilities.",
+    "FacilityLatitude": 34.223333333333336,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "909-866-8550",
+    "FacilityDirections": "Take I-10 east to Running Springs. Turn onto State Highway 18 and continue to Big Bear Lake Dam. Turn right and continue for 3 miles. Turn onto Tulip Lane and turn right on Mill Creek Road (Forest Road 2N10). Continue 4 miles and turn right on Forest Road 2N86 and continue to the campground.",
+    "FacilityName": "BLUFF MESA GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70169,
+    "OrgFacilityID": "AN370169",
+    "FacilityID": 231965,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:01:30",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 66106,
+        "CampsiteName": 1,
+        "Loop": "BLUF",
+        "CampsiteAccessible": false,
+        "FacilityID": 231965,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029983,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "SAN BERNARDINO",
+      "FacilityID": 231965,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

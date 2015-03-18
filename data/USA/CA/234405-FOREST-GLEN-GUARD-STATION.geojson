@@ -1,0 +1,77 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.31694444444445,
+      40.36694444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -123.31694444444445,
+    "FacilityDescription": "<h2>Overview</h2>This historic guard station offers a unique stay in the oldest Forest Service building on the Shasta-Trinity National Forest. This charming two-story structure was built in 1916 under the direction of John T. Grey, District Ranger of the Mad River Ranger District on the old Trinity National Forest.<br /><br />Visitors can relax on the front porch and enjoy the tranquil surroundings year-round. <h4>Natural Features:</h4>Forest Glen Guard Station is located in the Hayfork Area, an area rich in natural beauty. One of its three major watersheds is the South Fork of the Trinity River, which isadjacent to the guard station and considered to be one of wildest and most scenic waterways in northern California. The surrounding area is forested with ponderosa pine. <h4>Recreation:</h4>Nearby Scotts Flat Campground features the trailhead for the South Fork National Recreational Trail. This 7.2-mile trail parallels the South Fork of the Trinity River and offers numerous scenic views.<br /><br />Visitors can find a few excellent swimming holes on the South Fork of Trinity River. <h4>Facilities:</h4>The cabin has electricity. The lower level has a large kitchen area equipped with a cook stove and refrigerator, in addition to an oak table and chairs. There is an indoor bathroom with flush toilet. There are two twin beds and a double futon, but sleeping bags can be placed on the floor to accommodate a total of eight people in the cabin. A fire pit and picnic table are provided outside.<br /><br />  Visitors should plan to bring drinking water, eating utensils and bedding. The cabin is not heated.",
+    "FacilityLatitude": 40.36694444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Hayfork, California, take California State Highway 3 to theintersection of California State Highway 36. Turn west (right) onHighway 36 and to Forest Glen. Pass Forest Glen Campground, crossthe Southfork Trinity River Bridge and turn South (left) after crossingthe bridge on Forest Road 1S26. The Forest Glen Guard Station isthe first cabin on the right.",
+    "FacilityName": "FOREST GLEN GUARD STATION",
+    "LastUpdatedDate": "2015-03-12 02:40:44",
+    "LegacyFacilityID": 75270,
+    "OrgFacilityID": "AN375270",
+    "FacilityID": 234405,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:31:18",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:09:33",
+        "CampsiteType": "CABIN NONELECTRIC",
+        "CampsiteID": 66078,
+        "CampsiteName": 1,
+        "Loop": "AREA FOREST GLEN GUARD STATION",
+        "CampsiteAccessible": false,
+        "FacilityID": 234405,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "11:00 AM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Cabin Heating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032434,
+      "PostalCode": 96041,
+      "AddressStateCode": "CA",
+      "City": "FOREST GLEN",
+      "FacilityID": 234405,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.58888888888889,
+      36.08888888888889
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -86.58888888888889,
+    "FacilityDescription": "<h2>Overview</h2>Smith Springs Recreation Area is a lakeside oasis in the hills of middle Tennessee, providing visitors with countless recreational activities on the lake and in the surrounding woods and grasslands.<h4>Natural Features:</h4>J. Percy Priest Dam and Lake was one of the first Corps of Engineers lakes to have recreation as part of its justification. The dam, completed in 1968, impounds 42 miles, with 14,200 surface acres of water.<br /><br />In soothing contrast to the sparkling waters of the lake are the adjacent 19,087 acres of grasslands and woodlands.<br /><br />A highlight of the region, the Cedar Glades Natural Area, is home to countless wildlife and plant species, including the Tennessee coneflower.<h4>Recreation:</h4>The lake provides a variety of outdoor recreational opportunities for millions of visitors each year.  Because of the temperate climate and relatively long recreation season, visitors have numerous activities to choose from, including fishing, hunting, picnicking, boating, canoeing, hiking, horseback riding and wildlife viewing. <br /><br />Fishing opportunities abound at J. Percy Priest Lake, with a wide variety of species available, including largemouth and smallmouth bass, crappie, striped bass, Cherokee bass, and white bass. Other species such as catfish, bluegill, bream and trout provide excellent opportunities for younger anglers. <br /><br />Nearby Anderson Road Fitness Trail is a paved trail winding a little over a mile through the cedar glade area beside the lake. <h4>Facilities:</h4>Smith Springs Recreation Area offers a large group shelter for day use and can accommodate up to 50 guests, making it an ideal spot for large parties and family functions. <h4>Nearby Attractions:</h4>J. Percy Priest Lake is conveniently located about 10 miles east of downtown Nashville, offering visitors countless cultural activities and the conveniences of a metro area.",
+    "FacilityLatitude": 36.08888888888889,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "615-889-1975",
+    "FacilityDirections": "From downtown Nashville, TN, take I-40 east 5 miles to exit 219. Turn right on Stewarts Ferry Pike, then left on Smith Springs Road. The recreation area is on the left after about 2 miles.",
+    "FacilityName": "SMITH SPRINGS",
+    "LastUpdatedDate": "2015-03-12 02:20:23",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 71974,
+    "OrgFacilityID": "AN371974",
+    "FacilityID": 233106,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:33:20",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:36:40",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 26826,
+        "CampsiteName": "SS",
+        "Loop": "GROUP SITE",
+        "CampsiteAccessible": true,
+        "FacilityID": 233106,
+        "attributes": [
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          },
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "7:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031117,
+      "PostalCode": 37013,
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "3060 Smith Springs Road",
+      "City": "Antioch",
+      "FacilityID": 233106,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

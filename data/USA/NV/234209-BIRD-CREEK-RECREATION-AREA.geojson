@@ -1,0 +1,534 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.65305555555557,
+      39.46333333333334
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -114.65305555555557,
+    "FacilityDescription": "<h2>Overview</h2>Bird Creek Recreation Area is located in the Duck Creek Basin, high on the Schell Creek Range. It sits at an elevation of 8,200 feet, approximately 25 miles from the small city of Ely. Hiking and off-road vehicle riding are popular activities enjoyed by visitors to the area.<h4>Natural Features:</h4>Duck Creek flows perennially through the campground. A mixed forest of juniper, pinyon pine and alder trees covers the area, but provides only limited shade.<h4>Recreation:</h4>The Ranger Trail can be accessed from this campground. The Ranger Trail is a designated ATV trail that also accommodates hiking and mountain biking use as well. The partially paved, 38-mile Success Loop Scenic Drive is also in the area, with views of high desert and mountain terrain.<h4>Facilities:</h4>The campground has four day-use group picnicking sites: Sites C and F can accommodate up to 25 people each, Site G can hold up to 50 people, and Site H, up to 100 people. Some sites require a short walk from the parking area, on a bridge over Bird Creek. All sites have picnic and serving tables, a campfire circle, grill and a cement pad. <br /><br />Four overnight campsites are available within the recreation area, for tent camping only. Those sites can accommodate up 12 people each and are equipped with a table, campfire ring, grill and cement pad. <br /><br />Vault toilets and drinking water are provided, but there is no trash collection. This is a &quot;pack it in, pack it out&quot; facility.<h4>Nearby Attractions:</h4>Ward Charcoal Ovens State Park is a few miles southeast of Ely. Interesting historic stone ovens and an interpretive trail are available there. The Northern Nevada Railway in Ely has a museum and offers train rides.",
+    "FacilityLatitude": 39.46333333333334,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "775-289-3031",
+    "FacilityDirections": "From Ely, travel north on Highway 93 to the town of McGill. From McGill, go north 3 miles on Highway 93, to the Duck Creek Basin turnoff. Proceed east on Duck Creek Basin Road and turn left at the sign for Bird Creek Recreation Area.",
+    "FacilityName": "BIRD CREEK RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:37:34",
+    "LegacyFacilityID": 75052,
+    "OrgFacilityID": "AN375052",
+    "FacilityID": 234209,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 42058,
+        "CampsiteName": "B",
+        "Loop": "BIRD CREEK RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 42074,
+        "CampsiteName": "H",
+        "Loop": "Bird Creek Recreation Area ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 10,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 42261,
+        "CampsiteName": "A",
+        "Loop": "BIRD CREEK RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 42299,
+        "CampsiteName": "C",
+        "Loop": "Bird Creek Recreation Area ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 42365,
+        "CampsiteName": "F",
+        "Loop": "Bird Creek Recreation Area ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 42546,
+        "CampsiteName": "D",
+        "Loop": "BIRD CREEK RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "TENT ONLY NONELECTRIC",
+        "CampsiteID": 42640,
+        "CampsiteName": "E",
+        "Loop": "BIRD CREEK RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": 12,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Length"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Site Width"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:02:09",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:49:55",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 42793,
+        "CampsiteName": "G",
+        "Loop": "Bird Creek Recreation Area ",
+        "CampsiteAccessible": false,
+        "FacilityID": 234209,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Pull-Through",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032239,
+      "PostalCode": 89301,
+      "AddressStateCode": "NV",
+      "FacilityStreetAddress1": "825 AVENUE E",
+      "City": "ELY",
+      "FacilityID": 234209,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

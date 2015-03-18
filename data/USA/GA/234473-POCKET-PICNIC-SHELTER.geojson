@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.08111111111111,
+      34.58416666666667
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -85.08111111111111,
+    "FacilityDescription": "<h2>Overview</h2>Pocket Picnic Shelter is a popular location for large groups that want to enjoy a secluded area. The densely forested area was a Civilian Conservation Corps camp from 1938 to 1942. Some remains of the old camp are still visible in the area.<h4>Natural Features:</h4>The picnic shelter is located off the Ridge and Valley Scenic Byway. The area is named for its unique geology formed when water-soluble limestone was eroded over time, dropping the ground level. The surrounding ridges, which contain iron ore are filled with pockets.<h4>Recreation:</h4>Visitors enjoy the 3.5-mile Pocket Foot Trail that loops between the picnic area and a nearby campground. Interpretive signs are placed along the route, including a brief description of the area. It is a relatively wide path and a nice, easy walk.<h4>Facilities:</h4>The accessible picnic shelter is available for group use with a reservation. If the area is not reserved, it is available on a first-come, first-served basis. The facility can accommodate up to 75 people and 20 vehicles.<br><br>The site is equipped with tables and grills. Accessible vault toilets are also provided. Drinking water is available across the parking area, in the main picnic area.<h4>Nearby Attractions:</h4>The closest town is Dalton, Georgia, which is about 25 miles east of the picnic area. Dalton has numerous grocery stores, restaurants and gas stations available.",
+    "FacilityLatitude": 34.58416666666667,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "706-695-6736",
+    "FacilityDirections": "From I-75, take Exit 320 (LaFayette/Resaca) and head west on Georgia State Route 136 for approximately 14 miles. Turn left onto Pocket Road and continue approximately 7 miles. The recreation area is on the left. The second driveway leads to the picnic shelter.",
+    "FacilityName": "POCKET PICNIC SHELTER",
+    "LastUpdatedDate": "2015-03-12 02:42:19",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75353,
+    "OrgFacilityID": "AN375353",
+    "FacilityID": 234473,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:05:38",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:50:45",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 43442,
+        "CampsiteName": "G01",
+        "Loop": "PPS",
+        "CampsiteAccessible": true,
+        "FacilityID": 234473,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "5:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 22,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": 75,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 29,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032501,
+      "PostalCode": 30105,
+      "AddressStateCode": "GA",
+      "FacilityStreetAddress1": "6044 EVERETT SPRINGS ROAD",
+      "City": "ARMUCHEE",
+      "FacilityID": 234473,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

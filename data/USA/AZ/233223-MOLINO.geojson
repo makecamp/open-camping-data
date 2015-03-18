@@ -1,0 +1,139 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.69583333333334,
+      32.335
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -110.69583333333334,
+    "FacilityDescription": "<h2>Overview</h2>Visitors are drawn to Molino Campground for its group camping area, scenic mountain surroundings and hiking and mountain biking opportunities. While most other campgrounds in the Catalina Mountains are closed in winter, Molino Campground and its picnic area are open in late fall, winter and early spring. The pleasant winter weather at this elevation makes it a great time to visit.<br><br>Molino Basin is conveniently located 5.5 miles from the base of Mt. Lemmon on the Catalina Highway, and about 10 miles northeast of Tucson.<h4>Natural Features:</h4>Campsites sit amid a high desert oak scrub ecosystem at an elevation of 4,500 feet on the slopes of the Santa Catalina Mountains. Along the banks of Molino Creek, which flows during and immediately after rain or snowmelt, species such as cottonwood, Arizona live oak and mesquite provide a scenic setting. Views are dominated by rugged, rocky hills. Colorful wildflowers bloom in spring.<h4>Recreation:</h4>Hiking, mountain biking and horseback riding are popular activities. The Arizona Trail, which extends from Mexico to Utah, passes through the campground, and the Molino Trail leads to the Pusch Ridge Wilderness (hiking and horseback riding only). A variety of additional trails, including some on 9,157 Mt. Lemmon, are available in the area for those who wish to venture away from the campground for the day.<h4>Facilities:</h4>This facility has a few dozen individual campsites available on a first-come, first-served basis, along with a reservable group camping and picnic area. The group area is accessible with a paved walkway, and is equipped with a large picnic shelter covering several picnic tables, two serving tables, grills and food storage lockers for bear safety. Six cleared tent pads, as well as one accessible tent site, are adjacent to the picnic area. Most of the tent sites are open and sunny. RVs and trailers are permitted.<br><br>Visitors must bring their own drinking water; none is provided.<h4>Nearby Attractions:</h4>Catalina Highway (also known as General Hitchcock Highway and Sky Island Scenic Byway), the only paved road that leads to the upper reaches of Mt. Lemmon and the Santa Catalina Range, is one of the most scenic highways in the Southwest and definitely worth a day trip.<br><br>Other notable attractions include Saguaro National Park, Sabino Canyon, Colossal Cave and the city of Tucson.",
+    "FacilityLatitude": 32.335,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From Tucson, Arizona, take Catalina Highway off Tanque Verde Road in Tucson. Drive 4.2 miles northeast to the Coronado National Forest boundary and continue 5.7 miles to the campground. The campground is between mileposts 5 and 6. All campsites are adjacent to paved roads.",
+    "FacilityName": "MOLINO",
+    "LastUpdatedDate": "2015-03-12 02:22:00",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 72131,
+    "OrgFacilityID": "AN372131",
+    "FacilityID": 233223,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:52:45",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:30:51",
+        "CampsiteType": "GROUP STANDARD AREA NONELECTRIC",
+        "CampsiteID": 92350,
+        "CampsiteName": "Molino",
+        "Loop": "MOLINO",
+        "CampsiteAccessible": true,
+        "FacilityID": 233223,
+        "attributes": [
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Campfire Allowed"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "1:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Food Locker"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Lean To/Shelter"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 17,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Privacy"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Quiet Area"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Tent Pad"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031232,
+      "PostalCode": 85750,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "5700 N Sabino Canyon Rd",
+      "City": "Tucson",
+      "FacilityID": 233223,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

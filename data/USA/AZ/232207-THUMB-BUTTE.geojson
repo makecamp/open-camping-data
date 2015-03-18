@@ -1,0 +1,152 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.5213888888889,
+      34.55222222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -112.5213888888889,
+    "FacilityDescription": "<h2>Overview</h2>Thumb Butte Group Picnic Area is a convenient place for groups of up to 100 people to enjoy a day outdoors. The site is located under the towering pines of Prescott National Forest about 4 miles west of Prescott, and provides easy access to a variety of trails and amenities. It offers a year-round pavilion and a quiet, shaded setting for luncheons, church gatherings, family picnics and other large functions.<h4>Natural Features:</h4>The facility is set in a ponderosa pine forest at an elevation of 5,700 feet, at the base of the Thumb Butte rock formation and adjacent to Miller Creek. The forest is home to a wide variety of wildlife, including deer, mountain lions, bobcats, coyotes, foxes, rabbits, lizards, snakes and birds.<br /><br />Summer temperatures are pleasant, and winter is cool to cold with occasional snow. Afternoon thunderstorms are possible from late June through mid-September.<h4>Recreation:</h4>The Thumb Butte area is popular for hiking, mountain biking, rock climbing and horseback riding. Many trails can be found within a short walk or drive, including two that ascend Thumb Butte. Horseshoe pits are available at the picnic site; visitors interested in playing should bring their own horseshoes.<h4>Facilities:</h4>The picnic site is equipped with 12 picnic tables, 1 serving table, a covered picnic shelter, four charcoal grills and one campfire ring.  There is designated parking (gated area) for 26 standard size vehicles. Guests have the convenience of restrooms with flush toilets and drinking water.  The area is lighted after dark, and electric outlet(s) (20 amp maximum) are provided.<br /><br />Trash collection is limited and guests are encouraged to pack out their own trash.<h4>Nearby Attractions:</h4>Restaurants, shopping, historic sites and many amenities are nearby in the historic town of Prescott.",
+    "FacilityLatitude": 34.55222222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "928-443-8000",
+    "FacilityDirections": "From Prescott, Arizona, go west on Gurley Street, which becomes Thumb Butte Road, and travel 2.2 miles to the picnic area entrance.",
+    "FacilityName": "THUMB BUTTE",
+    "LastUpdatedDate": "2015-03-12 02:06:13",
+    "LegacyFacilityID": 70483,
+    "OrgFacilityID": "AN370483",
+    "FacilityID": 232207,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:36:37",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 54078,
+        "CampsiteName": "B",
+        "Loop": "BDAY",
+        "CampsiteAccessible": false,
+        "FacilityID": 232207,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Driveway Length"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 3,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "7:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 04:36:37",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:59:55",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 54855,
+        "CampsiteName": "A",
+        "Loop": "THUM",
+        "CampsiteAccessible": true,
+        "FacilityID": 232207,
+        "attributes": [
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Fire Pit"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Grills/Fire Ring"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 26,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Driveway Length"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030225,
+      "PostalCode": 86303,
+      "AddressStateCode": "AZ",
+      "FacilityStreetAddress1": "344 South Cortez Street ",
+      "City": " Prescott",
+      "FacilityID": 232207,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

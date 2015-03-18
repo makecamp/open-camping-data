@@ -1,0 +1,81 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.71638888888889,
+      34.219722222222224
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -116.71638888888889,
+    "FacilityDescription": "<h2>Overview</h2>Juniper Springs Group Campground is a primitive facility located about 10 miles from Big Bear Lake, a scenic, year-round recreation destination. The camp offers a great location from which to explore the mountains of Southern California.<h4>Natural Features:</h4>The campground is located in the San Bernardino Mountains at an elevation of 7,739 feet, where ponderosa pines dot the site. A pinyon pine and juniper woodland and meadow surround the area and a small pond is on-site.<h4>Recreation:</h4>Visitors enjoy hiking and mountain biking from a variety of trailheads that can be accessed near the campground. Off-road vehicle use is popular as well. Nearby Cactus Flats contains approximately 68 miles of off-road vehicle trails. A picnic area is also available at Cactus Flats.<br /><br />Fishing and boating are popular activities at nearby Big Bear Lake. Anglers can look forward to a catch of trout, bluegill, crappie, catfish and largemouth bass, among other species. Because of the very cold water and the presence of underwater obstacles near the shorelines, swimming at the lake is discouraged.<h4>Facilities:</h4>The campground offers a large group site for tent or RV camping. It can accommodate up to 40 people and eight vehicles. Standard SUVs or vehicles with four-wheel drive and/or higher clearance are required to access the campground.<br /><br />The site is equipped with picnic tables and a campfire circle. A large grill is also available. Vault toilets and non-potable water are provided. Trash collection and drinking water are not available.<h4>Nearby Attractions:</h4>A grocery store, general store and restaurants can be found 11 miles away in Big Bear Lake. Showers are available at Serrano Campground, 15 miles from Juniper Springs. San Bernardino is about 50 miles away.",
+    "FacilityLatitude": 34.219722222222224,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "909-866-8550",
+    "FacilityDirections": "From San Bernardino, merge onto I-10 and travel east toward Redlands/Indio, about 8 miles. Exit at University Street and turn left. Turn right onto Lugonia Avenue and continue to Mentone Boulevard. Continue onto Highway 38 and drive about 35 miles. Turn right onto Forest Route 2N01 and travel about 2.5 miles. Turn right onto Forest Route 2N64Y and continue less than a mile to the campground. The dirt road prevents low-clearance vehicles from accessing the campground.",
+    "FacilityName": "JUNIPER SPRINGS GROUP CAMP",
+    "LastUpdatedDate": "2015-03-12 02:02:13",
+    "LegacyFacilityID": 70177,
+    "OrgFacilityID": "AN370177",
+    "FacilityID": 231972,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:38:08",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:07:09",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 63367,
+        "CampsiteName": 1,
+        "Loop": "JUNI",
+        "CampsiteAccessible": false,
+        "FacilityID": 231972,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 40,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 8,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029990,
+      "AddressStateCode": "CA",
+      "FacilityStreetAddress1": "SAN BERNARDINO",
+      "FacilityID": 231972,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

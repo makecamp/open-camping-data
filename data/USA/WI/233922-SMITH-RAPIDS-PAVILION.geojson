@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.1738888888889,
+      45.91027777777778
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -90.1738888888889,
+    "FacilityDescription": "<h2>Overview</h2>Smith Rapids Pavilion is day-use picnicking area contained within Smith Rapids Campground. Both accommodate equestrians and are situated near a variety of scenic spots in the Chequamegon-Nicolet National Forest in northern Wisconsin. The pavilion is popular for its access to miles of horseback riding trails.<h4>Natural Features:</h4>At an elevation of about 1,500 feet, the pavilion provides a shaded picnic site. Smith Rapids is located on the South Fork of the Flambeau River, with a scenic view of Smith Rapids Covered Bridge. Constructed in 1991, the bridge is the only glue-laminated town lattice covered bridge in Wisconsin.<h4>Recreation:</h4>Smiths Rapids is specifically tailored to accommodate horseback riders, providing direct access to the 18.5-mile Smith River Saddle Equestrian Trail. The trails in the area are very rugged and have a limited maintenance schedule, but remain popular with equestrian riders and campers alike.<br /><br />The fast-flowing South Fork of the Flambeau River is popular among canoeists. A carry-down boat ramp is available at the campground. The river is populated with a variety of trout.<br /><br />The campground also provides access to the 60-mile Flambeau Trail System, open to off-road vehicles, hiking and mountain biking. The trail is highlighted by rolling terrain, tree-lined corridors, wooden bridges and vistas overlooking various bogs and lakes. It is a popular snowmobiling location during winter months.<h4>Facilities:</h4>The accessible pavilion is a day-use picnic area for groups of up to 30 people. No overnight camping is available at the pavilion. Picnic tables, grills and campfire rings are provided, as are vault toilets and drinking water.<h4>Nearby Attractions:</h4>Park Falls, Wisconsin is approximately 17 miles from the campground and is a full service community.",
+    "FacilityLatitude": 45.91027777777778,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "From the intersection of Highways 13 and Highway 70 in Fifield, drive about 12 miles east on Highway 70 to Forest Service Road 148. Turn left (north) and continue just over a mile on Forest Service Road 148, to the Smith Rapids Campground entrance.",
+    "FacilityName": "SMITH RAPIDS PAVILION",
+    "LastUpdatedDate": "2015-03-12 02:32:49",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 73855,
+    "OrgFacilityID": "AN373855",
+    "FacilityID": 233922,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:19:37",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:29:11",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 17687,
+        "CampsiteName": 1,
+        "Loop": "SMITH RAPIDS PAVILION ",
+        "CampsiteAccessible": true,
+        "FacilityID": 233922,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 30,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031943,
+      "PostalCode": 54552,
+      "AddressStateCode": "WI",
+      "FacilityStreetAddress1": "1170 4TH AVE. SOUTH",
+      "City": "PARK FALLS",
+      "FacilityID": 233922,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

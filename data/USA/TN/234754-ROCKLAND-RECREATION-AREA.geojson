@@ -1,0 +1,477 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.65138888888889,
+      36.29861111111111
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -86.65138888888889,
+    "FacilityDescription": "<h2>Overview</h2>Rockland Recreation Area is located on the shore of Old Hickory Lake in Hendersonville, Tennessee. Old Hickory Lake was created by the Army Corps of Engineers on the Cumberland River.  The lake is named after former president Andrew Jackson, nicknamed for his tough and aggressive personality.<h4>Natural Features:</h4>Set in a moderately wooded area, Rockland Recreation Area is host to numerous wetland species that occupy the wooded areas along the nature trails within the area.  Migratory birds visit the area during the winter months as well as year-round forest birds.<h4>Recreation:</h4>Visitors enjoy a vast array of recreational opportunities at Old Hickory including waterskiing, fishing, boating, swimming and hiking.  The area provides excellent fishing for several species including bass, crappie, walleye, sauger and catfish.  There are boat ramps located at Black Jack Cove, Creekwood Marina, Drakes Creek Marina and Shady Cove Marina. <h4>Facilities:</h4>Rockland Recreation Area contains five group shelters and one gazebo. All shelters are covered and readily equipped with tables and grills. Many of the visitors to the shelters find the ease of bank fishing popular within the Rockland Recreation Area. <h4>Nearby Attractions:</h4>Nashville, Tennessee, is located within a 20 to 25 minutes&rsquo; drive from Rockland Recreation Area. The Old Hickory Lake Resource Managers Office and Visitor Center are located directly within the Rockland Recreation Area.  A trip to the Visitor Center is an excellent way to learn more about the history, navigational facilities and other programs at Old Hickory Lake.  There are numerous stores with amenities within the Old Hickory Lake area.",
+    "FacilityLatitude": 36.29861111111111,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "615-822-4846",
+    "FacilityDirections": "North of Nashville, TN, on I-65 exit onto Vietnam Veterans Blvd E, take exit 3 toward Hendersonville. Turn right onto Rockland Road then right on Power Plant Road. Follow signs into Rockland Recreation Area.",
+    "FacilityName": "ROCKLAND RECREATION AREA",
+    "LastUpdatedDate": "2015-03-12 02:47:02",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 110433,
+    "OrgFacilityID": "AN410433",
+    "FacilityID": 234754,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 91110,
+        "CampsiteName": "Shelter 4",
+        "Loop": "ROCKLAND RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234754,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 91423,
+        "CampsiteName": "Gazebo",
+        "Loop": "ROCKLAND RECREATION AREA",
+        "CampsiteAccessible": false,
+        "FacilityID": 234754,
+        "attributes": [
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 6,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 2,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 91613,
+        "CampsiteName": "Shelter 2B",
+        "Loop": "ROCKLAND RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234754,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 160,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 91702,
+        "CampsiteName": "Shelter 1",
+        "Loop": "ROCKLAND RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234754,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 91870,
+        "CampsiteName": "Shelter 3",
+        "Loop": "ROCKLAND RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234754,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Good",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Standard",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-05 04:44:34",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 18:29:54",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 91977,
+        "CampsiteName": "Shelter 2A",
+        "Loop": "ROCKLAND RECREATION AREA",
+        "CampsiteAccessible": true,
+        "FacilityID": 234754,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Location Rating"
+          },
+          {
+            "AttributeValue": 160,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of Vehicles"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Picnic Table"
+          },
+          {
+            "AttributeValue": "Lakefront",
+            "AttributeName": "Proximity to Water"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Drive-In",
+            "AttributeName": "Site Access"
+          },
+          {
+            "AttributeValue": "Prime",
+            "AttributeName": "Site Rating"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "BBQ"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032800,
+      "PostalCode": 37075,
+      "AddressStateCode": "TN",
+      "FacilityStreetAddress1": "5 Power Plant Road",
+      "City": "Hendersonville",
+      "FacilityID": 234754,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

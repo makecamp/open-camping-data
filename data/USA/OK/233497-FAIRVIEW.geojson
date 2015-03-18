@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.59916666666666,
+      36.144999999999996
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -98.59916666666666,
+    "FacilityDescription": "<h2>Overview</h2>Fairview Campground is located at Canton Lake in northwest Oklahoma on the North Canadian River, 11 miles from the town of Canton. <br><br>Canton Lake hosts a large number of campers, picnickers, boaters, fishermen, and hunters every year, as one of the few places in western Oklahoma to offer all of these activities.  <h4>Natural Features:</h4>The shores of Canton Lake and the North Canadian River are covered with eastern cottonwood, post and blackjack oak, black willow, buttonbush and roughleaf dogwood. <h4>Recreation:</h4>Canton Lake is known for its fishing opportunities, especially walleye fishing. The Walleye Rodeo fishing derby is held annually in May and draws thousands of visitors to the area.<br><br>The lakes gently sloping sandy beaches are inviting for swimmers and sunbathers. Water skiing is popular on the broad expanse of water paralleling the dam where winds are subdued. <h4>Facilities:</h4>Fairview is a group campsite thats a popular destination for family reunions and scout campouts. It can accommodate up to 100 people, four RVs and several tents. Amenities include a large picnic shelter, pit toilets and drinking water.<h4>Nearby Attractions:</h4>A major attraction for hunters is the 14,877-acre Canton Wildlife Management Area. This year-round park is home to bobwhite quail, deer, squirrel, wild turkey, dove and waterfowl.",
+    "FacilityLatitude": 36.144999999999996,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "580-886-3454",
+    "FacilityDirections": "From Canton, OK: Go .5 miles west on HWY 51, turn north HWY 58A. Go 2 miles taking the left fork at the Y and continue for 0.2 miles, then turn right. Follow signs to the Canadian Campground entrance. <br><br>After getting the key, return to the Y intersection and go north across the dam on HWY 58A. Where the road forks, continue to the right on 58A until it intersects with HWY 58. Turn left on HWY 58 to Longdale. Continue 1 mile north, turning west on the secondary road. Continue west for 3 miles to the campground.",
+    "FacilityName": "FAIRVIEW",
+    "LastUpdatedDate": "2015-03-12 02:26:37",
+    "LegacyFacilityID": 73183,
+    "OrgFacilityID": "AN373183",
+    "FacilityID": 233497,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:40:01",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 18:01:31",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 56523,
+        "CampsiteName": "GRS",
+        "Loop": "FGRO",
+        "CampsiteAccessible": false,
+        "FacilityID": 233497,
+        "attributes": [
+          {
+            "AttributeValue": "6:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "4:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 100,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031520,
+      "PostalCode": "73724-9512",
+      "AddressStateCode": "OK",
+      "FacilityStreetAddress1": "HC65 BOX120",
+      "City": "CANTON",
+      "FacilityID": 233497,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

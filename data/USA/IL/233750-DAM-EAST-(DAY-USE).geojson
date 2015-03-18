@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.77277777777778,
+      39.407222222222224
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -88.77277777777778,
+    "FacilityDescription": "<h2>Overview</h2>Dam East Day Use Area sits above the shore of Lake Shelbyville in the heart of central Illinois. <br /><br />The lake and surrounding land offer outdoor activities for people of all ages, including fishing, picnicking and simply relaxing by the water.<h4>Natural Features:</h4>This facility sits above the lake with a steep descent to the shoreline. Oak and hickory trees dominate the landscape. <br /><br />Foliage turns a variety of red, orange, purple and yellow each fall, while prairie flowers dot the landscape in spring and summer. <br /><br />Numerous species of songbirds, shorebirds, waterfowl and raptors inhabit the lake area, as do mammals such as cottontail rabbit, white-tail deer, gray and fox squirrel, muskrat and mink.<h4>Recreation:</h4>With a playground, volleyball court and horseshoe pit, Dam East Day Use is a fun place for families to relax along the lake. <br /><br />Within a short drive, Lake Shelbyville offers a multitude of fishing opportunities for catfish, crappie, largemouth bass, muskie, walleye, white bass and bluegill. For those without a boat, several ponds with farmed fish are available around the lake. <br /><br />Nearby hunting areas offer numerous game species, including quail, rabbit, pheasant, deer, dove, turkey, waterfowl and woodcock.<h4>Facilities:</h4>This facility offers one reservable group picnic shelter that can accommodate up to 50 people. Six picnic tables, a large grill, flush toilets and electric hookups are provided.<h4>Nearby Attractions:</h4>Wolf Creek State Park, Woods Lake Waterfowl Refuge and Okaw Bluff Wetlands Complex are popular locations for wildlife watching, birding and hunting near Lake Shelbyville.",
+    "FacilityLatitude": 39.407222222222224,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "217-774-3951",
+    "FacilityDirections": "From Shelbyville, Illinois, take State Route 16 east. Turn left after the dam, following signs for the facility.",
+    "FacilityName": "DAM EAST (DAY USE)",
+    "LastUpdatedDate": "2015-03-12 02:30:29",
+    "LegacyFacilityID": 73605,
+    "OrgFacilityID": "AN373605",
+    "FacilityID": 233750,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:07:19",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:45:46",
+        "CampsiteType": "GROUP PICNIC AREA",
+        "CampsiteID": 37400,
+        "CampsiteName": "PS1",
+        "Loop": "DAM EAST",
+        "CampsiteAccessible": false,
+        "FacilityID": 233750,
+        "attributes": [
+          {
+            "AttributeValue": "8:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": 20,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 25,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8031771,
+      "PostalCode": 62565,
+      "AddressStateCode": "IL",
+      "FacilityStreetAddress1": "1989 State Hwy 16",
+      "City": "SHELBYVILLE",
+      "FacilityID": 233750,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

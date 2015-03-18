@@ -1,0 +1,213 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.77805555555555,
+      37.606944444444444
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -81.77805555555555,
+    "FacilityDescription": "<h2>Overview</h2>Choose from three day-use picnic shelters at R.D. Bailey Lake, a scenic reservoir with views of the surrounding tree-topped mountains.<h4>Natural Features:</h4>R. D. Bailey Lake Group Shelters are on the Guyandotte River in West Virginia, about three miles east of the town of Justice. <br><br>The R. D. Bailey Dam reaches 310 feet high, and the lakes surface area in summer is 630 acres. The region of the Appalachian Mountains boasts an abundance of oak, hickory and beech trees.  <h4>Recreation:</h4>The lake is best known for boating and fishing for largemouth, smallmouth, striped bass and channel catfish. <br><br>Hunting enthusiasts can hunt small game such as rabbits and turkey in-season. <br><br>Head to the Visitor Center for interesting exhibits, educational programs and tours of the dam and intake structure. Theres also an impressive observation deck with viewing telescopes.<h4>Facilities:</h4>Each shelter has a playground, flush toilets, drinking water and plenty of grassy space for sports. All three are near excellent shore fishing areas as well. <br><br>Big Branch Shelter<br><br>Big Branch is close to the headwaters of the lake. It has the most space of the three shelters, with substantial room for extra cars and enough tables to seat 100 guests. Horseshoe pits, basketball and volleyball courts, and the largest, newest playground can be found here. The site is equipped with two grills and electric hookups.  <br><br>Guyandotte Point Day Use Shelter<br><br>Guyandotte Point sits at the lakes headwaters, just a quarter mile past the Big Branch Recreation Area. This is the best location for those who plan to go boating, as its the only location with a boat ramp. Electric hookups and a large charcoal grill are onsite. <br><br>Visitor Center Day Use Shelter <br><br>The Visitor Center Shelter is nearly 400 feet above the dam, offering spectacular views of the glistening lake. The shelter is, as named, right by the Visitor Center, which is worth a visit. Its also at the trailhead of two popular hiking trails and the Below Dam Fishermans Access. Horseshoe pits are by the shelter. No electric hookups are available.  <h4>Nearby Attractions:</h4>Explore West Virginias heritage at a living history pioneer farm in Twin Falls. Or traverse the beautiful Castle Rock Trail, great for hiking, mountain biking, horseback riding and ATVs.",
+    "FacilityLatitude": 37.606944444444444,
+    "FacilityTypeDescription": "Camping",
+    "FacilityDirections": "<p>Big Branch</p><p>From Charleston: Take U.S. Route 119 south to Logan, then take stateRoute10, then State Route 80 to Gilbert.  Turn left at the 3-way stop inGilbert onto U.S. Route 52 South and travel approximately seven miles andturn left onto State Route 97.  Travel Approximately two miles and turnleft onto Coal Mountain Road(6/2).  Take the Second Left to get toGuyandotte Point.</p><p>Guyandotte Point</p><p>From Charleston: Take U.S. Route 119 south to Logan, then take stateRoute10, then State Route 80 to Gilbert.  Turn left at the 3-way stop inGilbert onto U.S. Route 52 South and travel approximately seven miles andturn left onto State Route 97.  Travel Approximately two miles and turnleft onto Coal Mountain Road(6/2).  Take the Second Left to get toGuyandotte Point.</p><p>Visitor Shelter</p><p>From Charleston to the Visitor Shelter: Take U.S. Route 119 south toLogan, then take State Route 10 passing through Man to State Route 80 inGilbert.  Turn left at the 3-way stop onto U.S. Route 52 and travelapproximately five miles.  Take the second R.D. Bailey entrance to theleft, and drive 1.1 miles to the Visitor Center Area. </p>",
+    "FacilityName": "R.D. BAILEY LAKE GROUP SHELTERS",
+    "LastUpdatedDate": "2015-03-12 02:38:23",
+    "FacilityADAAccess": true,
+    "LegacyFacilityID": 75068,
+    "OrgFacilityID": "AN375068",
+    "FacilityID": 234220,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 03:23:03",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:27:35",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 15121,
+        "CampsiteName": 1,
+        "Loop": "RDB1",
+        "CampsiteAccessible": true,
+        "FacilityID": 234220,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:23:03",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:27:35",
+        "CampsiteType": "GROUP SHELTER NONELECTRIC",
+        "CampsiteID": 15122,
+        "CampsiteName": 3,
+        "Loop": "RDB3",
+        "CampsiteAccessible": true,
+        "FacilityID": 234220,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "8:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 35,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      },
+      {
+        "LastUpdatedDate": "2015-03-12 03:23:03",
+        "TypeOfUse": "Day",
+        "CreatedDate": "2014-05-02 17:27:35",
+        "CampsiteType": "GROUP SHELTER ELECTRIC",
+        "CampsiteID": 15123,
+        "CampsiteName": 2,
+        "Loop": "RDB2",
+        "CampsiteAccessible": true,
+        "FacilityID": 234220,
+        "attributes": [
+          {
+            "AttributeValue": "9:00 AM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "10:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Back-In",
+            "AttributeName": "Driveway Entry"
+          },
+          {
+            "AttributeValue": "Paved",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Electricity Hookup"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Full",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Y",
+            "AttributeName": "Water Hookup"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8032250,
+      "PostalCode": 24851,
+      "AddressStateCode": "WV",
+      "FacilityStreetAddress1": "P.O. BOX DRAWER 70",
+      "City": "JUSTICE",
+      "FacilityID": 234220,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

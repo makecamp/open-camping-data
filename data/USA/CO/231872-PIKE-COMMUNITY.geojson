@@ -1,0 +1,83 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.09222222222222,
+      39.06472222222222
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.09222222222222,
+    "FacilityDescription": "<h2>Overview</h2>Pike Community is a group campground located about 6 miles north of Woodland Park in central Colorado. It is a popular choice for of all ages, complete with a baseball field, playground, sand volleyball court and a horseshoe pit. Campers enjoy nearby access to hiking and biking trails.<h4>Natural Features:</h4>Located within a ponderosa pine forest, the campground is nestled in a ponderosa pine forest at an elevation of 7,700 feet. <h4>Recreation:</h4>Plenty of on-site fun presents itself with activities like baseball, horseshoes and volleyball. Campers must bring their own sports equipment.<br /><br />The nearby Centennial Trail is a paved, accessible recreation trail that connects Pike Community Campground to Manitou Lake as well as Colorado and South Meadows Campgrounds. The trail is popular among hikers, roller bladers and bicyclists. Rainbow Falls OHV Trail System and North Divide OHV Trail System are recommended for off-road vehicle enthusiasts.<br /><br />Manitou Lake offers trout fishing and canoeing on the small, 5-acre lake.<h4>Facilities:</h4>Pike Community offers one large group site that can accommodate up to150 people and 48 vehicles. The site is equipped with picnic and serving tables, grills and a campfire circle. Vault toilets, drinking water and trash collection are provided. A host is located across the road at South Meadows Campground. <h4>Nearby Attractions:</h4>The town of Woodland Park is located approximately 6 miles south of Pike Community Campground, where campers can find gas, groceries, dining and shopping. <br /><br />Colorado Springs is about 25 miles southeast of the campground and offers many services. Garden of the Gods is a popular attraction just outside of town. This free park offers hiking trails, rock climbing routes, a visitor center and cafe.<br /><br />Pikes Peak lies west of Manitou Springs, which is about 20 miles from the campground. Visitors can hike, drive or ride a historic cog railway to the summit of this beautiful mountain.",
+    "FacilityLatitude": 39.06472222222222,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "719-636-1602",
+    "FacilityDirections": "From the I-25 and Highway 24 intersection in Colorado Springs, Colorado, travel west on Highway 24 for about 18 miles to the junction with Highway 67 in Woodland Park. Turn right (north) on Highway 67 and drive 5.7 miles. The campground is on the right side of the road across from South Meadows Campground.",
+    "FacilityName": "PIKE COMMUNITY",
+    "LastUpdatedDate": "2015-03-12 02:00:10",
+    "LegacyFacilityID": 70048,
+    "OrgFacilityID": "AN370048",
+    "FacilityID": 231872,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:24:36",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:57:27",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 51567,
+        "CampsiteName": 1,
+        "Loop": "PIKE",
+        "CampsiteAccessible": false,
+        "FacilityID": 231872,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "12:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 150,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 48,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Domestic",
+            "AttributeName": "Pets Allowed"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8029890,
+      "PostalCode": 80903,
+      "AddressStateCode": "CO",
+      "FacilityStreetAddress1": "CO HIGHWAY 67",
+      "City": "WOODLAND PARK",
+      "FacilityID": 231872,
+      "AddressCountryCode": "USA"
+    }
+  }
+}

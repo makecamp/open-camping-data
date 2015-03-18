@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.42500000000001,
+      41.25
+    ]
+  },
+  "properties": {
+    "FacilityLongitude": -105.42500000000001,
+    "FacilityDescription": "<h2>Overview</h2>Pole Creek Group Campground is set amidst the pine forests and grasslands of southeastern Wyoming at an elevation of 7,800 feet. The site can accommodate up to 50 guests and offers access to mountain biking, hiking, horseback riding and fishing.<h4>Natural Features:</h4>The Medicine Bow-Routt National Forests and Thunder Basin National Grassland encompass nearly 3 million acres from central and northeastern Wyoming to north-central Colorado.<br /><br />Lodgepole pine, aspen, fir, spruce and shrubs dominate the landscape of the national forests. The Grassland boasts numerous species of grasses and wildflowers that add color to the landscape during warmer months.<br /><br />Black bear, bobcat, coyote, elk, mule deer and moose are just some of the many animals that inhabit these rich and diverse lands.<h4>Recreation:</h4>Campers have access to a mountain biking, hiking and equestrian trail that leads to nice views of the surrounding scenery. The campground is also near the banks of the creek, which offers fishing.<h4>Facilities:</h4>The facility is spaced into six group sites and can fit up to 50 people total. There are flush toilets, as well as a nearby trailhead and horse corrals.<h4>Nearby Attractions:</h4>Countless outdoor opportunities exist in the surrounding national forests and grasslands, including hiking, biking, camping, horseback and off-road vehicle riding, fishing, hunting, sightseeing and winter sports.",
+    "FacilityLatitude": 41.25,
+    "FacilityTypeDescription": "Camping",
+    "FacilityPhone": "307-745-2300",
+    "FacilityDirections": "From Laramie, Wyoming, take I-80 east to exit 323. Turn left on Happy Jack Road, then left again to stay on Happy Jack. Continue for approximately 2 miles and turn right onto Forest Road 719. At the fork, bear left and proceed into the campground.",
+    "FacilityName": "POLE CREEK CAMPGROUND",
+    "LastUpdatedDate": "2015-03-12 02:09:23",
+    "LegacyFacilityID": 70836,
+    "OrgFacilityID": "AN370836",
+    "FacilityID": 232426,
+    "campsites": [
+      {
+        "LastUpdatedDate": "2015-03-12 04:07:19",
+        "TypeOfUse": "Overnight",
+        "CreatedDate": "2014-05-02 17:51:34",
+        "CampsiteType": "GROUP STANDARD NONELECTRIC",
+        "CampsiteID": 44033,
+        "CampsiteName": 1,
+        "Loop": "POLE",
+        "CampsiteAccessible": false,
+        "FacilityID": 232426,
+        "attributes": [
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkin Time"
+          },
+          {
+            "AttributeValue": "2:00 PM",
+            "AttributeName": "Checkout Time"
+          },
+          {
+            "AttributeValue": "Basic",
+            "AttributeName": "Condition Rating"
+          },
+          {
+            "AttributeValue": "Gravel",
+            "AttributeName": "Driveway Surface"
+          },
+          {
+            "AttributeValue": 50,
+            "AttributeName": "Max Num of People"
+          },
+          {
+            "AttributeValue": 15,
+            "AttributeName": "Max Num of Vehicles"
+          },
+          {
+            "AttributeValue": 1,
+            "AttributeName": "Min Num of People"
+          },
+          {
+            "AttributeValue": "Partial",
+            "AttributeName": "Shade"
+          },
+          {
+            "AttributeValue": "Site-Specific",
+            "AttributeName": "Site Reserve Type"
+          },
+          {
+            "AttributeValue": "Single",
+            "AttributeName": "Capacity/Size Rating"
+          }
+        ]
+      }
+    ],
+    "address": {
+      "FacilityAddressID": 8030444,
+      "PostalCode": 82070,
+      "AddressStateCode": "WY",
+      "FacilityStreetAddress1": "MEDICINE BOW-ROUTT NF",
+      "City": "LARAMIE RANGER DIST.",
+      "FacilityID": 232426,
+      "AddressCountryCode": "USA"
+    }
+  }
+}
